@@ -1,0 +1,28 @@
+# Global Caribbeans — robots.txt
+
+# Allow all crawlers by default
+User-agent: *
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Google AI (Gemini training + AI Overviews)
+User-agent: Google-Extended
+Allow: /
+
+# Common Crawl — used to train most major AI models
+User-agent: CCBot
+Allow: /
+
+# Sitemap
+Sitemap: https://globalcaribbeans.com/sitemap.xml
