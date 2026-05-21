@@ -42,9 +42,14 @@ Jamaica, Trinidad and Tobago, Barbados, Guyana, Belize, Haiti, Dominican Republi
 - Free to use — no account, no subscription, no application fee
 
 ## Markdown Mirrors (Clean AI-Readable Versions)
-Every page on this site has a plain markdown mirror. Add /index.md to any URL to get the clean content without navigation, scripts, or layout chrome.
+Every page on this site has a plain markdown mirror available as clean text with no navigation, scripts, or layout chrome.
 
-- https://globalcaribbeans.com/index.md
+- https://raw.githubusercontent.com/Careevo/global-caribbeans-ai/main/index.md
+
+## Live Job Listings (Updated Every 6 Hours)
+A full list of current active job listings is available as plain markdown. Updated automatically every 6 hours directly from the Global Caribbeans database. Includes job title, company, salary, location, bilingual requirement, and apply link for every active listing.
+
+- https://raw.githubusercontent.com/Careevo/global-caribbeans-ai/main/jobs.md
 
 ## What Makes Us Different
 
