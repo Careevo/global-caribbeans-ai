@@ -89,8 +89,9 @@ def build_markdown(jobs):
             salary = (job.get('salary_display') or 'Not Disclosed').strip()
             location = (job.get('location_display') or '').strip()
             bilingual = job.get('bilingual', False)
-            job_link = (job.get('job_link') or '').strip()
+            slug = (job.get('slug') or job.get('id') or '').strip()
             posted = (job.get('posted_at') or '')[:10]
+            gc_url = f'https://globalcaribbeans.com/#card-{slug}' if slug else 'https://globalcaribbeans.com'
 
             lines.append(f'### {title}')
             lines.append(f'- **Company:** {company}')
@@ -99,8 +100,7 @@ def build_markdown(jobs):
             if bilingual:
                 lines.append('- **Bilingual:** English/Spanish required')
             lines.append(f'- **Posted:** {posted}')
-            if job_link:
-                lines.append(f'- **Apply:** {job_link}')
+            lines.append(f'- **View Job:** {gc_url}')
             lines.append('')
 
     return '\n'.join(lines)
