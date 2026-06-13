@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-13T09:23:20Z
+last_updated: 2026-06-13T14:09:56Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1378 active remote jobs** as of 2026-06-13.
+**1385 active remote jobs** as of 2026-06-13.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (68 open roles)
+## Accounting/Bookkeeping (69 open roles)
+
+### Financial Analyst | 100% Remote | Work from Home
+- **Company:** Salas Staffing
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-financial-analyst-100-remote-work-from-home-salas-staffing
 
 ### Bookkeeper
 - **Company:** Virtustant
@@ -493,6 +500,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Admin (52 open roles)
 
+### Reservations Coordinator
+- **Company:** Globaltize
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-reservations-coordinator-globaltize
+
 ### Administrative Assistant
 - **Company:** Virtustant
 - **Salary:** Not Disclosed
@@ -857,14 +872,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-remote-self-storage-marketing-leasing-virtual-assistant-hirelatam
 
-### Remote PR Comms Associate
-- **Company:** HireLatam
-- **Salary:** $6,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-remote-pr-comms-associate-hirelatam
+## Customer support (56 open roles)
 
-## Customer support (55 open roles)
+### Sales & Customer Success Specialist
+- **Company:** Hire With Near
+- **Salary:** $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-sales-customer-success-specialist-hire-with-near
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -1257,7 +1272,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-property-and-casualty-insurance-near
 
-## Data/Analytics (65 open roles)
+## Data/Analytics (66 open roles)
+
+### Senior Manager, Analytics & Insights
+- **Company:** Grafana Labs
+- **Salary:** $202,244 – $202,244 / year
+- **Location:** Americas
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-senior-manager-analytics-insights-grafana-labs
 
 ### Senior FP&A Analyst
 - **Company:** Sagan Recruitment
@@ -2577,7 +2599,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-remote-performance-designer-marketing-conversion-focus-hirelatam
 
-## Operations (186 open roles)
+## Operations (184 open roles)
 
 ### Production and Supply Chain Specialist
 - **Company:** LaTeam Partners
@@ -3873,23 +3895,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-property-management-assistant-near
 
-### AML Senior Analyst
-- **Company:** Remote.com
-- **Salary:** €77,700 – €87,400 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-aml-senior-analyst-remote-com
+## Other (430 open roles)
 
-### Senior Lifecycle Specialist, Contract Management
-- **Company:** Remote.com
-- **Salary:** $37,250 – $94,250 / year
+### Customer Success Representative
+- **Company:** Globaltize
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-senior-lifecycle-specialist-contract-management-remote-com
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-representative-globaltize
 
-## Other (425 open roles)
+### Geospatial Data Specialist | $70/hr Remote
+- **Company:** Crossing Hurdles
+- **Salary:** $20 – $70 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-geospatial-data-specialist-70-hr-remote-crossing-hurdles
+
+### Financial Assistant
+- **Company:** WorkBetterNow
+- **Salary:** $1,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-financial-assistant-workbetternow
+
+### TikTok Shop Support
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-tiktok-shop-support-talentpop-app
+
+### Social Media & Influencer Coordinator
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-social-media-influencer-coordinator-talentpop-app-2
 
 ### Trainer
 - **Company:** Viva Talent
@@ -7270,7 +7311,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-marketing-project-manager-scale-army-scale-army
 
-## Recruiting (26 open roles)
+## Recruiting (25 open roles)
 
 ### Talent Acquisition Specialist (IT Recruitment)
 - **Company:** Jalasoft
@@ -7299,13 +7340,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-coordinator-classdojo
-
-### Associate Recruiter
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-associate-recruiter-micro1-2
 
 ### Lead Generation Specialist (Recruitment)
 - **Company:** AGENTIFY
@@ -8274,7 +8308,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-inbound-account-executive-near
 
-## Software Development (208 open roles)
+## Software Development (210 open roles)
+
+### Senior Data Scientist
+- **Company:** Lemon.io
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-scientist-lemon-io
+
+### Senior Competitive Benchmarking Engineer - Product Marketing
+- **Company:** Elastic
+- **Salary:** $113,100 – $178,900 / year
+- **Location:** Americas
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-senior-competitive-benchmarking-engineer-product-marketing-elastic
+
+### Quality Assurance Engineer
+- **Company:** Pavago
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-quality-assurance-engineer-pavago
 
 ### Solutions Architect - LangFuse EMEA
 - **Company:** ClickHouse
@@ -9725,10 +9780,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-talent-network-senior-fullstack-engineer-new-business-toptal
-
-### Software engineer
-- **Company:** Sticker Mule
-- **Salary:** $150,000 – $250,000 / year
-- **Location:** Global
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-sticker-mule
