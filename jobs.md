@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-13T04:14:24Z
+last_updated: 2026-06-13T09:23:20Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1374 active remote jobs** as of 2026-06-13.
+**1378 active remote jobs** as of 2026-06-13.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -491,7 +491,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-accounts-receivable-specialist-near
 
-## Admin (53 open roles)
+## Admin (52 open roles)
 
 ### Administrative Assistant
 - **Company:** Virtustant
@@ -863,13 +863,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-remote-pr-comms-associate-hirelatam
-
-### Administrative Assistant
-- **Company:** Sagan Recruitment
-- **Salary:** $1,600 – $2,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-sagan-recruitment
 
 ## Customer support (55 open roles)
 
@@ -1789,7 +1782,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-lawyer-micro1
 
-## Online Marketing (112 open roles)
+## Online Marketing (113 open roles)
+
+### Email Marketing Assistant
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-email-marketing-assistant-talentpop-app-2
 
 ### SEO Specialist | Scale Army
 - **Company:** Scale Army
@@ -3889,7 +3889,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-lifecycle-specialist-contract-management-remote-com
 
-## Other (423 open roles)
+## Other (425 open roles)
+
+### Trainer
+- **Company:** Viva Talent
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-trainer-viva-talent
+
+### Creative Lead
+- **Company:** SPACEPANDA
+- **Salary:** $75,000 – $100,000 / year
+- **Location:** Remote
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-creative-lead-spacepanda
+
+### Loss Prevention Associate (12-9 PM EST)
+- **Company:** Lendbuzz
+- **Salary:** $22 – $26 / hour
+- **Location:** Global
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-loss-prevention-associate-12-9-pm-est-lendbuzz
 
 ### Member of Technical Staff, Medical Research
 - **Company:** micro1
@@ -6859,13 +6880,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-14
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-financing-specialist-sagan-recruitment
 
-### Digital Designer (UI/UX)
-- **Company:** Userism
-- **Salary:** £30,000 – £45,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-digital-designer-ui-ux-userism
-
 ## Project Management (55 open roles)
 
 ### Growth Product Manager, Website & Experimentation
@@ -7442,7 +7456,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-latino-legends
 
-## Sales (115 open roles)
+## Sales (116 open roles)
+
+### Business Development Representative
+- **Company:** Bloomreach
+- **Salary:** $70,000 – $80,000 / year
+- **Location:** Americas
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-bloomreach
 
 ### Account Executive
 - **Company:** BoomerangFX
@@ -8253,7 +8274,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-inbound-account-executive-near
 
-## Software Development (207 open roles)
+## Software Development (208 open roles)
+
+### Solutions Architect - LangFuse EMEA
+- **Company:** ClickHouse
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-solutions-architect-langfuse-emea-clickhouse
 
 ### Senior Software Engineer
 - **Company:** micro1
