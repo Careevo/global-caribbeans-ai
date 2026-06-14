@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-13T19:43:06Z
+last_updated: 2026-06-14T04:41:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1394 active remote jobs** as of 2026-06-13.
+**1256 active remote jobs** as of 2026-06-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (71 open roles)
+## Accounting/Bookkeeping (69 open roles)
+
+### Financial Controller
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-financial-controller-remote-leverage
+
+### Accounts Receivable & Billing Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-accounts-receivable-billing-specialist-sagan-recruitment
 
 ### Accountant
 - **Company:** Remote Leverage
@@ -183,13 +197,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-near-2
 
-### Accounting Lead
-- **Company:** Linear
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-accounting-lead-linear
-
 ### Remote Bookkeeper
 - **Company:** HireLATAM
 - **Salary:** $1,700 – $2,000 / month
@@ -301,13 +308,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-bookkeeper-lateam-partners
-
-### Senior Manager, Accounting
-- **Company:** Pebl
-- **Salary:** $147,000 – $190,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-accounting-pebl
 
 ### Ssr. Accounting Analyst
 - **Company:** CookUnity
@@ -421,13 +421,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-accountant-tgg
 
-### Full Stack Accountant | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-accountant-scale-army-scale-army
-
 ### Property Accountant
 - **Company:** Near
 - **Salary:** $2,000 – $3,000 / month
@@ -505,14 +498,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-accounting-coordinator-scale-army-scale-army
 
-### Dispatch Controller
-- **Company:** Near
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-dispatch-controller-near
+## Admin (47 open roles)
 
-## Admin (51 open roles)
+### Senior Executive Assistant
+- **Company:** Remote Leverage
+- **Salary:** $1,800 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-remote-leverage
+
+### Administrative Assistant
+- **Company:** SiiRA
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-siira
 
 ### Reservations Coordinator
 - **Company:** Globaltize
@@ -765,33 +765,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-dental-admin-assistant-bil-medvirtual
 
-### Insurance Virtual Assistant | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-03
-- **View Job:** https://globalcaribbeans.com/#card-insurance-virtual-assistant-scale-army-scale-army
-
 ### Remote Office Manager
 - **Company:** HireLATAM
 - **Salary:** $1,500 – $2,200 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-02
 - **View Job:** https://globalcaribbeans.com/#card-remote-office-manager-hirelatam
-
-### Administrative Coordinator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-administrative-coordinator-scale-army-scale-army
-
-### Virtual Assistant | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-scale-army-scale-army
 
 ### Administrative Assistant
 - **Company:** Near
@@ -830,13 +809,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-executive-virtual-assistant-bilingual-spanish-english-sagan-recruitment
 
-### Executive Assistant | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-scale-army-scale-army
-
 ### Executive Assistant
 - **Company:** Near
 - **Salary:** $1,800 – $3,500 / month
@@ -858,20 +830,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-luxury-travel-coordinator-hirelatam
 
-### Remote Executive Administrative Assistant
-- **Company:** HireLatam
-- **Salary:** $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-remote-executive-administrative-assistant-hirelatam
-
-### Remote Executive Assistant
-- **Company:** HireLatam
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-hirelatam-2
-
 ### Senior Executive Assistant – Latin America (AI tools and workflow automation, Organizational and time management, Proficiency in Microsoft Office)
 - **Company:** Remote Leverage
 - **Salary:** $2,500 / month
@@ -879,7 +837,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-latin-america-ai-tools-and-workflow-automation-organi
 
-## Customer support (56 open roles)
+## Customer support (51 open roles)
 
 ### Sales & Customer Success Specialist
 - **Company:** Hire With Near
@@ -922,13 +880,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-system-support-specialist-tier-2-new-era-technology
-
-### Global Help Desk Manager
-- **Company:** Horizon3.ai
-- **Salary:** $149,850 – $185,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-global-help-desk-manager-horizon3-ai
 
 ### Unisys OS 2200 Infrastructure Support Specialist
 - **Company:** Monks
@@ -1064,13 +1015,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-anavah-talent
 
-### Tier I Support Team Lead
-- **Company:** Owner
-- **Salary:** $30,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-tier-i-support-team-lead-owner
-
 ### Technical Support Specialist - Figma Weave (San Francisco, United States)
 - **Company:** Figma
 - **Salary:** $37.50 – $80.30 / hour
@@ -1121,13 +1065,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-administrative-support-specialist-globaltize
-
-### Product Support Specialist, Eastern/Central Time
-- **Company:** Linear
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-product-support-specialist-eastern-central-time-linear
 
 ### Senior Customer Support Representative
 - **Company:** Near
@@ -1215,13 +1152,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment-2
 
-### Accounting Support Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-accounting-support-specialist-scale-army-scale-army
-
 ### Remote Dispatcher & Customer Service Representative
 - **Company:** HireLatam
 - **Salary:** $1,500 / month
@@ -1272,14 +1202,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-scale-army-scale-army
 
-### Customer Service Representative - Property and Casualty Insurance
-- **Company:** Near
+## Data/Analytics (49 open roles)
+
+### Influencer Outreach Specialist
+- **Company:** TalentPop App
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-property-and-casualty-insurance-near
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-influencer-outreach-specialist-talentpop-app
 
-## Data/Analytics (65 open roles)
+### Data Engineer
+- **Company:** Remote Leverage
+- **Salary:** $1,800 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-data-engineer-remote-leverage
 
 ### Senior Manager, Analytics & Insights
 - **Company:** Grafana Labs
@@ -1301,13 +1238,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-influencer-campaign-coordinator-talentpop-app
-
-### Finance Director
-- **Company:** Juniper Square
-- **Salary:** $165,000 – $200,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-finance-director-juniper-square
 
 ### Senior Manager, Web Technology
 - **Company:** Grafana Labs
@@ -1336,13 +1266,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-strategic-finance-gtm-mercury
-
-### Senior Digital Customer Success Campaign Manager
-- **Company:** 1password
-- **Salary:** $121,000 – $158,500 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-digital-customer-success-campaign-manager-1password
 
 ### Senior Solutions Architect
 - **Company:** Latino Legends
@@ -1387,33 +1310,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-remote-senior-data-analytics-engineer-hirelatam
 
-### Senior Data Scientist, Full Stack
-- **Company:** TRM Labs
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-scientist-full-stack-trm-labs
-
-### Customer Success Engineer
-- **Company:** PostHog
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-engineer-posthog
-
 ### Accounting Analyst - Remote Work
 - **Company:** INDI Staffing Services
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-accounting-analyst-remote-work-indi-staffing-services
-
-### Senior Analyst, GTM Intelligence
-- **Company:** brightwheel
-- **Salary:** $75,000 – $200,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-analyst-gtm-intelligence-brightwheel
 
 ### Data Engineer
 - **Company:** Crossing Hurdles
@@ -1443,20 +1345,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-mobile-product-lead-clara
 
-### Data Analyst, Trust & Safety
-- **Company:** Resend
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-data-analyst-trust-safety-resend
-
-### Deliverability Engineer, Core Sending
-- **Company:** Resend
-- **Salary:** $150,000 – $180,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-deliverability-engineer-core-sending-resend
-
 ### Senior Group Manager, Product Management
 - **Company:** Logpoint
 - **Salary:** Not Disclosed
@@ -1470,13 +1358,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-data-modeler-interex-group
-
-### Sr. Manager, Data Engineering & Analytics
-- **Company:** Serve Robotics
-- **Salary:** $211,000 – $246,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-07
-- **View Job:** https://globalcaribbeans.com/#card-sr-manager-data-engineering-analytics-serve-robotics
 
 ### Senior Financial Analyst
 - **Company:** Bullpen Talent
@@ -1499,47 +1380,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-sales-enablement-manager-orchard
 
-### Machine Learning Researcher - Audio
-- **Company:** Protege
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-machine-learning-researcher-audio-protege
-
-### Retention Marketing Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-retention-marketing-specialist-scale-army-scale-army
-
-### Marketing Data Analyst | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-marketing-data-analyst-scale-army-scale-army
-
 ### Remote VP, Capital Markets & Investor Relations
 - **Company:** HireLatam
 - **Salary:** $10,000 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-remote-vp-capital-markets-investor-relations-hirelatam
-
-### Staff Data Analyst, GTM
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-staff-data-analyst-gtm-supabase-2
-
-### Machine Learning Researcher - RL and Agentic Systems
-- **Company:** Protege
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-machine-learning-researcher-rl-and-agentic-systems-protege
 
 ### Business Value Strategist
 - **Company:** Oscilar
@@ -1562,20 +1408,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-remote-team-lead-hirelatam
 
-### Client Success Associate | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-client-success-associate-scale-army-scale-army
-
-### Implementation Data Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-implementation-data-engineer-scale-army-scale-army
-
 ### Staff Data Analyst, GTM
 - **Company:** Supabase
 - **Salary:** Not Disclosed
@@ -1589,13 +1421,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-head-of-observability-supabase
-
-### Onboarding Engineer
-- **Company:** PostHog
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-26
-- **View Job:** https://globalcaribbeans.com/#card-onboarding-engineer-posthog
 
 ### Senior Data Scientist
 - **Company:** Customer.io
@@ -1625,13 +1450,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-kyc-operations-associate-india-stripe
 
-### Backend Engineer — Billing
-- **Company:** PostHog
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-billing-posthog
-
 ### Market Research Analysts and Marketing Specialists
 - **Company:** micro1
 - **Salary:** $25 – $50 / hour
@@ -1652,13 +1470,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-financial-reporting-analyst-sagan-recruitment
-
-### Developer Marketer - Sales
-- **Company:** PostHog
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-developer-marketer-sales-posthog
 
 ### Data Entry Specialist
 - **Company:** Sagan Recruitment
@@ -1804,7 +1615,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-lawyer-micro1
 
-## Online Marketing (111 open roles)
+## Online Marketing (88 open roles)
+
+### Marketing Team Lead
+- **Company:** Canonical
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-marketing-team-lead-canonical
+
+### Social Media Manager & Content Strategist
+- **Company:** Globaltize
+- **Salary:** $7 – $10 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-content-strategist-globaltize
+
+### Social Media Coordinator
+- **Company:** HireHawk
+- **Salary:** $1,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-social-media-coordinator-hirehawk
+
+### SEO & Growth Assistant
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-seo-growth-assistant-talentpop-app
 
 ### Marketing & Operations Assistant
 - **Company:** InsideOut
@@ -1826,13 +1665,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-assistant-talentpop-app-2
-
-### SEO Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-scale-army-scale-army-2
 
 ### SEO Specialist
 - **Company:** Near
@@ -1875,13 +1707,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-content-writer-hire-with-near
-
-### SEO Strategist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-seo-strategist-scale-army-scale-army
 
 ### Shopify/ E-Commerce Assistant
 - **Company:** TalentPop App
@@ -1988,13 +1813,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-seo-specialist-near-2
 
-### AI Video Editor - Performance Marketing - Growth
-- **Company:** Kraken Digital Asset Exchange
-- **Salary:** $50,000 – $180,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-ai-video-editor-performance-marketing-growth-kraken-digital-asset-exchange
-
 ### Senior Product Marketing Manager - API & Agentic Banking
 - **Company:** Mercury
 - **Salary:** $153,900 – $213,700 / year
@@ -2008,13 +1826,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-director-of-product-marketing-medallion
-
-### EU Affiliate Manager
-- **Company:** Kraken.com
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-eu-affiliate-manager-kraken-com
 
 ### Principal Growth Marketer
 - **Company:** Tines
@@ -2051,13 +1862,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-part-time-social-media-contractor-corelight
 
-### Ecommerce Coordinator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-ecommerce-coordinator-scale-army-scale-army
-
 ### Copywriter
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -2093,13 +1897,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-07
 - **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-freelance-latin-america
 
-### Director, Certifications
-- **Company:** Openai
-- **Salary:** $239,400 – $335,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-07
-- **View Job:** https://globalcaribbeans.com/#card-director-certifications-openai
-
 ### Content Marketing Specialist
 - **Company:** Scale Army Careers
 - **Salary:** Not Disclosed
@@ -2113,13 +1910,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-07
 - **View Job:** https://globalcaribbeans.com/#card-video-editor-scale-army-careers-2
-
-### Customer Success Manager, Mid-Market
-- **Company:** Scribe
-- **Salary:** $100,000 – $150,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-mid-market-scribe
 
 ### Paid Media Manager
 - **Company:** Clients Blackbox
@@ -2135,20 +1925,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-marketing-manager-b12
 
-### Shopify Designer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-shopify-designer-scale-army-scale-army
-
-### Brand Designer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-brand-designer-scale-army-scale-army
-
 ### Legal Content Editor
 - **Company:** Near
 - **Salary:** $2,500 / month
@@ -2156,26 +1932,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-legal-content-editor-near
 
-### Financial Analyst
-- **Company:** Persona
-- **Salary:** $80,000 – $130,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-financial-analyst-persona
-
 ### Social Media & Influencer Specialist
 - **Company:** Near
 - **Salary:** $2,500 – $4,000 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-social-media-influencer-specialist-near
-
-### Brand Content Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-brand-content-manager-scale-army-scale-army
 
 ### Senior Content Marketer, SEO
 - **Company:** Animalz
@@ -2190,13 +1952,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-wealth-management-marketing-manager-clients-blackbox
-
-### Content Marketing Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-content-marketing-specialist-scale-army-scale-army-2
 
 ### Marketing Specialist - Paid Search
 - **Company:** Zaelab
@@ -2240,27 +1995,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-director-product-marketing-acquia-source-acquia
 
-### Senior Manager, Marketing Operations
-- **Company:** Zapier
-- **Salary:** Not Disclosed
-- **Location:** NAMER
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-marketing-operations-zapier
-
-### Content Marketing Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-content-marketing-specialist-scale-army-scale-army
-
-### Digital Marketing Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-digital-marketing-manager-scale-army-scale-army
-
 ### Performance Marketer
 - **Company:** Near
 - **Salary:** $3,000 – $4,500 / month
@@ -2288,13 +2022,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-full-time-designer-landing-pages-ads-michael-todd-beauty
-
-### Remote UGC Coordinator
-- **Company:** HireLatam
-- **Salary:** $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-remote-ugc-coordinator-hirelatam
 
 ### AI Content Writer & Copywriter
 - **Company:** Near
@@ -2338,20 +2065,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-remote-dispatcher-customer-service-hirelatam
 
-### Growth Developer (Shopify Plus & CRO) | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-growth-developer-shopify-plus-cro-scale-army-scale-army
-
-### Growth Marketing Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-manager-scale-army-scale-army-2
-
 ### Performance Marketing Manager
 - **Company:** Communityboost
 - **Salary:** Not Disclosed
@@ -2372,13 +2085,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-facebook-page-network-manager-near
-
-### Project Marketing Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-25
-- **View Job:** https://globalcaribbeans.com/#card-project-marketing-manager-scale-army-scale-army
 
 ### Brand Designer & Social Media Manager
 - **Company:** Elanbykery
@@ -2443,20 +2149,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-remote-onboarding-specialist-hirelatam
 
-### Social Media Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-scale-army-scale-army
-
-### Performance Marketing Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-scale-army-scale-army
-
 ### PPC Specialist
 - **Company:** Near
 - **Salary:** Not Disclosed
@@ -2477,20 +2169,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-klaviyo-sms-sagan-recruitment
-
-### Remote Head of Content & Social Media Manager
-- **Company:** HireLatam
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-remote-head-of-content-social-media-manager-hirelatam
-
-### SEO Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-scale-army-scale-army
 
 ### GTM Engineer
 - **Company:** Near
@@ -2557,35 +2235,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-staff-performance-video-content-producer-remote-com
 
-### Klaviyo Specialist (Technical Execution)
+## Operations (154 open roles)
+
+### Operations Manager (Retail & Inventory)
 - **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
+- **Salary:** $1,800 – $2,500 / month
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-klaviyo-specialist-technical-execution-sagan-recruitment
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-operations-manager-retail-inventory-sagan-recruitment
 
-### Paid Media & Growth Marketing Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,700 – $2,300 / month
+### Amazon VA
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-paid-media-growth-marketing-specialist-sagan-recruitment
-
-### Digital Designer
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $4,000 / month
-- **Location:** Remote
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-digital-designer-sagan-recruitment
-
-### Local SEO & SEM Manager
-- **Company:** Near
-- **Salary:** $3,500 – $5,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-local-seo-sem-manager-near
-
-## Operations (182 open roles)
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-amazon-va-talentpop-app
 
 ### Production and Supply Chain Specialist
 - **Company:** LaTeam Partners
@@ -2600,20 +2264,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-gtm-strategist-supabase
-
-### Territory Development Executive | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-territory-development-executive-scale-army-scale-army
-
-### Operations & Content Coordinator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-operations-content-coordinator-scale-army-scale-army
 
 ### Business Operations Manager
 - **Company:** Remote
@@ -2636,13 +2286,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-business-operations-manager-remote-com
-
-### AI Implementation Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-ai-implementation-specialist-scale-army-scale-army-3
 
 ### Restural - Operations Manager
 - **Company:** JobRack
@@ -2687,26 +2330,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-service-coordinator-virtustant
 
-### Lead Programs Manager, Medical Weight Loss
-- **Company:** OpenLoop
-- **Salary:** $105,000 – $205,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-lead-programs-manager-medical-weight-loss-openloop
-
 ### Senior Manager, Corporate Technology
 - **Company:** Chainguard
 - **Salary:** $172,000 – $195,000 / year
 - **Location:** Americas
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-corporate-technology-chainguard
-
-### Revenue Operations Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-revenue-operations-specialist-scale-army-scale-army
 
 ### Solutions Consultant
 - **Company:** Medallion
@@ -2862,13 +2491,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-business-operations-analyst-google-workspace-crossing-hurdles
 
-### Assistant Manager, Fund Administration (Onboarding)
-- **Company:** Juniper Square
-- **Salary:** $110,000 – $125,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-assistant-manager-fund-administration-onboarding-juniper-square
-
 ### Contract Reviewer/Specialist
 - **Company:** Sagan Recruitment
 - **Salary:** $1,000 – $2,700 / month
@@ -2896,13 +2518,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-logistics-analyst-remote-work-bairesdev
-
-### Client Operations and Program Coordinator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-client-operations-and-program-coordinator-scale-army-scale-army
 
 ### Remote Customer Success Representative
 - **Company:** HireLATAM
@@ -2953,13 +2568,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-remote-ux-ui-designer-hirelatam
 
-### Deal Desk Manager
-- **Company:** Kong
-- **Salary:** $140,000 – $160,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-deal-desk-manager-kong
-
 ### Vibe Coder
 - **Company:** Remote Leverage
 - **Salary:** $1,800 – $2,400 / month
@@ -2980,13 +2588,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-strategic-procurement-pricing-analyst-sagan-recruitment
-
-### Sales Enablement Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-sales-enablement-manager-scale-army-scale-army-2
 
 ### Guest Experience and Operations Manager
 - **Company:** Near
@@ -3022,13 +2623,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-chief-of-staff-to-founder-work-from-home-persona
-
-### Director, Fund Administration
-- **Company:** Juniper Square
-- **Salary:** $145,000 – $190,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-07
-- **View Job:** https://globalcaribbeans.com/#card-director-fund-administration-juniper-square
 
 ### Chief Operating Officer
 - **Company:** Loyal
@@ -3079,26 +2673,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-real-estate-operations-coordinator-insideout
 
-### Assistant Manager, Fund Administration (Onboarding)
-- **Company:** Junipersquare
-- **Salary:** $110,000 – $135,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-assistant-manager-fund-administration-onboarding-junipersquare
-
 ### TikTok E-commerce Manager
 - **Company:** Lago
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-tiktok-e-commerce-manager-lago
-
-### Senior Enablement Operations Manager
-- **Company:** Horizon3ai
-- **Salary:** $149,850 – $185,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-senior-enablement-operations-manager-horizon3ai
 
 ### Outbound Telemarketer
 - **Company:** Scale Army Careers
@@ -3142,26 +2722,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-partner-one-capital
 
-### Senior Director of Product
-- **Company:** Oyster HR
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-senior-director-of-product-oyster-hr
-
 ### Operations & Supply Chain Coordinator
 - **Company:** Near
 - **Salary:** $2,500 – $3,500 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-operations-supply-chain-coordinator-near
-
-### Support Operations Engineer
-- **Company:** Harvey
-- **Salary:** $104,000 – $156,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-support-operations-engineer-harvey
 
 ### Legal Consultant
 - **Company:** Crossing Hurdles
@@ -3220,13 +2786,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-solutions-engineer-remote-com
 
-### AI Automation Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-ai-automation-specialist-scale-army-scale-army-5
-
 ### Director of Finance
 - **Company:** Near
 - **Salary:** Not Disclosed
@@ -3261,13 +2820,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-operations-manager-interlix-staffing
-
-### Senior Revenue Operations Architect
-- **Company:** Finalis
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-senior-revenue-operations-architect-finalis
 
 ### Information Security Manager
 - **Company:** Partner One Capital
@@ -3325,13 +2877,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-amazon-market-place-operations-specialist-sagan-recruitment
 
-### Events Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-events-manager-scale-army-scale-army
-
 ### General Manager, Operations
 - **Company:** Honor
 - **Salary:** Not Disclosed
@@ -3345,13 +2890,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-property-manager-hirelatam
-
-### Product Designer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-01
-- **View Job:** https://globalcaribbeans.com/#card-product-designer-scale-army-scale-army
 
 ### Global Demand Planner
 - **Company:** Latino Legends
@@ -3373,13 +2911,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-remote-senior-operations-manager-hirelatam
-
-### Digital Merchant | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-digital-merchant-scale-army-scale-army
 
 ### Supply Chain Manager
 - **Company:** Near
@@ -3458,33 +2989,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-human-resources-specialist-near
 
-### Junior Ecommerce Operations Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-26
-- **View Job:** https://globalcaribbeans.com/#card-junior-ecommerce-operations-manager-scale-army-scale-army
-
-### Remote Project Expeditor
-- **Company:** HireLatam
-- **Salary:** $1,600 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-26
-- **View Job:** https://globalcaribbeans.com/#card-remote-project-expeditor-hirelatam
-
 ### Strategic Project Lead, MD/Health
 - **Company:** micro1
 - **Salary:** $3,000 – $10,000 / month
 - **Location:** Remote
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-strategic-project-lead-md-health-micro1-2
-
-### AI Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-25
-- **View Job:** https://globalcaribbeans.com/#card-ai-engineer-scale-army-scale-army
 
 ### Junior Game Developer (Java / libGDX)
 - **Company:** micro1
@@ -3542,20 +3052,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-business-operations-coordinator-near
 
-### Senior Operations Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-operations-manager-scale-army-scale-army
-
-### AI Automation Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-ai-automation-specialist-scale-army-scale-army-4
-
 ### NetSuite Admin
 - **Company:** Near
 - **Salary:** $3,000 – $4,000 / month
@@ -3563,26 +3059,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-netsuite-admin-near
 
-### Outbound Call Center Agent | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-outbound-call-center-agent-scale-army-scale-army
-
 ### Civil Engineer
 - **Company:** xAI
 - **Salary:** Not Disclosed
 - **Location:** Remote
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-civil-engineer-xai
-
-### Sales Development Team Lead | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-team-lead-scale-army-scale-army
 
 ### AI Automation Coordinator
 - **Company:** Sagan Recruitment
@@ -3597,13 +3079,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-operations-coordinator-bilingual-sagan-recruitment
-
-### AI Automation Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-ai-automation-specialist-scale-army-scale-army-3
 
 ### Lifecycle Specialist: Time & Attendance
 - **Company:** Remote.com
@@ -3656,13 +3131,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-procurement-specialist-near
-
-### PPC Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-ppc-specialist-scale-army-scale-army
 
 ### Support Coordinator
 - **Company:** Near
@@ -3853,21 +3321,84 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-solutions-engineer-scale-army-scale-army
 
-### Fashion Creative Director
-- **Company:** THE/STUDIO
+## Other (433 open roles)
+
+### Short-Term Rental Guest Experience & Operations VA
+- **Company:** CS Outsource
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-fashion-creative-director-the-studio
-
-### Property Management Assistant
-- **Company:** Near
-- **Salary:** $20,400 / month
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-property-management-assistant-near
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-short-term-rental-guest-experience-operations-va-cs-outsource
 
-## Other (435 open roles)
+### Academic Researcher
+- **Company:** YO IT Consulting
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-academic-researcher-yo-it-consulting
+
+### Word and PDF Experts
+- **Company:** YO IT Consulting
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-word-and-pdf-experts-yo-it-consulting
+
+### Chief of Staff
+- **Company:** Remote Leverage
+- **Salary:** $2,500 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-chief-of-staff-remote-leverage
+
+### Senior Client Retention Specialist
+- **Company:** AI Acquisition
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-client-retention-specialist-ai-acquisition
+
+### Ad Creative Video Editor (Marketing Agency)
+- **Company:** GrowthAssistant
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-ad-creative-video-editor-marketing-agency-growthassistant
+
+### Parametric Modeler – FreeCAD
+- **Company:** Crossing Hurdles
+- **Salary:** $30 – $120 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-parametric-modeler-freecad-crossing-hurdles
+
+### Graphic Designer & Creative Lead
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-creative-lead-somewhere
+
+### Audio Production Specialist | $65/hr Remote
+- **Company:** Crossing Hurdles
+- **Salary:** $19 – $65 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-audio-production-specialist-65-hr-remote-crossing-hurdles
+
+### Dental Technician
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-dental-technician-remote-leverage
+
+### Medical Biller
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-medical-biller-remote-leverage
 
 ### Client Relationship Manager
 - **Company:** Remote Leverage
@@ -3917,13 +3448,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-strategic-finance-r-d-g-a-mercury
-
-### Customer Experience Agent - Dressly
-- **Company:** Skelar
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-customer-experience-agent-dressly-skelar
 
 ### In-House Video Editor (Single Brand)
 - **Company:** GrowthAssistant
@@ -4599,13 +4123,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-remote-work-indi-staffing-services-3
 
-### AI for Business Instructor
-- **Company:** Campus
-- **Salary:** $5,000 – $8,000 / month
-- **Location:** Americas
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-ai-for-business-instructor-campus
-
 ### High-Ticket Financial Sales Specialist & Team Lead Track
 - **Company:** FSE
 - **Salary:** Not Disclosed
@@ -4640,13 +4157,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-accounting-specialist-crossing-hurdles-2
-
-### Staff Developer, Identity
-- **Company:** 1password
-- **Salary:** $192,000 – $278,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-staff-developer-identity-1password
 
 ### Financial Documents Specialist
 - **Company:** micro1
@@ -5028,13 +4538,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-junior-pricing-analyst-entry-level-contract-meristem-packaging
 
-### AI Video Creator
-- **Company:** Seriesai
-- **Salary:** $50 – $200 / hour
-- **Location:** North America
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-ai-video-creator-seriesai
-
 ### Commercial Director, North America (m / f / d)
 - **Company:** Omio1
 - **Salary:** Not Disclosed
@@ -5211,13 +4714,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-investment-banking-expert-micro1
 
-### Staff Security Architect
-- **Company:** Kraken Digital Asset Exchange
-- **Salary:** $127,200 – $254,400 / year
-- **Location:** Americas
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-staff-security-architect-kraken-digital-asset-exchange
-
 ### Private Equity Expert
 - **Company:** micro1
 - **Salary:** $30 – $65 / hour
@@ -5252,13 +4748,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-manager-cloud-infrastructure-engineering-camunda
-
-### Solution Lead - Nursing
-- **Company:** Abridge
-- **Salary:** $28,730 – $194,040 / year
-- **Location:** Americas
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-solution-lead-nursing-abridge
 
 ### Partner Acquisition Director
 - **Company:** Cloudinary
@@ -5372,13 +4861,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-corporate-finance-expert-micro1
-
-### Senior Associate, Fund Administration
-- **Company:** Junipersquare
-- **Salary:** $75,000 – $95,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-senior-associate-fund-administration-junipersquare
 
 ### Sales Development Representative
 - **Company:** Near
@@ -5597,13 +5079,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-02
 - **View Job:** https://globalcaribbeans.com/#card-chief-of-staff-latin-america-background-in-hr-tech-staffing-or-operations-is-a-p
-
-### Video Editor | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-video-editor-scale-army-scale-army-2
 
 ### Status Manual QA / Product Tester (Part time)
 - **Company:** Iftother
@@ -5872,13 +5347,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-qgis-expert-micro1-2
 
-### Marketing Strategist & Content Designer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-marketing-strategist-content-designer-scale-army-scale-army
-
 ### Senior Product Designer (UI/UX)
 - **Company:** Black Flag Creative
 - **Salary:** Not Disclosed
@@ -6012,13 +5480,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-25
 - **View Job:** https://globalcaribbeans.com/#card-2d-artist-krita-micro1
-
-### Content Creator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-25
-- **View Job:** https://globalcaribbeans.com/#card-content-creator-scale-army-scale-army
 
 ### Mandarin Language Expert
 - **Company:** micro1
@@ -6299,13 +5760,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-ai-tutor-indonesian-xai
-
-### MEP Estimator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-mep-estimator-scale-army-scale-army
 
 ### AI Tutor
 - **Company:** xAI
@@ -6913,21 +6367,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-remote-brand-identity-designer-day3
 
-### Social Media Content Creator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-social-media-content-creator-sagan-recruitment
+## Project Management (45 open roles)
 
-### Associate, PR & Communications
-- **Company:** Near
-- **Salary:** $6,000 / month
+### Creative Media Specialist (Video & Motion Graphics)
+- **Company:** GrowthAssistant
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-14
-- **View Job:** https://globalcaribbeans.com/#card-associate-pr-communications-near
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-creative-media-specialist-video-motion-graphics-growthassistant
 
-## Project Management (56 open roles)
+### Project Manager
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-leverage
 
 ### Senior Product Manager
 - **Company:** Monks
@@ -6950,13 +6404,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-growth-product-manager-website-experimentation-superside
 
-### Project Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-project-manager-scale-army-scale-army
-
 ### Remote Marketing & Communications Project Manager (Part-time)
 - **Company:** HireLatam
 - **Salary:** $10 – $12 / hour
@@ -6970,13 +6417,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-it-project-manager-hire-overseas
-
-### Senior Solutions Consultant
-- **Company:** Oyster HR
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-senior-solutions-consultant-oyster-hr
 
 ### Product Manager
 - **Company:** Remote.com
@@ -7063,13 +6503,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-senior-mobile-product-manager-near
 
-### Senior Product Manager, Financial Institutions
-- **Company:** TRM Labs
-- **Salary:** $65,000 – $230,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-financial-institutions-trm-labs
-
 ### Project Manager
 - **Company:** Kajae
 - **Salary:** Not Disclosed
@@ -7119,13 +6552,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-sr-implementation-manager-assistiq
 
-### District Onboarding Manager
-- **Company:** ClassDojo
-- **Salary:** $35 – $50 / hour
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-district-onboarding-manager-classdojo
-
 ### Senior Product Manager, Remote Build
 - **Company:** Remote.com
 - **Salary:** Not Disclosed
@@ -7155,13 +6581,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-ad-formats-discord
 
-### Product Manager - Postgres Platform
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-postgres-platform-supabase-2
-
 ### Global Payroll Implementation Specialist - PEO
 - **Company:** Remote.com
 - **Salary:** $83,200 – $112,300 / year
@@ -7169,13 +6588,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-global-payroll-implementation-specialist-peo-remote-com
-
-### Product Owner / Product Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-product-owner-product-manager-scale-army-scale-army
 
 ### Product Manager - Interfaces
 - **Company:** Supabase
@@ -7198,13 +6610,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-owner-pogun-io-global
 
-### Product Manager - Platform
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-platform-supabase-2
-
 ### Knowledge & Training Manager
 - **Company:** Sagan Recruitment
 - **Salary:** $2,000 / month
@@ -7218,13 +6623,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-self-managed-service-camunda
-
-### Implementation Project Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-implementation-project-manager-scale-army-scale-army
 
 ### Product Manager - AI
 - **Company:** Supabase
@@ -7254,20 +6652,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-m-a-operations-coordinator-sagan-recruitment
 
-### AI Implementation Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-ai-implementation-specialist-scale-army-scale-army-2
-
-### Product Manager
-- **Company:** Chili Piper
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-chili-piper
-
 ### Staff Product Manager, Payments
 - **Company:** Stripe
 - **Salary:** Not Disclosed
@@ -7289,13 +6673,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-commercial-solutions-program-manager-stripe
 
-### Remote Assistant Project Manager
-- **Company:** HireLatam
-- **Salary:** $1,300 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-remote-assistant-project-manager-hirelatam-2
-
 ### Assistant Project Manager (APM)
 - **Company:** Near
 - **Salary:** Not Disclosed
@@ -7310,21 +6687,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-digital-project-manager-sagan-recruitment
 
-### Executive Support & Communications Coordinator | Scale Army
-- **Company:** Scale Army
+## Recruiting (20 open roles)
+
+### Recruiter
+- **Company:** Simera
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-executive-support-communications-coordinator-scale-army-scale-army
-
-### Remote Assistant Project Manager
-- **Company:** HireLatam
-- **Salary:** $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-remote-assistant-project-manager-hirelatam
-
-## Recruiting (26 open roles)
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-recruiter-simera
 
 ### Talent Acquisition Specialist
 - **Company:** Hire With Near
@@ -7340,26 +6710,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-specialist-it-recruitment-jalasoft
 
-### Talent Acquisition Specialist
-- **Company:** Prelude
-- **Salary:** $112,000 – $155,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-specialist-prelude
-
 ### Director, Sales Development Americas
 - **Company:** Grafana Labs
 - **Salary:** $195,750 – $225,000 / year
 - **Location:** Americas
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-director-sales-development-americas-grafana-labs
-
-### Recruiting Coordinator
-- **Company:** ClassDojo
-- **Salary:** $34 – $45 / hour
-- **Location:** Global
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-recruiting-coordinator-classdojo
 
 ### Lead Generation Specialist (Recruitment)
 - **Company:** AGENTIFY
@@ -7381,13 +6737,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-20-hr-remote-crossing-hurdles
-
-### People Systems & Programs Lead
-- **Company:** Mariana Minerals
-- **Salary:** $130,000 – $170,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-people-systems-programs-lead-mariana-minerals
 
 ### Associate Recruiter
 - **Company:** micro1
@@ -7424,13 +6773,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-remote-build-remote
 
-### Senior Manager, People Operations
-- **Company:** Cohere
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-people-operations-cohere
-
 ### Talent Acquisition Specialist
 - **Company:** VIVANT
 - **Salary:** Not Disclosed
@@ -7444,20 +6786,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-remote-junior-recruiter-valatam
-
-### Contract Business Recruiter
-- **Company:** Trm Labs
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-contract-business-recruiter-trm-labs
-
-### Contract Sales Recruiter
-- **Company:** Trm Labs
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-contract-sales-recruiter-trm-labs
 
 ### HR & Recruitment Manager (Work From Home)
 - **Company:** Persona
@@ -7503,14 +6831,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-18
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-sagan-recruitment
 
-### Recruiter
-- **Company:** Latino Legends
+## Sales (103 open roles)
+
+### Senior Account Executive, MidMarket
+- **Company:** Bloomreach
+- **Salary:** $200,000 – $250,000 / year
+- **Location:** Americas
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-account-executive-midmarket-bloomreach
+
+### Salesperson
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-salesperson-remote-leverage
+
+### Sales Coordinator
+- **Company:** Scale Army Careers
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-latino-legends
-
-## Sales (119 open roles)
+- **Posted:** 2026-06-13
+- **View Job:** https://globalcaribbeans.com/#card-sales-coordinator-scale-army-careers
 
 ### Cold Calling & Lead Generation
 - **Company:** InsideOut
@@ -7525,13 +6867,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-account-development-executive-miami-fl-justworks
-
-### Founding PM - Reporting & Agentic Insights
-- **Company:** Owner
-- **Salary:** $100,000 – $220,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-founding-pm-reporting-agentic-insights-owner
 
 ### Business Development Representative
 - **Company:** Bloomreach
@@ -7553,13 +6888,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-100-remote-1-200-to-2-000-usd-per-month-ote-sal
-
-### Sales Coordinator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-sales-coordinator-scale-army-scale-army
 
 ### Appointment Setter
 - **Company:** Globaltize
@@ -7598,20 +6926,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-edtech-huzzle
 
-### Enterprise Account Executive, Rockies
-- **Company:** Kong
-- **Salary:** $300,000 – $400,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-rockies-kong
-
-### Technical Account Executive
-- **Company:** PostHog
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-technical-account-executive-posthog
-
 ### Sales Development Representative (SDR) - Accounting & Financial Services
 - **Company:** Pavago
 - **Salary:** Not Disclosed
@@ -7626,33 +6940,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-account-executive-customer-io
 
-### Sales Development Representative | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-scale-army-scale-army-3
-
-### Sales & Operations Coordinator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-sales-operations-coordinator-scale-army-scale-army-2
-
 ### Sales Engineer, Commercial - Bay Area
 - **Company:** Zscaler
 - **Salary:** $128,625 – $183,750 / year
 - **Location:** Americas
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-sales-engineer-commercial-bay-area-zscaler
-
-### Manager, Customer Onboarding
-- **Company:** Owner
-- **Salary:** Up to COP 1,150,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-manager-customer-onboarding-owner
 
 ### Ejecutivo de Cuenta Remoto / Remote Account Executive
 - **Company:** HireLatam
@@ -7801,20 +7094,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-web-engineer-hightouch
 
-### Channel Account Manager - West
-- **Company:** Sevenai
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-channel-account-manager-west-sevenai
-
-### Account Executive
-- **Company:** Resend
-- **Salary:** $160,000 – $220,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-resend
-
 ### Sales Development Representative
 - **Company:** Near
 - **Salary:** $2,000 / month
@@ -7850,13 +7129,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-strategic-account-executive-ping-identity
 
-### Account Executive, Trading-as-a-Service (TaaS), Payward Services
-- **Company:** Kraken Digital Asset Exchange
-- **Salary:** $80,000 – $250,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-07
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-trading-as-a-service-taas-payward-services-kraken-digital-asse
-
 ### Business Development Manager
 - **Company:** Eden Capital Careers
 - **Salary:** $800 – $1,000 / month
@@ -7891,13 +7163,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-globaltize
-
-### RVP, Enterprise Sales - West
-- **Company:** Sevenai
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-rvp-enterprise-sales-west-sevenai
 
 ### Regional Director of Sales
 - **Company:** Radformation
@@ -7942,20 +7207,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-channel-partner-sales-executive-canonical
 
-### Sales Representative | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-sales-representative-scale-army-scale-army
-
-### Appointment Setter | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-scale-army-scale-army-3
-
 ### Business Development Specialist
 - **Company:** Kajae
 - **Salary:** Not Disclosed
@@ -7983,13 +7234,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-business-development-manager-pepperstone
-
-### Sales Operations
-- **Company:** Prelude
-- **Salary:** $145,000 – $195,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-sales-operations-prelude
 
 ### Business Development Representative
 - **Company:** Latino Legends
@@ -8026,13 +7270,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-estimate-follow-up-specialist-sagan-recruitment
 
-### Sales Development Representative (SDR) | Scale Army
-- **Company:** Scale Army
-- **Salary:** $1,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-scale-army-scale-army
-
 ### Growth Manager
 - **Company:** micro1
 - **Salary:** Not Disclosed
@@ -8060,13 +7297,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-outreach-coordinator-near
-
-### BDR Manager
-- **Company:** Oyster HR
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-bdr-manager-oyster-hr
 
 ### Sales Development Representative
 - **Company:** Near
@@ -8201,20 +7431,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-appointment-setting-sagan-recruitment-2
 
-### Sales Development Lead | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-lead-scale-army-scale-army
-
-### Business Development Representative | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-scale-army-scale-army-2
-
 ### VP of Business Development
 - **Company:** Near
 - **Salary:** Not Disclosed
@@ -8342,14 +7558,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-sagan-recruitment
 
-### Inbound Account Executive
-- **Company:** Near
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-inbound-account-executive-near
+## Software Development (188 open roles)
 
-## Software Development (213 open roles)
+### Automation Developer
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-automation-developer-remote-leverage
+
+### Senior IT Analyst
+- **Company:** Mercury
+- **Salary:** $109,500 – $152,100 / year
+- **Location:** Americas
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-it-analyst-mercury
 
 ### Staff Software Engineer, Security & Privacy
 - **Company:** Abnormal
@@ -8407,13 +7630,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-micro1
 
-### Full Stack Product Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-product-engineer-scale-army-scale-army
-
 ### Senior Backend Engineer (Data Infrastructure)
 - **Company:** Near
 - **Salary:** $5,000 – $6,000 / month
@@ -8435,13 +7651,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-staff-ai-engineer-acquia
 
-### Senior Technical Advisor, National Security Policy, Global Affairs
-- **Company:** Openai
-- **Salary:** $136,800 – $325,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-senior-technical-advisor-national-security-policy-global-affairs-openai
-
 ### Senior Backend Developer | Remote | LATAM Only
 - **Company:** Remote Talent LATAM
 - **Salary:** $4,500 / month
@@ -8449,26 +7658,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-backend-developer-remote-latam-only-remote-talent-latam
 
-### Staff React Native Engineer - Pro
-- **Company:** Kraken Digital Asset Exchange
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-staff-react-native-engineer-pro-kraken-digital-asset-exchange
-
 ### Senior Software Engineer - Postgres
 - **Company:** ClickHouse
 - **Salary:** Not Disclosed
 - **Location:** Global
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-postgres-clickhouse
-
-### Full-Stack Developer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-scale-army-scale-army
 
 ### Solutions Architect - LangFuse APJ
 - **Company:** ClickHouse
@@ -8490,13 +7685,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-public-sector-senior-sales-engineer-east-coast-ping-identity
-
-### Senior Database Administrator
-- **Company:** Kraken.com
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-database-administrator-kraken-com
 
 ### Software Engineer, micro Platforms
 - **Company:** micro1
@@ -8603,26 +7791,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-builder-email-builders-team-gohighlevel
 
-### QA Automation Engineer - Pro
-- **Company:** Kraken.com
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-qa-automation-engineer-pro-kraken-com
-
 ### Staff Backend Engineer - Grafana App Platform
 - **Company:** Grafana Labs
 - **Salary:** $186,368 – $223,642 / year
 - **Location:** Americas
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-staff-backend-engineer-grafana-app-platform-grafana-labs
-
-### Senior Software Engineer, Data Platform
-- **Company:** Trm Labs
-- **Salary:** $190,000 – $220,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-data-platform-trm-labs
 
 ### Remote Founding Full-Stack Engineer
 - **Company:** HireLatam
@@ -8651,13 +7825,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-data-integration-jvm-ecosystem-clickhouse
-
-### QA Automation Engineer - Pro
-- **Company:** Kraken Digital Asset Exchange
-- **Salary:** $45,000 – $205,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-qa-automation-engineer-pro-kraken-digital-asset-exchange
 
 ### AI Success Manager, East
 - **Company:** Glean
@@ -8693,20 +7860,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-design-engineer-part-time-garden3d
-
-### Senior Software Engineer - Frontend - Pro
-- **Company:** Kraken.com
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-frontend-pro-kraken-com
-
-### Senior Data Platform Engineer
-- **Company:** 1password
-- **Salary:** $152,000 – $197,500 / year
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-platform-engineer-1password
 
 ### Design Engineer
 - **Company:** Luxurypresence
@@ -8764,13 +7917,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-frontend-engineer-senior-remote-future-opportunities-clara
 
-### Backend Engineer, Core Sending
-- **Company:** Resend
-- **Salary:** $150,000 – $170,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-core-sending-resend-2
-
 ### Design Engineer
 - **Company:** Luxury Presence
 - **Salary:** Not Disclosed
@@ -8792,13 +7938,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-lead-backend-software-engineer-corelight
 
-### OrioleDB Developer (AMER)
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-orioledb-developer-amer-supabase
-
 ### Software Engineer - Sharded Postgres (Neki)
 - **Company:** PlanetScale
 - **Salary:** $120,000 – $290,000 / year
@@ -8819,13 +7958,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-it-support-engineer-devsu
-
-### Customer Solution Architect Team Lead (AMER)
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-customer-solution-architect-team-lead-amer-supabase
 
 ### Python Developer
 - **Company:** Zyte
@@ -8854,13 +7986,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-technical-lead-support-engineering-tekton-labs
-
-### Senior Database Administrator
-- **Company:** Kraken Digital Asset Exchange
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-senior-database-administrator-kraken-digital-asset-exchange
 
 ### Senior Software Engineer (AI-Enabled)
 - **Company:** Codurance
@@ -8925,26 +8050,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-support-engineer-ii-blackpoint-cyber
 
-### Senior Software Engineer, Custody
-- **Company:** Paxos
-- **Salary:** $206,000 – $235,950 / year
-- **Location:** Americas
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-custody-paxos
-
 ### Staff Engineer, Identity
 - **Company:** Stripe
 - **Salary:** Not Disclosed
 - **Location:** Americas
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-staff-engineer-identity-stripe
-
-### Product Builder - AI Acceleration
-- **Company:** Owner
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-product-builder-ai-acceleration-owner
 
 ### Software Engineer - Application Support
 - **Company:** Misfits Market
@@ -8960,33 +8071,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-remote-2
 
-### Backend Engineer, Core Sending
-- **Company:** Resend
-- **Salary:** $150,000 – $170,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-core-sending-resend
-
 ### Senior Mobile Engineer
 - **Company:** Near
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-mobile-engineer-near
-
-### Senior Backend Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-scale-army-scale-army
-
-### Remote Senior Applied AI Engineer
-- **Company:** HireLatam
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-remote-senior-applied-ai-engineer-hirelatam
 
 ### Software Engineer, Strategic Projects
 - **Company:** Tailscale
@@ -9079,13 +8169,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-solutions-engineer-clockwork-io
 
-### Product Security Engineer
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-product-security-engineer-supabase-2
-
 ### QA Engineer
 - **Company:** Fabulous
 - **Salary:** Not Disclosed
@@ -9114,20 +8197,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-02
 - **View Job:** https://globalcaribbeans.com/#card-backend-engineer-remote-leverage
 
-### AI Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-ai-engineer-scale-army-scale-army-2
-
-### Senior Fullstack Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** $4,000 – $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-senior-fullstack-engineer-scale-army-scale-army
-
 ### Freelance Associate Creative Director
 - **Company:** Article Group
 - **Salary:** Not Disclosed
@@ -9141,13 +8210,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-02
 - **View Job:** https://globalcaribbeans.com/#card-freelance-senior-presentation-designer-article-group
-
-### Remote Backend Developer
-- **Company:** HireLatam
-- **Salary:** $7,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-01
-- **View Job:** https://globalcaribbeans.com/#card-remote-backend-developer-hirelatam
 
 ### Junior Software Engineer (Open 3D Engine)
 - **Company:** micro1
@@ -9254,13 +8316,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-coding-expert-micro1-2
 
-### QA Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-qa-engineer-scale-army-scale-army
-
 ### Senior Azure Data Platform Engineer
 - **Company:** New Era Technology
 - **Salary:** Not Disclosed
@@ -9282,13 +8337,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-developer-near
 
-### DevOps Engineer
-- **Company:** Deel
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-devops-engineer-deel
-
 ### Senior Azure Cloud & DevOps Engineer
 - **Company:** New Era Technology
 - **Salary:** Not Disclosed
@@ -9309,13 +8357,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-25
 - **View Job:** https://globalcaribbeans.com/#card-coding-expert-micro1
-
-### WordPress Software Developer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-24
-- **View Job:** https://globalcaribbeans.com/#card-wordpress-software-developer-scale-army-scale-army
 
 ### Geospatial Analysis Specialist (QGIS)
 - **Company:** micro1
@@ -9645,13 +8686,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-gohighlevel-automation-specialist-part-time-near
-
-### Mid-Level Software Engineer | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-mid-level-software-engineer-scale-army-scale-army
 
 ### SecOps Engineer
 - **Company:** micro1
