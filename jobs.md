@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-14T14:13:17Z
+last_updated: 2026-06-14T19:42:57Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1248 active remote jobs** as of 2026-06-14.
+**1262 active remote jobs** as of 2026-06-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -484,7 +484,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-accounting-expert-micro1
 
-## Admin (46 open roles)
+## Admin (47 open roles)
+
+### Administrative Assistant
+- **Company:** SiiRA
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-siira
 
 ### Senior Executive Assistant
 - **Company:** Remote Leverage
@@ -816,7 +823,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-latin-america-ai-tools-and-workflow-automation-organi
 
-## Customer support (48 open roles)
+## Customer support (50 open roles)
+
+### Technical Support Specialist
+- **Company:** Quik Hire Staffing
+- **Salary:** $30 – $70 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-quik-hire-staffing-2
+
+### Technical Support Specialist
+- **Company:** Quik Hire Staffing
+- **Salary:** $30 – $70 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-quik-hire-staffing
 
 ### Sales & Customer Success Specialist
 - **Company:** Hire With Near
@@ -1574,6 +1595,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Online Marketing (83 open roles)
 
+### Content Strategist
+- **Company:** Quik Hire Staffing
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-content-strategist-quik-hire-staffing
+
 ### Lifecycle Marketing Specialist
 - **Company:** GrowthAssistant
 - **Salary:** Not Disclosed
@@ -2148,15 +2176,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-video-editor-latino-legends
 
-### Paid Social Channel Manager
-- **Company:** Remote.com
-- **Salary:** $80,000 – $100,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-paid-social-channel-manager-remote-com
+## Operations (155 open roles)
 
-## Operations (153 open roles)
+### Garment Manufacturing QC Specialist - Freelance AI Trainer Project
+- **Company:** Meridial Marketplace, by Invisible
+- **Salary:** $15 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-garment-manufacturing-qc-specialist-freelance-ai-trainer-project-meridial-market
+
+### Human Resources Specialist
+- **Company:** Quik Hire Staffing
+- **Salary:** $10 – $36 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-human-resources-specialist-quik-hire-staffing
 
 ### 2D Game Developer (libGDX)
 - **Company:** Crossing Hurdles
@@ -3235,7 +3269,84 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-sr-product-designer-suralink
 
-## Other (431 open roles)
+## Other (441 open roles)
+
+### Illustrator or Painter for Putumayo
+- **Company:** Putumayo Digital Media
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-illustrator-or-painter-for-putumayo-putumayo-digital-media
+
+### Risk Intelligence Analyst
+- **Company:** Quik Hire Staffing
+- **Salary:** $40 – $70 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-risk-intelligence-analyst-quik-hire-staffing
+
+### Corporate Finance Specialist
+- **Company:** Quik Hire Staffing
+- **Salary:** $50 – $58 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-corporate-finance-specialist-quik-hire-staffing
+
+### Notion Expert
+- **Company:** Quik Hire Staffing
+- **Salary:** $20 – $70 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-notion-expert-quik-hire-staffing
+
+### Voice Over Actress
+- **Company:** Quik Hire Staffing
+- **Salary:** $20 – $50 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-voice-over-actress-quik-hire-staffing
+
+### Community Manager
+- **Company:** Quik Hire Staffing
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-community-manager-quik-hire-staffing-2
+
+### Private Equity Specialist
+- **Company:** Quik Hire Staffing
+- **Salary:** $30 – $65 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-private-equity-specialist-quik-hire-staffing
+
+### Community Manager
+- **Company:** Quik Hire Staffing
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-community-manager-quik-hire-staffing
+
+### E-commerce Expert
+- **Company:** Quik Hire Staffing
+- **Salary:** $40 – $50 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-e-commerce-expert-quik-hire-staffing
+
+### Private Equity Associate
+- **Company:** Hired
+- **Salary:** $100 – $144 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-private-equity-associate-hired
+
+### Transcription Specialist
+- **Company:** Quik Hire Staffing
+- **Salary:** $10 – $20 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-transcription-specialist-quik-hire-staffing
 
 ### Head of Engineering
 - **Company:** Lemon.io
@@ -6259,13 +6370,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-staff-product-designer-customer-io
 
-### Schedule Strategy Representative
-- **Company:** Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-schedule-strategy-representative-near
-
 ## Project Management (46 open roles)
 
 ### Construction Project Manager (Residential/Multifamily)
@@ -6738,6 +6842,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-sagan-recruitment
 
 ## Sales (105 open roles)
+
+### Partnerships Manager
+- **Company:** Quik Hire Staffing
+- **Salary:** $70,000 – $150,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-partnerships-manager-quik-hire-staffing
 
 ### Sales Operations Specialist (CRM & Pipeline Operations)
 - **Company:** Sagan Recruitment
@@ -7472,14 +7583,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-portfolio-sales-manager-sagan-recruitment
 
-### Sales Development Representative (SDR)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $1,500 / month
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-sagan-recruitment
+## Software Development (190 open roles)
 
-## Software Development (191 open roles)
+### AI Solutions Architect
+- **Company:** Quik Hire Staffing
+- **Salary:** $160,000 – $300,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-ai-solutions-architect-quik-hire-staffing
+
+### Vue.js/Nuxt Developer
+- **Company:** YO IT Consulting
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-vue-js-nuxt-developer-yo-it-consulting
 
 ### Software Support Engineer
 - **Company:** Canonical
@@ -8797,24 +8915,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-magento-developer-sagan-recruitment
-
-### Fullstack Engineering Lead
-- **Company:** Near
-- **Salary:** $90,000 – $110,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-fullstack-engineering-lead-near
-
-### Design Engineer
-- **Company:** Marit Health
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-design-engineer-marit-health
-
-### Talent Network: Senior Fullstack Engineer (New Business)
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-talent-network-senior-fullstack-engineer-new-business-toptal
