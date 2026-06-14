@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-14T09:43:28Z
+last_updated: 2026-06-14T14:13:17Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1246 active remote jobs** as of 2026-06-14.
+**1248 active remote jobs** as of 2026-06-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1572,7 +1572,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-lawyer-micro1
 
-## Online Marketing (84 open roles)
+## Online Marketing (83 open roles)
 
 ### Lifecycle Marketing Specialist
 - **Company:** GrowthAssistant
@@ -2155,14 +2155,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-paid-social-channel-manager-remote-com
-
-### Staff Performance Video Content Producer
-- **Company:** Remote.com
-- **Salary:** Not Disclosed
-- **Location:** AMER | Global | Worldwide | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-staff-performance-video-content-producer-remote-com
 
 ## Operations (153 open roles)
 
@@ -3244,6 +3236,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-sr-product-designer-suralink
 
 ## Other (431 open roles)
+
+### Head of Engineering
+- **Company:** Lemon.io
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-head-of-engineering-lemon-io
 
 ### Recruitment Consultant - Internship Placements
 - **Company:** Virtual Internships
@@ -6267,14 +6266,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-schedule-strategy-representative-near
 
-### Senior People Business Partner
-- **Company:** Remote.com
-- **Salary:** $155,200 – $174,600 / year
-- **Location:** Americas
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-senior-people-business-partner-remote-com
-
 ## Project Management (46 open roles)
 
 ### Construction Project Manager (Residential/Multifamily)
@@ -6746,7 +6737,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-18
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-sagan-recruitment
 
-## Sales (103 open roles)
+## Sales (105 open roles)
+
+### Sales Operations Specialist (CRM & Pipeline Operations)
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-sales-operations-specialist-crm-pipeline-operations-sagan-recruitment
+
+### Sales Representative/ERP Odoo
+- **Company:** Globaltize
+- **Salary:** $9 – $12 / hour
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-sales-representative-erp-odoo-globaltize
 
 ### Sales Development Representative (SDR)
 - **Company:** Ottomatik.io
@@ -7473,7 +7479,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-15
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-sagan-recruitment
 
-## Software Development (190 open roles)
+## Software Development (191 open roles)
+
+### Software Support Engineer
+- **Company:** Canonical
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-software-support-engineer-canonical
 
 ### Software Developer
 - **Company:** Crossing Hurdles
