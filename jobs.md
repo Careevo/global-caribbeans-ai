@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-14T19:42:57Z
+last_updated: 2026-06-15T04:55:45Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1262 active remote jobs** as of 2026-06-14.
+**1238 active remote jobs** as of 2026-06-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -484,7 +484,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-accounting-expert-micro1
 
-## Admin (47 open roles)
+## Admin (46 open roles)
 
 ### Administrative Assistant
 - **Company:** SiiRA
@@ -816,14 +816,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-luxury-travel-coordinator-hirelatam
 
-### Senior Executive Assistant – Latin America (AI tools and workflow automation, Organizational and time management, Proficiency in Microsoft Office)
-- **Company:** Remote Leverage
-- **Salary:** $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-latin-america-ai-tools-and-workflow-automation-organi
-
-## Customer support (50 open roles)
+## Customer support (48 open roles)
 
 ### Technical Support Specialist
 - **Company:** Quik Hire Staffing
@@ -838,13 +831,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-14
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-quik-hire-staffing
-
-### Sales & Customer Success Specialist
-- **Company:** Hire With Near
-- **Salary:** $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-sales-customer-success-specialist-hire-with-near
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -1173,14 +1159,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-operations-micro1
 
-### Customer Support Assistant
-- **Company:** micro1
-- **Salary:** $20 – $70 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-assistant-micro1
-
-## Data/Analytics (49 open roles)
+## Data/Analytics (47 open roles)
 
 ### Technical Customer Support Team Lead
 - **Company:** ElevenLabs
@@ -1512,20 +1491,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-data-scientist-micro1
 
-### Marketing Specialist
-- **Company:** micro1
-- **Salary:** $25 – $50 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-micro1
-
-### Financial Data Analyst
-- **Company:** micro1
-- **Salary:** $40 – $70 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-financial-data-analyst-micro1
-
 ## IT/Engineering (2 open roles)
 
 ### Senior IT Engineer
@@ -1542,7 +1507,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-windows-patch-remediation-engineer-msp-sagan-recruitment
 
-## Legal (7 open roles)
+## Legal (6 open roles)
 
 ### Contract Specialist
 - **Company:** Insight Global
@@ -1586,14 +1551,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-17
 - **View Job:** https://globalcaribbeans.com/#card-financial-data-privacy-analyst-micro1
 
-### Lawyer
-- **Company:** micro1
-- **Salary:** $105 – $140 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-lawyer-micro1
+## Online Marketing (84 open roles)
 
-## Online Marketing (83 open roles)
+### Lead AI Video Editor
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-lead-ai-video-editor-remotely-talents-client-confidential
 
 ### Content Strategist
 - **Company:** Quik Hire Staffing
@@ -2176,7 +2141,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-video-editor-latino-legends
 
-## Operations (155 open roles)
+## Operations (151 open roles)
+
+### Production & Order Management Manager
+- **Company:** Near
+- **Salary:** $2,500 – $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-14
+- **View Job:** https://globalcaribbeans.com/#card-production-order-management-manager-near
 
 ### Garment Manufacturing QC Specialist - Freelance AI Trainer Project
 - **Company:** Meridial Marketplace, by Invisible
@@ -3234,42 +3206,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-computer-systems-analyst-micro1
 
-### Strategic Project Lead, Finance
-- **Company:** micro1
-- **Salary:** $3,000 – $10,000 / month
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-strategic-project-lead-finance-micro1
+## Other (432 open roles)
 
-### Strategic Project Lead, MD/Health
-- **Company:** micro1
-- **Salary:** $3,000 – $10,000 / month
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-strategic-project-lead-md-health-micro1
-
-### Strategic Project Lead, Law (J.D.)
-- **Company:** micro1
-- **Salary:** $3,000 – $10,000 / month
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-strategic-project-lead-law-j-d-micro1
-
-### Finance Expert
-- **Company:** micro1
-- **Salary:** $30 – $80 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-finance-expert-micro1
-
-### Sr. Product Designer
-- **Company:** Suralink
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-sr-product-designer-suralink
-
-## Other (441 open roles)
+### Investment Banker
+- **Company:** Quik Hire Staffing
+- **Salary:** $30 – $65 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-15
+- **View Job:** https://globalcaribbeans.com/#card-investment-banker-quik-hire-staffing
 
 ### Illustrator or Painter for Putumayo
 - **Company:** Putumayo Digital Media
@@ -6300,76 +6244,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-financial-legal-document-analyst-micro1
 
-### English Voice Coach
-- **Company:** micro1
-- **Salary:** $30 – $65 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-english-voice-coach-micro1
-
-### Finance & Investment Professional
-- **Company:** micro1
-- **Salary:** $154 – $210 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-finance-investment-professional-micro1
-
-### Accounting Specialist
-- **Company:** micro1
-- **Salary:** $60 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-accounting-specialist-micro1
-
-### Project Management Specialist
-- **Company:** micro1
-- **Salary:** $45 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-project-management-specialist-micro1
-
-### US Tax Law Analyst (EA/CA)
-- **Company:** micro1
-- **Salary:** $15 – $30 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-us-tax-law-analyst-ea-ca-micro1
-
-### Enterprise Client Partner (Government)
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-client-partner-government-micro1
-
-### Insurance Underwriter – Excess & Specialty
-- **Company:** micro1
-- **Salary:** $55 – $70 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-insurance-underwriter-excess-specialty-micro1
-
-### Graphic Designer
-- **Company:** micro1
-- **Salary:** $20 – $40 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-micro1
-
-### Remote Claims & Customer Experience Analyst
-- **Company:** HireLatam
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-remote-claims-customer-experience-analyst-hirelatam
-
-### Staff Product Designer
-- **Company:** Customer.io
-- **Salary:** $205,000 – $228,000 / year
-- **Location:** Global
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-staff-product-designer-customer-io
-
 ## Project Management (46 open roles)
 
 ### Construction Project Manager (Residential/Multifamily)
@@ -6697,7 +6571,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-digital-project-manager-sagan-recruitment
 
-## Recruiting (20 open roles)
+## Recruiting (19 open roles)
 
 ### Senior Technical Recruiter - Engineering
 - **Company:** Mercury
@@ -6705,13 +6579,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-engineering-mercury
-
-### Recruiter
-- **Company:** Simera
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-simera
 
 ### Talent Acquisition Specialist
 - **Company:** Hire With Near
@@ -6841,7 +6708,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-18
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-sagan-recruitment
 
-## Sales (105 open roles)
+## Sales (101 open roles)
+
+### Customer Service Sales Representative
+- **Company:** LumiMeds
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-15
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-sales-representative-lumimeds
 
 ### Partnerships Manager
 - **Company:** Quik Hire Staffing
@@ -6913,13 +6787,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-business-development-representative-bloomreach
-
-### Account Executive
-- **Company:** BoomerangFX
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-boomerangfx
 
 ### Sales Development Representative | 100% Remote | $1,200 to $2,000 USD per month (OTE)
 - **Company:** Salas Staffing
@@ -7555,35 +7422,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-17
 - **View Job:** https://globalcaribbeans.com/#card-sdr-new-grad-enterprise-ai-micro1
 
-### Remote Inside Sales Representative
-- **Company:** HireLatam
-- **Salary:** $1,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-16
-- **View Job:** https://globalcaribbeans.com/#card-remote-inside-sales-representative-hirelatam
-
-### SDR
-- **Company:** Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-sdr-near-4
-
-### BDR
-- **Company:** Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-bdr-near
-
-### Portfolio Sales Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** Remote
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-portfolio-sales-manager-sagan-recruitment
-
-## Software Development (190 open roles)
+## Software Development (189 open roles)
 
 ### AI Solutions Architect
 - **Company:** Quik Hire Staffing
@@ -8908,10 +8747,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-16
 - **View Job:** https://globalcaribbeans.com/#card-data-scientist-micro1-2
-
-### Magento Developer
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $4,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-15
-- **View Job:** https://globalcaribbeans.com/#card-magento-developer-sagan-recruitment
