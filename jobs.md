@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-16T04:53:33Z
+last_updated: 2026-06-16T11:20:56Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1064 active remote jobs** as of 2026-06-16.
+**1055 active remote jobs** as of 2026-06-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -662,7 +662,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-luxury-travel-coordinator-hirelatam
 
-## Customer support (44 open roles)
+## Customer support (48 open roles)
+
+### Customer Service & Dispatch Coordinator
+- **Company:** Globaltize
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-dispatch-coordinator-globaltize
+
+### E-Commerce Sales Support Specialist
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-e-commerce-sales-support-specialist-talentpop-app
+
+### Sales-Driven Customer Support Specialist
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-sales-driven-customer-support-specialist-talentpop-app
+
+### Infrastructure Support Specialist - Cisco Networking
+- **Company:** Workana
+- **Salary:** $5,000 – $5,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-infrastructure-support-specialist-cisco-networking-workana
 
 ### Head of Customer Service
 - **Company:** Somewhere
@@ -980,6 +1008,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Data/Analytics (43 open roles)
 
+### Influencer Outreach Specialist
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-influencer-outreach-specialist-talentpop-app-2
+
 ### Property Coordinator
 - **Company:** Latino Legends
 - **Salary:** $1,750 – $2,000 / month
@@ -1275,13 +1310,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-17
 - **View Job:** https://globalcaribbeans.com/#card-data-engineer-micro1
 
-### Data Scientist
-- **Company:** micro1
-- **Salary:** $30 – $150 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-data-scientist-micro1-3
-
 ## IT/Engineering (2 open roles)
 
 ### Senior IT Engineer
@@ -1349,7 +1377,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-17
 - **View Job:** https://globalcaribbeans.com/#card-financial-data-privacy-analyst-micro1
 
-## Online Marketing (76 open roles)
+## Online Marketing (77 open roles)
+
+### SEO Assistant
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-seo-assistant-talentpop-app
 
 ### SEO and AEM Specialist - 637
 - **Company:** LaTeam Partners
@@ -1884,7 +1919,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-video-editor-latino-legends
 
-## Operations (114 open roles)
+## Operations (110 open roles)
 
 ### Roofing Estimator
 - **Company:** Globaltize
@@ -1915,20 +1950,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-real-estate-listing-transaction-coordinator-globaltize
-
-### Lead, Clinical Review Pharmacist
-- **Company:** SmithRx
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-lead-clinical-review-pharmacist-smithrx
-
-### Production & Order Management Coordinator
-- **Company:** Hire With Near
-- **Salary:** $2,500 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-production-order-management-coordinator-hire-with-near
 
 ### Ecommerce Operations Specialist (Work From Home)
 - **Company:** Persona
@@ -2211,13 +2232,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-contract-reviewer-specialist-sagan-recruitment
-
-### Marketing Operations Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-marketing-operations-coordinator-bruntwork
 
 ### Business Operations Specialist
 - **Company:** Somewhere
@@ -2685,14 +2699,64 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-18
 - **View Job:** https://globalcaribbeans.com/#card-game-developer-java-libgdx-micro1
 
-### Network Security Engineer
+## Other (349 open roles)
+
+### Financial Advisor (CFA or CFP)
 - **Company:** micro1
 - **Salary:** Not Disclosed
 - **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-network-security-engineer-micro1
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-financial-advisor-cfa-or-cfp-micro1
 
-## Other (348 open roles)
+### Macroeconomic Modeling Specialist (EViews)
+- **Company:** micro1
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-macroeconomic-modeling-specialist-eviews-micro1-3
+
+### Personal Financial Advisor (Private Wealth)
+- **Company:** micro1
+- **Salary:** $80 – $110 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-personal-financial-advisor-private-wealth-micro1
+
+### SAP SD OTC Consultant
+- **Company:** RED Global
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-sap-sd-otc-consultant-red-global
+
+### Bilingual Senior Travel Consultant ERM, Mexico
+- **Company:** BCD Travel
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-senior-travel-consultant-erm-mexico-bcd-travel
+
+### Senior Mechanical Engineer (HVAC)
+- **Company:** Offshore Launch
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-mechanical-engineer-hvac-offshore-launch
+
+### Senior Travel Consultant ERM, Brazil
+- **Company:** BCD Travel
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-travel-consultant-erm-brazil-bcd-travel
+
+### Influencer Marketing Specialist
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-influencer-marketing-specialist-talentpop-app
 
 ### Patient Services Coordinator
 - **Company:** Somewhere
@@ -5092,55 +5156,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-17
 - **View Job:** https://globalcaribbeans.com/#card-law-clerk-micro1
 
-### Australian English Language Expert
-- **Company:** micro1
-- **Salary:** $15 – $25 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-australian-english-language-expert-micro1
-
-### English Recording Specialist
-- **Company:** micro1
-- **Salary:** $30 – $40 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-english-recording-specialist-micro1
-
-### Video Capture & Annotation Specialist
-- **Company:** micro1
-- **Salary:** $15 – $15 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-video-capture-annotation-specialist-micro1-2
-
-### Senior Media Designer
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-media-designer-micro1
-
-### Senior Presentation Designer
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-presentation-designer-micro1
-
-### Legal Expert
-- **Company:** micro1
-- **Salary:** $42 – $55 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-legal-expert-micro1-3
-
-### Motorola Razr User Tester
-- **Company:** micro1
-- **Salary:** $20 – $30 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-motorola-razr-user-tester-micro1
-
 ## Project Management (48 open roles)
 
 ### Infrastructure Project Manager
@@ -5625,7 +5640,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-18
 - **View Job:** https://globalcaribbeans.com/#card-remote-hr-manager-hirelatam
 
-## Sales (95 open roles)
+## Sales (97 open roles)
+
+### KOL Business Development
+- **Company:** BingX
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-kol-business-development-bingx
+
+### Digital Sales VA
+- **Company:** TalentPop App
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-digital-sales-va-talentpop-app
 
 ### Dispatch and Inbound Sales Specialist
 - **Company:** Somewhere
@@ -6298,7 +6327,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-amer-remote-com
 
-## Software Development (176 open roles)
+## Software Development (163 open roles)
+
+### Quality Assurance Engineer
+- **Company:** Duelbits
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-16
+- **View Job:** https://globalcaribbeans.com/#card-quality-assurance-engineer-duelbits
 
 ### .NET Developer
 - **Company:** YO IT Consulting
@@ -7435,101 +7471,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-17
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-electronjs-micro1
-
-### React Native Developer
-- **Company:** micro1
-- **Salary:** $1,000 – $5,000 / month
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-react-native-developer-micro1
-
-### Cloud Architect
-- **Company:** micro1
-- **Salary:** $40 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-cloud-architect-micro1
-
-### Machine Learning Engineer
-- **Company:** micro1
-- **Salary:** $30 – $100 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-machine-learning-engineer-micro1
-
-### Backend Engineer
-- **Company:** micro1
-- **Salary:** $30 – $80 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-micro1
-
-### Senior Backend Engineer (Node.js, AWS)
-- **Company:** micro1
-- **Salary:** $30 – $80 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-node-js-aws-micro1
-
-### Senior Frontend Developer (Javascript)
-- **Company:** micro1
-- **Salary:** $30 – $80 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-frontend-developer-javascript-micro1
-
-### QA Automation Engineer
-- **Company:** micro1
-- **Salary:** $30 – $90 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-qa-automation-engineer-micro1
-
-### Frontend Developer - (HTML,CSS)
-- **Company:** micro1
-- **Salary:** $30 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-frontend-developer-html-css-micro1
-
-### Quality Assurance Engineer
-- **Company:** micro1
-- **Salary:** $30 – $80 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-quality-assurance-engineer-micro1
-
-### Front-end Developer (Typescript)
-- **Company:** micro1
-- **Salary:** $30 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-front-end-developer-typescript-micro1
-
-### Fullstack Engineer (Python+React)
-- **Company:** micro1
-- **Salary:** $30 – $130 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-fullstack-engineer-python-react-micro1
-
-### Senior Software Engineer (Typescript)
-- **Company:** micro1
-- **Salary:** $30 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-typescript-micro1
-
-### Software Engineer
-- **Company:** micro1
-- **Salary:** $30 – $130 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-micro1
-
-### Fullstack Engineer
-- **Company:** micro1
-- **Salary:** $30 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-17
-- **View Job:** https://globalcaribbeans.com/#card-fullstack-engineer-micro1
