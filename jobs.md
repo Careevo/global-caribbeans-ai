@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-18T04:25:12Z
+last_updated: 2026-06-18T10:27:14Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1039 active remote jobs** as of 2026-06-18.
+**1040 active remote jobs** as of 2026-06-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1626,7 +1626,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-klaviyo-sms-sagan-recruitment
 
-## Operations (86 open roles)
+## Operations (87 open roles)
+
+### Lifecycle Specialist: Time & Attendance
+- **Company:** Remote.com
+- **Salary:** $29,750 – $67,000 / year
+- **Location:** AMER | Global | Anywhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-18
+- **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-time-attendance-remote-com-3
 
 ### Remote E-Commerce Operations Assistant
 - **Company:** HireLatam
@@ -2238,7 +2246,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-client-operations-manager-sagan-recruitment
 
-## Other (368 open roles)
+## Other (369 open roles)
+
+### Maintenance Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,300 – $1,380 / month
+- **Location:** Global
+- **Posted:** 2026-06-18
+- **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment
 
 ### Video/Static Content Editor
 - **Company:** Somewhere
@@ -5761,7 +5776,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-19
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-amer-remote-com
 
-## Software Development (226 open roles)
+## Software Development (225 open roles)
 
 ### Machine Learning Engineer - Remote Work
 - **Company:** BairesDev
@@ -7339,10 +7354,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-application-security-engineer-xai
-
-### SecOps Engineer
-- **Company:** micro1
-- **Salary:** $30 – $100 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-19
-- **View Job:** https://globalcaribbeans.com/#card-secops-engineer-micro1
