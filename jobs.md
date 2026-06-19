@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-19T10:45:19Z
+last_updated: 2026-06-19T15:29:50Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1054 active remote jobs** as of 2026-06-19.
+**1061 active remote jobs** as of 2026-06-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (40 open roles)
+## Accounting/Bookkeeping (42 open roles)
+
+### Human Resources Director
+- **Company:** Sagan Recruitment
+- **Salary:** $5,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-human-resources-director-sagan-recruitment
+
+### Accounts Payable Specialist
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-specialist-somewhere
 
 ### Human Resource Director
 - **Company:** Sagan Recruitment
@@ -497,7 +511,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-hirelatam-3
 
-## Customer support (30 open roles)
+## Customer support (29 open roles)
 
 ### Customer Service Representative
 - **Company:** Sagan Recruitment
@@ -583,13 +597,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-remote-customer-service-rep-dispatcher-hirelatam
-
-### After-Hours Customer Service Representative (Part-time)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $1,800 / month
-- **Location:** Global
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-after-hours-customer-service-representative-part-time-sagan-recruitment
 
 ### Customer Support Email Analyst
 - **Company:** micro1
@@ -1267,7 +1274,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (59 open roles)
+## Online Marketing (60 open roles)
+
+### Paid Social Growth Hacker (Meta, TikTok & YouTube)
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-paid-social-growth-hacker-meta-tiktok-youtube-mappa-2
 
 ### Content Marketing Manager
 - **Company:** Uscreen
@@ -2309,7 +2323,36 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-time-attendance-remote-com
 
-## Other (367 open roles)
+## Other (371 open roles)
+
+### Engineering Team Leader
+- **Company:** Remote.com
+- **Salary:** $75,450 – $169,700 / year
+- **Location:** Global
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-engineering-team-leader-remote-com-3
+
+### Uyghur Bilingual Expert
+- **Company:** micro1
+- **Salary:** $40 – $95 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-uyghur-bilingual-expert-micro1
+
+### Data-Video Generalist
+- **Company:** micro1
+- **Salary:** $13 – $13 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-data-video-generalist-micro1-2
+
+### Customer Experience & Scheduling Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-customer-experience-scheduling-specialist-sagan-recruitment
 
 ### Director of Narrative & Organic Social
 - **Company:** Uscreen
@@ -5329,7 +5372,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (73 open roles)
+## Sales (72 open roles)
 
 ### Director of Strategic Growth & Business Development (Residential Construction & Development)
 - **Company:** BruntWork
@@ -5838,14 +5881,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-remote-investor-relations-specialist-hirelatam
 
-### Inside Sales Representative (Senior Creative Specialist)
-- **Company:** THE/STUDIO
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-senior-creative-specialist-the-studio
+## Software Development (231 open roles)
 
-## Software Development (229 open roles)
+### Senior Backend Engineer
+- **Company:** Remote.com
+- **Salary:** $53,300 – $119,850 / year
+- **Location:** Global
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-remote-com-2
+
+### Full Stack Software Engineer (TypeScript/React)
+- **Company:** OneImaging
+- **Salary:** $120,000 – $180,000 / year
+- **Location:** Global
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-software-engineer-typescript-react-oneimaging
 
 ### Site Reliability Engineer
 - **Company:** Supabase
