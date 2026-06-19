@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-19T04:53:03Z
+last_updated: 2026-06-19T10:45:19Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1051 active remote jobs** as of 2026-06-19.
+**1054 active remote jobs** as of 2026-06-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (39 open roles)
+## Accounting/Bookkeeping (40 open roles)
+
+### Human Resource Director
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 – $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-human-resource-director-sagan-recruitment
 
 ### Senior Property Accountant
 - **Company:** Sagan Recruitment
@@ -1260,7 +1267,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (58 open roles)
+## Online Marketing (59 open roles)
+
+### Content Marketing Manager
+- **Company:** Uscreen
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-uscreen
 
 ### Director, Product Marketing, Platform & Drupal
 - **Company:** Acquia
@@ -1670,6 +1684,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-remote-onboarding-specialist-hirelatam
 
 ## Operations (88 open roles)
+
+### Senior Brand Designer
+- **Company:** Bitrise
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-senior-brand-designer-bitrise
 
 ### Event Marketing Coordinator
 - **Company:** Customer.io
@@ -2288,15 +2309,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-time-attendance-remote-com
 
-### Procurement Analyst
-- **Company:** Remote.com
-- **Salary:** €38,750 – €43,600 / year
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-procurement-analyst-remote-com
-
 ## Other (367 open roles)
+
+### Director of Narrative & Organic Social
+- **Company:** Uscreen
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-director-of-narrative-organic-social-uscreen
 
 ### Product Designer – Content Solutions
 - **Company:** Fueled
@@ -4867,14 +4887,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-employee-relations-transitions-remote-com-2
 
-### Engineering Team Leader
-- **Company:** Remote.com
-- **Salary:** $75,450 – $169,700 / year
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-engineering-team-leader-remote-com
-
 ## Project Management (37 open roles)
 
 ### Project Manager - Remote Work
@@ -5317,7 +5329,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (74 open roles)
+## Sales (73 open roles)
 
 ### Director of Strategic Growth & Business Development (Residential Construction & Development)
 - **Company:** BruntWork
@@ -5833,14 +5845,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-20
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-senior-creative-specialist-the-studio
 
-### Account Executive - Dental
-- **Company:** Clipboard Health
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-20
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-dental-clipboard-health
+## Software Development (229 open roles)
 
-## Software Development (227 open roles)
+### Site Reliability Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-site-reliability-engineer-supabase
+
+### Senior Software Engineer, Backend
+- **Company:** Customer.io
+- **Salary:** $150,000 – $200,000 / year
+- **Location:** Americas
+- **Posted:** 2026-06-19
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-customer-io
 
 ### Full Stack Engineer
 - **Company:** Kajae
