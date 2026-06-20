@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-20T09:25:21Z
+last_updated: 2026-06-20T14:13:31Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1065 active remote jobs** as of 2026-06-20.
+**1070 active remote jobs** as of 2026-06-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -539,7 +539,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-hirelatam-3
 
-## Customer support (29 open roles)
+## Customer support (30 open roles)
+
+### Technical Customer Success Manager
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-manager-posthog-2
 
 ### Customer Service Representative
 - **Company:** Sagan Recruitment
@@ -749,7 +756,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-support-engineer-l2-developer-track-saas-startup-offshore-launch
 
-## Data/Analytics (75 open roles)
+## Data/Analytics (77 open roles)
+
+### Forward Deployed Engineer
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-forward-deployed-engineer-posthog
+
+### Backend Engineer — Billing
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-billing-posthog
 
 ### Senior Data Scientist
 - **Company:** Customer.io
@@ -1323,7 +1344,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (65 open roles)
+## Online Marketing (66 open roles)
+
+### Developer Marketer - AI observability
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-developer-marketer-ai-observability-posthog
 
 ### Director of Marketing Data & Analytics
 - **Company:** Somewhere
@@ -2391,7 +2419,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-director-engineering-customer-io
 
-## Other (366 open roles)
+## Other (365 open roles)
+
+### Technical Ex-Founder
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-technical-ex-founder-posthog
 
 ### English Language Specialist (Transcription)
 - **Company:** micro1
@@ -4949,20 +4984,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-client-partner-ecommerce-digital-native-xai
 
-### Client Partner
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-client-partner-xai-3
-
-### Client Partner
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-client-partner-xai-2
-
 ## Project Management (38 open roles)
 
 ### Technical Project Manager LATAM Only
@@ -5412,7 +5433,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (74 open roles)
+## Sales (75 open roles)
+
+### Revenue Ops Manager (sales focused)
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-revenue-ops-manager-sales-focused-posthog
 
 ### [CG.CR] - Carrier Sales Representative
 - **Company:** Somewhere
@@ -5936,7 +5964,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-appointment-setting-sagan-recruitment-2
 
-## Software Development (227 open roles)
+## Software Development (228 open roles)
+
+### ClickHouse Operations Engineer
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-clickhouse-operations-engineer-posthog
+
+### Product Engineer
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-product-engineer-posthog
 
 ### Sr Full Stack Engineer
 - **Company:** Somewhere
@@ -7522,10 +7564,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** N/A
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-backend-engineer-billing-tax-stripe
-
-### Senior Full Stack Engineer
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-remotely-talents-client-confidential
