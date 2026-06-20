@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-20T04:08:10Z
+last_updated: 2026-06-20T09:25:21Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1071 active remote jobs** as of 2026-06-20.
+**1065 active remote jobs** as of 2026-06-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1781,7 +1781,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-remote-onboarding-specialist-hirelatam
 
-## Operations (87 open roles)
+## Operations (86 open roles)
 
 ### Remote Service Department Assistant
 - **Company:** HireLatam
@@ -2391,14 +2391,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-director-engineering-customer-io
 
-### Civil Engineer
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-civil-engineer-xai
-
-## Other (369 open roles)
+## Other (366 open roles)
 
 ### English Language Specialist (Transcription)
 - **Company:** micro1
@@ -4970,27 +4963,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-client-partner-xai-2
 
-### Client Partner
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-client-partner-xai
-
-### Mid/Senior AI Cinematic Video Editor (Full Remote - Worldwide)
-- **Company:** EverAI
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-full-remote-worldwide-everai-4
-
-### Client Parter (Madrid)
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-client-parter-madrid-xai
-
 ## Project Management (38 open roles)
 
 ### Technical Project Manager LATAM Only
@@ -5440,7 +5412,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (76 open roles)
+## Sales (74 open roles)
 
 ### [CG.CR] - Carrier Sales Representative
 - **Company:** Somewhere
@@ -5963,20 +5935,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-21
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-appointment-setting-sagan-recruitment-2
-
-### Client Account Manager (Madrid)
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-client-account-manager-madrid-xai
-
-### Client Account Manager
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-client-account-manager-xai
 
 ## Software Development (227 open roles)
 
