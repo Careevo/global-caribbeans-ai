@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-21T09:56:41Z
+last_updated: 2026-06-21T14:20:58Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1066 active remote jobs** as of 2026-06-21.
+**1064 active remote jobs** as of 2026-06-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2419,7 +2419,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-director-engineering-customer-io
 
-## Other (361 open roles)
+## Other (358 open roles)
 
 ### Academic Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -4935,27 +4935,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-italian-language-expert-micro1
 
-### Marathi Audio transcription Expert
-- **Company:** micro1
-- **Salary:** $10 – $30 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-marathi-audio-transcription-expert-micro1
-
-### Sindihi Language Expert
-- **Company:** micro1
-- **Salary:** $50 – $85 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-sindihi-language-expert-micro1
-
-### Faroese Language Expert
-- **Company:** micro1
-- **Salary:** $50 – $95 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-faroese-language-expert-micro1
-
 ## Project Management (39 open roles)
 
 ### Construction Operations Manager
@@ -5412,7 +5391,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (74 open roles)
+## Sales (75 open roles)
+
+### Account Executive (Full-Cycle)
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-21
+- **View Job:** https://globalcaribbeans.com/#card-account-executive-full-cycle-sagan-recruitment
 
 ### Revenue Ops Manager (sales focused)
 - **Company:** PostHog
