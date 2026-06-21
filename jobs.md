@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-21T14:20:58Z
+last_updated: 2026-06-21T19:49:54Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1064 active remote jobs** as of 2026-06-21.
+**1062 active remote jobs** as of 2026-06-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -323,7 +323,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-billing-operations-analyst-twilio
 
-## Admin (30 open roles)
+## Admin (29 open roles)
 
 ### Administrative Assistant - Data Entry
 - **Company:** New Era Technology
@@ -530,14 +530,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-office-manager-hirelatam
-
-### Remote Executive Assistant
-- **Company:** HireLatam
-- **Salary:** $1,800 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-hirelatam-3
 
 ## Customer support (31 open roles)
 
@@ -1795,7 +1787,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-design-engineer-presence-stripe
 
-## Operations (88 open roles)
+## Operations (87 open roles)
 
 ### Chief of Staff
 - **Company:** Sagan Recruitment
@@ -2412,14 +2404,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-financial-crimes-operations-manager-bridge-stripe
 
-### Director, Engineering
-- **Company:** Customer.io
-- **Salary:** $230,000 – $270,000 / year
-- **Location:** Global
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-director-engineering-customer-io
-
-## Other (358 open roles)
+## Other (357 open roles)
 
 ### Academic Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -4928,13 +4913,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-global-payments-experiences-engineering-manager-stripe
 
-### Italian Language Expert
-- **Company:** micro1
-- **Salary:** $15 – $30 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-italian-language-expert-micro1
-
 ## Project Management (39 open roles)
 
 ### Construction Operations Manager
@@ -5391,7 +5369,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (75 open roles)
+## Sales (76 open roles)
+
+### Senior Blockchain Engineer
+- **Company:** Holitix
+- **Salary:** $158,400 – $176,700 / year
+- **Location:** Global
+- **Posted:** 2026-06-21
+- **View Job:** https://globalcaribbeans.com/#card-senior-blockchain-engineer-holitix
 
 ### Account Executive (Full-Cycle)
 - **Company:** Sagan Recruitment
