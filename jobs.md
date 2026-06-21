@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-21T04:49:09Z
+last_updated: 2026-06-21T09:56:41Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1067 active remote jobs** as of 2026-06-21.
+**1066 active remote jobs** as of 2026-06-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -539,7 +539,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-hirelatam-3
 
-## Customer support (30 open roles)
+## Customer support (31 open roles)
+
+### Inbound Sales & Support Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,300 – $1,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-21
+- **View Job:** https://globalcaribbeans.com/#card-inbound-sales-support-specialist-sagan-recruitment
 
 ### Technical Customer Success Manager
 - **Company:** PostHog
@@ -756,7 +763,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-support-engineer-l2-developer-track-saas-startup-offshore-launch
 
-## Data/Analytics (76 open roles)
+## Data/Analytics (75 open roles)
 
 ### Forward Deployed Engineer
 - **Company:** PostHog
@@ -1284,13 +1291,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-kyc-operations-associate-india-stripe
 
-### Market Research Analysts and Marketing Specialists
-- **Company:** micro1
-- **Salary:** $25 – $50 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-market-research-analysts-and-marketing-specialists-micro1
-
 ## IT/Engineering (4 open roles)
 
 ### Security Operations Engineer
@@ -1795,7 +1795,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-design-engineer-presence-stripe
 
-## Operations (87 open roles)
+## Operations (88 open roles)
+
+### Chief of Staff
+- **Company:** Sagan Recruitment
+- **Salary:** $3,500 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-21
+- **View Job:** https://globalcaribbeans.com/#card-chief-of-staff-sagan-recruitment
 
 ### Technical Operations Manager
 - **Company:** Customer.io
@@ -2412,7 +2419,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-director-engineering-customer-io
 
-## Other (364 open roles)
+## Other (361 open roles)
+
+### Academic Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-21
+- **View Job:** https://globalcaribbeans.com/#card-academic-operations-coordinator-sagan-recruitment
 
 ### Senior Motion Designer
 - **Company:** Bone Studio
@@ -4942,35 +4956,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-faroese-language-expert-micro1
 
-### Dhivehi Bilingual Expert
-- **Company:** micro1
-- **Salary:** $45 – $95 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-dhivehi-bilingual-expert-micro1
+## Project Management (39 open roles)
 
-### Azerbaijani Bilingual Expert
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-azerbaijani-bilingual-expert-micro1
-
-### Telugu Language Expert
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-telugu-language-expert-micro1
-
-### Public Equity Investment Expert
-- **Company:** micro1
-- **Salary:** $200 – $300 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-public-equity-investment-expert-micro1
-
-## Project Management (38 open roles)
+### Construction Operations Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,200 – $3,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-21
+- **View Job:** https://globalcaribbeans.com/#card-construction-operations-manager-sagan-recruitment
 
 ### Technical Project Manager LATAM Only
 - **Company:** Remote Talent LATAM
