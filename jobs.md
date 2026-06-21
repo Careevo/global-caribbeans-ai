@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-20T19:43:55Z
+last_updated: 2026-06-21T04:49:09Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1069 active remote jobs** as of 2026-06-20.
+**1067 active remote jobs** as of 2026-06-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1337,7 +1337,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (66 open roles)
+## Online Marketing (65 open roles)
 
 ### Developer Marketer - AI observability
 - **Company:** PostHog
@@ -1794,13 +1794,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** US, Canada
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-design-engineer-presence-stripe
-
-### Remote Onboarding Specialist
-- **Company:** HireLatam
-- **Salary:** $3,000 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-remote-onboarding-specialist-hirelatam
 
 ## Operations (87 open roles)
 
@@ -2420,6 +2413,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-director-engineering-customer-io
 
 ## Other (364 open roles)
+
+### Senior Motion Designer
+- **Company:** Bone Studio
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-06-20
+- **View Job:** https://globalcaribbeans.com/#card-senior-motion-designer-bone-studio
 
 ### Competitive Coder
 - **Company:** micro1
@@ -4970,13 +4970,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-22
 - **View Job:** https://globalcaribbeans.com/#card-public-equity-investment-expert-micro1
 
-### Scriptwriter
-- **Company:** micro1
-- **Salary:** $20 – $70 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-22
-- **View Job:** https://globalcaribbeans.com/#card-scriptwriter-micro1
-
 ## Project Management (38 open roles)
 
 ### Technical Project Manager LATAM Only
@@ -5426,7 +5419,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (75 open roles)
+## Sales (74 open roles)
 
 ### Revenue Ops Manager (sales focused)
 - **Company:** PostHog
@@ -5949,13 +5942,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-go-to-market-speechify
-
-### Inside Sales Representative (Appointment Setting)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-21
-- **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-appointment-setting-sagan-recruitment-2
 
 ## Software Development (228 open roles)
 
