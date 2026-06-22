@@ -2,18 +2,53 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-22T04:57:23Z
+last_updated: 2026-06-22T12:13:20Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1029 active remote jobs** as of 2026-06-22.
+**1008 active remote jobs** as of 2026-06-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (44 open roles)
+## Accounting/Bookkeeping (45 open roles)
+
+### Senior Bookkeeper (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-bookkeeper-work-from-home-persona
+
+### Senior Accountant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-work-from-home-persona
+
+### QuickBooks Accountant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-quickbooks-accountant-work-from-home-persona-2
+
+### Accountant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-accountant-work-from-home-persona
+
+### Bookkeeper (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-work-from-home-persona
 
 ### Bookkeeper
 - **Company:** Somewhere
@@ -126,27 +161,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-accountant-remote-leverage-2
-
-### QuickBooks Accountant (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-quickbooks-accountant-work-from-home-persona
-
-### Accountant (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-accountant-work-from-home-persona-2
-
-### Bookkeeper (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-work-from-home-persona-2
 
 ### Accounts Receivable & Billing Specialist
 - **Company:** Sagan Recruitment
@@ -316,14 +330,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-collections-specialist-sagan-recruitment
 
-### Billing Operations Analyst
-- **Company:** Twilio
-- **Salary:** Not Disclosed
-- **Location:** Mexico City, Mexico
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-billing-operations-analyst-twilio
-
 ## Admin (30 open roles)
+
+### AI Executive Assistant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-ai-executive-assistant-work-from-home-persona-2
+
+### Senior Executive Assistant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-work-from-home-persona
+
+### Executive Assistant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-work-from-home-persona-2
+
+### Virtual Assistant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-work-from-home-persona-2
 
 ### Real Estate Administrative Assistant
 - **Company:** BruntWork
@@ -419,34 +454,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-remote-csr-lead-hirelatam
 
-### AI Executive Assistant (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-ai-executive-assistant-work-from-home-persona
-
-### Senior Executive Assistant (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-work-from-home-persona-2
-
-### Executive Assistant (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-work-from-home-persona
-
-### Virtual Assistant (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-work-from-home-persona
-
 ### Administrative Assistant
 - **Company:** Virtustant
 - **Salary:** Not Disclosed
@@ -541,6 +548,34 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Customer support (31 open roles)
 
+### Customer Support Assistant (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-assistant-work-from-home-persona
+
+### Customer Support and IT Helpdesk Specialist (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-and-it-helpdesk-specialist-work-from-home-persona
+
+### Client Support Associate (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-client-support-associate-work-from-home-persona-2
+
+### Customer Service Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-manager-work-from-home-persona
+
 ### Inbound Sales & Support Specialist
 - **Company:** Sagan Recruitment
 - **Salary:** $1,300 – $1,600 / month
@@ -597,34 +632,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-virtual-latinos
-
-### Customer Support Assistant (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-assistant-work-from-home-persona-2
-
-### Customer Support and IT Helpdesk Specialist (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-and-it-helpdesk-specialist-work-from-home-persona-2
-
-### Customer Service Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-manager-work-from-home-persona-2
-
-### Client Support Associate (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-client-support-associate-work-from-home-persona
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -763,7 +770,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-support-engineer-l2-developer-track-saas-startup-offshore-launch
 
-## Data/Analytics (72 open roles)
+## Data/Analytics (71 open roles)
+
+### Senior Forward Deployed Engineer
+- **Company:** Remote.com
+- **Salary:** Not Disclosed
+- **Location:** AMER | Global | Anywhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-forward-deployed-engineer-remote-com
+
+### Account Manager (B2B E-commerce) (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-account-manager-b2b-e-commerce-work-from-home-persona
 
 ### Forward Deployed Engineer
 - **Company:** PostHog
@@ -1101,26 +1123,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-bi-analyst-remote-work-bairesdev
 
-### Senior SQL Server Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-senior-sql-server-developer-remote-work-bairesdev
-
 ### Controlling - Strategic Initiatives Analyst - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-controlling-strategic-initiatives-analyst-remote-work-bairesdev
-
-### SAP Hana Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-sap-hana-developer-remote-work-bairesdev
 
 ### Property Coordinator
 - **Company:** Latino Legends
@@ -1135,13 +1143,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-entry-level-junior-trader-infiniti-group
-
-### Power BI - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-power-bi-remote-work-bairesdev
 
 ### Technical Customer Support Team Lead
 - **Company:** ElevenLabs
@@ -1323,7 +1324,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (59 open roles)
+## Online Marketing (61 open roles)
+
+### Marketing Specialist (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-work-from-home-persona
+
+### Marketing Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-marketing-manager-work-from-home-persona
+
+### Marketing Associate (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-marketing-associate-work-from-home-persona-2
 
 ### Developer Marketer - AI observability
 - **Company:** PostHog
@@ -1529,13 +1551,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-patient-development-sales-coordinator-somewhere
 
-### Marketing Associate (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-marketing-associate-work-from-home-persona
-
 ### Lead AI Video Editor
 - **Company:** Remotely Talents (client confidential)
 - **Salary:** Not Disclosed
@@ -1739,7 +1754,43 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-25
 - **View Job:** https://globalcaribbeans.com/#card-brand-designer-social-media-manager-elanbykery
 
-## Operations (86 open roles)
+## Operations (82 open roles)
+
+### Ecommerce Operations Specialist (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-ecommerce-operations-specialist-work-from-home-persona-2
+
+### Supply Chain Analyst (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-supply-chain-analyst-work-from-home-persona-2
+
+### Chief of Staff to Founder (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-chief-of-staff-to-founder-work-from-home-persona-2
+
+### Executive Operations Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-executive-operations-manager-work-from-home-persona-2
+
+### Senior Operations Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-operations-manager-work-from-home-persona
 
 ### Chief of Staff
 - **Company:** Sagan Recruitment
@@ -1939,13 +1990,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-report-writer-ops-associate-somewhere
 
-### Semi Senior Chargebee Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-semi-senior-chargebee-engineer-remote-work-bairesdev
-
 ### Remote Construction Project Manager (Part-Time)
 - **Company:** HireLatam
 - **Salary:** $1,800 / month
@@ -1974,34 +2018,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-deal-commercial-strategy-operations-lead-remote-com
-
-### Ecommerce Operations Specialist (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-ecommerce-operations-specialist-work-from-home-persona
-
-### Supply Chain Analyst (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-supply-chain-analyst-work-from-home-persona
-
-### Chief of Staff to Founder (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-chief-of-staff-to-founder-work-from-home-persona
-
-### Executive Operations Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-executive-operations-manager-work-from-home-persona
 
 ### Contact Center Operations Manager (Healthcare)
 - **Company:** Sagan Recruitment
@@ -2187,13 +2203,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-vibe-coder-remote-leverage
 
-### Property Portfolio Business Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-property-portfolio-business-manager-sagan-recruitment
-
 ### Strategic Procurement & Pricing Analyst
 - **Company:** Sagan Recruitment
 - **Salary:** $2,000 – $3,000 / month
@@ -2328,28 +2337,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-24
 - **View Job:** https://globalcaribbeans.com/#card-electronic-engineer-ngspice-expert-micro1
 
-### Solutions Architect
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-solutions-architect-gitlab
+## Other (351 open roles)
 
-### Manager, Professional Services Engineers
-- **Company:** GitLab
+### Bilingual Property Management & Operations Coordinator (English/Spanish)
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-manager-professional-services-engineers-gitlab-2
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-operations-coordinator-english-spanish-bruntwork
 
-### Engagement Manager, META
-- **Company:** GitLab
+### Data Annotation Generalist
+- **Company:** micro1
+- **Salary:** $20 – $20 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-data-annotation-generalist-micro1
+
+### Insurance Claim Specialist
+- **Company:** micro1
+- **Salary:** $30 – $55 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-insurance-claim-specialist-micro1
+
+### Startup Generalist (Work From Home)
+- **Company:** Persona
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-engagement-manager-meta-gitlab
-
-## Other (352 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-startup-generalist-work-from-home-persona-2
 
 ### Academic Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -3298,27 +3314,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-ghl-specialist-virtustant
 
-### Rust Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-rust-developer-remote-work-bairesdev
-
-### Salesforce Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-salesforce-developer-remote-work-bairesdev
-
-### Salesforce Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-salesforce-engineer-remote-work-bairesdev
-
 ### Personal Injury Legal Intake Specialist (After Hours)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,700 / month
@@ -3424,20 +3419,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-medallion
-
-### Community Manager (Substack, Reddit, X & Bluesky Growth Lead) (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-community-manager-substack-reddit-x-bluesky-growth-lead-work-from-home-persona
-
-### Startup Generalist (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-startup-generalist-work-from-home-persona
 
 ### Loss Prevention Associate
 - **Company:** Lendbuzz
@@ -4825,6 +4806,41 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Project Management (36 open roles)
 
+### Client Operations Manager (Accounting Services) (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-client-operations-manager-accounting-services-work-from-home-persona
+
+### Senior Technical Product Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-work-from-home-persona
+
+### Senior Technical Project Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-technical-project-manager-work-from-home-persona
+
+### Project Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-work-from-home-persona-2
+
+### Assistant Project Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-assistant-project-manager-work-from-home-persona
+
 ### Construction Operations Manager
 - **Company:** Sagan Recruitment
 - **Salary:** $2,200 – $3,200 / month
@@ -4895,13 +4911,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-leverage
 
-### Senior Product Owner - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-owner-remote-work-bairesdev
-
 ### Senior Product Owner / R+D - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -4916,40 +4925,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-scrum-master-trabajo-remoto-bairesdev
 
-### Infrastructure Project Manager
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-infrastructure-project-manager-bruntwork
-
 ### Product Manager, CEH
 - **Company:** Chili Piper
 - **Salary:** Not Disclosed
 - **Location:** Global
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-ceh-chili-piper
-
-### Junior Product Owner - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-junior-product-owner-remote-work-bairesdev
-
-### Project Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-project-manager-work-from-home-persona
-
-### Assistant Project Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-assistant-project-manager-work-from-home-persona-2
 
 ### Construction Project Manager (Residential/Multifamily)
 - **Company:** Sagan Recruitment
@@ -5080,7 +5061,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-knowledge-training-manager-sagan-recruitment
 
-## Recruiting (25 open roles)
+## Recruiting (26 open roles)
+
+### HR & Recruitment Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-hr-recruitment-manager-work-from-home-persona
+
+### Senior Talent Specialist (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-talent-specialist-work-from-home-persona
+
+### Senior Recruiter (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-work-from-home-persona-2
 
 ### Senior People Business Partner
 - **Company:** Wikimedia Foundation
@@ -5158,20 +5160,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
-
-### Senior Recruiter (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-work-from-home-persona
-
-### HR & Recruitment Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-hr-recruitment-manager-work-from-home-persona-2
 
 ### Senior Technical Recruiter - Engineering
 - **Company:** Mercury
@@ -5259,6 +5247,34 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
 ## Sales (75 open roles)
+
+### Sales Account Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-sales-account-manager-work-from-home-persona
+
+### Business Development Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-business-development-manager-work-from-home-persona-2
+
+### Account Manager (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-account-manager-work-from-home-persona-2
+
+### Account Executive (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-account-executive-work-from-home-persona
 
 ### Commercial Account Executive
 - **Company:** GitLab
@@ -5515,20 +5531,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-partnerships-manager-safetywing
 
-### Business Development Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-business-development-manager-work-from-home-persona
-
-### Account Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-account-manager-work-from-home-persona
-
 ### Sales Operations Specialist (CRM & Pipeline Operations)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,500 / month
@@ -5775,21 +5777,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-remote-inside-sales-representative-hirelatam-2
 
-### Senior Named Account Executive, Montreal
-- **Company:** Cloudflare
-- **Salary:** Not Disclosed
-- **Location:** Distributed
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-named-account-executive-montreal-cloudflare
+## Software Development (193 open roles)
 
-### Strategic Account Executive
-- **Company:** GitLab
+### Senior Software Engineer (Work From Home)
+- **Company:** Persona
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-strategic-account-executive-gitlab
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-work-from-home-persona
 
-## Software Development (212 open roles)
+### QA Software Engineer Lead (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-qa-software-engineer-lead-work-from-home-persona
 
 ### Senior Site Reliability Engineer, Data Persistence
 - **Company:** Wikimedia Foundation
@@ -6443,13 +6445,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-big-data-engineer-remote-work-bairesdev
 
-### Senior Front-End Developer (React) - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-senior-front-end-developer-react-remote-work-bairesdev
-
 ### Angular Developer - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -6484,13 +6479,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-ai-engineer-remote-work-bairesdev
-
-### Scala Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-scala-developer-remote-work-bairesdev
 
 ### Shopify Engineer - Remote Work
 - **Company:** BairesDev
@@ -6549,13 +6537,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-senior-site-reliability-engineer-remote-com
-
-### Junior ServiceNow Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-junior-servicenow-developer-remote-work-bairesdev
 
 ### Senior Full Stack Engineer
 - **Company:** Fueled
@@ -7151,129 +7132,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-24
 - **View Job:** https://globalcaribbeans.com/#card-geospatial-analysis-specialist-qgis-micro1
-
-### Staff Backend (Python) Engineer, AI Engineering:Duo Chat
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-staff-backend-python-engineer-ai-engineering-duo-chat-gitlab
-
-### Senior Platform Engineer(Golang), Software Supply Chain Security: Authentication
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-platform-engineer-golang-software-supply-chain-security-authentication-gi
-
-### Senior Backend Engineer (Ruby on Rails), Plan: Knowledge
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-ruby-on-rails-plan-knowledge-gitlab
-
-### Senior AI Engineer
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-ai-engineer-gitlab-2
-
-### Senior AI Engineer
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-ai-engineer-gitlab
-
-### Forward Deployed Engnieer - META
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-forward-deployed-engnieer-meta-gitlab-2
-
-### Forward Deployed Engineer
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-forward-deployed-engineer-gitlab-4
-
-### Forward Deployed Engineer
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-forward-deployed-engineer-gitlab-3
-
-### Forward Deployed Engineer
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-forward-deployed-engineer-gitlab-2
-
-### Field Strategist, Forward Deployed Engineer
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-field-strategist-forward-deployed-engineer-gitlab-2
-
-### Tech Lead, Web Core Product & Chrome Extension
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-tech-lead-web-core-product-chrome-extension-speechify-2
-
-### Tech Lead, Web Core Product & Chrome Extension
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-tech-lead-web-core-product-chrome-extension-speechify
-
-### Tech Lead, Android Core Product
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-tech-lead-android-core-product-speechify-2
-
-### Tech Lead, Android Core Product
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-tech-lead-android-core-product-speechify
-
-### Software Engineer, Platform
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-platform-speechify-2
-
-### Software Engineer, Platform
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-platform-speechify
-
-### Software Engineer, iOS Core Product
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ios-core-product-speechify-4
-
-### Software Engineer, iOS Core Product
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ios-core-product-speechify-3
