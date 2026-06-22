@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-21T19:49:54Z
+last_updated: 2026-06-22T04:57:23Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1062 active remote jobs** as of 2026-06-21.
+**1029 active remote jobs** as of 2026-06-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -323,7 +323,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-billing-operations-analyst-twilio
 
-## Admin (29 open roles)
+## Admin (30 open roles)
+
+### Real Estate Administrative Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-21
+- **View Job:** https://globalcaribbeans.com/#card-real-estate-administrative-assistant-bruntwork
 
 ### Administrative Assistant - Data Entry
 - **Company:** New Era Technology
@@ -755,7 +763,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-support-engineer-l2-developer-track-saas-startup-offshore-launch
 
-## Data/Analytics (75 open roles)
+## Data/Analytics (72 open roles)
 
 ### Forward Deployed Engineer
 - **Company:** PostHog
@@ -1262,27 +1270,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-data-scientist-customer-io
 
-### Staff Data Scientist
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-staff-data-scientist-stripe
-
-### Manager, Community Operations
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Mexico City
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-manager-community-operations-stripe
-
-### KYC Operations Associate, India
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** LOCATION
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-kyc-operations-associate-india-stripe
-
 ## IT/Engineering (4 open roles)
 
 ### Security Operations Engineer
@@ -1313,7 +1300,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-windows-patch-remediation-engineer-msp-sagan-recruitment
 
-## Legal (2 open roles)
+## Legal (3 open roles)
+
+### Commercial Counsel, Sales
+- **Company:** Stripe
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
 ### Transactional Attorney
 - **Company:** micro1
@@ -1329,7 +1323,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (65 open roles)
+## Online Marketing (59 open roles)
 
 ### Developer Marketer - AI observability
 - **Company:** PostHog
@@ -1745,49 +1739,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-25
 - **View Job:** https://globalcaribbeans.com/#card-brand-designer-social-media-manager-elanbykery
 
-### Go-to-Market Engineer
-- **Company:** Speechify
-- **Salary:** $150,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-go-to-market-engineer-speechify-2
-
-### Go-to-Market Engineer
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-go-to-market-engineer-speechify
-
-### Specialist Solutions Architect, Money Management
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-specialist-solutions-architect-money-management-stripe
-
-### Regional Field Marketing Manager (Northern and Southern Europe)
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** London/Amsterdam
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-regional-field-marketing-manager-northern-and-southern-europe-stripe
-
-### Design Manager, Web Presence
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** US / Canada
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-design-manager-web-presence-stripe
-
-### Design Engineer, Presence
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** US, Canada
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-design-engineer-presence-stripe
-
-## Operations (87 open roles)
+## Operations (86 open roles)
 
 ### Chief of Staff
 - **Company:** Sagan Recruitment
@@ -2397,14 +2349,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-engagement-manager-meta-gitlab
 
-### Financial Crimes Operations Manager, Bridge
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Mexico City
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-financial-crimes-operations-manager-bridge-stripe
-
-## Other (357 open roles)
+## Other (352 open roles)
 
 ### Academic Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -4878,42 +4823,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-24
 - **View Job:** https://globalcaribbeans.com/#card-freecad-expert-bim-ifc-focus-micro1
 
-### Head of Agent Relations
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-head-of-agent-relations-speechify
-
-### Senior Sales & Agency Manager (Spain)
-- **Company:** xAI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-sales-agency-manager-spain-xai
-
-### Partner Solutions Architect - AMER Communnities
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-partner-solutions-architect-amer-communnities-stripe
-
-### Partner Development Manager, Netherlands
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** LOCATION
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-partner-development-manager-netherlands-stripe
-
-### Global Payments Experiences Engineering Manager
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-global-payments-experiences-engineering-manager-stripe
-
-## Project Management (39 open roles)
+## Project Management (36 open roles)
 
 ### Construction Operations Manager
 - **Company:** Sagan Recruitment
@@ -5170,27 +5080,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-knowledge-training-manager-sagan-recruitment
 
-### Staff Product Manager, Payments
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-payments-stripe
-
-### Program Manager, Intake & Portfolio Management
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-program-manager-intake-portfolio-management-stripe
-
-### Commercial Solutions Program Manager
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-commercial-solutions-program-manager-stripe
-
 ## Recruiting (25 open roles)
 
 ### Senior People Business Partner
@@ -5369,7 +5258,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (76 open roles)
+## Sales (75 open roles)
+
+### Commercial Account Executive
+- **Company:** GitLab
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-commercial-account-executive-gitlab
 
 ### Senior Blockchain Engineer
 - **Company:** Holitix
@@ -5893,21 +5789,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-strategic-account-executive-gitlab
 
-### Go-to-Market
-- **Company:** Speechify
+## Software Development (212 open roles)
+
+### Senior Site Reliability Engineer, Data Persistence
+- **Company:** Wikimedia Foundation
 - **Salary:** Not Disclosed
 - **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-go-to-market-speechify-2
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-site-reliability-engineer-data-persistence-wikimedia-foundation
 
-### Go-to-Market
-- **Company:** Speechify
-- **Salary:** $150,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-go-to-market-speechify
-
-## Software Development (228 open roles)
+### Security Analyst, Bug Bounty
+- **Company:** Stripe
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-06-22
+- **View Job:** https://globalcaribbeans.com/#card-security-analyst-bug-bounty-stripe
 
 ### ClickHouse Operations Engineer
 - **Company:** PostHog
@@ -7381,129 +7277,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-23
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-ios-core-product-speechify-3
-
-### Software Engineer, Data Infrastructure & Acquisition
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-data-infrastructure-acquisition-speechify
-
-### Senior Software Engineer, Windows/Desktop Applications
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-windows-desktop-applications-speechify-2
-
-### Senior Software Engineer, Windows/Desktop Applications
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-windows-desktop-applications-speechify
-
-### Senior Software Engineer, Core Experiences
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-core-experiences-speechify-2
-
-### Senior Software Engineer, Core Experiences
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-core-experiences-speechify
-
-### Manual Quality Assurance Engineer, SIMBA Team
-- **Company:** Speechify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-manual-quality-assurance-engineer-simba-team-speechify-2
-
-### Forward Deployment Engineer
-- **Company:** Speechify
-- **Salary:** $140,000 – $200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-forward-deployment-engineer-speechify
-
-### Staff Software Engineer, Stripe Scale & Bundles
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-stripe-scale-bundles-stripe
-
-### Staff Full Stack Engineer, Identity
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-staff-full-stack-engineer-identity-stripe
-
-### Software Engineer, Security Analytics Infrastructure
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-security-analytics-infrastructure-stripe
-
-### Software Engineer, Secrets Infrastructure
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** na
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-secrets-infrastructure-stripe
-
-### Full Stack Engineer, Web Presence and Platform
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-web-presence-and-platform-stripe
-
-### Full Stack Engineer, Money as a Service
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-money-as-a-service-stripe
-
-### Full Stack Engineer, Developer Experience & Product Platform
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-developer-experience-product-platform-stripe
-
-### Forward Deployed Engineer, Professional Services
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** United States
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-forward-deployed-engineer-professional-services-stripe
-
-### Backend Engineer, Forward Deployed Engineering
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-forward-deployed-engineering-stripe
-
-### Backend Engineer, Expansion
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-expansion-stripe
-
-### Backend Engineer, Billing/Tax
-- **Company:** Stripe
-- **Salary:** Not Disclosed
-- **Location:** N/A
-- **Posted:** 2026-05-23
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-billing-tax-stripe
