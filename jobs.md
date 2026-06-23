@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-23T09:51:17Z
+last_updated: 2026-06-23T15:11:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**977 active remote jobs** as of 2026-06-23.
+**979 active remote jobs** as of 2026-06-23.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (44 open roles)
+## Accounting/Bookkeeping (45 open roles)
+
+### Senior Chargebee Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-chargebee-engineer-remote-work-bairesdev
 
 ### Certified Public Accountant
 - **Company:** micro1
@@ -756,7 +763,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-support-engineer-l2-developer-track-saas-startup-offshore-launch
 
-## Data/Analytics (62 open roles)
+## Data/Analytics (64 open roles)
+
+### Senior Healthcare Data Integration Engineer
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-healthcare-data-integration-engineer-mappa
+
+### AI Learning Solutions - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-ai-learning-solutions-remote-work-bairesdev
 
 ### Senior Analytics Engineer
 - **Company:** Sagan Recruitment
@@ -1256,6 +1277,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Online Marketing (62 open roles)
 
+### Paid Social Growth Hacker (Meta, TikTok & YouTube)
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-paid-social-growth-hacker-meta-tiktok-youtube-mappa-2
+
 ### Growth Marketing Junior Analyst - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -1304,13 +1332,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-content-creator-remote-leverage
-
-### Paid Social Growth Hacker (Meta, TikTok & YouTube)
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-22
-- **View Job:** https://globalcaribbeans.com/#card-paid-social-growth-hacker-meta-tiktok-youtube-mappa-3
 
 ### Marketing Specialist (Work From Home)
 - **Company:** Persona
@@ -1692,6 +1713,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-brand-designer-social-media-manager-elanbykery
 
 ## Operations (79 open roles)
+
+### Semi Senior Chargebee Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-semi-senior-chargebee-engineer-remote-work-bairesdev
 
 ### Due Diligence Analyst
 - **Company:** Alpaca
@@ -2246,14 +2274,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-25
 - **View Job:** https://globalcaribbeans.com/#card-junior-game-developer-java-libgdx-micro1
 
-### Electronic engineer (Ngspice expert)
-- **Company:** micro1
-- **Salary:** $50 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-24
-- **View Job:** https://globalcaribbeans.com/#card-electronic-engineer-ngspice-expert-micro1
+## Other (339 open roles)
 
-## Other (340 open roles)
+### Property Law Research Associate
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-property-law-research-associate-somewhere
+
+### Strategic Consultant - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-strategic-consultant-remote-work-bairesdev
+
+### Community Manager (Substack, Reddit, X & Bluesky Growth Lead) (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-community-manager-substack-reddit-x-bluesky-growth-lead-work-from-home-persona
+
+### Junior JavaScript Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-junior-javascript-developer-remote-work-bairesdev
 
 ### Customer Success & Order Management Specialist
 - **Company:** BruntWork
@@ -3166,13 +3215,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-ghl-specialist-virtustant
-
-### Personal Injury Legal Intake Specialist (After Hours)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,700 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-personal-injury-legal-intake-specialist-after-hours-sagan-recruitment
 
 ### Wolof Language Expert
 - **Company:** micro1
@@ -4615,35 +4657,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-24
 - **View Job:** https://globalcaribbeans.com/#card-english-specialist-micro1
 
-### LMMS Expert
-- **Company:** micro1
-- **Salary:** $40 – $100 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-24
-- **View Job:** https://globalcaribbeans.com/#card-lmms-expert-micro1
+## Project Management (36 open roles)
 
-### Lightworks - Post-Production Specialist
-- **Company:** micro1
-- **Salary:** $50 – $100 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-24
-- **View Job:** https://globalcaribbeans.com/#card-lightworks-post-production-specialist-micro1
+### Senior Product Owner - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-owner-remote-work-bairesdev
 
-### QGIS Expert
-- **Company:** micro1
-- **Salary:** $40 – $100 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-24
-- **View Job:** https://globalcaribbeans.com/#card-qgis-expert-micro1
-
-### FreeCAD Expert (BIM & IFC Focus)
-- **Company:** micro1
-- **Salary:** $30 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-24
-- **View Job:** https://globalcaribbeans.com/#card-freecad-expert-bim-ifc-focus-micro1
-
-## Project Management (35 open roles)
+### Junior Product Owner - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-junior-product-owner-remote-work-bairesdev
 
 ### Design Systems Design Lead
 - **Company:** New Era Technology
@@ -4771,13 +4799,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-ceh-chili-piper
 
-### Construction Project Manager (Residential/Multifamily)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-14
-- **View Job:** https://globalcaribbeans.com/#card-construction-project-manager-residential-multifamily-sagan-recruitment
-
 ### Senior Product Manager
 - **Company:** Monks
 - **Salary:** Not Disclosed
@@ -4893,7 +4914,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-knowledge-training-manager-sagan-recruitment
 
-## Recruiting (17 open roles)
+## Recruiting (18 open roles)
+
+### Senior Recruiter - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-remote-work-bairesdev
 
 ### HR & Recruitment Manager (Work From Home)
 - **Company:** Persona
@@ -5517,7 +5545,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-remote-inside-sales-representative-hirelatam-2
 
-## Software Development (199 open roles)
+## Software Development (197 open roles)
 
 ### Automation Engineer - Workflow & Process Automation
 - **Company:** Huzzle
@@ -6649,13 +6677,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-sharded-postgres-neki-planetscale
 
-### Senior Application Security Engineer
-- **Company:** CookUnity
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-senior-application-security-engineer-cookunity
-
 ### IT Support Engineer
 - **Company:** Devsu
 - **Salary:** Not Disclosed
@@ -6907,10 +6928,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-25
 - **View Job:** https://globalcaribbeans.com/#card-coding-expert-micro1
-
-### Geospatial Analysis Specialist (QGIS)
-- **Company:** micro1
-- **Salary:** $30 – $80 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-24
-- **View Job:** https://globalcaribbeans.com/#card-geospatial-analysis-specialist-qgis-micro1
