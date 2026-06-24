@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-24T09:38:50Z
+last_updated: 2026-06-24T14:41:32Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -1387,7 +1387,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (64 open roles)
+## Online Marketing (65 open roles)
+
+### Senior Performance Marketer (Full Remote - Worldwide)
+- **Company:** EverAI
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-performance-marketer-full-remote-worldwide-everai
 
 ### AI Growth & Demand Generation Lead
 - **Company:** Sagan Recruitment
@@ -1838,7 +1845,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-shopify-cro-growth-operator-sagan-recruitment
 
-## Operations (83 open roles)
+## Operations (84 open roles)
+
+### Customer Success Manager – Healthcare Operations (Zoho CRM)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-healthcare-operations-zoho-crm-bruntwork
 
 ### AI Engineer (Prompt) - Remote Work | REF#296302
 - **Company:** BairesDev
@@ -2428,7 +2442,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-strategic-project-lead-md-health-micro1-2
 
-## Other (368 open roles)
+## Other (366 open roles)
+
+### Application Security Engineer (Checkmarx / SAST) - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-application-security-engineer-checkmarx-sast-remote-work-bairesdev
+
+### Mid/Senior AI Cinematic Video Editor (Full Remote - Worldwide)
+- **Company:** EverAI
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-full-remote-worldwide-everai-5
+
+### Senior AI Vertical Mini-Series Director (Full Remote - Worldwide)
+- **Company:** EverAI
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-ai-vertical-mini-series-director-full-remote-worldwide-everai
 
 ### Senior Cost Segregation Engineer
 - **Company:** Sagan Recruitment
@@ -2719,13 +2754,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-junior-javascript-developer-remote-work-bairesdev
-
-### Customer Success & Order Management Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-order-management-specialist-bruntwork
 
 ### Partnerships ManagerPartnerships ManagerPartnerships Remote
 - **Company:** SafetyWing
@@ -3133,13 +3161,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-engineering-team-leader-remote
-
-### Sales Specialist
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-sales-specialist-virtustant-3
 
 ### Lingala Bilingual Expert
 - **Company:** micro1
@@ -4995,27 +5016,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-25
 - **View Job:** https://globalcaribbeans.com/#card-2d-artist-krita-micro1
-
-### Mandarin Language Expert
-- **Company:** micro1
-- **Salary:** $10 – $40 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-25
-- **View Job:** https://globalcaribbeans.com/#card-mandarin-language-expert-micro1
-
-### Audio Production Expert
-- **Company:** micro1
-- **Salary:** $19 – $65 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-25
-- **View Job:** https://globalcaribbeans.com/#card-audio-production-expert-micro1
-
-### Tamil Language Expert
-- **Company:** micro1
-- **Salary:** $6 – $35 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-25
-- **View Job:** https://globalcaribbeans.com/#card-tamil-language-expert-micro1
 
 ## Project Management (36 open roles)
 
