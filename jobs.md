@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-24T04:00:04Z
+last_updated: 2026-06-24T09:38:50Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1057 active remote jobs** as of 2026-06-24.
+**1061 active remote jobs** as of 2026-06-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (48 open roles)
+## Accounting/Bookkeeping (47 open roles)
 
 ### NetSuite Business Analyst - Remote Work | REF#296337
 - **Company:** BairesDev
@@ -295,13 +295,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-finance-accountant-sagan-recruitment
 
-### Bookkeeper
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** Remote
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-sagan-recruitment
-
 ### Ssr. Accounting Analyst
 - **Company:** CookUnity
 - **Salary:** Not Disclosed
@@ -351,7 +344,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-collections-specialist-sagan-recruitment
 
-## Admin (30 open roles)
+## Admin (29 open roles)
 
 ### Executive Assistant (Professional & Personal)
 - **Company:** Somewhere
@@ -436,14 +429,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-work-from-home-persona-2
-
-### Real Estate Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-21
-- **View Job:** https://globalcaribbeans.com/#card-real-estate-administrative-assistant-bruntwork
 
 ### Administrative Assistant - Data Entry
 - **Company:** New Era Technology
@@ -1402,7 +1387,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-lead-privacy-counsel-infrastructure-data-governance-mozilla
 
-## Online Marketing (63 open roles)
+## Online Marketing (64 open roles)
+
+### AI Growth & Demand Generation Lead
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-ai-growth-demand-generation-lead-sagan-recruitment
 
 ### Skills & Role Content Specialist - Remote Work
 - **Company:** BairesDev
@@ -2436,7 +2428,49 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-strategic-project-lead-md-health-micro1-2
 
-## Other (362 open roles)
+## Other (368 open roles)
+
+### Senior Cost Segregation Engineer
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,000 / month
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-cost-segregation-engineer-sagan-recruitment
+
+### High School Math Tutor
+- **Company:** Think Academy US
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-high-school-math-tutor-think-academy-us-3
+
+### Insurance Verification Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-insurance-verification-specialist-sagan-recruitment
+
+### Remote High School Math Tutor
+- **Company:** Think Academy US
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-remote-high-school-math-tutor-think-academy-us
+
+### 1 on 1 AMC 10 Tutor
+- **Company:** Think Academy US
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-1-on-1-amc-10-tutor-think-academy-us
+
+### Remote Math Tutor (Grades 5-8)
+- **Company:** Think Academy US
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-remote-math-tutor-grades-5-8-think-academy-us
 
 ### Senior Data Modeler - Remote Work | REF#296335
 - **Company:** BairesDev
@@ -5404,7 +5438,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (80 open roles)
+## Sales (79 open roles)
 
 ### Growth Partnerships Lead
 - **Company:** micro1
@@ -5794,13 +5828,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-sales-account-executive-pavago
 
-### Key Account Manager
-- **Company:** Acquia
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-key-account-manager-acquia
-
 ### Sales Development Representative - Property Management
 - **Company:** Pavago
 - **Salary:** Not Disclosed
@@ -5970,6 +5997,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-remote-inside-sales-representative-hirelatam-2
 
 ## Software Development (215 open roles)
+
+### Senior AI Engineer – Health Intelligence
+- **Company:** Ōura
+- **Salary:** $147,900 – $203,000 / year
+- **Location:** North America
+- **Posted:** 2026-06-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-ai-engineer-health-intelligence-ura
 
 ### Software Engineer (Lua) - Remote Work | REF#290892
 - **Company:** BairesDev
@@ -7471,10 +7505,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-python-game-developer-panda3d-micro1-2
-
-### Coding Expert
-- **Company:** micro1
-- **Salary:** $65 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-25
-- **View Job:** https://globalcaribbeans.com/#card-coding-expert-micro1
