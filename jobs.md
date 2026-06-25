@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-25T09:30:37Z
+last_updated: 2026-06-25T14:44:07Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1096 active remote jobs** as of 2026-06-25.
+**1095 active remote jobs** as of 2026-06-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (46 open roles)
+## Accounting/Bookkeeping (45 open roles)
 
 ### NetSuite Business Analyst - Remote Work | REF#296337
 - **Company:** BairesDev
@@ -203,13 +203,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-hirehawk-2
-
-### Accounting Assistant
-- **Company:** WorkBetterNow
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-accounting-assistant-workbetternow
 
 ### Accountant
 - **Company:** micro1
@@ -769,7 +762,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-support-engineer-l2-developer-track-saas-startup-offshore-launch
 
-## Data/Analytics (77 open roles)
+## Data/Analytics (76 open roles)
 
 ### Young Professional – Operations Analyst - Remote Work
 - **Company:** BairesDev
@@ -819,13 +812,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-24
 - **View Job:** https://globalcaribbeans.com/#card-brand-marketing-manager-somewhere
-
-### Senior Healthcare Data Integration Engineer
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-healthcare-data-integration-engineer-mappa-2
 
 ### Senior Engineer (Monitoring) - Remote Work | REF#296326
 - **Company:** BairesDev
@@ -1380,7 +1366,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (68 open roles)
+## Online Marketing (67 open roles)
 
 ### Designer
 - **Company:** Hire With Near
@@ -1402,13 +1388,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-24
 - **View Job:** https://globalcaribbeans.com/#card-social-content-designer-video-editor-somewhere
-
-### Paid Social Growth Hacker (Meta, TikTok & YouTube)
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-paid-social-growth-hacker-meta-tiktok-youtube-mappa-3
 
 ### Senior Performance Marketer (Full Remote - Worldwide)
 - **Company:** EverAI
@@ -1859,7 +1838,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-shopify-cro-growth-operator-sagan-recruitment
 
-## Operations (88 open roles)
+## Operations (90 open roles)
+
+### Payroll Enablement Specialist
+- **Company:** Remote.com
+- **Salary:** $78,000 – $87,750 / year
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-25
+- **View Job:** https://globalcaribbeans.com/#card-payroll-enablement-specialist-remote-com
+
+### Implementation Specialist
+- **Company:** Datacor
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-25
+- **View Job:** https://globalcaribbeans.com/#card-implementation-specialist-datacor
 
 ### HR Generalist
 - **Company:** Sagan Recruitment
@@ -2485,7 +2479,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-case-management-supervisor-social-services-sagan-recruitment
 
-## Other (386 open roles)
+## Other (385 open roles)
+
+### Human Resources Specialist
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-25
+- **View Job:** https://globalcaribbeans.com/#card-human-resources-specialist-hire-with-near
+
+### Community Manager (Substack, Reddit, X & Bluesky Growth Lead) (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-25
+- **View Job:** https://globalcaribbeans.com/#card-community-manager-substack-reddit-x-bluesky-growth-lead-work-from-home-persona
 
 ### Architectural Drafter (Revit)
 - **Company:** Sagan Recruitment
@@ -2662,27 +2670,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-24
 - **View Job:** https://globalcaribbeans.com/#card-social-media-content-creator-virtustant
 
-### Strategic Planner / Strategy Lead
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-strategic-planner-strategy-lead-mappa-2
-
 ### Finance Expert
 - **Company:** micro1
 - **Salary:** $20 – $30 / hour
 - **Location:** Remote
 - **Posted:** 2026-06-24
 - **View Job:** https://globalcaribbeans.com/#card-finance-expert-micro1-4
-
-### Operations & Automation Lead
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-operations-automation-lead-mappa-2
 
 ### Sales Specialist
 - **Company:** Virtustant
@@ -5191,14 +5184,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-bengali-language-expert-micro1
 
-### CX AI & Automation Lead
-- **Company:** Remote.com
-- **Salary:** €79,700 – €89,650 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-26
-- **View Job:** https://globalcaribbeans.com/#card-cx-ai-automation-lead-remote-com
-
 ## Project Management (37 open roles)
 
 ### Strategic Project Manager - Operations
@@ -6220,7 +6205,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-26
 - **View Job:** https://globalcaribbeans.com/#card-remote-inside-sales-representative-hirelatam-2
 
-## Software Development (218 open roles)
+## Software Development (219 open roles)
+
+### QA Software Engineer Lead (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-25
+- **View Job:** https://globalcaribbeans.com/#card-qa-software-engineer-lead-work-from-home-persona
 
 ### Software Engineer
 - **Company:** micro1
