@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-26T04:08:06Z
+last_updated: 2026-06-26T09:35:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -13,7 +13,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (46 open roles)
+## Accounting/Bookkeeping (48 open roles)
+
+### Staff Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-26
+- **View Job:** https://globalcaribbeans.com/#card-staff-accountant-sagan-recruitment
+
+### Real Estate Property Accountant & Operations Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-26
+- **View Job:** https://globalcaribbeans.com/#card-real-estate-property-accountant-operations-specialist-bruntwork
+
+### Accounting Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,000 / month
+- **Location:** Global
+- **Posted:** 2026-06-26
+- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-sagan-recruitment
 
 ### Revenue & Accounts Receivable Manager
 - **Company:** micro1
@@ -329,13 +350,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-director-of-finance-sagan-recruitment
-
-### Collections Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-collections-specialist-sagan-recruitment
 
 ## Admin (28 open roles)
 
@@ -2515,7 +2529,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-case-management-supervisor-social-services-sagan-recruitment
 
-## Other (377 open roles)
+## Other (376 open roles)
+
+### Senior Leasing Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-06-26
+- **View Job:** https://globalcaribbeans.com/#card-senior-leasing-coordinator-sagan-recruitment
+
+### Maintenance Lead Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-26
+- **View Job:** https://globalcaribbeans.com/#card-maintenance-lead-coordinator-sagan-recruitment
 
 ### Operations Coordinator
 - **Company:** Virtustant
@@ -2945,14 +2973,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-operational-governance-auditor-remote-work-bairesdev
-
-### Bilingual Medical Scheduling & Patient Access Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-23
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-scheduling-patient-access-specialist-bruntwork
 
 ### Recruiting Analyst - Remote Work
 - **Company:** BairesDev
@@ -5025,13 +5045,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-ai-evaluation-specialist-micro1
 
-### Luxury Pool & Outdoor Living Designer
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $1,400 / month
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-luxury-pool-outdoor-living-designer-sagan-recruitment
-
 ### Commercial Space Architect, Warehouse Designer
 - **Company:** micro1
 - **Salary:** Not Disclosed
@@ -5094,13 +5107,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-residential-remodeling-designer-drafter-design-build-consultant-sagan-recruitmen
-
-### Dental Lab Data Entry & Digital Case Intake Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** Global
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-dental-lab-data-entry-digital-case-intake-specialist-sagan-recruitment
 
 ### Care Coordination Specialist
 - **Company:** Sagan Recruitment
@@ -5165,7 +5171,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-qgis-expert-micro1-2
 
-## Project Management (37 open roles)
+## Project Management (38 open roles)
+
+### Accounting Systems Implementation Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,000 / month
+- **Location:** Global
+- **Posted:** 2026-06-26
+- **View Job:** https://globalcaribbeans.com/#card-accounting-systems-implementation-manager-sagan-recruitment
 
 ### Strategic Project Manager - Operations
 - **Company:** Lido
@@ -5621,7 +5634,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
-## Sales (81 open roles)
+## Sales (80 open roles)
 
 ### Business Development Representative
 - **Company:** Kajae
@@ -6186,14 +6199,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-27
 - **View Job:** https://globalcaribbeans.com/#card-vp-of-client-growth-fueled
 
-### Junior Sales & Business Development Associate
-- **Company:** PharmaBoardroom
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-05-27
-- **View Job:** https://globalcaribbeans.com/#card-junior-sales-business-development-associate-pharmaboardroom
-
-## Software Development (217 open roles)
+## Software Development (216 open roles)
 
 ### Full Stack Engineer
 - **Company:** Mappa
@@ -7562,13 +7568,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-elixir-remote-3
-
-### AI Funnel & Growth Engineer
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-ai-funnel-growth-engineer-sagan-recruitment
 
 ### AI Fullstack Engineer (C#/React)
 - **Company:** Devsu
