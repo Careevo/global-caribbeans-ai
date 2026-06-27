@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-27T08:42:11Z
+last_updated: 2026-06-27T13:52:42Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1104 active remote jobs** as of 2026-06-27.
+**1107 active remote jobs** as of 2026-06-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -833,7 +833,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-sales-support-specialist-sagan-recruitment
 
-## Data/Analytics (77 open roles)
+## Data/Analytics (78 open roles)
+
+### Onboarding Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,100 – $1,300 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-onboarding-coordinator-sagan-recruitment
 
 ### Senior Healthcare Data Integration Engineer
 - **Company:** Mappa
@@ -2573,7 +2580,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-operations-manager-bitrise
 
-## Other (379 open roles)
+## Other (380 open roles)
+
+### Inbound Sales / Event Rental Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,300 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-inbound-sales-event-rental-specialist-sagan-recruitment
 
 ### Electronic Engineer (Qucs-S expert)
 - **Company:** micro1
@@ -6299,7 +6313,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-partnership-manager-new-existing-partners-optimizee-group
 
-## Software Development (215 open roles)
+## Software Development (216 open roles)
+
+### Manager, Security Engineering
+- **Company:** Acquia
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-manager-security-engineering-acquia
 
 ### Senior Backend Engineer
 - **Company:** Remote Leverage
