@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-27T03:53:41Z
+last_updated: 2026-06-27T08:42:11Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1099 active remote jobs** as of 2026-06-27.
+**1104 active remote jobs** as of 2026-06-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1909,7 +1909,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-marketing-manager-customer-io
 
-## Operations (91 open roles)
+## Operations (93 open roles)
+
+### Night Dispatch & Logistics Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-night-dispatch-logistics-coordinator-sagan-recruitment
+
+### UX Writer
+- **Company:** Databento
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-ux-writer-databento
 
 ### Client Success Coach (CSM)
 - **Company:** Impact Clients
@@ -2558,7 +2573,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-operations-manager-bitrise
 
-## Other (376 open roles)
+## Other (379 open roles)
+
+### Electronic Engineer (Qucs-S expert)
+- **Company:** micro1
+- **Salary:** $50 – $120 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-electronic-engineer-qucs-s-expert-micro1
+
+### Korean Bilingual Expert
+- **Company:** micro1
+- **Salary:** $20 – $65 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-korean-bilingual-expert-micro1-2
+
+### Japanese Language Expert
+- **Company:** micro1
+- **Salary:** $30 – $65 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-japanese-language-expert-micro1-3
 
 ### Data-Video Generalist
 - **Company:** micro1
