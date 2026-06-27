@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-27T13:52:42Z
+last_updated: 2026-06-27T19:27:28Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1107 active remote jobs** as of 2026-06-27.
+**1111 active remote jobs** as of 2026-06-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1918,6 +1918,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (93 open roles)
 
+### Clinical Data Coordinator
+- **Company:** Somewhere
+- **Salary:** $2,800 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-clinical-data-coordinator-somewhere
+
 ### Night Dispatch & Logistics Coordinator
 - **Company:** Sagan Recruitment
 - **Salary:** $1,200 – $1,800 / month
@@ -2573,14 +2580,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-motion-designer-customer-io
 
-### Customer Success Operations Manager
-- **Company:** Bitrise
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-operations-manager-bitrise
+## Other (384 open roles)
 
-## Other (380 open roles)
+### Estimator
+- **Company:** Somewhere
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-estimator-somewhere
+
+### Short Form Video Editor
+- **Company:** Somewhere
+- **Salary:** $1,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-short-form-video-editor-somewhere-2
+
+### Game Developer (Java / libGDX)
+- **Company:** micro1
+- **Salary:** $20 – $120 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-game-developer-java-libgdx-micro1-2
+
+### Junior Electronic Engineer (Qucs-S)
+- **Company:** micro1
+- **Salary:** $50 – $120 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-junior-electronic-engineer-qucs-s-micro1
 
 ### Inbound Sales / Event Rental Specialist
 - **Company:** Sagan Recruitment
@@ -6315,6 +6343,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Software Development (216 open roles)
 
+### Software Engineer (WordPress & WooCommerce)
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-wordpress-woocommerce-somewhere
+
 ### Manager, Security Engineering
 - **Company:** Acquia
 - **Salary:** Not Disclosed
@@ -7823,10 +7858,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-coding-expert-micro1-2
-
-### Senior Azure Data Platform Engineer
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-azure-data-platform-engineer-new-era-technology
