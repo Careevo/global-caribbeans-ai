@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-28T09:17:37Z
+last_updated: 2026-06-28T13:58:07Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1100 active remote jobs** as of 2026-06-28.
+**1101 active remote jobs** as of 2026-06-28.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1444,7 +1444,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (64 open roles)
+## Online Marketing (62 open roles)
 
 ### Remote Executive Coordinator & Marketing Operations Assistant (part-time)
 - **Company:** HireLatam
@@ -1880,20 +1880,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-full-time-designer-landing-pages-ads-michael-todd-beauty
-
-### Video AI Editor
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-video-ai-editor-remotely-talents-client-confidential
-
-### Senior AI Video Editor
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-ai-video-editor-remotely-talents-client-confidential
 
 ## Operations (90 open roles)
 
@@ -2538,7 +2524,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-remote-senior-operations-manager-hirelatam
 
-## Other (379 open roles)
+## Other (381 open roles)
+
+### Physics Expert (Postdoc / Junior professor)
+- **Company:** micro1
+- **Salary:** $80 – $150 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-physics-expert-postdoc-junior-professor-micro1
+
+### Physics Expert
+- **Company:** micro1
+- **Salary:** $80 – $140 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-physics-expert-micro1-2
 
 ### Robot Teleoperator
 - **Company:** micro1
@@ -5699,7 +5699,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-tech-recruiter-6-month-ftc-remote-com
 
-## Sales (80 open roles)
+## Sales (81 open roles)
+
+### Sales Development Representative (SaaS)
+- **Company:** Hire With Near
+- **Salary:** $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-saas-hire-with-near
 
 ### Mid-Market Account Executive, Americas
 - **Company:** Customer.io
