@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-27T19:27:28Z
+last_updated: 2026-06-28T04:16:12Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1111 active remote jobs** as of 2026-06-27.
+**1101 active remote jobs** as of 2026-06-28.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -573,7 +573,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-office-manager-hirelatam
 
-## Customer support (36 open roles)
+## Customer support (34 open roles)
 
 ### Customer Support Representative
 - **Company:** New Era Technology
@@ -818,20 +818,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-pay-customer-success-manager-mm-ent-remote-com
-
-### Community Manager
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-community-manager-micro1
-
-### Sales Support Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $1,700 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-sales-support-specialist-sagan-recruitment
 
 ## Data/Analytics (78 open roles)
 
@@ -1458,7 +1444,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (65 open roles)
+## Online Marketing (64 open roles)
 
 ### Remote Executive Coordinator & Marketing Operations Assistant (part-time)
 - **Company:** HireLatam
@@ -1909,21 +1895,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ai-video-editor-remotely-talents-client-confidential
 
-### Senior Product Marketing Manager
-- **Company:** Customer.io
-- **Salary:** $135,000 – $176,000 / year
-- **Location:** Global
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-marketing-manager-customer-io
-
-## Operations (93 open roles)
-
-### Clinical Data Coordinator
-- **Company:** Somewhere
-- **Salary:** $2,800 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-clinical-data-coordinator-somewhere
+## Operations (90 open roles)
 
 ### Night Dispatch & Logistics Coordinator
 - **Company:** Sagan Recruitment
@@ -2566,21 +2538,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-remote-senior-operations-manager-hirelatam
 
-### Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-sagan-recruitment-2
+## Other (380 open roles)
 
-### Senior Motion Designer
-- **Company:** Customer.io
-- **Salary:** $118,000 – $142,000 / year
-- **Location:** Global
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-motion-designer-customer-io
+### Robot Teleoperator
+- **Company:** micro1
+- **Salary:** $30 – $55 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-robot-teleoperator-micro1
 
-## Other (384 open roles)
+### Mathematics Professor/Researcher
+- **Company:** micro1
+- **Salary:** $60 – $90 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-mathematics-professor-researcher-micro1
 
 ### Estimator
 - **Company:** Somewhere
@@ -5236,49 +5208,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-commercial-space-architect-warehouse-designer-micro1
 
-### Vectorworks Expert
-- **Company:** micro1
-- **Salary:** $19 – $65 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-vectorworks-expert-micro1
+## Project Management (44 open roles)
 
-### Junior 2D Game Developer
-- **Company:** micro1
-- **Salary:** $20 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-junior-2d-game-developer-micro1
-
-### Junior FreeCAD Designer (3D Modeling)
-- **Company:** micro1
-- **Salary:** $20 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-junior-freecad-designer-3d-modeling-micro1
-
-### Junior Electronics Simulation Engineer (NgSpice)
-- **Company:** micro1
-- **Salary:** $20 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-junior-electronics-simulation-engineer-ngspice-micro1
-
-### Junior PCB Design Engineer
-- **Company:** micro1
-- **Salary:** $20 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-junior-pcb-design-engineer-micro1
-
-### Competitive Programming Checker
-- **Company:** micro1
-- **Salary:** $50 – $70 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-competitive-programming-checker-micro1
-
-## Project Management (43 open roles)
+### Senior Digital Project Manager
+- **Company:** Fueled
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-digital-project-manager-fueled
 
 ### Product Manager, Places
 - **Company:** Raya
@@ -5584,7 +5521,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-knowledge-training-manager-sagan-recruitment
 
-## Recruiting (27 open roles)
+## Recruiting (26 open roles)
 
 ### Talent Coordinator (Talent Acquisition / HR)
 - **Company:** Somewhere
@@ -5768,13 +5705,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-tech-recruiter-6-month-ftc-remote-com
-
-### Recruitment Specialist (High-Volume)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-28
-- **View Job:** https://globalcaribbeans.com/#card-recruitment-specialist-high-volume-sagan-recruitment
 
 ## Sales (80 open roles)
 
