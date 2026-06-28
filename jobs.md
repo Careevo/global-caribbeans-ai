@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-28T13:58:07Z
+last_updated: 2026-06-28T19:36:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1101 active remote jobs** as of 2026-06-28.
+**1100 active remote jobs** as of 2026-06-28.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -573,7 +573,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-office-manager-hirelatam
 
-## Customer support (34 open roles)
+## Customer support (31 open roles)
 
 ### Customer Support Representative
 - **Company:** New Era Technology
@@ -795,29 +795,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-remote-sales-estimator-hirelatam
-
-### Inbound Customer Service Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,600 – $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-representative-sagan-recruitment
-
-### Customer Care Associate
-- **Company:** Remote.com
-- **Salary:** €13,000 – €30,350 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-customer-care-associate-remote-com
-
-### Pay Customer Success Manager, MM/Ent
-- **Company:** Remote.com
-- **Salary:** €32,200 – €54,300 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-pay-customer-success-manager-mm-ent-remote-com
 
 ## Data/Analytics (78 open roles)
 
@@ -2524,7 +2501,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-remote-senior-operations-manager-hirelatam
 
-## Other (381 open roles)
+## Other (386 open roles)
+
+### Audit Associate
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-audit-associate-somewhere
+
+### Video Editor
+- **Company:** micro1
+- **Salary:** $40 – $80 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-micro1
+
+### Video related professional for AI training
+- **Company:** micro1
+- **Salary:** $40 – $80 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-video-related-professional-for-ai-training-micro1
+
+### Physics Expert (Professor / Principal Investigator)
+- **Company:** micro1
+- **Salary:** $80 – $160 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-physics-expert-professor-principal-investigator-micro1
+
+### Household Data Specialist - Video Capture
+- **Company:** micro1
+- **Salary:** $15 – $30 / hour
+- **Location:** Remote
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-household-data-specialist-video-capture-micro1
 
 ### Physics Expert (Postdoc / Junior professor)
 - **Company:** micro1
@@ -5201,7 +5213,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-ai-evaluation-specialist-micro1
 
-## Project Management (44 open roles)
+## Project Management (45 open roles)
+
+### SU - Project Manager
+- **Company:** Somewhere
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-su-project-manager-somewhere-2
 
 ### Senior Digital Project Manager
 - **Company:** Fueled
@@ -6271,7 +6290,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-partnership-manager-new-existing-partners-optimizee-group
 
-## Software Development (216 open roles)
+## Software Development (212 open roles)
 
 ### Security Analyst, Bug Bounty
 - **Company:** Stripe
@@ -7760,31 +7779,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-sagan-recruitment-2
-
-### Full Stack Developer
-- **Company:** micro1
-- **Salary:** $60 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-micro1
-
-### Frontend Engineer
-- **Company:** micro1
-- **Salary:** $60 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-frontend-engineer-micro1
-
-### Backend Engineer
-- **Company:** micro1
-- **Salary:** $60 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-backend-engineer-micro1-2
-
-### Software Developer
-- **Company:** micro1
-- **Salary:** $60 – $110 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-software-developer-micro1-2
