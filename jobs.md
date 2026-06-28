@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-28T04:16:12Z
+last_updated: 2026-06-28T09:17:37Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1101 active remote jobs** as of 2026-06-28.
+**1100 active remote jobs** as of 2026-06-28.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2538,7 +2538,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-remote-senior-operations-manager-hirelatam
 
-## Other (380 open roles)
+## Other (379 open roles)
 
 ### Robot Teleoperator
 - **Company:** micro1
@@ -5201,13 +5201,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-ai-evaluation-specialist-micro1
 
-### Commercial Space Architect, Warehouse Designer
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-commercial-space-architect-warehouse-designer-micro1
-
 ## Project Management (44 open roles)
 
 ### Senior Digital Project Manager
@@ -6272,6 +6265,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-partnership-manager-new-existing-partners-optimizee-group
 
 ## Software Development (216 open roles)
+
+### Security Analyst, Bug Bounty
+- **Company:** Stripe
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-security-analyst-bug-bounty-stripe-2
 
 ### Software Engineer (WordPress & WooCommerce)
 - **Company:** Somewhere
@@ -7781,10 +7781,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-05-29
 - **View Job:** https://globalcaribbeans.com/#card-software-developer-micro1-2
-
-### Coding Expert
-- **Company:** micro1
-- **Salary:** $50 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-coding-expert-micro1-2
