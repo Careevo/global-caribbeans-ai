@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-28T19:36:36Z
+last_updated: 2026-06-29T04:22:57Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1100 active remote jobs** as of 2026-06-28.
+**1091 active remote jobs** as of 2026-06-29.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (49 open roles)
+## Accounting/Bookkeeping (47 open roles)
 
 ### Bookkeeper (QuickBooks and Excel Specialist)
 - **Company:** BruntWork
@@ -344,21 +344,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-accountant-expert-micro1
 
-### Remote Senior Accountant
-- **Company:** HireLatam
-- **Salary:** $60,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-remote-senior-accountant-hirelatam
+## Admin (31 open roles)
 
-### Senior Bookkeeping Account Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,000 / month
+### Spanish Bilingual Medical Receptionist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-bookkeeping-account-manager-sagan-recruitment
-
-## Admin (30 open roles)
+- **Posted:** 2026-06-28
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-medical-receptionist-bruntwork
 
 ### Remote Executive Business Partner (Senior Executive Assistant to the CEO)
 - **Company:** HireLatam
@@ -573,7 +566,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-office-manager-hirelatam
 
-## Customer support (31 open roles)
+## Customer support (29 open roles)
 
 ### Customer Support Representative
 - **Company:** New Era Technology
@@ -781,20 +774,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-travel-points-specialist-hirelatam
-
-### Dental Prosthetics Customer Service Liaison
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** Global
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-dental-prosthetics-customer-service-liaison-sagan-recruitment
-
-### Remote Sales Estimator
-- **Company:** HireLatam
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-remote-sales-estimator-hirelatam
 
 ## Data/Analytics (78 open roles)
 
@@ -1421,7 +1400,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (62 open roles)
+## Online Marketing (60 open roles)
 
 ### Remote Executive Coordinator & Marketing Operations Assistant (part-time)
 - **Company:** HireLatam
@@ -1690,13 +1669,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-virtustant
 
-### Full Time DTC / Ecomm Designer
-- **Company:** Michael Todd Beauty
-- **Salary:** $15 – $30 / hour
-- **Location:** Remote
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-full-time-dtc-ecomm-designer-michael-todd-beauty
-
 ### SEO Specialist
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -1851,14 +1823,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-strategist-clients-blackbox
 
-### Full Time Designer – Landing Pages & Ads
-- **Company:** Michael Todd Beauty
-- **Salary:** $15 – $30 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-full-time-designer-landing-pages-ads-michael-todd-beauty
-
-## Operations (90 open roles)
+## Operations (89 open roles)
 
 ### Night Dispatch & Logistics Coordinator
 - **Company:** Sagan Recruitment
@@ -2494,21 +2459,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-global-demand-planner-latino-legends
 
-### Remote Senior Operations Manager
-- **Company:** HireLatam
-- **Salary:** $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-remote-senior-operations-manager-hirelatam
+## Other (385 open roles)
 
-## Other (386 open roles)
-
-### Audit Associate
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
+### Video Editor
+- **Company:** Hire With Near
+- **Salary:** $2,000 – $2,500 / month
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-28
-- **View Job:** https://globalcaribbeans.com/#card-audit-associate-somewhere
+- **Posted:** 2026-06-29
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-hire-with-near
 
 ### Video Editor
 - **Company:** micro1
@@ -5206,21 +5164,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-05-31
 - **View Job:** https://globalcaribbeans.com/#card-cnc-manufacturing-documentation-reviewer-micro1
 
-### AI Evaluation Specialist
-- **Company:** micro1
-- **Salary:** $20 – $35 / hour
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-ai-evaluation-specialist-micro1
-
-## Project Management (45 open roles)
-
-### SU - Project Manager
-- **Company:** Somewhere
-- **Salary:** $1,500 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-28
-- **View Job:** https://globalcaribbeans.com/#card-su-project-manager-somewhere-2
+## Project Management (44 open roles)
 
 ### Senior Digital Project Manager
 - **Company:** Fueled
@@ -5718,7 +5662,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-tech-recruiter-6-month-ftc-remote-com
 
-## Sales (81 open roles)
+## Sales (82 open roles)
+
+### Data Partnerships Lead
+- **Company:** micro1
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-06-29
+- **View Job:** https://globalcaribbeans.com/#card-data-partnerships-lead-micro1
 
 ### Sales Development Representative (SaaS)
 - **Company:** Hire With Near
@@ -6290,7 +6241,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-partnership-manager-new-existing-partners-optimizee-group
 
-## Software Development (212 open roles)
+## Software Development (210 open roles)
 
 ### Security Analyst, Bug Bounty
 - **Company:** Stripe
@@ -7765,17 +7716,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-mvp-build-ai-assisted-development-chlo-digital-ai
-
-### Remote AI Engineer
-- **Company:** HireLatam
-- **Salary:** $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-remote-ai-engineer-hirelatam
-
-### AI Automation Engineer
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,000 / month
-- **Location:** Remote
-- **Posted:** 2026-05-29
-- **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-sagan-recruitment-2
