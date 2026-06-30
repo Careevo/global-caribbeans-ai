@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-30T09:48:27Z
+last_updated: 2026-06-30T14:28:27Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -825,7 +825,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-travel-points-specialist-hirelatam
 
-## Data/Analytics (66 open roles)
+## Data/Analytics (65 open roles)
 
 ### Tech Lead (Backend): Fraud
 - **Company:** BVNK
@@ -833,13 +833,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-tech-lead-backend-fraud-bvnk
-
-### ML Engineer - Voice Pipeline & data architecture
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-ml-engineer-voice-pipeline-data-architecture-mappa-2
 
 ### Brand Marketing Manager
 - **Company:** Somewhere
@@ -1775,7 +1768,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-strategist-clients-blackbox
 
-## Operations (82 open roles)
+## Operations (83 open roles)
+
+### Head of AFC
+- **Company:** Xapo
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-head-of-afc-xapo
 
 ### Director of Sales
 - **Company:** Remote Leverage
@@ -2361,7 +2361,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-global-demand-planner-latino-legends
 
-## Other (373 open roles)
+## Other (375 open roles)
+
+### Motion Designer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-motion-designer-kajae-2
+
+### Young Professional – Human Resources - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-young-professional-human-resources-remote-work-bairesdev
+
+### Motion Designer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-motion-designer-kajae
+
+### Dispatcher & Field Service Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-dispatcher-field-service-coordinator-bruntwork
+
+### Mid/Senior AI Cinematic Video Editor
+- **Company:** EverAI
+- **Salary:** $30,000 – $100,000 / year
+- **Location:** Global
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-everai-3
 
 ### Insurance Transactions Processor (Work From Home)
 - **Company:** Persona
@@ -2665,13 +2700,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-virtustant
 
-### Production Coordinator
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-production-coordinator-mappa-4
-
 ### Junior Java Developer - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2791,20 +2819,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-mathematics-professor-researcher-micro1
-
-### Estimator
-- **Company:** Somewhere
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-estimator-somewhere
-
-### Short Form Video Editor
-- **Company:** Somewhere
-- **Salary:** $1,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-short-form-video-editor-somewhere-2
 
 ### Game Developer (Java / libGDX)
 - **Company:** micro1
@@ -5964,7 +5978,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-partnership-manager-new-existing-partners-optimizee-group
 
-## Software Development (199 open roles)
+## Software Development (197 open roles)
+
+### Product Engineer — AI Podcasts
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-product-engineer-ai-podcasts-mappa-3
 
 ### Senior Full Stack Engineer, MarTech
 - **Company:** CookUnity
@@ -5986,20 +6007,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-scala-developer-remote-work-bairesdev
-
-### Product Engineer — AI Podcasts
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-product-engineer-ai-podcasts-mappa-2
-
-### Full-stack Developer
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-mappa-2
 
 ### Kotlin Mobile Developer - Remote Work
 - **Company:** BairesDev
@@ -6217,13 +6224,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-06-28
 - **View Job:** https://globalcaribbeans.com/#card-security-analyst-bug-bounty-stripe-2
-
-### Software Engineer (WordPress & WooCommerce)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-wordpress-woocommerce-somewhere
 
 ### Manager, Security Engineering
 - **Company:** Acquia
