@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-06-30T04:02:57Z
+last_updated: 2026-06-30T09:48:27Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1038 active remote jobs** as of 2026-06-30.
+**1040 active remote jobs** as of 2026-06-30.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -601,7 +601,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-executive-assistant-office-manager-hirelatam
 
-## Customer support (30 open roles)
+## Customer support (31 open roles)
+
+### Customer Service & Scheduling Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-scheduling-coordinator-sagan-recruitment
 
 ### Young Professional – Customer Support - Remote Work
 - **Company:** BairesDev
@@ -818,7 +825,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-travel-points-specialist-hirelatam
 
-## Data/Analytics (65 open roles)
+## Data/Analytics (66 open roles)
+
+### Tech Lead (Backend): Fraud
+- **Company:** BVNK
+- **Salary:** €95,000 – €120,000 / year
+- **Location:** North America
+- **Posted:** 2026-06-30
+- **View Job:** https://globalcaribbeans.com/#card-tech-lead-backend-fraud-bvnk
 
 ### ML Engineer - Voice Pipeline & data architecture
 - **Company:** Mappa
