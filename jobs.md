@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-01T04:18:53Z
+last_updated: 2026-07-01T09:57:34Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1105 active remote jobs** as of 2026-07-01.
+**1109 active remote jobs** as of 2026-07-01.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1866,7 +1866,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-strategist-clients-blackbox
 
-## Operations (85 open roles)
+## Operations (86 open roles)
+
+### Accounting Operations Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-accounting-operations-manager-sagan-recruitment
 
 ### Logistics Analyst - Remote Work
 - **Company:** BairesDev
@@ -2473,7 +2480,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-global-demand-planner-latino-legends
 
-## Other (402 open roles)
+## Other (404 open roles)
+
+### Senior Medical Writer
+- **Company:** Sagan Recruitment
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-medical-writer-sagan-recruitment
+
+### Podcast & Thought Leadership Video Editor
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-podcast-thought-leadership-video-editor-sagan-recruitment
 
 ### Tongan Bilingual Expert
 - **Company:** micro1
@@ -5299,7 +5320,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-total-rewards-partner-remote-com
 
-## Project Management (41 open roles)
+## Project Management (42 open roles)
+
+### Land Development Project Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-land-development-project-manager-sagan-recruitment
 
 ### Junior Product Owner - Remote Work
 - **Company:** BairesDev
@@ -6322,6 +6350,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-partnership-manager-new-existing-partners-optimizee-group
 
 ## Software Development (213 open roles)
+
+### QA Specialist – AI Product Testing & Support
+- **Company:** micro1
+- **Salary:** $30 – $42 / hour
+- **Location:** Remote
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-qa-specialist-ai-product-testing-support-micro1
 
 ### Full-Stack Delphi Developer - Remote Work | REF#296751
 - **Company:** BairesDev
@@ -7810,10 +7845,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-junior-software-engineer-open-3d-engine-micro1
-
-### Software Engineer — MVP Build (AI-Assisted Development)
-- **Company:** chloédigital ai
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-01
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-mvp-build-ai-assisted-development-chlo-digital-ai
