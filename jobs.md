@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-01T09:57:34Z
+last_updated: 2026-07-01T14:46:19Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1109 active remote jobs** as of 2026-07-01.
+**1111 active remote jobs** as of 2026-07-01.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (50 open roles)
+## Accounting/Bookkeeping (47 open roles)
 
 ### Property Accounting Manager – Trust Accounting
 - **Company:** Sagan Recruitment
@@ -71,13 +71,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-commercial-insurance-accountant-quickbooks-us-gaap-bruntwork
 
-### US Tax Accountant - CPA
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-us-tax-accountant-cpa-bruntwork
-
 ### Senior Bookkeeper (Work From Home)
 - **Company:** Persona
 - **Salary:** Not Disclosed
@@ -113,13 +106,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-bookkeeper-work-from-home-persona-2
 
-### Bookkeeper (QuickBooks and Excel Specialist)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-quickbooks-and-excel-specialist-bruntwork
-
 ### Accounting Assistant
 - **Company:** WorkBetterNow
 - **Salary:** $1,200 / month
@@ -133,13 +119,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-sagan-recruitment
-
-### Real Estate Property Accountant & Operations Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-real-estate-property-accountant-operations-specialist-bruntwork
 
 ### Accounting Manager
 - **Company:** Sagan Recruitment
@@ -839,7 +818,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-remote-travel-points-specialist-hirelatam
 
-## Data/Analytics (73 open roles)
+## Data/Analytics (74 open roles)
+
+### CRM Analyst - Reactivations - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-crm-analyst-reactivations-remote-work-bairesdev
 
 ### Real Estate Valuation Analyst (Residential Underwriting)
 - **Company:** Sagan Recruitment
@@ -2480,7 +2466,36 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-global-demand-planner-latino-legends
 
-## Other (404 open roles)
+## Other (407 open roles)
+
+### Client Success Manager
+- **Company:** Integrated Hire
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-client-success-manager-integrated-hire-2
+
+### Game Developer
+- **Company:** micro1
+- **Salary:** $20 – $60 / hour
+- **Location:** Remote
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-game-developer-micro1-2
+
+### Spanish Bilingual Recruitment Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-recruitment-coordinator-bruntwork
+
+### Communications Manager
+- **Company:** Lemon.io
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-communications-manager-lemon-io
 
 ### Senior Medical Writer
 - **Company:** Sagan Recruitment
@@ -3106,14 +3121,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-operations-coordinator-english-spanish-bruntwork
-
-### Spanish Bilingual Recruiting Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-recruiting-coordinator-bruntwork
 
 ### Startup Generalist (Work From Home)
 - **Company:** Persona
@@ -5320,7 +5327,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-total-rewards-partner-remote-com
 
-## Project Management (42 open roles)
+## Project Management (43 open roles)
+
+### Senior Product Manager, HRIS Integrations
+- **Company:** Remote.com
+- **Salary:** $60,000 – $135,000 / year
+- **Location:** AMER | Global | Anywhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-hris-integrations-remote-com
 
 ### Land Development Project Manager
 - **Company:** Sagan Recruitment
@@ -5785,6 +5800,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Sales (80 open roles)
 
+### Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-01
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-bruntwork-2
+
 ### Business Development Representative
 - **Company:** Kajae
 - **Salary:** Not Disclosed
@@ -5868,13 +5890,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-remote-leverage-2
-
-### Appointment Setter
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-bruntwork
 
 ### Spanish Bilingual Sales Account Coordinator
 - **Company:** BruntWork
