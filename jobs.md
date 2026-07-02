@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-02T09:20:11Z
+last_updated: 2026-07-02T14:11:39Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1162 active remote jobs** as of 2026-07-02.
+**1159 active remote jobs** as of 2026-07-02.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -852,7 +852,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-pay-customer-success-manager-smb-remote-com
 
-## Data/Analytics (77 open roles)
+## Data/Analytics (76 open roles)
 
 ### Recruiting Manager - Remote Work
 - **Company:** BairesDev
@@ -888,13 +888,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-power-bi-junior-analyst-remote-work-bairesdev
-
-### ML Engineer - Voice Pipeline & data architecture
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-ml-engineer-voice-pipeline-data-architecture-mappa-2
 
 ### CRM Analyst - Reactivations - Remote Work
 - **Company:** BairesDev
@@ -1470,7 +1463,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (69 open roles)
+## Online Marketing (68 open roles)
 
 ### Sr. AI Video Editor
 - **Company:** Latino Legends
@@ -1513,14 +1506,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-skills-role-content-specialist-remote-work-bairesdev
-
-### Head of Sales
-- **Company:** Mappa
-- **Salary:** $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-head-of-sales-mappa
 
 ### Copywriter
 - **Company:** BruntWork
@@ -2586,6 +2571,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-amazon-market-place-operations-specialist-sagan-recruitment
 
 ## Other (420 open roles)
+
+### Medical Transcriptionist (Genie)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-02
+- **View Job:** https://globalcaribbeans.com/#card-medical-transcriptionist-genie-bruntwork
 
 ### AI Video Creative Director
 - **Company:** Superside
@@ -5530,14 +5522,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-02
 - **View Job:** https://globalcaribbeans.com/#card-status-manual-qa-product-tester-part-time-iftother
 
-### Client Success Manager
-- **Company:** Integrated Hire
-- **Salary:** $2,500 – $3,000 / month
-- **Location:** Global
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-client-success-manager-integrated-hire
+## Project Management (46 open roles)
 
-## Project Management (44 open roles)
+### Senior Project Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-02
+- **View Job:** https://globalcaribbeans.com/#card-senior-project-manager-remote-work-bairesdev
+
+### Project Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-02
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-work-bairesdev
 
 ### Scrum Master - Remote Work
 - **Company:** BairesDev
@@ -6044,7 +6043,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-tech-recruiter-6-month-ftc-remote-com
 
-## Sales (80 open roles)
+## Sales (78 open roles)
 
 ### Sales Development Representative
 - **Company:** Remote Leverage
@@ -6596,21 +6595,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-business-development-specialist-kajae
 
-### Growth Manager
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-growth-manager-micro1
-
-### Sales Manager
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-02
-- **View Job:** https://globalcaribbeans.com/#card-sales-manager-micro1
-
-## Software Development (229 open roles)
+## Software Development (228 open roles)
 
 ### Senior Software Engineer, Cloud Engineering
 - **Company:** Mozilla
@@ -6737,13 +6722,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-python-engineer-remote-work-bairesdev
-
-### Product Engineer — AI Podcasts
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-product-engineer-ai-podcasts-mappa-2
 
 ### QA Specialist – AI Product Testing & Support
 - **Company:** micro1
