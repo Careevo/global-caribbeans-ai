@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-03T03:41:52Z
+last_updated: 2026-07-03T09:25:53Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1167 active remote jobs** as of 2026-07-03.
+**1175 active remote jobs** as of 2026-07-03.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -393,7 +393,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-accountant-expert-micro1
 
-## Admin (33 open roles)
+## Admin (34 open roles)
+
+### Executive Assistant (Strategic Operations)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,500 / month
+- **Location:** Global
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-strategic-operations-sagan-recruitment
 
 ### Senior Executive Assistant
 - **Company:** Hire With Near
@@ -881,7 +888,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-pay-customer-success-manager-smb-remote-com
 
-## Data/Analytics (75 open roles)
+## Data/Analytics (76 open roles)
+
+### Senior Data Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-supabase
 
 ### Data Analyst
 - **Company:** Remote Leverage
@@ -1409,7 +1423,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-remote-team-lead-hirelatam
 
-## IT/Engineering (4 open roles)
+## IT/Engineering (5 open roles)
+
+### Senior Windows Patch Management Engineer (MSP)
+- **Company:** Sagan Recruitment
+- **Salary:** $3,500 – $5,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-windows-patch-management-engineer-msp-sagan-recruitment
 
 ### IT Systems Administrator
 - **Company:** Sagan Recruitment
@@ -1476,7 +1497,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (69 open roles)
+## Online Marketing (70 open roles)
+
+### Cold Outbound Specialist (E-commerce Agency)
+- **Company:** Sagan Recruitment
+- **Salary:** $3,700 – $4,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-cold-outbound-specialist-e-commerce-agency-sagan-recruitment
 
 ### Senior Brand Marketing Manager (DTC Growth)
 - **Company:** Somewhere
@@ -2570,7 +2598,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-remote-contracts-administrator-hirelatam
 
-## Other (427 open roles)
+## Other (429 open roles)
+
+### Senior Revenue Cycle Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,200 – $2,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-revenue-cycle-specialist-sagan-recruitment
+
+### Finance Specialist
+- **Company:** micro1
+- **Salary:** $20 – $40 / hour
+- **Location:** Remote
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-finance-specialist-micro1-2
+
+### Medical Specialist
+- **Company:** micro1
+- **Salary:** $20 – $40 / hour
+- **Location:** Remote
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-medical-specialist-micro1
+
+### Legal Specialist
+- **Company:** micro1
+- **Salary:** $20 – $40 / hour
+- **Location:** Remote
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-legal-specialist-micro1-2
 
 ### Biology Expert
 - **Company:** micro1
@@ -3106,13 +3162,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-motion-designer-kajae
-
-### Dispatcher & Field Service Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-30
-- **View Job:** https://globalcaribbeans.com/#card-dispatcher-field-service-coordinator-bruntwork
 
 ### Mid/Senior AI Cinematic Video Editor
 - **Company:** EverAI
@@ -5564,14 +5613,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-entrepreneur-business-systems-specialist-micro1
 
-### Customer Operations & Writing Specialist
-- **Company:** Clerky
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-03
-- **View Job:** https://globalcaribbeans.com/#card-customer-operations-writing-specialist-clerky-2
+## Project Management (47 open roles)
 
-## Project Management (45 open roles)
+### Construction & Signage Project Manager
+- **Company:** Sagan Recruitment
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-construction-signage-project-manager-sagan-recruitment
+
+### Civil Engineer - Land Development Project Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-civil-engineer-land-development-project-manager-sagan-recruitment
 
 ### Influencer Marketing Specialist
 - **Company:** Hire With Near
