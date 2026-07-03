@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-03T09:25:53Z
+last_updated: 2026-07-03T14:18:59Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -635,7 +635,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-hr-somewhere
 
-## Customer support (35 open roles)
+## Customer support (34 open roles)
+
+### Spanish Bilingual Customer Support Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-customer-support-representative-bruntwork
 
 ### Customer Support Specialist
 - **Company:** Virtustant
@@ -787,13 +794,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-manager-posthog-2
 
-### Customer Service Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 / month
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-sagan-recruitment
-
 ### Customer Service/ Client concierge
 - **Company:** Hire With Near
 - **Salary:** $1,500 – $2,000 / month
@@ -851,13 +851,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-remote-customer-care-specialist-hirelatam
 
-### Customer Service Representative (HVAC)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,400 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-hvac-sagan-recruitment
-
 ### Customer Service Representative
 - **Company:** Virtual Latinos
 - **Salary:** Not Disclosed
@@ -888,7 +881,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-pay-customer-success-manager-smb-remote-com
 
-## Data/Analytics (76 open roles)
+## Data/Analytics (78 open roles)
+
+### Senior Product Manager, Reporting & Insights
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-reporting-insights-remote
+
+### Senior Product Manager, Reporting & Insights
+- **Company:** Remote.com
+- **Salary:** Not Disclosed
+- **Location:** AMER | Global | Anywhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-reporting-insights-remote-com
 
 ### Senior Data Engineer
 - **Company:** Supabase
@@ -2598,7 +2606,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-remote-contracts-administrator-hirelatam
 
-## Other (429 open roles)
+## Other (428 open roles)
 
 ### Senior Revenue Cycle Specialist
 - **Company:** Sagan Recruitment
@@ -5605,13 +5613,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-03
 - **View Job:** https://globalcaribbeans.com/#card-graduate-sales-supply-chain-intern-the-studio
-
-### Entrepreneur & Business Systems Specialist
-- **Company:** micro1
-- **Salary:** $50 – $120 / hour
-- **Location:** Remote
-- **Posted:** 2026-06-03
-- **View Job:** https://globalcaribbeans.com/#card-entrepreneur-business-systems-specialist-micro1
 
 ## Project Management (47 open roles)
 
