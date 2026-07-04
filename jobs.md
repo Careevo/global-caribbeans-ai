@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-04T03:35:01Z
+last_updated: 2026-07-04T08:43:39Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1159 active remote jobs** as of 2026-07-04.
+**1155 active remote jobs** as of 2026-07-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2593,7 +2593,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-solutions-engineer-remote-com
 
-## Other (421 open roles)
+## Other (418 open roles)
 
 ### Autocad Drafter
 - **Company:** Virtustant
@@ -5438,13 +5438,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-remote-com
 
-### Senior Product Designer
-- **Company:** Bone Studio
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-07
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-bone-studio
-
 ### Manager, Enterprise Sales
 - **Company:** Figma
 - **Salary:** $155,500 – $230,500 / year
@@ -5537,20 +5530,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-engineering-team-leader-remote-com-2
-
-### Revenue Cycle Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 / month
-- **Location:** Global
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-revenue-cycle-specialist-sagan-recruitment
-
-### Construction Estimator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-construction-estimator-sagan-recruitment
 
 ## Project Management (45 open roles)
 
@@ -6073,7 +6052,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-tech-recruiter-6-month-ftc-remote-com
 
-## Sales (78 open roles)
+## Sales (77 open roles)
 
 ### Performance & Account Manager
 - **Company:** Hired Remoteli
@@ -6616,13 +6595,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-director-of-sales-apiiro
-
-### Account Manager
-- **Company:** Alice
-- **Salary:** $160,000 – $250,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-account-manager-alice
 
 ## Software Development (224 open roles)
 
