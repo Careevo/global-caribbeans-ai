@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-04T08:43:39Z
+last_updated: 2026-07-04T13:43:22Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1155 active remote jobs** as of 2026-07-04.
+**1150 active remote jobs** as of 2026-07-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1484,7 +1484,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (72 open roles)
+## Online Marketing (71 open roles)
 
 ### Senior Product Marketing Manager
 - **Company:** Customer.io
@@ -1985,13 +1985,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-wealth-management-marketing-manager-clients-blackbox
-
-### Performance Marketing Strategist
-- **Company:** Clients Blackbox
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-performance-marketing-strategist-clients-blackbox
 
 ## Operations (84 open roles)
 
@@ -2593,7 +2586,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-solutions-engineer-remote-com
 
-## Other (418 open roles)
+## Other (415 open roles)
 
 ### Autocad Drafter
 - **Company:** Virtustant
@@ -4919,13 +4912,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-albanian-bilingual-expert-micro1
 
-### Galician Bilingual Expert
-- **Company:** micro1
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-galician-bilingual-expert-micro1
-
 ### Myanmar Bilingual Expert
 - **Company:** micro1
 - **Salary:** $45 – $95 / hour
@@ -5219,13 +5205,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-financial-documents-specialist-chinese-micro1
-
-### Javanese Language Expert
-- **Company:** micro1
-- **Salary:** $45 – $95 / hour
-- **Location:** Remote
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-javanese-language-expert-micro1
 
 ### Bulgarian Language Expert
 - **Company:** micro1
@@ -5522,14 +5501,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-04
 - **View Job:** https://globalcaribbeans.com/#card-corporate-finance-expert-micro1
-
-### Engineering Team Leader
-- **Company:** Remote.com
-- **Salary:** $75,450 – $169,700 / year
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-engineering-team-leader-remote-com-2
 
 ## Project Management (45 open roles)
 
@@ -6596,7 +6567,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-director-of-sales-apiiro
 
-## Software Development (224 open roles)
+## Software Development (223 open roles)
 
 ### Member of Technical Staff, AI/ML Engineering
 - **Company:** micro1
@@ -8162,10 +8133,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-staff-engineer-identity-stripe
-
-### Senior Backend Engineer (Elixir)
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-elixir-remote-3
