@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-05T13:49:41Z
+last_updated: 2026-07-05T19:24:40Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**919 active remote jobs** as of 2026-07-05.
+**916 active remote jobs** as of 2026-07-05.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -337,7 +337,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-senior-credit-collections-analyst-figma
 
-## Admin (33 open roles)
+## Admin (32 open roles)
 
 ### Medical Receptionist
 - **Company:** Virtustant
@@ -564,13 +564,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-front-desk-receptionist-staffing-for-doctors
-
-### Administrative Assistant (HR)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-hr-somewhere
 
 ## Customer support (32 open roles)
 
@@ -2416,7 +2409,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-partner-one-capital
 
-## Other (238 open roles)
+## Other (237 open roles)
+
+### Freelance Brand and Marketing Designer
+- **Company:** Contrast UX
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-05
+- **View Job:** https://globalcaribbeans.com/#card-freelance-brand-and-marketing-designer-contrast-ux
 
 ### Autocad Drafter
 - **Company:** Virtustant
@@ -4078,22 +4078,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-partner-acquisition-director-cloudinary
 
-### Nurse Practitioner or Physician Assistant (Part Time)
-- **Company:** Signify Health
-- **Salary:** $41.85 – $90.13 / hour
-- **Location:** Americas
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-nurse-practitioner-or-physician-assistant-part-time-signify-health
-
-### Lifecycle Specialist, Employee Relations & Transitions
-- **Company:** Remote.com
-- **Salary:** $37,250 – $83,800 / year
-- **Location:** Americas
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-employee-relations-transitions-remote-com-3
-
-## Project Management (45 open roles)
+## Project Management (44 open roles)
 
 ### Construction & Signage Project Manager
 - **Company:** Sagan Recruitment
@@ -4405,14 +4390,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-ad-formats-discord
-
-### Global Payroll Implementation Specialist - PEO
-- **Company:** Remote.com
-- **Salary:** $83,200 – $112,300 / year
-- **Location:** Americas
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-global-payroll-implementation-specialist-peo-remote-com
 
 ## Recruiting (25 open roles)
 
