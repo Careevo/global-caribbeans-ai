@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-04T19:20:56Z
+last_updated: 2026-07-05T03:53:23Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1146 active remote jobs** as of 2026-07-04.
+**1142 active remote jobs** as of 2026-07-05.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1395,7 +1395,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-sales-enablement-manager-orchard
 
-## IT/Engineering (5 open roles)
+## IT/Engineering (4 open roles)
 
 ### Senior Windows Patch Management Engineer (MSP)
 - **Company:** Sagan Recruitment
@@ -1424,13 +1424,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-senior-network-engineer-remote-work-ref-295038-bairesdev
-
-### Senior IT Engineer
-- **Company:** Babylist
-- **Salary:** $142,000 – $177,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-senior-it-engineer-babylist
 
 ## Legal (5 open roles)
 
@@ -1469,14 +1462,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-transactional-attorney-micro1
 
-## Online Marketing (72 open roles)
-
-### Creative Producer SA/LATAM
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-04
-- **View Job:** https://globalcaribbeans.com/#card-creative-producer-sa-latam-somewhere
+## Online Marketing (71 open roles)
 
 ### Senior Product Marketing Manager
 - **Company:** Customer.io
@@ -2570,7 +2556,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-partner-one-capital
 
-## Other (413 open roles)
+## Other (412 open roles)
 
 ### Autocad Drafter
 - **Company:** Virtustant
@@ -5465,13 +5451,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-in-home-traveler-physician-full-time-connecticut-state-and-surrounding-markets-s
 
-### Property Onboarding & Rent-Ready Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-04
-- **View Job:** https://globalcaribbeans.com/#card-property-onboarding-rent-ready-coordinator-sagan-recruitment
-
 ## Project Management (45 open roles)
 
 ### Construction & Signage Project Manager
@@ -5993,7 +5972,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-tech-recruiter-6-month-ftc-remote-com
 
-## Sales (77 open roles)
+## Sales (76 open roles)
 
 ### Performance & Account Manager
 - **Company:** Hired Remoteli
@@ -6522,13 +6501,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-demand-generation-strategist-clients-blackbox
-
-### Head of Sales
-- **Company:** The Land Geek
-- **Salary:** $109,000 – $228,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-land-geek
 
 ### Director of Sales
 - **Company:** Apiiro
