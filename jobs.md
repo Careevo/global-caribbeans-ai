@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-05T09:12:13Z
+last_updated: 2026-07-05T13:49:41Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**920 active remote jobs** as of 2026-07-05.
+**919 active remote jobs** as of 2026-07-05.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -4414,7 +4414,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-05
 - **View Job:** https://globalcaribbeans.com/#card-global-payroll-implementation-specialist-peo-remote-com
 
-## Recruiting (26 open roles)
+## Recruiting (25 open roles)
 
 ### Senior Recruiter - Remote Work
 - **Company:** BairesDev
@@ -4591,14 +4591,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-remote-junior-recruiter-valatam
-
-### Tech Recruiter (6-month FTC)
-- **Company:** Remote.com
-- **Salary:** $32,000 – $72,050 / year
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-tech-recruiter-6-month-ftc-remote-com
 
 ## Sales (72 open roles)
 
