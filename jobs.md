@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-05T19:24:40Z
+last_updated: 2026-07-06T04:00:14Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**916 active remote jobs** as of 2026-07-05.
+**917 active remote jobs** as of 2026-07-06.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -337,7 +337,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-senior-credit-collections-analyst-figma
 
-## Admin (32 open roles)
+## Admin (33 open roles)
+
+### Marketing & Operations Coordinator (Startup & Founder Support)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-06
+- **View Job:** https://globalcaribbeans.com/#card-marketing-operations-coordinator-startup-founder-support-bruntwork
 
 ### Medical Receptionist
 - **Company:** Virtustant
@@ -565,7 +572,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-front-desk-receptionist-staffing-for-doctors
 
-## Customer support (32 open roles)
+## Customer support (33 open roles)
+
+### Spanish Bilingual Insurance Support Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-06
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-insurance-support-specialist-bruntwork-2
+
+### Administrative Support Specialist
+- **Company:** Latino Legends
+- **Salary:** $1,200 – $1,700 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-05
+- **View Job:** https://globalcaribbeans.com/#card-administrative-support-specialist-latino-legends
 
 ### Spanish Bilingual Customer Support Representative
 - **Company:** BruntWork
@@ -608,14 +630,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-dental-lab-customer-service-coordinator-sagan-recruitment
-
-### Spanish Bilingual Insurance Support Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-insurance-support-specialist-bruntwork
 
 ### Technical Support Analyst - Remote Work | REF#296739
 - **Company:** BairesDev
@@ -1854,6 +1868,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (78 open roles)
 
+### Legal Operations & Contracts Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-06
+- **View Job:** https://globalcaribbeans.com/#card-legal-operations-contracts-specialist-bruntwork
+
 ### Technical Training Specialist (HealthTech)
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -2402,14 +2423,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-senior-tpm-merchandising-babylist
 
-### Operations Coordinator
-- **Company:** Partner One Capital
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-06
-- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-partner-one-capital
-
-## Other (237 open roles)
+## Other (236 open roles)
 
 ### Freelance Brand and Marketing Designer
 - **Company:** Contrast UX
@@ -4070,13 +4084,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-06
 - **View Job:** https://globalcaribbeans.com/#card-estimator-does-electric-estimates-and-takeoffs-planswift-efficient-remote-va
-
-### Partner Acquisition Director
-- **Company:** Cloudinary
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-05
-- **View Job:** https://globalcaribbeans.com/#card-partner-acquisition-director-cloudinary
 
 ## Project Management (44 open roles)
 
