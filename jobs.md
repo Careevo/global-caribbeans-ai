@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-08T03:18:16Z
+last_updated: 2026-07-08T08:35:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**874 active remote jobs** as of 2026-07-08.
+**875 active remote jobs** as of 2026-07-08.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (38 open roles)
+## Accounting/Bookkeeping (39 open roles)
+
+### Accounts Payable Lead
+- **Company:** Hire With Near
+- **Salary:** $2,500 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-08
+- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-lead-hire-with-near
 
 ### Senior US Tax Accountant
 - **Company:** BruntWork
@@ -524,7 +531,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-front-desk-receptionist-staffing-for-doctors
 
-## Customer support (31 open roles)
+## Customer support (30 open roles)
 
 ### Spanish Bilingual Intake & Client Support Specialist
 - **Company:** BruntWork
@@ -741,13 +748,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-virtual-latinos
-
-### Customer Success Manager
-- **Company:** Anavah Talent
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-08
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-anavah-talent
 
 ## Data/Analytics (67 open roles)
 
@@ -1268,7 +1268,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (71 open roles)
+## Online Marketing (72 open roles)
+
+### Meta Ads Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,000 / month
+- **Location:** Global
+- **Posted:** 2026-07-08
+- **View Job:** https://globalcaribbeans.com/#card-meta-ads-manager-sagan-recruitment
 
 ### Skills & Role Content Specialist - Remote Work
 - **Company:** BairesDev
@@ -3878,7 +3885,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-remote-com
 
-## Project Management (40 open roles)
+## Project Management (41 open roles)
+
+### Construction Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-08
+- **View Job:** https://globalcaribbeans.com/#card-construction-operations-coordinator-sagan-recruitment
 
 ### Scrum Master - Remote Work
 - **Company:** BairesDev
@@ -4362,7 +4376,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-08
 - **View Job:** https://globalcaribbeans.com/#card-remote-junior-recruiter-valatam
 
-## Sales (65 open roles)
+## Sales (64 open roles)
 
 ### Remote Sales Development Representative
 - **Company:** HireLatam
@@ -4580,13 +4594,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-ai-growth-specialist-hire-with-near
-
-### Business Development Representative
-- **Company:** Hire With Near
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-hire-with-near
 
 ### B2B Sales Development
 - **Company:** Somewhere
