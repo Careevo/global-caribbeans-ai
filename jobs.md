@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-09T03:43:00Z
+last_updated: 2026-07-09T09:53:05Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**910 active remote jobs** as of 2026-07-09.
+**903 active remote jobs** as of 2026-07-09.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (43 open roles)
+## Accounting/Bookkeeping (42 open roles)
 
 ### Remote Accountant | Restaurant and Hospitality.
 - **Company:** BruntWork
@@ -56,14 +56,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-accounts-payable-lead-hire-with-near
-
-### Senior US Tax Accountant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-07
-- **View Job:** https://globalcaribbeans.com/#card-senior-us-tax-accountant-bruntwork
 
 ### Accounts Receivable Collections Specialist - Commercial & HOA Accounts
 - **Company:** HireLatam
@@ -552,15 +544,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-sagan-recruitment-2
 
-## Customer support (26 open roles)
-
-### Spanish Bilingual Intake & Client Support Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-06
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-intake-client-support-specialist-bruntwork
+## Customer support (25 open roles)
 
 ### Young Professional – Customer Support - Remote Work
 - **Company:** BairesDev
@@ -1329,7 +1313,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (66 open roles)
+## Online Marketing (64 open roles)
 
 ### Marketing Automation Engineer - Remote Work | REF#295284
 - **Company:** BairesDev
@@ -1781,21 +1765,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-manager-pavago
 
-### Senior Product Marketing Manager - API & Agentic Banking
-- **Company:** Mercury
-- **Salary:** $153,900 – $213,700 / year
-- **Location:** Americas
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-marketing-manager-api-agentic-banking-mercury
+## Operations (80 open roles)
 
-### Director of Product Marketing
-- **Company:** Medallion
-- **Salary:** $175,000 – $220,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-director-of-product-marketing-medallion
-
-## Operations (79 open roles)
+### EDD Analyst
+- **Company:** Remote.com
+- **Salary:** €62,100 – €69,900 / year
+- **Location:** AMER | Global | Anywhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-09
+- **View Job:** https://globalcaribbeans.com/#card-edd-analyst-remote-com
 
 ### Sitecore Developer - Remote Work | REF#295336
 - **Company:** BairesDev
@@ -2362,7 +2340,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-remote-ux-ui-designer-hirelatam
 
-## Other (252 open roles)
+## Other (251 open roles)
 
 ### Graphic Designer (Digital, Print & Marketing Assets)
 - **Company:** BruntWork
@@ -4128,14 +4106,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-senior-client-engineer-core-experience-formats-foundations-spotify
 
-### Product Delivery Coordinator
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-product-delivery-coordinator-new-era-technology
-
-## Project Management (48 open roles)
+## Project Management (47 open roles)
 
 ### Senior Security Scrum Master - Remote Work
 - **Company:** BairesDev
@@ -4468,13 +4439,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-project-manager-sagan-recruitment
 
-### Product Manager - Billing & Fees
-- **Company:** BVNK
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-billing-fees-bvnk
-
 ## Recruiting (26 open roles)
 
 ### Senior HR Business Partner
@@ -4660,7 +4624,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-technical-sourcer-toptal
 
-## Sales (66 open roles)
+## Sales (65 open roles)
 
 ### Appointment Setter
 - **Company:** Somewhere
@@ -5120,14 +5084,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-property-management-pavago
 
-### Business Development Representative - Cybersecurity Sector
-- **Company:** Huzzle
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-cybersecurity-sector-huzzle
-
-## Software Development (188 open roles)
+## Software Development (187 open roles)
 
 ### Shopify Plus Developer - Remote work | REF#297712
 - **Company:** BairesDev
@@ -6441,10 +6398,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-09
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-data-integration-jvm-ecosystem-clickhouse
-
-### QA/SDET
-- **Company:** Enroute
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-09
-- **View Job:** https://globalcaribbeans.com/#card-qa-sdet-enroute
