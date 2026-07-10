@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-10T03:45:47Z
+last_updated: 2026-07-10T09:43:26Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**894 active remote jobs** as of 2026-07-10.
+**892 active remote jobs** as of 2026-07-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -713,7 +713,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment
 
-## Data/Analytics (76 open roles)
+## Data/Analytics (77 open roles)
+
+### Senior Staff Data Scientist
+- **Company:** Mozilla
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-staff-data-scientist-mozilla
 
 ### Senior Security Data Scientist (Python) - Remote Work
 - **Company:** BairesDev
@@ -1309,7 +1316,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (66 open roles)
+## Online Marketing (65 open roles)
 
 ### Email Marketing Specialist (Direct Response Funnel & GHL)
 - **Company:** Sagan Recruitment
@@ -1768,14 +1775,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-senior-data-science-manager-mercury
 
-### Performance Marketing Manager
-- **Company:** Pavago
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-performance-marketing-manager-pavago
-
-## Operations (77 open roles)
+## Operations (76 open roles)
 
 ### Operations Engineer
 - **Company:** Hire With Near
@@ -2321,13 +2321,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-payer-enrollment-strategy-operations-medallion
-
-### IT Audit Manager
-- **Company:** Figma
-- **Salary:** $153,000 – $221,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-it-audit-manager-figma
 
 ## Other (248 open roles)
 
@@ -5016,7 +5009,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-success-manager-pavago
 
-## Software Development (188 open roles)
+## Software Development (187 open roles)
 
 ### Lead Data Architect
 - **Company:** Somewhere
@@ -6330,10 +6323,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-principal-software-engineer-postgres-clickhouse
-
-### Full Stack Builder - Email Builders Team
-- **Company:** Gohighlevel
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-builder-email-builders-team-gohighlevel
