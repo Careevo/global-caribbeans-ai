@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-10T14:37:50Z
+last_updated: 2026-07-10T19:38:52Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**887 active remote jobs** as of 2026-07-10.
+**892 active remote jobs** as of 2026-07-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (40 open roles)
+## Accounting/Bookkeeping (41 open roles)
+
+### Tax Accountant
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-tax-accountant-mappa-7
 
 ### Assistant Bookkeeper
 - **Company:** WorkBetterNow
@@ -547,7 +554,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-sagan-recruitment-2
 
-## Customer support (23 open roles)
+## Customer support (24 open roles)
+
+### Customer Support Specialist
+- **Company:** Hire With Near
+- **Salary:** $1,000 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-hire-with-near
 
 ### Young Professional – Customer Support - Remote Work
 - **Company:** BairesDev
@@ -715,6 +730,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Data/Analytics (77 open roles)
 
+### Director of Commercial Growth
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-director-of-commercial-growth-mappa-2
+
 ### Senior Staff Data Scientist
 - **Company:** Mozilla
 - **Salary:** Not Disclosed
@@ -770,13 +792,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-manager-remote-work-bairesdev
-
-### Director of Commercial Growth
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-08
-- **View Job:** https://globalcaribbeans.com/#card-director-of-commercial-growth-mappa
 
 ### Reporting Manager / MVA Lead Generation
 - **Company:** Kajae
@@ -1316,7 +1331,29 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (64 open roles)
+## Online Marketing (67 open roles)
+
+### Paid Media Manager: PPC Specialist
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-paid-media-manager-ppc-specialist-somewhere
+
+### Campaign Manager
+- **Company:** Somewhere
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-campaign-manager-somewhere
+
+### Head of Sales
+- **Company:** Mappa
+- **Salary:** $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-head-of-sales-mappa
 
 ### Email Marketing Specialist (Direct Response Funnel & GHL)
 - **Company:** Sagan Recruitment
@@ -1768,7 +1805,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-meta-ads-focus-sagan-recruitment
 
-## Operations (76 open roles)
+## Operations (77 open roles)
+
+### Ecommerce Manager
+- **Company:** Hire With Near
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-ecommerce-manager-hire-with-near
+
+### Business Operations Manager
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-business-operations-manager-mappa
+
+### AI Content & Studio Lead
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-ai-content-studio-lead-mappa
 
 ### SharePoint Administrator
 - **Company:** Sagan Recruitment
@@ -2301,21 +2359,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-people-intern-customer-io
 
-### Walmart Seller Specialist
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-walmart-seller-specialist-virtustant
+## Other (245 open roles)
 
-### Manager - Account Fraud Enablement
-- **Company:** Mercury
-- **Salary:** $138,800 – $192,800 / year
+### Senior Solutions Consultant - Global Payroll, AMER
+- **Company:** Remote.com
+- **Salary:** $78,000 – $262,250 / year
 - **Location:** Americas
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-manager-account-fraud-enablement-mercury
-
-## Other (247 open roles)
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-solutions-consultant-global-payroll-amer-remote-com
 
 ### Fashion Buyer
 - **Company:** Rebag
@@ -2603,13 +2655,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-product-security-engineer-remote-work-bairesdev
-
-### Production Coordinator
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-08
-- **View Job:** https://globalcaribbeans.com/#card-production-coordinator-mappa-4
 
 ### General Manager, Nomad Insurance
 - **Company:** SafetyWing
@@ -4038,20 +4083,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-relationship-management-mercury
 
-### Consultant, MLE Strategy (Immunization Demand Generation Pilot)
-- **Company:** Evidence Action
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-consultant-mle-strategy-immunization-demand-generation-pilot-evidence-action
-
-### Freelance Book Designer
-- **Company:** Reedsy
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-10
-- **View Job:** https://globalcaribbeans.com/#card-freelance-book-designer-reedsy
-
 ## Project Management (44 open roles)
 
 ### Senior Campaign Manager
@@ -4544,6 +4575,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Sales (62 open roles)
 
+### Remote Bilingual Sales Generator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-remote-bilingual-sales-generator-bruntwork
+
 ### Spanish Bilingual Sales Account Executive
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -4592,13 +4631,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-remote-appointment-setters-hirelatam
-
-### Creator Partnerships Manager
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-08
-- **View Job:** https://globalcaribbeans.com/#card-creator-partnerships-manager-mappa
 
 ### Sales Operations & CRM Specialist
 - **Company:** Kajae
@@ -4981,7 +5013,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-10
 - **View Job:** https://globalcaribbeans.com/#card-success-manager-pavago
 
-## Software Development (186 open roles)
+## Software Development (187 open roles)
+
+### GTM AI Engineer
+- **Company:** Customer.io
+- **Salary:** $140,000 – $170,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-gtm-ai-engineer-customer-io
+
+### Senior Software Engineer - Backend Platform
+- **Company:** Customer.io
+- **Salary:** $150,000 – $200,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-platform-customer-io
 
 ### Lead Data Architect
 - **Company:** Somewhere
@@ -5087,13 +5133,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-kajae
-
-### Product Engineer — AI Podcasts
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-08
-- **View Job:** https://globalcaribbeans.com/#card-product-engineer-ai-podcasts-mappa-2
 
 ### Machine Learning Engineer - Remote Work
 - **Company:** BairesDev
