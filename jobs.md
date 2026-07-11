@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-11T08:02:49Z
+last_updated: 2026-07-11T13:36:48Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**880 active remote jobs** as of 2026-07-11.
+**875 active remote jobs** as of 2026-07-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -714,7 +714,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment
 
-## Data/Analytics (75 open roles)
+## Data/Analytics (74 open roles)
 
 ### Data Scientist: Product & Analytics
 - **Company:** Smallpdf
@@ -1236,13 +1236,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-data-engineer-integration-migration-enroute
 
-### Product Marketing Engineer
-- **Company:** ClickHouse
-- **Salary:** $140,000 – $215,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-product-marketing-engineer-clickhouse
-
 ## IT/Engineering (6 open roles)
 
 ### Service Desk Technician
@@ -1303,7 +1296,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (67 open roles)
+## Online Marketing (68 open roles)
+
+### Senior Google Ads Manager
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-google-ads-manager-remotely-talents-client-confidential
 
 ### Video Editor - Paid Ads
 - **Company:** Hire With Near
@@ -1777,7 +1777,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-meta-ads-focus-sagan-recruitment
 
-## Operations (79 open roles)
+## Operations (77 open roles)
 
 ### Operations & Project Coordinator
 - **Company:** Sagan Recruitment
@@ -2331,21 +2331,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-corporate-technology-chainguard
 
-### Strategic Finance, Systems & AI Innovation
-- **Company:** Figma
-- **Salary:** $169,000 – $245,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-strategic-finance-systems-ai-innovation-figma
-
-### Contact Center Operations Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** Remote
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-contact-center-operations-manager-sagan-recruitment
-
-## Other (243 open roles)
+## Other (242 open roles)
 
 ### Leasing Specialist
 - **Company:** Sagan Recruitment
@@ -3528,13 +3514,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-accounting-operations-specialist-awesome-motive
 
-### Research & Data Entry Assistant (HVAC Market Mapping Project)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-23
-- **View Job:** https://globalcaribbeans.com/#card-research-data-entry-assistant-hvac-market-mapping-project-sagan-recruitment
-
 ### Podcast & Short-Form Video Editor
 - **Company:** Sagan Recruitment
 - **Salary:** $1,200 – $1,800 / month
@@ -4055,7 +4034,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-personalized-internet-ads-assessor-telus-digital
 
-## Project Management (42 open roles)
+## Project Management (43 open roles)
+
+### Project Manager
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-somewhere
 
 ### Senior Campaign Manager
 - **Company:** BruntWork
@@ -4531,7 +4517,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-language-recruiter-volga-partners
 
-## Sales (59 open roles)
+## Sales (58 open roles)
 
 ### Business Development Specialist
 - **Company:** Somewhere
@@ -4943,14 +4929,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-account-executive-customer-io
 
-### Sales Engineer, Commercial - Bay Area
-- **Company:** Zscaler
-- **Salary:** $128,625 – $183,750 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-sales-engineer-commercial-bay-area-zscaler
-
-## Software Development (184 open roles)
+## Software Development (182 open roles)
 
 ### Automation Technician
 - **Company:** WorkBetterNow
@@ -6229,17 +6208,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-public-sector-senior-sales-engineer-east-coast-ping-identity
-
-### Senior Software Engineer, Security Products
-- **Company:** DigitalOcean
-- **Salary:** $133,680 – $167,100 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-security-products-digitalocean
-
-### Senior Full Stack Engineer (.NET & Vue/React) - Fully Remote, CET
-- **Company:** CoverGo
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-net-vue-react-fully-remote-cet-covergo
