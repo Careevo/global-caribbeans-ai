@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-11T03:12:54Z
+last_updated: 2026-07-11T08:02:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**882 active remote jobs** as of 2026-07-11.
+**880 active remote jobs** as of 2026-07-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (41 open roles)
+## Accounting/Bookkeeping (40 open roles)
 
 ### Accounts Payable Assistant
 - **Company:** WorkBetterNow
@@ -295,14 +295,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-relationship-manager-accounting-partners-mercury
 
-### Senior Accountant – Muti Client
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** Remote
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-muti-client-sagan-recruitment
-
-## Admin (35 open roles)
+## Admin (34 open roles)
 
 ### Executive Assistant
 - **Company:** Hire With Near
@@ -547,14 +540,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-project-management-hire-overseas
 
-### Executive Assistant to CEO
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** Remote
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-sagan-recruitment-2
+## Customer support (24 open roles)
 
-## Customer support (23 open roles)
+### Inbound Customer Service & Booking Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,300 – $1,500 / month
+- **Location:** Global
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
 ### Customer Support Specialist
 - **Company:** Hire With Near
@@ -721,7 +714,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment
 
-## Data/Analytics (76 open roles)
+## Data/Analytics (75 open roles)
 
 ### Data Scientist: Product & Analytics
 - **Company:** Smallpdf
@@ -1249,13 +1242,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-product-marketing-engineer-clickhouse
-
-### Strategic Finance - GTM
-- **Company:** Mercury
-- **Salary:** $128,600 – $160,700 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-strategic-finance-gtm-mercury
 
 ## IT/Engineering (6 open roles)
 
@@ -1791,7 +1777,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-meta-ads-focus-sagan-recruitment
 
-## Operations (78 open roles)
+## Operations (79 open roles)
+
+### Operations & Project Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,200 / month
+- **Location:** Remote
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-operations-project-coordinator-sagan-recruitment
+
+### Recruiting and People Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-recruiting-and-people-coordinator-sagan-recruitment
 
 ### Head of SEO and AI Visibility
 - **Company:** Smallpdf
@@ -2344,13 +2344,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-contact-center-operations-manager-sagan-recruitment
-
-### Logistics & Fulfillment Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-logistics-fulfillment-coordinator-sagan-recruitment
 
 ## Other (243 open roles)
 
@@ -4957,7 +4950,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-sales-engineer-commercial-bay-area-zscaler
 
-## Software Development (185 open roles)
+## Software Development (184 open roles)
 
 ### Automation Technician
 - **Company:** WorkBetterNow
@@ -6250,10 +6243,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-net-vue-react-fully-remote-cet-covergo
-
-### Senior Software Engineer - OpenTelemetry
-- **Company:** Grafana Labs
-- **Salary:** $154,000 – $193,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-opentelemetry-grafana-labs
