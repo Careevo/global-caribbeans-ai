@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-11T13:36:48Z
+last_updated: 2026-07-11T19:10:43Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**875 active remote jobs** as of 2026-07-11.
+**870 active remote jobs** as of 2026-07-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (40 open roles)
+## Accounting/Bookkeeping (39 open roles)
+
+### Accounting Assistant
+- **Company:** WorkBetterNow
+- **Salary:** $1,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-accounting-assistant-workbetternow-2
 
 ### Accounts Payable Assistant
 - **Company:** WorkBetterNow
@@ -204,13 +211,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-chargebee-engineer-remote-work-ref-296786-bairesdev
 
-### Accounting Assistant
-- **Company:** WorkBetterNow
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-accounting-assistant-workbetternow
-
 ### Staff Accountant
 - **Company:** Sagan Recruitment
 - **Salary:** $1,800 – $2,200 / month
@@ -287,13 +287,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-hirehawk-2
-
-### Senior Relationship Manager - Accounting Partners
-- **Company:** Mercury
-- **Salary:** $128,600 – $178,600 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-relationship-manager-accounting-partners-mercury
 
 ## Admin (34 open roles)
 
@@ -714,7 +707,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment
 
-## Data/Analytics (74 open roles)
+## Data/Analytics (73 open roles)
 
 ### Data Scientist: Product & Analytics
 - **Company:** Smallpdf
@@ -1228,13 +1221,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-web-technology-grafana-labs
-
-### Data Engineer: Integration Migration
-- **Company:** Enroute
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-data-engineer-integration-migration-enroute
 
 ## IT/Engineering (6 open roles)
 
@@ -2331,7 +2317,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-corporate-technology-chainguard
 
-## Other (242 open roles)
+## Other (240 open roles)
+
+### Corporate Development / M&A Associate
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-corporate-development-m-a-associate-somewhere
 
 ### Leasing Specialist
 - **Company:** Sagan Recruitment
@@ -4013,35 +4006,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-11
 - **View Job:** https://globalcaribbeans.com/#card-appointment-setter-virtustant
 
-### Head of Brand Marketing
-- **Company:** Mercury
-- **Salary:** $258,400 – $334,950 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-head-of-brand-marketing-mercury
-
-### Senior Product Designer - Accounting Systems
-- **Company:** Mercury
-- **Salary:** $189,000 – $236,200 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-accounting-systems-mercury
-
-### Personalized Internet Ads Assessor
-- **Company:** TELUS Digital
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-personalized-internet-ads-assessor-telus-digital
-
-## Project Management (43 open roles)
-
-### Project Manager
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-11
-- **View Job:** https://globalcaribbeans.com/#card-project-manager-somewhere
+## Project Management (42 open roles)
 
 ### Senior Campaign Manager
 - **Company:** BruntWork
