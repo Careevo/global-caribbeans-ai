@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-12T03:24:11Z
+last_updated: 2026-07-12T08:24:06Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**861 active remote jobs** as of 2026-07-12.
+**858 active remote jobs** as of 2026-07-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1282,7 +1282,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (67 open roles)
+## Online Marketing (66 open roles)
 
 ### Senior Google Ads Manager
 - **Company:** Remotely Talents (client confidential)
@@ -1748,13 +1748,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-head-of-growth-marketing-mercury
-
-### Performance Marketing Specialist (Meta Ads Focus)
-- **Company:** Sagan Recruitment
-- **Salary:** $3,500 / month
-- **Location:** Remote
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-meta-ads-focus-sagan-recruitment
 
 ## Operations (75 open roles)
 
@@ -4446,7 +4439,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-director-sales-development-americas-grafana-labs
 
-## Sales (57 open roles)
+## Sales (55 open roles)
 
 ### Business Development Specialist
 - **Company:** Somewhere
@@ -4744,13 +4737,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-account-executive-gitlab
 
-### Senior Blockchain Engineer
-- **Company:** Holitix
-- **Salary:** $158,400 – $176,700 / year
-- **Location:** Global
-- **Posted:** 2026-06-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-blockchain-engineer-holitix
-
 ### Account Executive (Full-Cycle)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,800 – $2,000 / month
@@ -4844,14 +4830,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-edtech-huzzle
 
-### Sales Development Representative (SDR) - Accounting & Financial Services
-- **Company:** Pavago
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-accounting-financial-services-pavago
-
 ## Software Development (179 open roles)
+
+### Java Engineer
+- **Company:** CoinMarketCap
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-12
+- **View Job:** https://globalcaribbeans.com/#card-java-engineer-coinmarketcap
 
 ### Automation Technician
 - **Company:** WorkBetterNow
@@ -6102,10 +6088,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-backend-developer-remote-latam-only-remote-talent-latam
-
-### Senior Software Engineer - Postgres
-- **Company:** ClickHouse
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-postgres-clickhouse
