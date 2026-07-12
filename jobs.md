@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-11T19:10:43Z
+last_updated: 2026-07-12T03:24:11Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**870 active remote jobs** as of 2026-07-11.
+**861 active remote jobs** as of 2026-07-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -288,7 +288,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-hirehawk-2
 
-## Admin (34 open roles)
+## Admin (35 open roles)
+
+### Executive Assistant, Finance
+- **Company:** Mozilla
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-finance-mozilla
 
 ### Executive Assistant
 - **Company:** Hire With Near
@@ -707,7 +714,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment
 
-## Data/Analytics (73 open roles)
+## Data/Analytics (72 open roles)
 
 ### Data Scientist: Product & Analytics
 - **Company:** Smallpdf
@@ -1215,13 +1222,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-analytics-insights-grafana-labs
 
-### Senior Manager, Web Technology
-- **Company:** Grafana Labs
-- **Salary:** $186,368 – $223,642 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-web-technology-grafana-labs
-
 ## IT/Engineering (6 open roles)
 
 ### Service Desk Technician
@@ -1282,7 +1282,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (68 open roles)
+## Online Marketing (67 open roles)
 
 ### Senior Google Ads Manager
 - **Company:** Remotely Talents (client confidential)
@@ -1678,13 +1678,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-remote-marketing-assistant-hirelatam
 
-### Senior Digital & Automations Developer
-- **Company:** Somewhere
-- **Salary:** $1,200 – $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-digital-automations-developer-somewhere
-
 ### Amazon Advertising/ Retail Media Manager
 - **Company:** Somewhere
 - **Salary:** $2,000 – $5,000 / month
@@ -1763,7 +1756,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-meta-ads-focus-sagan-recruitment
 
-## Operations (77 open roles)
+## Operations (75 open roles)
 
 ### Operations & Project Coordinator
 - **Company:** Sagan Recruitment
@@ -2302,22 +2295,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-business-operations-manager-remote-com
 
-### Senior Deal Desk Specialist
-- **Company:** Remote.com
-- **Salary:** $35,250 – $119,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-deal-desk-specialist-remote-com
-
-### Senior Manager, Corporate Technology
-- **Company:** Chainguard
-- **Salary:** $172,000 – $195,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-corporate-technology-chainguard
-
 ## Other (240 open roles)
+
+### Head of LegalHead of LegalOperationsRemote
+- **Company:** SafetyWing
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-head-of-legalhead-of-legaloperationsremote-safetywing
+
+### General Manager, Nomad InsuranceGeneral Manager, Nomad InsuranceProductRemote
+- **Company:** SafetyWing
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-11
+- **View Job:** https://globalcaribbeans.com/#card-general-manager-nomad-insurancegeneral-manager-nomad-insuranceproductremote-safe
 
 ### Corporate Development / M&A Associate
 - **Company:** Somewhere
@@ -3915,13 +3907,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-medallion
 
-### Illustrator or Painter for Putumayo
-- **Company:** Putumayo Digital Media
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-14
-- **View Job:** https://globalcaribbeans.com/#card-illustrator-or-painter-for-putumayo-putumayo-digital-media
-
 ### Head of Engineering
 - **Company:** Lemon.io
 - **Salary:** Not Disclosed
@@ -3999,14 +3984,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-sales-executive-remotely-talents-client-confidential
 
-### Appointment Setter
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-virtustant
-
-## Project Management (42 open roles)
+## Project Management (41 open roles)
 
 ### Senior Campaign Manager
 - **Company:** BruntWork
@@ -4297,14 +4275,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-remote-com
 
-### Senior Copywriter
-- **Company:** Monks
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-copywriter-monks
-
-## Recruiting (25 open roles)
+## Recruiting (24 open roles)
 
 ### Recruiter
 - **Company:** Virtustant
@@ -4475,14 +4446,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-director-sales-development-americas-grafana-labs
 
-### Language Recruiter
-- **Company:** Volga Partners
-- **Salary:** $5 – $8 / hour
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-language-recruiter-volga-partners
-
-## Sales (58 open roles)
+## Sales (57 open roles)
 
 ### Business Development Specialist
 - **Company:** Somewhere
@@ -4887,14 +4851,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-accounting-financial-services-pavago
 
-### Senior Account Executive
-- **Company:** Customer.io
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-account-executive-customer-io
-
-## Software Development (182 open roles)
+## Software Development (179 open roles)
 
 ### Automation Technician
 - **Company:** WorkBetterNow
@@ -5518,13 +5475,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-06-28
 - **View Job:** https://globalcaribbeans.com/#card-security-analyst-bug-bounty-stripe-2
-
-### Manager, Security Engineering
-- **Company:** Acquia
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-manager-security-engineering-acquia
 
 ### Senior Site Reliability Engineer
 - **Company:** Remote.com
@@ -6159,17 +6109,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-postgres-clickhouse
-
-### Solutions Architect - LangFuse APJ
-- **Company:** ClickHouse
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-solutions-architect-langfuse-apj-clickhouse
-
-### Public Sector Senior Sales Engineer - East Coast
-- **Company:** Ping Identity
-- **Salary:** $135,000 – $155,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-11
-- **View Job:** https://globalcaribbeans.com/#card-public-sector-senior-sales-engineer-east-coast-ping-identity
