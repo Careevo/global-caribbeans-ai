@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-12T08:24:06Z
+last_updated: 2026-07-12T13:36:40Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**858 active remote jobs** as of 2026-07-12.
+**855 active remote jobs** as of 2026-07-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1749,7 +1749,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-head-of-growth-marketing-mercury
 
-## Operations (75 open roles)
+## Operations (74 open roles)
 
 ### Operations & Project Coordinator
 - **Company:** Sagan Recruitment
@@ -2280,15 +2280,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-people-partner-sales-figma
 
-### Business Operations Manager
-- **Company:** Remote.com
-- **Salary:** $36,900 – $83,050 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-business-operations-manager-remote-com
-
-## Other (240 open roles)
+## Other (239 open roles)
 
 ### Head of LegalHead of LegalOperationsRemote
 - **Company:** SafetyWing
@@ -3970,14 +3962,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-sales-executive-remotely-talents-client-confidential-2
 
-### Sales Executive
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-sales-executive-remotely-talents-client-confidential
-
-## Project Management (41 open roles)
+## Project Management (40 open roles)
 
 ### Senior Campaign Manager
 - **Company:** BruntWork
@@ -4259,14 +4244,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-it-project-manager-hire-overseas
-
-### Product Manager
-- **Company:** Remote.com
-- **Salary:** Not Disclosed
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-remote-com
 
 ## Recruiting (24 open roles)
 
