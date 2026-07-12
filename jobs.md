@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-12T13:36:40Z
+last_updated: 2026-07-12T19:11:12Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**855 active remote jobs** as of 2026-07-12.
+**846 active remote jobs** as of 2026-07-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -288,7 +288,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-hirehawk-2
 
-## Admin (35 open roles)
+## Admin (33 open roles)
 
 ### Executive Assistant, Finance
 - **Company:** Mozilla
@@ -525,20 +525,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-virtustant
-
-### Remote Operations Coordinator
-- **Company:** HireLatam
-- **Salary:** $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-remote-operations-coordinator-hirelatam
-
-### Executive Assistant (Project Management)
-- **Company:** Hire Overseas
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-project-management-hire-overseas
 
 ## Customer support (24 open roles)
 
@@ -1282,7 +1268,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (66 open roles)
+## Online Marketing (65 open roles)
 
 ### Senior Google Ads Manager
 - **Company:** Remotely Talents (client confidential)
@@ -1742,14 +1728,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-social-media-coordinator-hirehawk
 
-### Head of Growth Marketing
-- **Company:** Mercury
-- **Salary:** $264,800 – $367,800 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-head-of-growth-marketing-mercury
-
-## Operations (74 open roles)
+## Operations (73 open roles)
 
 ### Operations & Project Coordinator
 - **Company:** Sagan Recruitment
@@ -2273,14 +2252,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-deal-commercial-strategy-operations-lead-remote-com
 
-### People Partner, Sales
-- **Company:** Figma
-- **Salary:** $140,000 – $269,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-people-partner-sales-figma
-
 ## Other (239 open roles)
+
+### Commercial Real Estate Specialist
+- **Company:** Virtustant
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-12
+- **View Job:** https://globalcaribbeans.com/#card-commercial-real-estate-specialist-virtustant
 
 ### Head of LegalHead of LegalOperationsRemote
 - **Company:** SafetyWing
@@ -3955,13 +3934,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-1-on-1-amc-8-tutor-think-academy-us-3
 
-### Sales Executive
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-sales-executive-remotely-talents-client-confidential-2
-
 ## Project Management (40 open roles)
 
 ### Senior Campaign Manager
@@ -4245,7 +4217,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-it-project-manager-hire-overseas
 
-## Recruiting (24 open roles)
+## Recruiting (23 open roles)
 
 ### Recruiter
 - **Company:** Virtustant
@@ -4409,14 +4381,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-12
 - **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-specialist-it-recruitment-jalasoft
 
-### Director, Sales Development Americas
-- **Company:** Grafana Labs
-- **Salary:** $195,750 – $225,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-director-sales-development-americas-grafana-labs
-
-## Sales (55 open roles)
+## Sales (54 open roles)
 
 ### Business Development Specialist
 - **Company:** Somewhere
@@ -4799,15 +4764,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-account-development-executive-miami-fl-justworks
 
-### Sales Development Representative - EdTech
-- **Company:** Huzzle
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-edtech-huzzle
-
-## Software Development (179 open roles)
+## Software Development (176 open roles)
 
 ### Java Engineer
 - **Company:** CoinMarketCap
@@ -6031,13 +5988,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-security-privacy-abnormal
 
-### Senior Data Scientist
-- **Company:** Lemon.io
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-scientist-lemon-io
-
 ### Senior Competitive Benchmarking Engineer - Product Marketing
 - **Company:** Elastic
 - **Salary:** $113,100 – $178,900 / year
@@ -6051,17 +6001,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-solutions-architect-langfuse-emea-clickhouse
-
-### Remote Process & Automation Engineer
-- **Company:** HireLatam
-- **Salary:** $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-remote-process-automation-engineer-hirelatam
-
-### Senior Backend Developer | Remote | LATAM Only
-- **Company:** Remote Talent LATAM
-- **Salary:** $4,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-developer-remote-latam-only-remote-talent-latam
