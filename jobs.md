@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-12T19:11:12Z
+last_updated: 2026-07-13T03:27:18Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**846 active remote jobs** as of 2026-07-12.
+**839 active remote jobs** as of 2026-07-13.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (39 open roles)
+## Accounting/Bookkeeping (40 open roles)
+
+### Senior Accountant
+- **Company:** Qventus
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-12
+- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-qventus
 
 ### Accounting Assistant
 - **Company:** WorkBetterNow
@@ -288,7 +295,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-hirehawk-2
 
-## Admin (33 open roles)
+## Admin (32 open roles)
 
 ### Executive Assistant, Finance
 - **Company:** Mozilla
@@ -519,14 +526,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-remote-csr-lead-hirelatam
 
-### Administrative Assistant
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-virtustant
-
-## Customer support (24 open roles)
+## Customer support (23 open roles)
 
 ### Inbound Customer Service & Booking Representative
 - **Company:** Sagan Recruitment
@@ -692,13 +692,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-virtual-latinos
-
-### Technical Support Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment
 
 ## Data/Analytics (72 open roles)
 
@@ -2252,7 +2245,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-deal-commercial-strategy-operations-lead-remote-com
 
-## Other (239 open roles)
+## Other (236 open roles)
+
+### Packaging Designer — Skincare Brand
+- **Company:** Uprising Beauty
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-12
+- **View Job:** https://globalcaribbeans.com/#card-packaging-designer-skincare-brand-uprising-beauty
 
 ### Commercial Real Estate Specialist
 - **Company:** Virtustant
@@ -3885,13 +3885,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-client-retention-specialist-ai-acquisition
 
-### Graphic Designer & Creative Lead
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-creative-lead-somewhere
-
 ### Freelance UX/UI Designers
 - **Company:** Superside
 - **Salary:** Not Disclosed
@@ -3913,28 +3906,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-creative-lead-spacepanda
 
-### 1 on 1 AMC 8 Tutor
-- **Company:** Think Academy US
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-1-on-1-amc-8-tutor-think-academy-us-4
-
-### High School Math Tutor
-- **Company:** Think Academy US
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-high-school-math-tutor-think-academy-us-2
-
-### 1 on 1 AMC 8 Tutor
-- **Company:** Think Academy US
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-13
-- **View Job:** https://globalcaribbeans.com/#card-1-on-1-amc-8-tutor-think-academy-us-3
-
-## Project Management (40 open roles)
+## Project Management (39 open roles)
 
 ### Senior Campaign Manager
 - **Company:** BruntWork
@@ -4210,14 +4182,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-monks
 
-### IT Project Manager
-- **Company:** Hire Overseas
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-it-project-manager-hire-overseas
-
-## Recruiting (23 open roles)
+## Recruiting (22 open roles)
 
 ### Recruiter
 - **Company:** Virtustant
@@ -4374,14 +4339,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-13
 - **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-specialist-hire-with-near
 
-### Talent Acquisition Specialist (IT Recruitment)
-- **Company:** Jalasoft
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-12
-- **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-specialist-it-recruitment-jalasoft
-
-## Sales (54 open roles)
+## Sales (53 open roles)
 
 ### Business Development Specialist
 - **Company:** Somewhere
@@ -4692,13 +4650,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-revenue-ops-manager-sales-focused-posthog
-
-### Research Analyst
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-research-analyst-somewhere-2
 
 ### Account-Based GTM Manager
 - **Company:** Remotely Talents (client confidential)
