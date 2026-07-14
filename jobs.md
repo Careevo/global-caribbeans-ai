@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-14T08:16:07Z
+last_updated: 2026-07-14T13:54:37Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**794 active remote jobs** as of 2026-07-14.
+**795 active remote jobs** as of 2026-07-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -504,7 +504,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-remote-csr-lead-hirelatam
 
-## Customer support (21 open roles)
+## Customer support (22 open roles)
+
+### Technical Support Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,000 / month
+- **Location:** Global
+- **Posted:** 2026-07-14
+- **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment-2
 
 ### Customer Service Professional - Personal Lines (Work from Home)
 - **Company:** Persona
@@ -1663,7 +1670,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-14
 - **View Job:** https://globalcaribbeans.com/#card-lead-ai-video-editor-remotely-talents-client-confidential
 
-## Operations (77 open roles)
+## Operations (76 open roles)
 
 ### Head of Operations
 - **Company:** Xapo
@@ -2122,13 +2129,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-order-management-specialist-sagan-recruitment
 
-### ERP Technician & Inventory Analyst
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-17
-- **View Job:** https://globalcaribbeans.com/#card-erp-technician-inventory-analyst-sagan-recruitment
-
 ### Epicor Developer - Remote Work | REF#295099
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2215,7 +2215,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-deal-commercial-strategy-operations-lead-remote-com
 
-## Other (218 open roles)
+## Other (219 open roles)
+
+### Visual Designer Graduate
+- **Company:** Xapo
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-14
+- **View Job:** https://globalcaribbeans.com/#card-visual-designer-graduate-xapo
 
 ### Bilingual Healthcare Intake Specialist Patient Support)
 - **Company:** BruntWork
