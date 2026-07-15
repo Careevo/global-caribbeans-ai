@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-15T02:48:27Z
+last_updated: 2026-07-15T08:21:44Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**905 active remote jobs** as of 2026-07-15.
+**911 active remote jobs** as of 2026-07-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -698,7 +698,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-virtual-latinos
 
-## Data/Analytics (85 open roles)
+## Data/Analytics (89 open roles)
+
+### Finance & Reporting Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,750 – $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-finance-reporting-manager-sagan-recruitment
+
+### Reporting Manager / MVA Lead Generation
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-reporting-manager-mva-lead-generation-kajae-5
+
+### Reporting Manager / MVA Lead Generation
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-reporting-manager-mva-lead-generation-kajae-4
+
+### Revenue Manager
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-revenue-manager-kajae
 
 ### dbt Developer - Remote Work | REF#294766
 - **Company:** BairesDev
@@ -1853,7 +1881,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-15
 - **View Job:** https://globalcaribbeans.com/#card-patient-development-sales-coordinator-somewhere
 
-## Operations (86 open roles)
+## Operations (88 open roles)
+
+### Client Services Associate
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-client-services-associate-sagan-recruitment
+
+### Bilingual Client Intake & Scheduling Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-client-intake-scheduling-coordinator-sagan-recruitment
 
 ### Talent & Public Relations Assistant
 - **Company:** Somewhere
@@ -2469,6 +2511,20 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-deal-commercial-strategy-operations-lead-remote-com
 
 ## Other (259 open roles)
+
+### Property Operations Assistant
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-property-operations-assistant-sagan-recruitment
+
+### Provider Enrollment Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,100 – $2,300 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-provider-enrollment-specialist-sagan-recruitment
 
 ### Linux Performance Engineer - Remote work | REF#297551
 - **Company:** BairesDev
@@ -3108,21 +3164,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-leasing-specialist-sagan-recruitment
-
-### Triage Medical Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-10
-- **View Job:** https://globalcaribbeans.com/#card-triage-medical-assistant-bruntwork
-
-### Personal Injury Care Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-10
-- **View Job:** https://globalcaribbeans.com/#card-personal-injury-care-coordinator-bruntwork
 
 ### Accounting Operations Coordinator (AP & Vendor Support)
 - **Company:** Sagan Recruitment
