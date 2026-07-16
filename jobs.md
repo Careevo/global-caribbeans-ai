@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-16T02:55:05Z
+last_updated: 2026-07-16T08:20:37Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**909 active remote jobs** as of 2026-07-16.
+**910 active remote jobs** as of 2026-07-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -647,7 +647,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-client-concierge-hire-with-near
 
-## Data/Analytics (92 open roles)
+## Data/Analytics (93 open roles)
+
+### Demand Generation Manager (Multi-Location)
+- **Company:** Sagan Recruitment
+- **Salary:** $5,000 – $7,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-16
+- **View Job:** https://globalcaribbeans.com/#card-demand-generation-manager-multi-location-sagan-recruitment
 
 ### Financial Planning & Reporting Manager (FP&A)
 - **Company:** Sagan Recruitment
@@ -2485,7 +2492,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-customer-experience-specialist-justworks
 
-## Other (259 open roles)
+## Other (260 open roles)
+
+### Registered Nurse
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-16
+- **View Job:** https://globalcaribbeans.com/#card-registered-nurse-bruntwork
 
 ### Spanish Bilingual Lead Conversion Representative
 - **Company:** BruntWork
@@ -4570,7 +4584,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-product-manager-hirelatam
 
-## Recruiting (19 open roles)
+## Recruiting (18 open roles)
 
 ### Young Professional – Trainee Recruiter - Remote Work
 - **Company:** BairesDev
@@ -4698,13 +4712,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-talent-coordinator-talent-acquisition-hr-somewhere-2
-
-### Sourcing Analyst
-- **Company:** Sagan Recruitment
-- **Salary:** $1,700 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-sourcing-analyst-sagan-recruitment
 
 ## Sales (55 open roles)
 
