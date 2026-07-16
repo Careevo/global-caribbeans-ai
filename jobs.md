@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-15T19:17:56Z
+last_updated: 2026-07-16T02:55:05Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**915 active remote jobs** as of 2026-07-15.
+**909 active remote jobs** as of 2026-07-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -281,7 +281,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-property-accountant-sagan-recruitment
 
-## Admin (34 open roles)
+## Admin (32 open roles)
 
 ### Medical Assistant
 - **Company:** Virtustant
@@ -416,14 +416,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-10
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-hire-with-near
 
-### Administrative Assistant
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-09
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-virtustant-2
-
 ### Remote Office Assistant
 - **Company:** Coalition Technologies
 - **Salary:** $31,200 – $52,000 / year
@@ -495,13 +487,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-professional-personal-somewhere
 
-### Remote Executive Business Partner (Senior Executive Assistant to the CEO)
-- **Company:** HireLatam
-- **Salary:** $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-remote-executive-business-partner-senior-executive-assistant-to-the-ceo-hirelata
-
 ### Administrative Assistant - Data Entry
 - **Company:** New Era Technology
 - **Salary:** Not Disclosed
@@ -524,7 +509,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-legal-intake-specialist-virtual-latinos
 
-## Customer support (21 open roles)
+## Customer support (19 open roles)
 
 ### Client Services Associate (Customer Service)
 - **Company:** Sagan Recruitment
@@ -662,29 +647,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-client-concierge-hire-with-near
 
-### Head of Customer Service
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-head-of-customer-service-somewhere
-
-### Customer Success Specialist
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-virtual-latinos
-
 ## Data/Analytics (92 open roles)
 
-### Financial Analyst
-- **Company:** Somewhere
-- **Salary:** $2,500 – $3,000 / month
+### Financial Planning & Reporting Manager (FP&A)
+- **Company:** Sagan Recruitment
+- **Salary:** $3,750 – $5,000 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-financial-analyst-somewhere
+- **View Job:** https://globalcaribbeans.com/#card-financial-planning-reporting-manager-fp-a-sagan-recruitment
+
+### Young Professional – Operations Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-young-professional-operations-analyst-remote-work-bairesdev
 
 ### People Analytics Specialist - Remote Work
 - **Company:** BairesDev
@@ -1318,13 +1295,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-business-data-analyst-remote-work-ref-295258-bairesdev
 
-### Property Coordinator
-- **Company:** Latino Legends
-- **Salary:** $1,750 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-property-coordinator-latino-legends
-
 ## IT/Engineering (6 open roles)
 
 ### DevOps/SysAdmin - Remote Work | REF#297491
@@ -1392,7 +1362,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (71 open roles)
+## Online Marketing (69 open roles)
+
+### Junior TikTok Shop Affiliate
+- **Company:** Welcome to Our Career Site
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-junior-tiktok-shop-affiliate-welcome-to-our-career-site
+
+### Growth Marketing Creative Strategist (Paid Social - Meta Ads Manager)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-creative-strategist-paid-social-meta-ads-manager-sagan-recruitm
 
 ### Remote Creative Strategist
 - **Company:** HireLatam
@@ -1613,13 +1597,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-pr-communications-associate-coinmarketcap
 
-### Marketing Specialist
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-07
-- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-virtustant
-
 ### Direct Response Funnel Market
 - **Company:** Sagan Recruitment
 - **Salary:** $2,999 / month
@@ -1633,13 +1610,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-06
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-hired-remoteli
-
-### Email Marketing Specialist
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-06
-- **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-virtustant
 
 ### Director of Product, Gaming (New Products)
 - **Company:** Mozilla
@@ -1880,22 +1850,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-remote-demand-generation-marketer-b2b-saas-hirelatam
 
-### Senior Manager, GTM Operational Excellence
-- **Company:** Remote.com
-- **Salary:** $103,550 – $194,200 / year
-- **Location:** Americas
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-gtm-operational-excellence-remote-com
+## Operations (89 open roles)
 
-### SEO Specialist
-- **Company:** Hire With Near
+### Customer Service Team Lead
+- **Company:** Virtustant
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-hire-with-near
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-team-lead-virtustant
 
-## Operations (87 open roles)
+### Operations Manager
+- **Company:** Virtustant
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-operations-manager-virtustant
+
+### VP of Design
+- **Company:** Xapo
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-vp-of-design-xapo
 
 ### Young Professional – Finance Analyst - Remote Work
 - **Company:** BairesDev
@@ -2509,15 +2485,43 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-customer-experience-specialist-justworks
 
-### Deal Commercial Strategy & Operations Lead
-- **Company:** Remote.com
-- **Salary:** $48,000 – $162,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-deal-commercial-strategy-operations-lead-remote-com
+## Other (259 open roles)
 
-## Other (260 open roles)
+### Spanish Bilingual Lead Conversion Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-lead-conversion-representative-bruntwork
+
+### Billing & Invoice Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-billing-invoice-coordinator-sagan-recruitment
+
+### Sales Development Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-bruntwork
+
+### Embedded Linux Consultant Engineer
+- **Company:** Collabora
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-embedded-linux-consultant-engineer-collabora
+
+### Claims Representative
+- **Company:** Virtustant
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-claims-representative-virtustant
 
 ### Young Professional – Learning & Development - Remote Work
 - **Company:** BairesDev
@@ -2553,13 +2557,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-15
 - **View Job:** https://globalcaribbeans.com/#card-talent-quality-auditor-remote-work-bairesdev
-
-### Head of Retention Marketing
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-head-of-retention-marketing-superside
 
 ### OSP Fiber - Make Ready Engineer
 - **Company:** Virtustant
@@ -2939,13 +2936,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-analyst-remote-work-bairesdev
 
-### Cold Caller
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-cold-caller-virtustant
-
 ### Palantir Foundry Engineer - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -3285,13 +3275,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-09
 - **View Job:** https://globalcaribbeans.com/#card-executive-operations-coordinator-hire-with-near
 
-### Content Creation and Video Editing Expert
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-09
-- **View Job:** https://globalcaribbeans.com/#card-content-creation-and-video-editing-expert-virtustant
-
 ### Senior Product Builder
 - **Company:** Camunda
 - **Salary:** Not Disclosed
@@ -3537,13 +3520,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-fashion-designer-hired-remoteli
 
-### Video Editor
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-07
-- **View Job:** https://globalcaribbeans.com/#card-video-editor-virtustant-2
-
 ### Entry-Level Crypto Market Specialist
 - **Company:** APEX TRADE
 - **Salary:** $48,000 – $60,000 / year
@@ -3579,13 +3555,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-06
 - **View Job:** https://globalcaribbeans.com/#card-italian-translator-linguist-wikimedia-foundation
-
-### CAD Designer (Irrigation System Design - Construction Drafting)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-06
-- **View Job:** https://globalcaribbeans.com/#card-cad-designer-irrigation-system-design-construction-drafting-sagan-recruitment
 
 ### Mantle Squad
 - **Company:** Windranger
@@ -4339,14 +4308,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-talent-sourcer-hire-with-near
 
-### Patient Services Coordinator
-- **Company:** Somewhere
-- **Salary:** $1,200 – $2,300 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-patient-services-coordinator-somewhere-2
-
 ## Project Management (37 open roles)
 
 ### Senior Technical Program Manager - Remote Work
@@ -4611,6 +4572,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Recruiting (19 open roles)
 
+### Young Professional – Trainee Recruiter - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-young-professional-trainee-recruiter-remote-work-bairesdev
+
 ### Young Professional – Recruiter - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -4738,14 +4706,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-sourcing-analyst-sagan-recruitment
 
-### Recruiter
-- **Company:** Hire With Near
+## Sales (55 open roles)
+
+### Account Executive (High-Ticket Sales Closer)
+- **Company:** Welcome to Our Career Site
+- **Salary:** $5,000 / month
+- **Location:** North America
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-account-executive-high-ticket-sales-closer-welcome-to-our-career-site
+
+### Young Professional – Sales / Business Development - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
-
-## Sales (55 open roles)
+- **Posted:** 2026-07-15
+- **View Job:** https://globalcaribbeans.com/#card-young-professional-sales-business-development-remote-work-bairesdev
 
 ### Business Development Representative
 - **Company:** Hire With Near
@@ -5121,22 +5096,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-sdr-hire-with-near
 
-### Dispatch and Inbound Sales Specialist
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-dispatch-and-inbound-sales-specialist-somewhere
-
-### Creator Outreach Specialist
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-15
-- **View Job:** https://globalcaribbeans.com/#card-creator-outreach-specialist-remotely-talents-client-confidential
-
-## Software Development (192 open roles)
+## Software Development (191 open roles)
 
 ### TypeScript Developer - Remote Work
 - **Company:** BairesDev
@@ -5753,13 +5713,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-sharepoint-developer-proxify-2
-
-### Senior Software Engineer, Cloud Engineering
-- **Company:** Mozilla
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-02
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-cloud-engineering-mozilla
 
 ### Senior Software Engineer (Backend): Crypto Payments
 - **Company:** BVNK
