@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-16T08:20:37Z
+last_updated: 2026-07-16T14:03:13Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**910 active remote jobs** as of 2026-07-16.
+**911 active remote jobs** as of 2026-07-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1857,7 +1857,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-remote-demand-generation-marketer-b2b-saas-hirelatam
 
-## Operations (89 open roles)
+## Operations (88 open roles)
 
 ### Customer Service Team Lead
 - **Company:** Virtustant
@@ -2484,13 +2484,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-tax-operations-coordinator-somewhere
-
-### Customer Experience Specialist
-- **Company:** Justworks
-- **Salary:** MXN 67,750 – MXN 87,150 / month
-- **Location:** Global
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-customer-experience-specialist-justworks
 
 ## Other (260 open roles)
 
@@ -4713,7 +4706,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-talent-coordinator-talent-acquisition-hr-somewhere-2
 
-## Sales (55 open roles)
+## Sales (56 open roles)
+
+### Commercial Account Executive - Balkans
+- **Company:** GitLab
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-16
+- **View Job:** https://globalcaribbeans.com/#card-commercial-account-executive-balkans-gitlab
 
 ### Account Executive (High-Ticket Sales Closer)
 - **Company:** Welcome to Our Career Site
@@ -5103,7 +5103,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-sdr-hire-with-near
 
-## Software Development (191 open roles)
+## Software Development (192 open roles)
+
+### Senior Backend Engineer, Core Discovery
+- **Company:** Raya
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-core-discovery-raya
+
+### Senior DevOps Engineer
+- **Company:** Lemon.io
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-devops-engineer-lemon-io-2
 
 ### TypeScript Developer - Remote Work
 - **Company:** BairesDev
@@ -6436,11 +6450,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-16
 - **View Job:** https://globalcaribbeans.com/#card-sdet-remote-work-ref-295314-bairesdev
-
-### Senior Backend Engineer (Elixir)
-- **Company:** Remote.com
-- **Salary:** $53,300 – $119,850 / year
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-16
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-elixir-remote-com-2
