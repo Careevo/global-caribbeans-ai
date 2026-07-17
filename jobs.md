@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-17T08:17:33Z
+last_updated: 2026-07-17T13:47:29Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**798 active remote jobs** as of 2026-07-17.
+**803 active remote jobs** as of 2026-07-17.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1169,7 +1169,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-developer-who-connects-with-other-developers-posthog
 
-## IT/Engineering (5 open roles)
+## IT/Engineering (6 open roles)
+
+### Senior System Engineer
+- **Company:** Sagan Recruitment
+- **Salary:** $2,300 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-17
+- **View Job:** https://globalcaribbeans.com/#card-senior-system-engineer-sagan-recruitment
 
 ### DevOps/SysAdmin - Remote Work | REF#297491
 - **Company:** BairesDev
@@ -1206,7 +1213,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-security-operations-engineer-supabase
 
-## Legal (3 open roles)
+## Legal (4 open roles)
+
+### Senior Legal Counsel
+- **Company:** CoinMarketCap
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-17
+- **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap
 
 ### Personal Injury Litigation Paralegal (U.S. Law Firm)
 - **Company:** Sagan Recruitment
@@ -2267,7 +2281,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-remote-e-commerce-operations-assistant-hirelatam
 
-## Other (221 open roles)
+## Other (222 open roles)
+
+### Head of Marketing & Communications
+- **Company:** garden3d
+- **Salary:** $150,000 – $230,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-17
+- **View Job:** https://globalcaribbeans.com/#card-head-of-marketing-communications-garden3d
 
 ### Account Development Representative
 - **Company:** Camunda
@@ -4639,7 +4660,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-sdr-hire-with-near
 
-## Software Development (145 open roles)
+## Software Development (147 open roles)
+
+### Senior AWS Platform Engineer
+- **Company:** New Era Technology
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-17
+- **View Job:** https://globalcaribbeans.com/#card-senior-aws-platform-engineer-new-era-technology
+
+### Supalite Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-17
+- **View Job:** https://globalcaribbeans.com/#card-supalite-engineer-supabase
+
+### Senior Software Engineer, Accessibility
+- **Company:** Mozilla
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-17
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-accessibility-mozilla
 
 ### Senior QA Engineer
 - **Company:** Remote Leverage
@@ -5650,10 +5692,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-platform-extensions-fueled-2
-
-### Frontend Developer
-- **Company:** Quinncia
-- **Salary:** $20,000 – $35,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-17
-- **View Job:** https://globalcaribbeans.com/#card-frontend-developer-quinncia
