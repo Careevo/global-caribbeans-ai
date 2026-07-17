@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-17T02:57:28Z
+last_updated: 2026-07-17T08:17:33Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**801 active remote jobs** as of 2026-07-17.
+**798 active remote jobs** as of 2026-07-17.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -288,7 +288,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-property-accountant-sagan-recruitment
 
-## Admin (36 open roles)
+## Admin (35 open roles)
 
 ### Medical Receptionist
 - **Company:** BruntWork
@@ -338,13 +338,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends
-
-### Clinical Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-clinical-coordinator-bruntwork
 
 ### Commercial Real Estate Administrative Coordinator
 - **Company:** Virtustant
@@ -1752,7 +1745,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-amazon-advertising-retail-media-manager-somewhere
 
-## Operations (75 open roles)
+## Operations (73 open roles)
 
 ### Operations Manager / Office Manager
 - **Company:** Offshore Launch
@@ -1774,13 +1767,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-15
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-team-lead-virtustant
-
-### Operations Manager
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-operations-manager-virtustant
 
 ### VP of Design
 - **Company:** Xapo
@@ -2281,14 +2267,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-remote-e-commerce-operations-assistant-hirelatam
 
-### Order Management Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-17
-- **View Job:** https://globalcaribbeans.com/#card-order-management-specialist-sagan-recruitment
+## Other (221 open roles)
 
-## Other (220 open roles)
+### Account Development Representative
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-17
+- **View Job:** https://globalcaribbeans.com/#card-account-development-representative-camunda
 
 ### Senior SAP SAC Planning Consultant
 - **Company:** Mappa
@@ -4653,7 +4639,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-sdr-hire-with-near
 
-## Software Development (146 open roles)
+## Software Development (145 open roles)
 
 ### Senior QA Engineer
 - **Company:** Remote Leverage
@@ -5671,10 +5657,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-17
 - **View Job:** https://globalcaribbeans.com/#card-frontend-developer-quinncia
-
-### C&B Manager
-- **Company:** Emerging Travel Group
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-17
-- **View Job:** https://globalcaribbeans.com/#card-c-b-manager-emerging-travel-group
