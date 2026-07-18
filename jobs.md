@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-18T02:49:52Z
+last_updated: 2026-07-18T07:59:05Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**804 active remote jobs** as of 2026-07-18.
+**805 active remote jobs** as of 2026-07-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1710,7 +1710,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-remote-marketing-strategist-hirelatam
 
-## Operations (76 open roles)
+## Operations (75 open roles)
 
 ### Customer Service Team Lead
 - **Company:** Virtustant
@@ -2244,14 +2244,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-event-marketing-coordinator-customer-io
-
-### Lifecycle Specialist: Time & Attendance
-- **Company:** Remote.com
-- **Salary:** $29,750 – $67,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-18
-- **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-time-attendance-remote-com-3
 
 ## Other (216 open roles)
 
@@ -4042,7 +4034,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-product-manager-hirelatam
 
-## Recruiting (22 open roles)
+## Recruiting (23 open roles)
+
+### Contract Sr. Sales Recruiter
+- **Company:** LogicGate
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-18
+- **View Job:** https://globalcaribbeans.com/#card-contract-sr-sales-recruiter-logicgate
 
 ### Recruiter
 - **Company:** Virtustant
@@ -4199,7 +4198,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-talent-coordinator-talent-acquisition-hr-somewhere-2
 
-## Sales (62 open roles)
+## Sales (63 open roles)
+
+### Account Executive (English & Punjabi) - Factoring
+- **Company:** Bobtail Technologies
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-18
+- **View Job:** https://globalcaribbeans.com/#card-account-executive-english-punjabi-factoring-bobtail-technologies
 
 ### Appointment Setter
 - **Company:** Virtustant
