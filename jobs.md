@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-18T07:59:05Z
+last_updated: 2026-07-18T13:25:01Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**805 active remote jobs** as of 2026-07-18.
+**809 active remote jobs** as of 2026-07-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -537,7 +537,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-legal-intake-specialist-virtual-latinos
 
-## Customer support (19 open roles)
+## Customer support (20 open roles)
+
+### Customer Service Representative (Full-Time)
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-18
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-full-time-sagan-recruitment
 
 ### Customer Service/Dispatcher
 - **Company:** Offshore Launch
@@ -675,7 +682,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-manager-posthog-2
 
-## Data/Analytics (66 open roles)
+## Data/Analytics (67 open roles)
+
+### SU - Data Analyst
+- **Company:** Somewhere
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-18
+- **View Job:** https://globalcaribbeans.com/#card-su-data-analyst-somewhere-3
 
 ### Demand Generation Manager (Multi-Location)
 - **Company:** Sagan Recruitment
@@ -1208,7 +1222,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (71 open roles)
+## Online Marketing (72 open roles)
+
+### Content Marketing Manager (SEO & Organic Growth)
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-18
+- **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-seo-organic-growth-remotely-talents-client-confidentia
 
 ### Amazon Account Manager
 - **Company:** Virtustant
@@ -1710,7 +1731,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-18
 - **View Job:** https://globalcaribbeans.com/#card-remote-marketing-strategist-hirelatam
 
-## Operations (75 open roles)
+## Operations (77 open roles)
+
+### Learning and Development Specialist
+- **Company:** Somewhere
+- **Salary:** $1,700 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-18
+- **View Job:** https://globalcaribbeans.com/#card-learning-and-development-specialist-somewhere
+
+### Property Maintenance Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,600 – $2,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-18
+- **View Job:** https://globalcaribbeans.com/#card-property-maintenance-coordinator-sagan-recruitment
 
 ### Customer Service Team Lead
 - **Company:** Virtustant
@@ -4644,7 +4679,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-sdr-hire-with-near
 
-## Software Development (151 open roles)
+## Software Development (150 open roles)
 
 ### Algorithmic Software Engineer
 - **Company:** Hire With Near
@@ -5697,10 +5732,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-customer-io
-
-### Senior Full Stack Engineer — Platform Extensions
-- **Company:** Fueled
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-18
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-platform-extensions-fueled-2
