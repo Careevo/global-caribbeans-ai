@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-19T03:20:19Z
+last_updated: 2026-07-19T08:25:43Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**795 active remote jobs** as of 2026-07-19.
+**790 active remote jobs** as of 2026-07-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (36 open roles)
+## Accounting/Bookkeeping (35 open roles)
 
 ### Junior Staff Accountant
 - **Company:** Hire With Near
@@ -259,13 +259,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-bookkeeper-somewhere-3
-
-### Human Resource Director
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 – $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-human-resource-director-sagan-recruitment
 
 ## Admin (36 open roles)
 
@@ -2195,7 +2188,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-brand-designer-bitrise
 
-## Other (214 open roles)
+## Other (212 open roles)
 
 ### AI System Developer
 - **Company:** Virtustant
@@ -3687,20 +3680,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-engineering-team-leader-remote-com-3
 
-### Director of Narrative & Organic Social
-- **Company:** Uscreen
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-director-of-narrative-organic-social-uscreen
-
-### Product Designer – Content Solutions
-- **Company:** Fueled
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-product-designer-content-solutions-fueled
-
 ## Project Management (39 open roles)
 
 ### Project Manager
@@ -4580,7 +4559,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-gtm-engineer-scrapper-hirelatam
 
-## Software Development (150 open roles)
+## Software Development (148 open roles)
 
 ### Algorithmic Software Engineer
 - **Company:** Hire With Near
@@ -5619,17 +5598,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-software-engineer-typescript-react-oneimaging
-
-### Site Reliability Engineer
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-site-reliability-engineer-supabase
-
-### Senior Software Engineer, Backend
-- **Company:** Customer.io
-- **Salary:** $150,000 – $200,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-customer-io
