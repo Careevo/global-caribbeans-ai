@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-18T19:10:42Z
+last_updated: 2026-07-19T03:20:19Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**803 active remote jobs** as of 2026-07-18.
+**795 active remote jobs** as of 2026-07-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -267,7 +267,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-human-resource-director-sagan-recruitment
 
-## Admin (37 open roles)
+## Admin (36 open roles)
 
 ### Executive Assistant
 - **Company:** Virtustant
@@ -522,14 +522,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-director-of-operations-back-office-personal-assistant-somewhere
 
-### Legal Intake Specialist
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-18
-- **View Job:** https://globalcaribbeans.com/#card-legal-intake-specialist-virtual-latinos
-
 ## Customer support (20 open roles)
 
 ### Customer Service Representative (Full-Time)
@@ -675,7 +667,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-manager-posthog-2
 
-## Data/Analytics (65 open roles)
+## Data/Analytics (64 open roles)
 
 ### Demand Generation Manager (Multi-Location)
 - **Company:** Sagan Recruitment
@@ -1127,14 +1119,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-data-scientist-customer-io-2
 
-### Anti Abuse Engineer
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-18
-- **View Job:** https://globalcaribbeans.com/#card-anti-abuse-engineer-supabase
-
-## IT/Engineering (6 open roles)
+## IT/Engineering (5 open roles)
 
 ### Senior System Engineer
 - **Company:** Sagan Recruitment
@@ -1171,13 +1156,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-it-systems-administrator-sagan-recruitment
 
-### Security Operations Engineer
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-security-operations-engineer-supabase
-
 ## Legal (3 open roles)
 
 ### Senior Legal Counsel
@@ -1201,7 +1179,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (71 open roles)
+## Online Marketing (69 open roles)
 
 ### Content Marketing Manager (SEO & Organic Growth)
 - **Company:** Remotely Talents (client confidential)
@@ -1689,21 +1667,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-google-ads-account-manager-remote-work-from-home-stubgroup
 
-### Director, Product Marketing, Platform & Drupal
-- **Company:** Acquia
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-director-product-marketing-platform-drupal-acquia
-
-### Sr. Product Marketing Manager, Acquia Source
-- **Company:** Acquia
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-sr-product-marketing-manager-acquia-source-acquia
-
-## Operations (75 open roles)
+## Operations (74 open roles)
 
 ### Property Maintenance Coordinator
 - **Company:** Sagan Recruitment
@@ -2231,14 +2195,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-brand-designer-bitrise
 
-### Event Marketing Coordinator
-- **Company:** Customer.io
-- **Salary:** $85,000 – $95,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-event-marketing-coordinator-customer-io
-
-## Other (215 open roles)
+## Other (214 open roles)
 
 ### AI System Developer
 - **Company:** Virtustant
@@ -3744,13 +3701,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-product-designer-content-solutions-fueled
 
-### Director Of Sales – Latin America (CRM, Sales methodologies, Sales analytics and KPI reporting)
-- **Company:** Remote Leverage
-- **Salary:** $5,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-18
-- **View Job:** https://globalcaribbeans.com/#card-director-of-sales-latin-america-crm-sales-methodologies-sales-analytics-and-kpi-
-
 ## Project Management (39 open roles)
 
 ### Project Manager
@@ -4191,7 +4141,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-talent-coordinator-talent-acquisition-hr-somewhere-2
 
-## Sales (63 open roles)
+## Sales (62 open roles)
 
 ### Account Executive (English & Punjabi) - Factoring
 - **Company:** Bobtail Technologies
@@ -4629,13 +4579,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-gtm-engineer-scrapper-hirelatam
-
-### SDR
-- **Company:** Hire With Near
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-sdr-hire-with-near
 
 ## Software Development (150 open roles)
 
