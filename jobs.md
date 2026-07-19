@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-19T08:25:43Z
+last_updated: 2026-07-19T13:26:41Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**790 active remote jobs** as of 2026-07-19.
+**788 active remote jobs** as of 2026-07-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1660,7 +1660,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-google-ads-account-manager-remote-work-from-home-stubgroup
 
-## Operations (74 open roles)
+## Operations (73 open roles)
 
 ### Property Maintenance Coordinator
 - **Company:** Sagan Recruitment
@@ -2180,13 +2180,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-service-department-assistant-hirelatam
-
-### Senior Brand Designer
-- **Company:** Bitrise
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-brand-designer-bitrise
 
 ## Other (212 open roles)
 
@@ -4559,7 +4552,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-gtm-engineer-scrapper-hirelatam
 
-## Software Development (148 open roles)
+## Software Development (147 open roles)
 
 ### Algorithmic Software Engineer
 - **Company:** Hire With Near
@@ -5591,10 +5584,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-remote-com-2
-
-### Full Stack Software Engineer (TypeScript/React)
-- **Company:** OneImaging
-- **Salary:** $120,000 – $180,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-software-engineer-typescript-react-oneimaging
