@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-19T13:26:41Z
+last_updated: 2026-07-19T19:11:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**788 active remote jobs** as of 2026-07-19.
+**782 active remote jobs** as of 2026-07-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -260,7 +260,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-bookkeeper-somewhere-3
 
-## Admin (36 open roles)
+## Admin (35 open roles)
 
 ### Executive Assistant
 - **Company:** Virtustant
@@ -507,13 +507,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-data-entry-new-era-technology
-
-### Senior Director of Operations (Back Office) & Personal Assistant
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-director-of-operations-back-office-personal-assistant-somewhere
 
 ## Customer support (20 open roles)
 
@@ -1172,7 +1165,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (69 open roles)
+## Online Marketing (66 open roles)
 
 ### Content Marketing Manager (SEO & Organic Growth)
 - **Company:** Remotely Talents (client confidential)
@@ -1639,28 +1632,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-remote-paid-ads-specialist-hirelatam
 
-### Remote Google Ads Media Buying Specialist
-- **Company:** HireLatam
+## Operations (75 open roles)
+
+### Operational Excellence
+- **Company:** Somewhere
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-remote-google-ads-media-buying-specialist-hirelatam
+- **Posted:** 2026-07-19
+- **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere-2
 
-### Remote Creative Director
-- **Company:** HireLatam
-- **Salary:** $2,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-remote-creative-director-hirelatam
-
-### Senior Google Ads Account Manager - Remote (Work From Home)
-- **Company:** StubGroup
+### Inventory & Logistics Lead
+- **Company:** Somewhere
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-google-ads-account-manager-remote-work-from-home-stubgroup
-
-## Operations (73 open roles)
+- **Posted:** 2026-07-19
+- **View Job:** https://globalcaribbeans.com/#card-inventory-logistics-lead-somewhere-2
 
 ### Property Maintenance Coordinator
 - **Company:** Sagan Recruitment
@@ -2182,6 +2168,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-remote-service-department-assistant-hirelatam
 
 ## Other (212 open roles)
+
+### Data Entry Associate
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-19
+- **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-hired-remoteli
 
 ### AI System Developer
 - **Company:** Virtustant
@@ -3665,14 +3658,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-technical-ex-founder-posthog
 
-### Engineering Team Leader
-- **Company:** Remote.com
-- **Salary:** $75,450 – $169,700 / year
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-engineering-team-leader-remote-com-3
-
 ## Project Management (39 open roles)
 
 ### Project Manager
@@ -4113,7 +4098,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-talent-coordinator-talent-acquisition-hr-somewhere-2
 
-## Sales (62 open roles)
+## Sales (60 open roles)
 
 ### Account Executive (English & Punjabi) - Factoring
 - **Company:** Bobtail Technologies
@@ -4538,21 +4523,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-revenue-ops-manager-sales-focused-posthog
 
-### Account-Based GTM Manager
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** $2,500 – $3,800 / month
-- **Location:** Remote
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-account-based-gtm-manager-remotely-talents-client-confidential
-
-### Remote GTM Engineer / Scrapper
-- **Company:** HireLatam
-- **Salary:** $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-remote-gtm-engineer-scrapper-hirelatam
-
-## Software Development (147 open roles)
+## Software Development (145 open roles)
 
 ### Algorithmic Software Engineer
 - **Company:** Hire With Near
@@ -5569,18 +5540,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-19
 - **View Job:** https://globalcaribbeans.com/#card-sr-full-stack-engineer-somewhere
-
-### Lead Full-Stack Engineer (AI-Assisted Development)
-- **Company:** Creatunity
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-lead-full-stack-engineer-ai-assisted-development-creatunity
-
-### Senior Backend Engineer
-- **Company:** Remote.com
-- **Salary:** $53,300 – $119,850 / year
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-remote-com-2
