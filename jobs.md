@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-20T03:34:24Z
+last_updated: 2026-07-20T09:22:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**772 active remote jobs** as of 2026-07-20.
+**769 active remote jobs** as of 2026-07-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2118,7 +2118,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-20
 - **View Job:** https://globalcaribbeans.com/#card-technical-operations-manager-customer-io
 
-## Other (212 open roles)
+## Other (209 open roles)
 
 ### Data Entry Associate
 - **Company:** Hired Remoteli
@@ -2232,21 +2232,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-16
 - **View Job:** https://globalcaribbeans.com/#card-creative-strategist-hire-with-near
-
-### Registered Nurse
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-registered-nurse-bruntwork
-
-### Spanish Bilingual Lead Conversion Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-lead-conversion-representative-bruntwork
 
 ### Billing & Invoice Coordinator
 - **Company:** Sagan Recruitment
@@ -2604,13 +2589,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-career-framework-specialist-remote-work-bairesdev-2
-
-### Spanish Bilingual Property Management Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-property-management-assistant-bruntwork
 
 ### Recruiting Analyst - Remote Work
 - **Company:** BairesDev
