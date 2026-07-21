@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-21T08:35:32Z
+last_updated: 2026-07-21T14:03:30Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**694 active remote jobs** as of 2026-07-21.
+**696 active remote jobs** as of 2026-07-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -692,7 +692,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near
 
-## Data/Analytics (51 open roles)
+## Data/Analytics (52 open roles)
+
+### Product Manager - Fusion
+- **Company:** Fivetran
+- **Salary:** $135,000 – $220,000 / year
+- **Location:** Americas
+- **Posted:** 2026-07-21
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-fusion-fivetran
 
 ### Data Analyst
 - **Company:** Remote Leverage
@@ -1113,7 +1120,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-commercial-counsel-sales-stripe
 
-## Online Marketing (63 open roles)
+## Online Marketing (65 open roles)
+
+### Junior SEO Specialist
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-21
+- **View Job:** https://globalcaribbeans.com/#card-junior-seo-specialist-remotely-talents-client-confidential
+
+### Digital Advertising Specialist
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-21
+- **View Job:** https://globalcaribbeans.com/#card-digital-advertising-specialist-remotely-talents-client-confidential
 
 ### Brand Marketing Manager
 - **Company:** Oscilar
@@ -1558,7 +1579,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-remote-marketing-manager-hirelatam
 
-## Operations (69 open roles)
+## Operations (70 open roles)
+
+### Creative Director
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-21
+- **View Job:** https://globalcaribbeans.com/#card-creative-director-kajae
 
 ### Vibe Coder
 - **Company:** Remote Leverage
@@ -2051,7 +2079,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-report-writer-ops-associate-somewhere
 
-## Other (180 open roles)
+## Other (179 open roles)
 
 ### Legal Intake Specialist
 - **Company:** Virtual Latinos
@@ -3205,13 +3233,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-leasing-coordinator-sagan-recruitment
 
-### Maintenance Lead Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-maintenance-lead-coordinator-sagan-recruitment
-
 ### Human Resources Specialist
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -3646,7 +3667,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-talent-coordinator-talent-acquisition-hr-somewhere-2
 
-## Sales (58 open roles)
+## Sales (57 open roles)
 
 ### Outbound Sales Representative
 - **Company:** Sagan Recruitment
@@ -4043,13 +4064,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-outbound-sdr-somewhere
-
-### Account-Based GTM Manager
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** $2,500 – $3,800 / month
-- **Location:** Remote
-- **Posted:** 2026-06-22
-- **View Job:** https://globalcaribbeans.com/#card-account-based-gtm-manager-remotely-talents-client-confidential-2
 
 ### Commercial Account Executive
 - **Company:** GitLab
