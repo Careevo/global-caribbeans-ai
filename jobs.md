@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-21T03:15:16Z
+last_updated: 2026-07-21T08:35:32Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -13,7 +13,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (38 open roles)
+## Accounting/Bookkeeping (39 open roles)
+
+### Bookkeeper (Senior-Level)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-21
+- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-senior-level-sagan-recruitment
 
 ### Insurance Intake Coordinator
 - **Company:** Virtual Latinos
@@ -2044,7 +2051,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-report-writer-ops-associate-somewhere
 
-## Other (181 open roles)
+## Other (180 open roles)
 
 ### Legal Intake Specialist
 - **Company:** Virtual Latinos
@@ -2284,14 +2291,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-social-media-content-creator-virtustant-2
-
-### Clinical Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-clinical-coordinator-bruntwork
 
 ### Head of Marketing & Communications
 - **Company:** garden3d
@@ -3649,6 +3648,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Sales (58 open roles)
 
+### Outbound Sales Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-21
+- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-sagan-recruitment
+
 ### Lead Generation Specialist
 - **Company:** Virtual Latinos
 - **Salary:** Not Disclosed
@@ -3782,13 +3788,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-appointment-setter-somewhere
-
-### Spanish Bilingual Sales Account Executive
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-sales-account-executive-bruntwork
 
 ### After-Hours Inbound Sales Representative
 - **Company:** Somewhere
