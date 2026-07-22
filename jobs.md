@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-22T03:13:16Z
+last_updated: 2026-07-22T08:34:59Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**793 active remote jobs** as of 2026-07-22.
+**796 active remote jobs** as of 2026-07-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -275,7 +275,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-22
 - **View Job:** https://globalcaribbeans.com/#card-accounts-payable-specialist-somewhere
 
-## Admin (40 open roles)
+## Admin (39 open roles)
 
 ### Administrative Assistant
 - **Company:** Virtustant
@@ -385,14 +385,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-receptionist-remote-work-bairesdev
-
-### Bilingual Medical Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-20
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-administrative-assistant-bruntwork
 
 ### Executive Assistant
 - **Company:** Virtustant
@@ -563,7 +555,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-professional-personal-somewhere
 
-## Customer support (31 open roles)
+## Customer support (32 open roles)
+
+### Customer Experience & Booking Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-22
+- **View Job:** https://globalcaribbeans.com/#card-customer-experience-booking-specialist-sagan-recruitment
 
 ### Customer Service Representative
 - **Company:** Sagan Recruitment
@@ -786,7 +785,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near
 
-## Data/Analytics (58 open roles)
+## Data/Analytics (59 open roles)
+
+### Franchise Marketing Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $5,000 – $7,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-22
+- **View Job:** https://globalcaribbeans.com/#card-franchise-marketing-manager-sagan-recruitment
 
 ### People Analytics Specialist - Remote work | REF#298659
 - **Company:** BairesDev
@@ -1249,7 +1255,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (73 open roles)
+## Online Marketing (74 open roles)
+
+### Organic Social Media Manager (TikTok & Community Management)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-22
+- **View Job:** https://globalcaribbeans.com/#card-organic-social-media-manager-tiktok-community-management-sagan-recruitment
 
 ### Organic Social Media Manager (Short-Form Video)
 - **Company:** Sagan Recruitment
@@ -1765,7 +1778,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-remote-marketing-manager-hirelatam
 
-## Operations (84 open roles)
+## Operations (85 open roles)
+
+### Regional Sourcing Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-22
+- **View Job:** https://globalcaribbeans.com/#card-regional-sourcing-manager-sagan-recruitment
 
 ### AI Automation Coordinator
 - **Company:** Sagan Recruitment
@@ -2366,6 +2386,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (209 open roles)
 
+### Prepress Operator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-22
+- **View Job:** https://globalcaribbeans.com/#card-prepress-operator-sagan-recruitment
+
 ### Data Quality Specialist - Remote work | REF#298642
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2435,13 +2462,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-division-8-10-estimator-bruntwork
-
-### Data Entry Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-data-entry-specialist-bruntwork
 
 ### Data Entry Specialist
 - **Company:** Virtustant
