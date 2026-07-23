@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-23T03:20:02Z
+last_updated: 2026-07-23T08:36:31Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**797 active remote jobs** as of 2026-07-23.
+**798 active remote jobs** as of 2026-07-23.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -533,7 +533,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-professional-personal-somewhere
 
-## Customer support (31 open roles)
+## Customer support (32 open roles)
+
+### Inside Sales Closer
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-07-23
+- **View Job:** https://globalcaribbeans.com/#card-inside-sales-closer-sagan-recruitment
 
 ### Customer Experience & Booking Specialist
 - **Company:** Sagan Recruitment
@@ -2301,6 +2308,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (215 open roles)
 
+### Legal Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-07-23
+- **View Job:** https://globalcaribbeans.com/#card-legal-operations-coordinator-sagan-recruitment
+
 ### Bilingual Property Management Assistant
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -3804,13 +3818,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-sre-observability-remote-work-ref-296324-bairesdev
 
-### Accounting Operations Specialist
-- **Company:** Awesome Motive
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-23
-- **View Job:** https://globalcaribbeans.com/#card-accounting-operations-specialist-awesome-motive
-
 ## Project Management (35 open roles)
 
 ### Senior Professional Services Project Manager
@@ -4196,7 +4203,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-talent-coordinator-talent-acquisition-hr-somewhere-2
 
-## Sales (62 open roles)
+## Sales (63 open roles)
+
+### Client Partner (Customer Success)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-23
+- **View Job:** https://globalcaribbeans.com/#card-client-partner-customer-success-sagan-recruitment
 
 ### Account Executive
 - **Company:** Hire With Near
@@ -4635,7 +4649,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-sales-representative-somewhere
 
-## Software Development (145 open roles)
+## Software Development (144 open roles)
 
 ### IT Audit Professional
 - **Company:** Virtustant
@@ -5645,10 +5659,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-06-23
 - **View Job:** https://globalcaribbeans.com/#card-brand-designer-supabase
-
-### Automation Engineer - Workflow & Process Automation
-- **Company:** Huzzle
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-23
-- **View Job:** https://globalcaribbeans.com/#card-automation-engineer-workflow-process-automation-huzzle
