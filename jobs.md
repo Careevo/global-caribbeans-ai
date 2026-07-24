@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-24T08:32:46Z
+last_updated: 2026-07-24T13:53:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**749 active remote jobs** as of 2026-07-24.
+**753 active remote jobs** as of 2026-07-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (32 open roles)
+## Accounting/Bookkeeping (31 open roles)
 
 ### Bookkeeper (QuickBooks & Excel)
 - **Company:** BruntWork
@@ -190,13 +190,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-10
 - **View Job:** https://globalcaribbeans.com/#card-project-bookkeeper-property-accountant-somewhere
-
-### Bookkeeper
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-08
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-sagan-recruitment
 
 ### Remote Controller
 - **Company:** HireLatam
@@ -1114,7 +1107,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (65 open roles)
+## Online Marketing (66 open roles)
+
+### Paid Media Specialist
+- **Company:** Near
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-paid-media-specialist-near
+
+### Organic Growth Manager (SEO & Content Marketing)
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-organic-growth-manager-seo-content-marketing-remotely-talents-client-confidentia
 
 ### Social Media Marketing Specialist
 - **Company:** Hired Remoteli
@@ -1567,13 +1574,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-24
 - **View Job:** https://globalcaribbeans.com/#card-designer-hire-with-near
-
-### Senior Performance Marketer (Full Remote - Worldwide)
-- **Company:** EverAI
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-performance-marketer-full-remote-worldwide-everai
 
 ## Operations (76 open roles)
 
@@ -2117,7 +2117,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-assistant-service-coordinator-sagan-recruitment
 
-## Other (210 open roles)
+## Other (211 open roles)
+
+### Designer
+- **Company:** Athyna
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-designer-athyna
+
+### Phone Support
+- **Company:** Somewhere
+- **Salary:** $1,500 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-phone-support-somewhere
+
+### Graphic & Production Designer
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-graphic-production-designer-sagan-recruitment
 
 ### Outbound Scheduling & Sales Specialist
 - **Company:** Sagan Recruitment
@@ -3580,21 +3601,29 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-24
 - **View Job:** https://globalcaribbeans.com/#card-ux-ui-designer-web-landing-pages-apex-cro
 
-### Mid/Senior AI Cinematic Video Editor (Full Remote - Worldwide)
-- **Company:** EverAI
+## Project Management (35 open roles)
+
+### Senior Product Manager, Fraud and Compliance
+- **Company:** Remote
 - **Salary:** Not Disclosed
 - **Location:** Global
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-full-remote-worldwide-everai-5
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-fraud-and-compliance-remote
 
-### Senior AI Vertical Mini-Series Director (Full Remote - Worldwide)
-- **Company:** EverAI
+### Product Manager - Marketplace
+- **Company:** Supabase
 - **Salary:** Not Disclosed
 - **Location:** Global
-- **Posted:** 2026-06-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-ai-vertical-mini-series-director-full-remote-worldwide-everai
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-marketplace-supabase
 
-## Project Management (32 open roles)
+### Senior Product Manager, Fraud and Compliance
+- **Company:** Remote.com
+- **Salary:** $149,750 – $168,500 / year
+- **Location:** AMER | Global | Anywhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-fraud-and-compliance-remote-com
 
 ### Land Development Project Manager
 - **Company:** Sagan Recruitment
