@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-25T13:44:23Z
+last_updated: 2026-07-25T19:14:16Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**768 active remote jobs** as of 2026-07-25.
+**766 active remote jobs** as of 2026-07-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -479,7 +479,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-professional-personal-somewhere
 
-## Customer support (27 open roles)
+## Customer support (26 open roles)
 
 ### Onsite Customer Success Specialist (Mandarin Required)
 - **Company:** Think Academy US
@@ -664,14 +664,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-scheduling-coordinator-sagan-recruitment
-
-### Senior Onboarding Client Services Specialist
-- **Company:** Remote.com
-- **Salary:** $35,250 – $79,300 / year
-- **Location:** AMER | Global | Worldwide | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-onboarding-client-services-specialist-remote-com
 
 ## Data/Analytics (52 open roles)
 
@@ -1115,7 +1107,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (67 open roles)
+## Online Marketing (66 open roles)
 
 ### Senior B2B PPC Specialist
 - **Company:** Sagan Recruitment
@@ -1582,21 +1574,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-specialist-remotely-talents-client-confidential
 
-### Marketing Strategist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-25
-- **View Job:** https://globalcaribbeans.com/#card-marketing-strategist-hire-with-near
-
-## Operations (76 open roles)
-
-### Executive Operations Manager (Founder Support & Business Operations)
-- **Company:** Somewhere
-- **Salary:** $2,800 – $3,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-25
-- **View Job:** https://globalcaribbeans.com/#card-executive-operations-manager-founder-support-business-operations-somewhere
+## Operations (75 open roles)
 
 ### Marketing Operations & Campaigns Coordinator
 - **Company:** Sagan Recruitment
@@ -2130,7 +2108,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-global-payroll-strategy-and-compliance-remote-com
 
-## Other (212 open roles)
+## Other (213 open roles)
+
+### Senior Brand Designer
+- **Company:** Circle
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-brand-designer-circle
 
 ### Sales Development Representative
 - **Company:** Virtustant
@@ -3621,7 +3606,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-leasing-coordinator-sagan-recruitment
 
-## Project Management (38 open roles)
+## Project Management (37 open roles)
 
 ### Project Manager
 - **Company:** Virtustant
@@ -3879,13 +3864,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-digital-project-manager-fueled
 
-### Senior Product Manager
-- **Company:** Lemon.io
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-lemon-io
-
 ### Accounting Systems Implementation Manager
 - **Company:** Sagan Recruitment
 - **Salary:** $2,000 – $3,000 / month
@@ -4008,7 +3986,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-senior-hr-business-partner-somewhere-2
 
-## Sales (74 open roles)
+## Sales (75 open roles)
+
+### Inside Sales Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-sagan-recruitment
 
 ### Business Development Representative
 - **Company:** Virtustant
