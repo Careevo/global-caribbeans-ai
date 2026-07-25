@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-25T03:12:11Z
+last_updated: 2026-07-25T08:12:12Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**765 active remote jobs** as of 2026-07-25.
+**766 active remote jobs** as of 2026-07-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -479,7 +479,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-professional-personal-somewhere
 
-## Customer support (26 open roles)
+## Customer support (27 open roles)
+
+### Onsite Customer Success Specialist (Mandarin Required)
+- **Company:** Think Academy US
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-onsite-customer-success-specialist-mandarin-required-think-academy-us
 
 ### Remote Dispatcher & Scheduling Coordinator
 - **Company:** HireLatam
@@ -1570,6 +1577,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (77 open roles)
 
+### Marketing Operations & Campaigns Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,000 / month
+- **Location:** Remote
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-marketing-operations-campaigns-coordinator-sagan-recruitment
+
 ### Director of Business Operations
 - **Company:** Virtustant
 - **Salary:** Not Disclosed
@@ -2110,14 +2124,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-implementation-specialist-datacor
 
-### Assistant Service Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,300 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-25
-- **View Job:** https://globalcaribbeans.com/#card-assistant-service-coordinator-sagan-recruitment
-
-## Other (213 open roles)
+## Other (212 open roles)
 
 ### Sales Development Representative
 - **Company:** Virtustant
@@ -3608,13 +3615,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-leasing-coordinator-sagan-recruitment
 
-### Architectural Drafter (Revit)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-25
-- **View Job:** https://globalcaribbeans.com/#card-architectural-drafter-revit-sagan-recruitment
-
 ## Project Management (38 open roles)
 
 ### Project Manager
@@ -4519,7 +4519,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-ai-growth-specialist-hire-with-near
 
-## Software Development (130 open roles)
+## Software Development (131 open roles)
+
+### AI Funnel & Growth Engineer
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-ai-funnel-growth-engineer-sagan-recruitment
 
 ### IT Audit Professional
 - **Company:** Virtustant
