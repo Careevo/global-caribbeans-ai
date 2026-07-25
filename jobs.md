@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-25T08:12:12Z
+last_updated: 2026-07-25T13:44:23Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**766 active remote jobs** as of 2026-07-25.
+**768 active remote jobs** as of 2026-07-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1115,7 +1115,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (65 open roles)
+## Online Marketing (67 open roles)
+
+### Senior B2B PPC Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-b2b-ppc-specialist-sagan-recruitment
+
+### DTC Media Buyer (Meta)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,000 / month
+- **Location:** Remote
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-dtc-media-buyer-meta-sagan-recruitment
 
 ### Media Buyer
 - **Company:** Hire With Near
@@ -1575,7 +1589,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-25
 - **View Job:** https://globalcaribbeans.com/#card-marketing-strategist-hire-with-near
 
-## Operations (77 open roles)
+## Operations (76 open roles)
+
+### Executive Operations Manager (Founder Support & Business Operations)
+- **Company:** Somewhere
+- **Salary:** $2,800 – $3,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-executive-operations-manager-founder-support-business-operations-somewhere
 
 ### Marketing Operations & Campaigns Coordinator
 - **Company:** Sagan Recruitment
@@ -2108,21 +2129,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-global-payroll-strategy-and-compliance-remote-com
-
-### Payroll Enablement Specialist
-- **Company:** Remote.com
-- **Salary:** $78,000 – $87,750 / year
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-25
-- **View Job:** https://globalcaribbeans.com/#card-payroll-enablement-specialist-remote-com
-
-### Implementation Specialist
-- **Company:** Datacor
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-25
-- **View Job:** https://globalcaribbeans.com/#card-implementation-specialist-datacor
 
 ## Other (212 open roles)
 
@@ -3887,7 +3893,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-accounting-systems-implementation-manager-sagan-recruitment
 
-## Recruiting (15 open roles)
+## Recruiting (16 open roles)
+
+### Senior Recruiter - Digital Transformation
+- **Company:** New Era Technology
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
 ### Recruiter
 - **Company:** Virtustant
