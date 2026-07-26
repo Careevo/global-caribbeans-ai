@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-26T13:38:46Z
+last_updated: 2026-07-26T19:17:37Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**763 active remote jobs** as of 2026-07-26.
+**760 active remote jobs** as of 2026-07-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2107,7 +2107,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-client-success-coach-csm-impact-clients
 
-## Other (211 open roles)
+## Other (209 open roles)
 
 ### Senior Brand Designer
 - **Company:** Circle
@@ -2340,14 +2340,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-associate-designer-kitchen-textiles-hired-remoteli
-
-### Bilingual Legal Assistant
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-legal-assistant-virtustant
 
 ### Registered Nurse
 - **Company:** BruntWork
@@ -3584,13 +3576,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-inbound-sales-event-rental-specialist-sagan-recruitment
 
-### UI visual designer (AI golf app)
-- **Company:** Barkie.ai
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-ui-visual-designer-ai-golf-app-barkie-ai
-
 ## Project Management (37 open roles)
 
 ### Project Manager
@@ -3856,7 +3841,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-digital-project-manager-fueled
 
-## Recruiting (16 open roles)
+## Recruiting (15 open roles)
 
 ### Senior Recruiter - Digital Transformation
 - **Company:** New Era Technology
@@ -3878,13 +3863,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-5
-
-### Recruiter
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-3
 
 ### Recruiter
 - **Company:** Virtustant
