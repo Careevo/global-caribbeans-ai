@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-26T08:32:26Z
+last_updated: 2026-07-26T13:38:46Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**767 active remote jobs** as of 2026-07-26.
+**763 active remote jobs** as of 2026-07-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1574,7 +1574,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-specialist-remotely-talents-client-confidential
 
-## Operations (76 open roles)
+## Operations (75 open roles)
 
 ### Customer Operations Manager
 - **Company:** Sagan Recruitment
@@ -2107,15 +2107,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-client-success-coach-csm-impact-clients
 
-### Senior Manager, Global Payroll Strategy and Compliance
-- **Company:** Remote.com
-- **Salary:** £97,500 – £109,650 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-global-payroll-strategy-and-compliance-remote-com
-
-## Other (212 open roles)
+## Other (211 open roles)
 
 ### Senior Brand Designer
 - **Company:** Circle
@@ -3599,13 +3591,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-ui-visual-designer-ai-golf-app-barkie-ai
 
-### Mid/Senior AI Cinematic Video Editor
-- **Company:** EverAI
-- **Salary:** $30,000 – $100,000 / year
-- **Location:** Global
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-everai-2
-
 ## Project Management (37 open roles)
 
 ### Project Manager
@@ -3986,7 +3971,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-senior-hr-business-partner-somewhere-2
 
-## Sales (76 open roles)
+## Sales (75 open roles)
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -4517,14 +4502,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-mid-market-account-executive-americas-customer-io
 
-### AI Growth Specialist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-ai-growth-specialist-hire-with-near
-
-## Software Development (131 open roles)
+## Software Development (130 open roles)
 
 ### AI Funnel & Growth Engineer
 - **Company:** Sagan Recruitment
@@ -5436,11 +5414,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-06-28
 - **View Job:** https://globalcaribbeans.com/#card-security-analyst-bug-bounty-stripe-2
-
-### Senior Site Reliability Engineer
-- **Company:** Remote.com
-- **Salary:** $53,300 – $119,850 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-senior-site-reliability-engineer-remote-com-2
