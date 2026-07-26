@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-26T03:25:29Z
+last_updated: 2026-07-26T08:32:26Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**770 active remote jobs** as of 2026-07-26.
+**767 active remote jobs** as of 2026-07-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (31 open roles)
+## Accounting/Bookkeeping (30 open roles)
 
 ### Construction Accountant
 - **Company:** Sagan Recruitment
@@ -225,13 +225,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-chargebee-engineer-remote-work-ref-296786-bairesdev
-
-### Staff Accountant
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-staff-accountant-sagan-recruitment
 
 ## Admin (35 open roles)
 
@@ -2122,7 +2115,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-global-payroll-strategy-and-compliance-remote-com
 
-## Other (213 open roles)
+## Other (212 open roles)
 
 ### Senior Brand Designer
 - **Company:** Circle
@@ -3613,14 +3606,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-everai-2
 
-### Senior Leasing Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-senior-leasing-coordinator-sagan-recruitment
-
-## Project Management (38 open roles)
+## Project Management (37 open roles)
 
 ### Project Manager
 - **Company:** Virtustant
@@ -3884,13 +3870,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-digital-project-manager-fueled
-
-### Accounting Systems Implementation Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** Global
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-accounting-systems-implementation-manager-sagan-recruitment
 
 ## Recruiting (16 open roles)
 
