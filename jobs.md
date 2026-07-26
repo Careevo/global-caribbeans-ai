@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-25T19:14:16Z
+last_updated: 2026-07-26T03:25:29Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**766 active remote jobs** as of 2026-07-25.
+**770 active remote jobs** as of 2026-07-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (31 open roles)
+
+### Construction Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-26
+- **View Job:** https://globalcaribbeans.com/#card-construction-accountant-sagan-recruitment
 
 ### Financial Controller
 - **Company:** Virtustant
@@ -1574,7 +1581,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-specialist-remotely-talents-client-confidential
 
-## Operations (75 open roles)
+## Operations (76 open roles)
+
+### Customer Operations Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,300 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-26
+- **View Job:** https://globalcaribbeans.com/#card-customer-operations-manager-sagan-recruitment
+
+### Ecommerce Manager
+- **Company:** Hire With Near
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-ecommerce-manager-hire-with-near
 
 ### Marketing Operations & Campaigns Coordinator
 - **Company:** Sagan Recruitment
@@ -1631,13 +1652,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-strategic-sourcing-manager-procurement-vendor-management-sagan-recruitment
-
-### Walmart Seller Specialist
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-walmart-seller-specialist-virtustant-2
 
 ### Regional Sourcing Manager
 - **Company:** Sagan Recruitment
@@ -3606,7 +3620,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-leasing-coordinator-sagan-recruitment
 
-## Project Management (37 open roles)
+## Project Management (38 open roles)
+
+### Project Manager
+- **Company:** Virtustant
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-virtustant-2
 
 ### Project Manager
 - **Company:** Virtustant
@@ -3986,7 +4007,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-senior-hr-business-partner-somewhere-2
 
-## Sales (75 open roles)
+## Sales (76 open roles)
+
+### Sales Development Representative
+- **Company:** Hire With Near
+- **Salary:** $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-25
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-hire-with-near-2
 
 ### Inside Sales Representative
 - **Company:** Sagan Recruitment
