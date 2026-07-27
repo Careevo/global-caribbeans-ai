@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-26T19:17:37Z
+last_updated: 2026-07-27T03:34:26Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**760 active remote jobs** as of 2026-07-26.
+**759 active remote jobs** as of 2026-07-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (31 open roles)
+
+### Accounting Manager – Property Management
+- **Company:** Sagan Recruitment
+- **Salary:** $4,000 – $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-26
+- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-property-management-sagan-recruitment
 
 ### Construction Accountant
 - **Company:** Sagan Recruitment
@@ -1107,7 +1114,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (66 open roles)
+## Online Marketing (67 open roles)
+
+### Email Marketing Designer (Klaviyo)
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-26
+- **View Job:** https://globalcaribbeans.com/#card-email-marketing-designer-klaviyo-sagan-recruitment
 
 ### Senior B2B PPC Specialist
 - **Company:** Sagan Recruitment
@@ -1574,7 +1588,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-specialist-remotely-talents-client-confidential
 
-## Operations (75 open roles)
+## Operations (73 open roles)
 
 ### Customer Operations Manager
 - **Company:** Sagan Recruitment
@@ -2092,20 +2106,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-06-27
 - **View Job:** https://globalcaribbeans.com/#card-night-dispatch-logistics-coordinator-sagan-recruitment
-
-### Client Success Coach (CSM)
-- **Company:** Impact Clients
-- **Salary:** $10,000 – $15,000 / month
-- **Location:** North America
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-client-success-coach-csm-impact-clients-2
-
-### Client Success Coach (CSM)
-- **Company:** Impact Clients
-- **Salary:** $10,000 – $15,000 / month
-- **Location:** North America
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-client-success-coach-csm-impact-clients
 
 ## Other (209 open roles)
 
@@ -3949,7 +3949,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-senior-hr-business-partner-somewhere-2
 
-## Sales (75 open roles)
+## Sales (74 open roles)
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -4472,13 +4472,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-28
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-saas-hire-with-near
-
-### Mid-Market Account Executive, Americas
-- **Company:** Customer.io
-- **Salary:** $95,000 – $190,000 / year
-- **Location:** Americas
-- **Posted:** 2026-06-26
-- **View Job:** https://globalcaribbeans.com/#card-mid-market-account-executive-americas-customer-io
 
 ## Software Development (130 open roles)
 
