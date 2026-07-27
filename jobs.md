@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-27T03:34:26Z
+last_updated: 2026-07-27T09:58:40Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**759 active remote jobs** as of 2026-07-27.
+**755 active remote jobs** as of 2026-07-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (31 open roles)
+## Accounting/Bookkeeping (30 open roles)
 
 ### Accounting Manager – Property Management
 - **Company:** Sagan Recruitment
@@ -49,13 +49,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-23
 - **View Job:** https://globalcaribbeans.com/#card-ar-specialist-hire-with-near
-
-### Accountant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-accountant-bruntwork
 
 ### Accountant
 - **Company:** Hire With Near
@@ -235,6 +228,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Admin (35 open roles)
 
+### Business Operations & Administrative Coordinator (Residential | Cleaning Services)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-27
+- **View Job:** https://globalcaribbeans.com/#card-business-operations-administrative-coordinator-residential-cleaning-services-bru
+
 ### Virtual Assistant
 - **Company:** Virtustant
 - **Salary:** Not Disclosed
@@ -256,13 +256,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-virtustant-3
-
-### Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-bruntwork
 
 ### Medical Receptionist
 - **Company:** Virtustant
@@ -1588,7 +1581,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-specialist-remotely-talents-client-confidential
 
-## Operations (73 open roles)
+## Operations (72 open roles)
 
 ### Customer Operations Manager
 - **Company:** Sagan Recruitment
@@ -2099,15 +2092,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-accounting-operations-manager-sagan-recruitment
 
-### Night Dispatch & Logistics Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $1,800 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-06-27
-- **View Job:** https://globalcaribbeans.com/#card-night-dispatch-logistics-coordinator-sagan-recruitment
-
-## Other (209 open roles)
+## Other (207 open roles)
 
 ### Senior Brand Designer
 - **Company:** Circle
@@ -2270,13 +2255,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-23
 - **View Job:** https://globalcaribbeans.com/#card-insurance-specialist-bruntwork
 
-### HR & Recruitment Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-hr-recruitment-specialist-bruntwork
-
 ### Product Sales Specialist - Pet Health (CST timezone)
 - **Company:** Tribe Wellness
 - **Salary:** Not Disclosed
@@ -2340,14 +2318,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-associate-designer-kitchen-textiles-hired-remoteli
-
-### Registered Nurse
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-registered-nurse-bruntwork
 
 ### CRM Manager - Remote Work
 - **Company:** BairesDev
