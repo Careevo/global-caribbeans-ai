@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-28T08:41:28Z
+last_updated: 2026-07-28T14:19:57Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**634 active remote jobs** as of 2026-07-28.
+**648 active remote jobs** as of 2026-07-28.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (27 open roles)
+## Accounting/Bookkeeping (26 open roles)
 
 ### Staff Accountant – Mortgage Lending
 - **Company:** Sagan Recruitment
@@ -98,13 +98,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-financial-controller-virtustant-2
-
-### Bookkeeper (QuickBooks & Excel)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-quickbooks-excel-bruntwork
 
 ### AR Specialist
 - **Company:** Hire With Near
@@ -206,6 +199,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-senior-chargebee-engineer-remote-work-ref-296786-bairesdev
 
 ## Admin (28 open roles)
+
+### Executive Assistant to CEO
+- **Company:** Automattic Careers
+- **Salary:** $95,000 – $195,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-automattic-careers
 
 ### Medical Administrative Assistant
 - **Company:** BruntWork
@@ -338,13 +338,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-english-spanish-speaking-executive-virtual-assistant-somewhere
 
 ### Administrative Assistant
-- **Company:** Somewhere
-- **Salary:** $1,000 – $1,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-somewhere-3
-
-### Administrative Assistant
 - **Company:** Virtual Latinos
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
@@ -410,6 +403,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-property-management-somewhere
 
 ## Customer support (23 open roles)
+
+### Happiness Engineer – Customer Support & Success
+- **Company:** Automattic Careers
+- **Salary:** $40,000 – $68,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-happiness-engineer-customer-support-success-automattic-careers
 
 ### Customer Service Representative
 - **Company:** BruntWork
@@ -531,13 +531,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-leasing-customer-support-specialist-sagan-recruitment-2
 
-### Senior Manager, End User Services
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-end-user-services-gitlab
-
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
 - **Salary:** $2,000 – $3,000 / month
@@ -573,7 +566,49 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-scheduling-coordinator-sagan-recruitment
 
-## Data/Analytics (44 open roles)
+## Data/Analytics (46 open roles)
+
+### Senior Pricing Data Scientist
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-pricing-data-scientist-fivetran
+
+### Senior Instructional Designer
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-instructional-designer-fivetran
+
+### Senior Director, People Strategy & Execution
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-director-people-strategy-execution-fivetran
+
+### Senior Director, Global Sales Compensation
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-director-global-sales-compensation-fivetran
+
+### Regional Vice President of Sales
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-regional-vice-president-of-sales-fivetran
+
+### Global Alliance Lead, Microsoft
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-global-alliance-lead-microsoft-fivetran-2
 
 ### DTC Marketing Specialist
 - **Company:** Somewhere
@@ -623,13 +658,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-data-analyst-remote-work-bairesdev
-
-### Chief of Staff / Integrator
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-chief-of-staff-integrator-mappa
 
 ### Real Estate Valuation Analyst (Residential Underwriting)
 - **Company:** Sagan Recruitment
@@ -806,27 +834,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-hire-with-near-3
 
-### Data Scientist: Product & Analytics
-- **Company:** Smallpdf
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-11
-- **View Job:** https://globalcaribbeans.com/#card-data-scientist-product-analytics-smallpdf
-
-### Data Analyst: Growth & Product
-- **Company:** Smallpdf
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-11
-- **View Job:** https://globalcaribbeans.com/#card-data-analyst-growth-product-smallpdf
-
-### Senior Staff Data Scientist
-- **Company:** Mozilla
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-staff-data-scientist-mozilla
-
 ### Data Architect - Remote Work | REF#295533
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -945,7 +952,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (53 open roles)
+## Online Marketing (55 open roles)
+
+### Senior Manager, Demand Generation, WordPress VIP
+- **Company:** Automattic Careers
+- **Salary:** $140,000 – $180,000 / year
+- **Location:** Remote
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-manager-demand-generation-wordpress-vip-automattic-careers
+
+### Social Media Manager
+- **Company:** Netlify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-netlify
 
 ### Search Engine Optimization Specialist
 - **Company:** Hire With Near
@@ -1320,7 +1341,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-specialist-remotely-talents-client-confidential
 
-## Operations (63 open roles)
+## Operations (66 open roles)
+
+### Senior Revenue Operations Manager
+- **Company:** Automattic Careers
+- **Salary:** $140,000 – $200,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-revenue-operations-manager-automattic-careers
+
+### Global Alliance Lead
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-global-alliance-lead-fivetran-2
+
+### Global Alliance Lead
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-global-alliance-lead-fivetran
 
 ### Operations Specialist
 - **Company:** Somewhere
@@ -1767,6 +1809,20 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (187 open roles)
 
+### Senior Product Designer
+- **Company:** Automattic Careers
+- **Salary:** $95,000 – $200,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-automattic-careers
+
+### Your Chance to Join Our Talent Community!
+- **Company:** Netlify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-your-chance-to-join-our-talent-community-netlify
+
 ### Scheduling Coordinator – Residential Estimating
 - **Company:** Sagan Recruitment
 - **Salary:** $2,000 / month
@@ -1936,13 +1992,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-servicenow-developer-remote-work-bairesdev
-
-### Senior SAP SAC Planning Consultant
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-senior-sap-sac-planning-consultant-mappa
 
 ### Data Entry Specialist
 - **Company:** Somewhere
@@ -2940,13 +2989,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-1-on-1-high-school-math-tutor-think-academy-us
 
-### AMC Tutor
-- **Company:** Think Academy US
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-amc-tutor-think-academy-us
-
 ### Civil Law Legal Assistant (Property & Land Records)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,000 – $1,400 / month
@@ -3080,7 +3122,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-everai-3
 
-## Project Management (32 open roles)
+## Project Management (33 open roles)
+
+### Senior Product Manager, Payments
+- **Company:** Automattic Careers
+- **Salary:** $170,000 – $240,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-payments-automattic-careers
+
+### Staff Product Manager (Accounts & Billing)
+- **Company:** Netlify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-accounts-billing-netlify
+
+### Principal Product Manager (Growth)
+- **Company:** Netlify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-principal-product-manager-growth-netlify
 
 ### Project Manager
 - **Company:** BruntWork
@@ -3281,13 +3344,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-civil-engineer-land-development-project-manager-sagan-recruitment
 
-### Internal Events Manager, People Team
-- **Company:** Camunda
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-internal-events-manager-people-team-camunda
-
 ### Senior Product Manager, HRIS Integrations
 - **Company:** Remote.com
 - **Salary:** $60,000 – $135,000 / year
@@ -3302,13 +3358,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-land-development-project-manager-sagan-recruitment
-
-### Head of Engineering
-- **Company:** Xapo
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-head-of-engineering-xapo
 
 ## Recruiting (8 open roles)
 
@@ -3369,7 +3418,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-senior-hr-business-partner-somewhere-2
 
-## Sales (61 open roles)
+## Sales (64 open roles)
+
+### Head of Commercial - Develp
+- **Company:** Iftother
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-head-of-commercial-develp-iftother
+
+### Technical Account Manager, Newspack
+- **Company:** Automattic Careers
+- **Salary:** $73,000 – $130,000 / year
+- **Location:** Remote
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-technical-account-manager-newspack-automattic-careers
+
+### Technical Account Manager, Automattic Special Projects Team
+- **Company:** Automattic Careers
+- **Salary:** $85,000 – $130,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-technical-account-manager-automattic-special-projects-team-automattic-careers
+
+### Senior Business Value Engineer
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-business-value-engineer-fivetran
+
+### Majors Sales Director
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-majors-sales-director-fivetran
 
 ### Sales Specialist
 - **Company:** BruntWork
@@ -3761,13 +3845,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-10
 - **View Job:** https://globalcaribbeans.com/#card-business-development-specialist-somewhere
 
-### Senior Business Development Manager, New Products
-- **Company:** Mozilla
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-09
-- **View Job:** https://globalcaribbeans.com/#card-senior-business-development-manager-new-products-mozilla
-
 ### Appointment Setter
 - **Company:** Somewhere
 - **Salary:** $2,000 – $2,500 / month
@@ -3796,14 +3873,56 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-### Sales Development Representative (SaaS)
-- **Company:** Hire With Near
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-28
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-saas-hire-with-near
+## Software Development (104 open roles)
 
-## Software Development (100 open roles)
+### Performance Engineer - Benchmarking
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-performance-engineer-benchmarking-supabase
+
+### Performance Engineer - Performance Analysis & Tuning
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-performance-engineer-performance-analysis-tuning-supabase
+
+### Senior Systems Engineer
+- **Company:** Automattic Careers
+- **Salary:** $120,000 – $180,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-systems-engineer-automattic-careers
+
+### Experienced Software Engineer
+- **Company:** Automattic Careers
+- **Salary:** $70,000 – $170,000 / year
+- **Location:** Global
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-experienced-software-engineer-automattic-careers
+
+### Senior Staff Software Engineer
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-staff-software-engineer-fivetran
+
+### Senior Platform Software Engineer, Transport
+- **Company:** Fivetran
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-senior-platform-software-engineer-transport-fivetran-2
+
+### Software Engineer - PlanetScale Postgres
+- **Company:** PlanetScale
+- **Salary:** $120,000 – $290,000 / year
+- **Location:** Remote
+- **Posted:** 2026-07-28
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-planetscale-postgres-planetscale
 
 ### Software Engineer (WordPress & WooCommerce)
 - **Company:** Somewhere
@@ -4477,30 +4596,9 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-martech-cookunity
 
-### Head of Quality Engineering
-- **Company:** Xapo
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-head-of-quality-engineering-xapo
-
 ### Senior Software Engineer - Email Channel
 - **Company:** Customer.io
 - **Salary:** $150,000 – $200,000 / year
 - **Location:** Americas
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-email-channel-customer-io-2
-
-### Developer who loves teaching
-- **Company:** PostHog
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-developer-who-loves-teaching-posthog
-
-### Context Engineer
-- **Company:** PostHog
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-06-29
-- **View Job:** https://globalcaribbeans.com/#card-context-engineer-posthog
