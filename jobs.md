@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-29T03:10:36Z
+last_updated: 2026-07-29T08:46:52Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**801 active remote jobs** as of 2026-07-29.
+**807 active remote jobs** as of 2026-07-29.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (27 open roles)
+## Accounting/Bookkeeping (28 open roles)
+
+### Accounts Payable Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-specialist-sagan-recruitment
 
 ### Finance Manager (12 months Contract)
 - **Company:** CoinMarketCap
@@ -205,7 +212,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-chargebee-engineer-remote-work-ref-296786-bairesdev
 
-## Admin (28 open roles)
+## Admin (29 open roles)
+
+### Legal Administrative Assistant
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $3,500 / month
+- **Location:** Global
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-legal-administrative-assistant-sagan-recruitment
 
 ### Medical Administrative Assistant
 - **Company:** BruntWork
@@ -410,7 +424,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-property-management-somewhere
 
-## Customer support (24 open roles)
+## Customer support (25 open roles)
+
+### Technical Support Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment-3
 
 ### Graduate Customer Success Manager
 - **Company:** Canonical
@@ -1482,7 +1503,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-specialist-remotely-talents-client-confidential
 
-## Operations (68 open roles)
+## Operations (69 open roles)
+
+### Finance & Admin Operations Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,500 / month
+- **Location:** Global
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-finance-admin-operations-manager-sagan-recruitment
 
 ### Developer Productivity Engineer - Remote work | REF#298903
 - **Company:** BairesDev
@@ -1963,7 +1991,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-accounting-operations-manager-sagan-recruitment
 
-## Other (242 open roles)
+## Other (244 open roles)
+
+### Japanese Linguist (Legal Specialist)
+- **Company:** Welo Data
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-japanese-linguist-legal-specialist-welo-data
+
+### Hebrew Freelance Translator & Copy Editor (Product, Marketing & UI Content)
+- **Company:** Welo Data
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-hebrew-freelance-translator-copy-editor-product-marketing-ui-content-welo-data
 
 ### German to Spanish Product Linguist
 - **Company:** Welo Data
@@ -3665,7 +3707,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-cinematic-video-editor-everai-3
 
-## Project Management (50 open roles)
+## Project Management (52 open roles)
+
+### Creative Project Manager
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-creative-project-manager-kajae-2
+
+### Creative Project Manager
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-29
+- **View Job:** https://globalcaribbeans.com/#card-creative-project-manager-kajae
 
 ### Senior IT Project Manager - Remote Work | REF#298945
 - **Company:** BairesDev
@@ -4626,7 +4682,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-## Software Development (150 open roles)
+## Software Development (148 open roles)
 
 ### Golang + Kubernetes Developer - Remote Work | REF#298893
 - **Company:** BairesDev
@@ -5118,26 +5174,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-23
 - **View Job:** https://globalcaribbeans.com/#card-senior-cloud-engineer-clickhouse
 
-### Full Stack Engineer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-kajae-2
-
 ### AI Process Forward Deployed Engineer
 - **Company:** Camunda
 - **Salary:** Not Disclosed
 - **Location:** Global
 - **Posted:** 2026-07-23
 - **View Job:** https://globalcaribbeans.com/#card-ai-process-forward-deployed-engineer-camunda
-
-### Full Stack Engineer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-kajae
 
 ### Senior Software Engineer, Quality Engineering
 - **Company:** Alpaca
