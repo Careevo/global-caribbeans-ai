@@ -2,18 +2,34 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-30T02:42:45Z
+last_updated: 2026-07-30T08:33:41Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**979 active remote jobs** as of 2026-07-30.
+**982 active remote jobs** as of 2026-07-30.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (32 open roles)
+
+### Payroll Specialist Lead
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-payroll-specialist-lead-remote-2
+
+### Payroll Specialist Lead
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-payroll-specialist-lead-remote
 
 ### Financial Controller
 - **Company:** IFT
@@ -226,7 +242,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-chargebee-engineer-remote-work-ref-296786-bairesdev
 
-## Admin (27 open roles)
+## Admin (26 open roles)
 
 ### Medical Administrative Assistant
 - **Company:** BruntWork
@@ -256,13 +272,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-automattic-careers
-
-### Medical Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-medical-administrative-assistant-bruntwork
 
 ### Operations Assistant
 - **Company:** Remote Leverage
@@ -425,6 +434,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-property-management-somewhere
 
 ## Customer support (32 open roles)
+
+### Customer Service Representative (Mandarin Required)
+- **Company:** Think Academy US
+- **Salary:** $20 / hour
+- **Location:** Remote
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-mandarin-required-think-academy-us
 
 ### Benefits Operations Specialist - AMER
 - **Company:** Remote
@@ -643,13 +660,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-analyst-remote-work-ref-296739-bairesdev
-
-### Customer Service & Scheduling Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $1,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-06-30
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-scheduling-coordinator-sagan-recruitment
 
 ## Data/Analytics (69 open roles)
 
@@ -1681,6 +1691,20 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (83 open roles)
 
+### Mobility Specialist - AMER
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-mobility-specialist-amer-remote
+
+### Lifecycle Specialist, Time and Attendance - AMER
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-time-and-attendance-amer-remote
+
 ### Lifecycle Specialist, Contract Management
 - **Company:** Remote
 - **Salary:** Not Disclosed
@@ -2032,20 +2056,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
 
-### Operations Manager / Office Manager
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-operations-manager-office-manager-offshore-launch
-
-### VP of Design
-- **Company:** Xapo
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-vp-of-design-xapo
-
 ### Client Services Associate
 - **Company:** Sagan Recruitment
 - **Salary:** $1,200 / month
@@ -2265,7 +2275,45 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-accounting-operations-manager-sagan-recruitment
 
-## Other (269 open roles)
+## Other (272 open roles)
+
+### Sales Development Representative
+- **Company:** Remote.com
+- **Salary:** Not Disclosed
+- **Location:** AMER | Global | Anywhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-remote-com
+
+### 1 on 1 Math Tutor (Grades 5-8)
+- **Company:** Think Academy US
+- **Salary:** $20 – $25 / hour
+- **Location:** Remote
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-1-on-1-math-tutor-grades-5-8-think-academy-us-2
+
+### 1 on 1 AMC 8/10 Tutor
+- **Company:** Think Academy US
+- **Salary:** $20 – $25 / hour
+- **Location:** Remote
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-1-on-1-amc-8-10-tutor-think-academy-us-2
+
+### Senior Solutions Consultant
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-senior-solutions-consultant-remote
+
+### Managing Counsel, Commercial - Partnerships
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-managing-counsel-commercial-partnerships-remote
 
 ### Dispatcher
 - **Company:** Offshore Launch
@@ -3484,20 +3532,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-account-development-representative-camunda
 
-### Dispatcher
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-dispatcher-offshore-launch
-
-### Embedded Linux Consultant Engineer
-- **Company:** Collabora
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-embedded-linux-consultant-engineer-collabora
-
 ### Property Operations Assistant
 - **Company:** Sagan Recruitment
 - **Salary:** $1,500 – $2,000 / month
@@ -4157,7 +4191,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-06-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-customer-io
 
-## Project Management (75 open roles)
+## Project Management (76 open roles)
+
+### Senior Product Manager, Remote Build
+- **Company:** Remote
+- **Salary:** $149,750 – $168,500 / year
+- **Location:** Americas
+- **Posted:** 2026-07-30
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-remote-build-remote
 
 ### IT Project Manager
 - **Company:** Virtual Latinos
@@ -5471,7 +5512,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-## Software Development (208 open roles)
+## Software Development (206 open roles)
 
 ### Senior Full Stack Engineer — Platform Extensions
 - **Company:** Fueled
@@ -6614,20 +6655,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-supalite-engineer-supabase
-
-### Senior Software Engineer, Accessibility
-- **Company:** Mozilla
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-accessibility-mozilla
-
-### Senior Backend Engineer, Core Discovery
-- **Company:** Raya
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-core-discovery-raya
 
 ### Senior DevOps Engineer
 - **Company:** Lemon.io
