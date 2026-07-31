@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-07-31T08:55:25Z
+last_updated: 2026-07-31T14:18:47Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1002 active remote jobs** as of 2026-07-31.
+**1003 active remote jobs** as of 2026-07-31.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -235,7 +235,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-full-charge-bookkeeper-sagan-recruitment
 
-## Admin (27 open roles)
+## Admin (26 open roles)
 
 ### Operations & Executive Assistant
 - **Company:** Mappa
@@ -424,14 +424,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-strategic-operations-sagan-recruitment
-
-### Virtual Assistant - Property Management
-- **Company:** Somewhere
-- **Salary:** $1,000 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-02
-- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-property-management-somewhere
 
 ## Customer support (31 open roles)
 
@@ -1233,15 +1225,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-sysadmin-remote-work-ref-297489-bairesdev
 
-## Legal (6 open roles)
-
-### Attorney
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-attorney-bruntwork
+## Legal (5 open roles)
 
 ### Legal Counsel
 - **Company:** Canonical
@@ -2357,6 +2341,20 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-operations-dispatch-specialist-sagan-recruitment
 
 ## Other (266 open roles)
+
+### Sr. Sales Engineer - SLED Central
+- **Company:** Job Board
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-07-31
+- **View Job:** https://globalcaribbeans.com/#card-sr-sales-engineer-sled-central-job-board
+
+### French to English Life Sciences / Pharmacovigilance Linguist
+- **Company:** Welo Data
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-07-31
+- **View Job:** https://globalcaribbeans.com/#card-french-to-english-life-sciences-pharmacovigilance-linguist-welo-data
 
 ### Regional Vice President, Sales - West
 - **Company:** Job Board
@@ -4218,21 +4216,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-01
 - **View Job:** https://globalcaribbeans.com/#card-apparel-hired-remoteli
 
-### Client Success Manager
-- **Company:** Integrated Hire
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-client-success-manager-integrated-hire-2
-
-### Communications Manager
-- **Company:** Lemon.io
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-communications-manager-lemon-io
-
 ## Project Management (78 open roles)
+
+### Senior Product Manager -- AI Product Team
+- **Company:** Job Board
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-07-31
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-ai-product-team-job-board
 
 ### Director, Technical Publications
 - **Company:** Job Board
@@ -4777,14 +4768,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-somewhere
 
-### Senior Product Manager, HRIS Integrations
-- **Company:** Remote.com
-- **Salary:** $60,000 – $135,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-hris-integrations-remote-com
-
 ## Recruiting (21 open roles)
 
 ### Young Professional – Trainee Recruiter - Remote Work
@@ -4935,7 +4918,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-18
 - **View Job:** https://globalcaribbeans.com/#card-contract-sr-sales-recruiter-logicgate
 
-## Sales (96 open roles)
+## Sales (97 open roles)
+
+### Strategic Account Executive - NA WEST
+- **Company:** Job Board
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-07-31
+- **View Job:** https://globalcaribbeans.com/#card-strategic-account-executive-na-west-job-board
 
 ### Enterprise Account Executive - SoCal
 - **Company:** Job Board
@@ -5616,7 +5606,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-## Software Development (212 open roles)
+## Software Development (214 open roles)
+
+### Senior UI Engineer
+- **Company:** Job Board
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-07-31
+- **View Job:** https://globalcaribbeans.com/#card-senior-ui-engineer-job-board
+
+### Senior Software Quality Engineer, Release Testing
+- **Company:** Job Board
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-07-31
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-quality-engineer-release-testing-job-board
 
 ### Senior Integration Developer (Celigo / NetSuite)
 - **Company:** Sagan Recruitment
