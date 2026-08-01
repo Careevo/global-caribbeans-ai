@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-01T08:26:32Z
+last_updated: 2026-08-01T13:36:56Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1013 active remote jobs** as of 2026-08-01.
+**1025 active remote jobs** as of 2026-08-01.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (31 open roles)
+
+### Senior Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-sagan-recruitment
 
 ### Accounting Manager
 - **Company:** Somewhere
@@ -411,7 +418,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-strategic-operations-sagan-recruitment
 
-## Customer support (32 open roles)
+## Customer support (30 open roles)
 
 ### Operations Specialist
 - **Company:** Sezzle
@@ -604,26 +611,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-18
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-full-time-sagan-recruitment
 
-### Customer Service/Dispatcher
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-dispatcher-offshore-launch
-
 ### Client Services Associate (Customer Service)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,200 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-15
 - **View Job:** https://globalcaribbeans.com/#card-client-services-associate-customer-service-sagan-recruitment
-
-### Leasing & Customer Support Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-leasing-customer-support-specialist-sagan-recruitment-2
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -1747,6 +1740,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (89 open roles)
 
+### Vendor Management Program Manager
+- **Company:** Sezzle
+- **Salary:** $5,000 – $6,500 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-vendor-management-program-manager-sezzle
+
 ### Training Team Lead
 - **Company:** Medallion
 - **Salary:** $55,000 – $85,000 / year
@@ -2213,13 +2213,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-netsuite-developer-remote-work-ref-295095-bairesdev
 
-### Partner Operations & Systems Lead
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-partner-operations-systems-lead-supabase
-
 ### Principal Product Designer - Remote work | REF#297804
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2376,7 +2369,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-operations-dispatch-specialist-sagan-recruitment
 
-## Other (260 open roles)
+## Other (261 open roles)
+
+### Trust Accounting Assistant
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-trust-accounting-assistant-sagan-recruitment
 
 ### Real Estate Transactions Coordinator
 - **Company:** Sagan Recruitment
@@ -4211,7 +4211,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-graphic-designer-shadowpool-projects
 
-## Project Management (78 open roles)
+## Project Management (79 open roles)
+
+### Senior Technical Product Manager
+- **Company:** Sezzle
+- **Salary:** $5,000 – $8,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-sezzle
 
 ### Senior Product Manager
 - **Company:** Medallion
@@ -5622,7 +5629,84 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-## Software Development (222 open roles)
+## Software Development (233 open roles)
+
+### Sr. AI Engineer - Marketing
+- **Company:** Sezzle
+- **Salary:** $50,000 – $120,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-sr-ai-engineer-marketing-sezzle
+
+### Sr. AI engineer
+- **Company:** Sezzle
+- **Salary:** $50,000 – $120,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-sr-ai-engineer-sezzle
+
+### Software Engineer II with Accounting Experience
+- **Company:** Sezzle
+- **Salary:** $2,800 – $6,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ii-with-accounting-experience-sezzle
+
+### Software Engineer II
+- **Company:** Sezzle
+- **Salary:** $2,800 – $6,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ii-sezzle
+
+### Senior Software Engineer with Accounting Experience
+- **Company:** Sezzle
+- **Salary:** $5,000 – $9,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-with-accounting-experience-sezzle
+
+### Senior Software Engineer
+- **Company:** Sezzle
+- **Salary:** $5,000 – $9,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-sezzle
+
+### Senior Payments Engineer — Acquiring & Payment Processing
+- **Company:** Sezzle
+- **Salary:** $5,000 – $9,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-payments-engineer-acquiring-payment-processing-sezzle
+
+### Senior Database Reliability Engineer
+- **Company:** Sezzle
+- **Salary:** $5,000 – $9,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-database-reliability-engineer-sezzle
+
+### Principal Software Engineer - Identity & Access Management
+- **Company:** Sezzle
+- **Salary:** $6,000 – $11,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-principal-software-engineer-identity-access-management-sezzle
+
+### Principal Software Engineer
+- **Company:** Sezzle
+- **Salary:** $6,000 – $11,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-principal-software-engineer-sezzle
+
+### Contractor: PHP Website Developer
+- **Company:** Newsela
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-contractor-php-website-developer-newsela
 
 ### Staff Software Engineer
 - **Company:** Medallion
