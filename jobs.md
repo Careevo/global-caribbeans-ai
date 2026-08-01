@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-01T13:36:56Z
+last_updated: 2026-08-01T19:15:07Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1025 active remote jobs** as of 2026-08-01.
+**1051 active remote jobs** as of 2026-08-01.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (31 open roles)
+## Accounting/Bookkeeping (32 open roles)
+
+### International Accounting Manager
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-international-accounting-manager-alpaca
 
 ### Senior Accountant
 - **Company:** Sagan Recruitment
@@ -632,7 +639,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (76 open roles)
+## Data/Analytics (78 open roles)
+
+### Senior Data Scientist
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-scientist-alpaca
+
+### Senior Data Engineer
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-alpaca
 
 ### Technical Solutions Manager
 - **Company:** Medallion
@@ -1265,7 +1286,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (67 open roles)
+## Online Marketing (68 open roles)
+
+### Growth Marketer, Paid Media
+- **Company:** Alphalion
+- **Salary:** $4,000 – $6,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-growth-marketer-paid-media-alphalion
 
 ### Graphic Designer - Paid Media
 - **Company:** Hire With Near
@@ -1738,7 +1766,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-cold-outbound-specialist-e-commerce-agency-sagan-recruitment
 
-## Operations (89 open roles)
+## Operations (91 open roles)
+
+### IT Operations Specialist
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-it-operations-specialist-alpaca
+
+### Head of Business, Crypto Exchanges
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-head-of-business-crypto-exchanges-alpaca
 
 ### Vendor Management Program Manager
 - **Company:** Sezzle
@@ -2369,7 +2411,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-operations-dispatch-specialist-sagan-recruitment
 
-## Other (261 open roles)
+## Other (265 open roles)
+
+### Senior Graphic Designer
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-graphic-designer-alpaca
+
+### Senior Fraud Analyst – Fraud Investigations & Financial Crimes Monitoring
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-fraud-analyst-fraud-investigations-financial-crimes-monitoring-alpaca
+
+### Clearing Operations Associate - Corporate Actions - Shift 2AM - 11AM EST
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-clearing-operations-associate-corporate-actions-shift-2am-11am-est-alpaca
+
+### Join our Talent Community!
+- **Company:** Quanata
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-join-our-talent-community-quanata
 
 ### Trust Accounting Assistant
 - **Company:** Sagan Recruitment
@@ -4211,7 +4281,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-graphic-designer-shadowpool-projects
 
-## Project Management (79 open roles)
+## Project Management (82 open roles)
+
+### Product Manager, New Assets
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-new-assets-alpaca
+
+### Product Manager, Crypto
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-crypto-alpaca
+
+### Product Manager, Accounts
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-accounts-alpaca
 
 ### Senior Technical Product Manager
 - **Company:** Sezzle
@@ -5629,7 +5720,98 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-## Software Development (233 open roles)
+## Software Development (246 open roles)
+
+### Senior Software Engineer - Trading
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-trading-alpaca
+
+### Senior Software Engineer - Tax Platform
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-tax-platform-alpaca
+
+### Senior Software Engineer, Quality Engineering
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-quality-engineering-alpaca-2
+
+### Senior Software Engineer - Platform
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-platform-alpaca
+
+### Senior Software Engineer - Payments & Treasury
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-payments-treasury-alpaca
+
+### Senior Software Engineer
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-alpaca
+
+### Senior Software Development Engineer in Test
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-development-engineer-in-test-alpaca
+
+### Senior Full-Stack Engineer - Trading API
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-trading-api-alpaca
+
+### Senior Fullstack Engineer - Operational Automations
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-fullstack-engineer-operational-automations-alpaca-2
+
+### Senior Fullstack Engineer - Operational Automations
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-fullstack-engineer-operational-automations-alpaca
+
+### Senior Full-Stack Engineer - Broker API (Partner-Facing Application)
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-broker-api-partner-facing-application-alpaca
+
+### Senior Frontend Engineer - Internal Tools
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-frontend-engineer-internal-tools-alpaca
+
+### Senior AI Platform Engineer
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-ai-platform-engineer-alpaca
 
 ### Sr. AI Engineer - Marketing
 - **Company:** Sezzle
