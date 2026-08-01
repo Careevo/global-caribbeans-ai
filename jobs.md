@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-01T03:23:40Z
+last_updated: 2026-08-01T08:26:32Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1003 active remote jobs** as of 2026-08-01.
+**1013 active remote jobs** as of 2026-08-01.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (31 open roles)
+## Accounting/Bookkeeping (30 open roles)
 
 ### Accounting Manager
 - **Company:** Somewhere
@@ -227,13 +227,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-qventus
-
-### Full Charge Bookkeeper
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-02
-- **View Job:** https://globalcaribbeans.com/#card-full-charge-bookkeeper-sagan-recruitment
 
 ## Admin (25 open roles)
 
@@ -646,7 +639,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (75 open roles)
+## Data/Analytics (76 open roles)
+
+### Technical Solutions Manager
+- **Company:** Medallion
+- **Salary:** $110,000 – $140,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-technical-solutions-manager-medallion
 
 ### Data Engineer (Azure)
 - **Company:** Somewhere
@@ -1745,7 +1745,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-cold-outbound-specialist-e-commerce-agency-sagan-recruitment
 
-## Operations (87 open roles)
+## Operations (89 open roles)
+
+### Training Team Lead
+- **Company:** Medallion
+- **Salary:** $55,000 – $85,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-training-team-lead-medallion
+
+### Senior Engagement Manager
+- **Company:** Medallion
+- **Salary:** $135,000 – $175,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-engagement-manager-medallion-2
 
 ### Travel Operations Manager
 - **Company:** Mappa
@@ -2362,7 +2376,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-operations-dispatch-specialist-sagan-recruitment
 
-## Other (257 open roles)
+## Other (260 open roles)
+
+### Real Estate Transactions Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-real-estate-transactions-coordinator-sagan-recruitment
+
+### Senior Product Designer
+- **Company:** Medallion
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-medallion-2
+
+### Director of Engineering, Automation Products
+- **Company:** Medallion
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-director-of-engineering-automation-products-medallion
 
 ### Bilingual Registered Nurse
 - **Company:** BruntWork
@@ -4176,7 +4211,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-02
 - **View Job:** https://globalcaribbeans.com/#card-graphic-designer-shadowpool-projects
 
-## Project Management (76 open roles)
+## Project Management (78 open roles)
+
+### Senior Product Manager
+- **Company:** Medallion
+- **Salary:** $160,000 – $210,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-medallion
+
+### Implementation Project Manager
+- **Company:** Medallion
+- **Salary:** $95,000 – $140,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-implementation-project-manager-medallion
 
 ### Senior Product Manager
 - **Company:** Customer.io
@@ -4857,7 +4906,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-2
 
-## Sales (100 open roles)
+## Sales (101 open roles)
+
+### Enterprise Account Executive
+- **Company:** Medallion
+- **Salary:** $145,000 – $160,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-medallion
 
 ### Lead Generation Specialist
 - **Company:** Virtual Latinos
@@ -5566,14 +5622,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-## Software Development (220 open roles)
+## Software Development (222 open roles)
 
-### Support Engineer (AMER - Weekends)
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Americas
+### Staff Software Engineer
+- **Company:** Medallion
+- **Salary:** $210,000 – $2,600,000 / year
+- **Location:** Remote
 - **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-support-engineer-amer-weekends-supabase
+- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-medallion-2
+
+### Software Engineer
+- **Company:** Medallion
+- **Salary:** $145,000 – $175,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-medallion
+
+### Senior Software Engineer
+- **Company:** Medallion
+- **Salary:** $170,000 – $2,200,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-medallion-2
 
 ### Principal Engineer - Data Infrastructure
 - **Company:** Sezzle
