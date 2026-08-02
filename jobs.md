@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-02T08:29:16Z
+last_updated: 2026-08-02T13:37:22Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1059 active remote jobs** as of 2026-08-02.
+**1057 active remote jobs** as of 2026-08-02.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -632,7 +632,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (79 open roles)
+## Data/Analytics (78 open roles)
 
 ### Settlements Associate
 - **Company:** Alpaca
@@ -1181,14 +1181,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-search-engineer-relevance-remote-work-ref-297568-bairesdev
 
-### Senior Product Manager, Reporting & Insights
-- **Company:** Remote.com
-- **Salary:** Not Disclosed
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-reporting-insights-remote-com
-
 ## IT/Engineering (8 open roles)
 
 ### Security Product Researcher
@@ -1286,7 +1278,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (69 open roles)
+## Online Marketing (68 open roles)
 
 ### Marketing Manager
 - **Company:** B12
@@ -1764,14 +1756,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-06
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-hired-remoteli
-
-### Content Marketing Lead
-- **Company:** Remote.com
-- **Salary:** $140,000 – $150,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-content-marketing-lead-remote-com
 
 ## Operations (91 open roles)
 
