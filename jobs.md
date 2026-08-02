@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-02T13:37:22Z
+last_updated: 2026-08-02T19:16:45Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1057 active remote jobs** as of 2026-08-02.
+**1055 active remote jobs** as of 2026-08-02.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (32 open roles)
+## Accounting/Bookkeeping (34 open roles)
+
+### Accounting Operations Manager
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-02
+- **View Job:** https://globalcaribbeans.com/#card-accounting-operations-manager-somewhere
+
+### AP & AR Manager
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-02
+- **View Job:** https://globalcaribbeans.com/#card-ap-ar-manager-somewhere
 
 ### International Accounting Manager
 - **Company:** Alpaca
@@ -1757,7 +1771,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-06
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-hired-remoteli
 
-## Operations (91 open roles)
+## Operations (90 open roles)
 
 ### Trade Surveillance Analyst 1 — Financial Crimes Department
 - **Company:** Alpaca
@@ -2387,14 +2401,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-deal-desk-associate-remote-com
 
-### Executive Business Operations Specialist
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-07
-- **View Job:** https://globalcaribbeans.com/#card-executive-business-operations-specialist-somewhere-2
-
 ### Legal Assistant
 - **Company:** Customer.io
 - **Salary:** $78,000 – $89,000 / year
@@ -2403,6 +2409,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
 
 ## Other (267 open roles)
+
+### Mechanical/Plumbing Estimating Consultant
+- **Company:** Somewhere
+- **Salary:** $2,200 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-02
+- **View Job:** https://globalcaribbeans.com/#card-mechanical-plumbing-estimating-consultant-somewhere
 
 ### Regional Affiliate BD Manager
 - **Company:** WOO X
@@ -4279,13 +4292,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-05
 - **View Job:** https://globalcaribbeans.com/#card-freelance-brand-and-marketing-designer-contrast-ux
 
-### Senior Laravel Developer
-- **Company:** Proxify
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-senior-laravel-developer-proxify
-
 ## Project Management (82 open roles)
 
 ### Product Manager, New Assets
@@ -5009,7 +5015,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-2
 
-## Sales (102 open roles)
+## Sales (101 open roles)
 
 ### Alliances & Partnerships Lead (AWS)
 - **Company:** TensorOps
@@ -5725,14 +5731,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-cold-email-marketing-coordinator-hired-remoteli
 
-### Head of Sales
-- **Company:** THE/STUDIO
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
-
-## Software Development (250 open roles)
+## Software Development (248 open roles)
 
 ### Senior Software Engineer - Travel Management
 - **Company:** Engine
@@ -7470,17 +7469,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-manual-qa-engineer-remote-work-ref-297536-bairesdev
-
-### Senior Ruby on Rails Developer
-- **Company:** Proxify
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-senior-ruby-on-rails-developer-proxify
-
-### Senior Sharepoint Developer
-- **Company:** Proxify
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-senior-sharepoint-developer-proxify-2
