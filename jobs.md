@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-01T19:15:07Z
+last_updated: 2026-08-02T03:23:18Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1051 active remote jobs** as of 2026-08-01.
+**1061 active remote jobs** as of 2026-08-02.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -639,7 +639,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (78 open roles)
+## Data/Analytics (79 open roles)
+
+### Settlements Associate
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-settlements-associate-alpaca
 
 ### Senior Data Scientist
 - **Company:** Alpaca
@@ -1286,7 +1293,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (68 open roles)
+## Online Marketing (70 open roles)
+
+### Marketing Manager
+- **Company:** B12
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-marketing-manager-b12-2
+
+### Interim Marketing Director
+- **Company:** Bobbie
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-interim-marketing-director-bobbie-2
 
 ### Growth Marketer, Paid Media
 - **Company:** Alphalion
@@ -1767,6 +1788,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-cold-outbound-specialist-e-commerce-agency-sagan-recruitment
 
 ## Operations (91 open roles)
+
+### Trade Surveillance Analyst 1 — Financial Crimes Department
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-trade-surveillance-analyst-1-financial-crimes-department-alpaca
 
 ### IT Operations Specialist
 - **Company:** Alpaca
@@ -2404,14 +2432,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
 
-### Operations Dispatch Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-02
-- **View Job:** https://globalcaribbeans.com/#card-operations-dispatch-specialist-sagan-recruitment
+## Other (267 open roles)
 
-## Other (265 open roles)
+### Regional Affiliate BD Manager
+- **Company:** WOO X
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-02
+- **View Job:** https://globalcaribbeans.com/#card-regional-affiliate-bd-manager-woo-x
+
+### Escrow Officer
+- **Company:** Rebuilt
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-escrow-officer-rebuilt
+
+### Bobbie Medical Representative
+- **Company:** Bobbie
+- **Salary:** $35 – $45 / hour
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-bobbie-medical-representative-bobbie
 
 ### Senior Graphic Designer
 - **Company:** Alpaca
@@ -4274,13 +4316,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-laravel-developer-proxify
 
-### Graphic Designer
-- **Company:** Shadowpool Projects
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-02
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-shadowpool-projects
-
 ## Project Management (82 open roles)
 
 ### Product Manager, New Assets
@@ -5004,7 +5039,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-2
 
-## Sales (101 open roles)
+## Sales (102 open roles)
+
+### Alliances & Partnerships Lead (AWS)
+- **Company:** TensorOps
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-alliances-partnerships-lead-aws-tensorops
 
 ### Enterprise Account Executive
 - **Company:** Medallion
@@ -5720,7 +5762,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-head-of-sales-the-studio
 
-## Software Development (246 open roles)
+## Software Development (250 open roles)
+
+### Senior Software Engineer - Travel Management
+- **Company:** Engine
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-02
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-travel-management-engine
+
+### Senior Software Engineer, Backend - Lodging
+- **Company:** Engine
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-02
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-lodging-engine
+
+### Senior Automations Engineer
+- **Company:** Engine
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-02
+- **View Job:** https://globalcaribbeans.com/#card-senior-automations-engineer-engine
+
+### Mid/Senior AI Engineer
+- **Company:** TensorOps
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-01
+- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-engineer-tensorops
 
 ### Senior Software Engineer - Trading
 - **Company:** Alpaca
