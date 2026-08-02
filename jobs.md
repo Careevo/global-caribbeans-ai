@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-02T03:23:18Z
+last_updated: 2026-08-02T08:29:16Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1061 active remote jobs** as of 2026-08-02.
+**1059 active remote jobs** as of 2026-08-02.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -242,7 +242,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-qventus
 
-## Admin (25 open roles)
+## Admin (24 open roles)
 
 ### Medical Administrative Assistant
 - **Company:** BruntWork
@@ -417,13 +417,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-remote-work-ref-297031-bairesdev
-
-### Executive Assistant (Strategic Operations)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** Global
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-strategic-operations-sagan-recruitment
 
 ## Customer support (30 open roles)
 
@@ -1293,7 +1286,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (70 open roles)
+## Online Marketing (69 open roles)
 
 ### Marketing Manager
 - **Company:** B12
@@ -1779,13 +1772,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-07-03
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-lead-remote-com
-
-### Cold Outbound Specialist (E-commerce Agency)
-- **Company:** Sagan Recruitment
-- **Salary:** $3,700 – $4,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-03
-- **View Job:** https://globalcaribbeans.com/#card-cold-outbound-specialist-e-commerce-agency-sagan-recruitment
 
 ## Operations (91 open roles)
 
