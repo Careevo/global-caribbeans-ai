@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-03T03:25:12Z
+last_updated: 2026-08-03T09:54:03Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -1270,7 +1270,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (67 open roles)
+## Online Marketing (68 open roles)
+
+### Senior Social Media Strategist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-social-media-strategist-bruntwork
 
 ### Marketing Manager
 - **Company:** B12
@@ -2374,6 +2381,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (264 open roles)
 
+### UI Designer for Motion & Animation
+- **Company:** Represent Studio
+- **Salary:** $3,500 – $5,000 / month
+- **Location:** Remote
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-ui-designer-for-motion-animation-represent-studio
+
 ### Regional Affiliate BD Manager
 - **Company:** WOO X
 - **Salary:** Not Disclosed
@@ -2515,14 +2529,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-soc-engineer-remote-work-bairesdev
-
-### Healthcare Worker
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-healthcare-worker-bruntwork
 
 ### Student Advisor (Mandarin Required)
 - **Company:** Think Academy US
@@ -4235,7 +4241,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-05
 - **View Job:** https://globalcaribbeans.com/#card-freelance-brand-and-marketing-designer-contrast-ux
 
-## Project Management (82 open roles)
+## Project Management (81 open roles)
 
 ### Product Manager, New Assets
 - **Company:** Alpaca
@@ -4807,13 +4813,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-construction-operations-coordinator-sagan-recruitment
-
-### Senior Technical Product Manager
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-07
-- **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-somewhere
 
 ## Recruiting (20 open roles)
 
