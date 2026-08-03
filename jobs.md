@@ -2,32 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-02T19:16:45Z
+last_updated: 2026-08-03T03:25:12Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1055 active remote jobs** as of 2026-08-02.
+**1047 active remote jobs** as of 2026-08-03.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (34 open roles)
-
-### Accounting Operations Manager
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-02
-- **View Job:** https://globalcaribbeans.com/#card-accounting-operations-manager-somewhere
-
-### AP & AR Manager
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-02
-- **View Job:** https://globalcaribbeans.com/#card-ap-ar-manager-somewhere
+## Accounting/Bookkeeping (32 open roles)
 
 ### International Accounting Manager
 - **Company:** Alpaca
@@ -256,15 +242,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-qventus
 
-## Admin (24 open roles)
-
-### Medical Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-medical-administrative-assistant-bruntwork-3
+## Admin (23 open roles)
 
 ### Administrative Assistant
 - **Company:** Sagan Recruitment
@@ -1292,7 +1270,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (68 open roles)
+## Online Marketing (67 open roles)
 
 ### Marketing Manager
 - **Company:** B12
@@ -1371,13 +1349,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-skills-role-content-specialist-remote-work-bairesdev
-
-### Senior Social Media Strategist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-social-media-strategist-bruntwork
 
 ### Partner Marketing Manager
 - **Company:** Canonical
@@ -1771,7 +1742,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-06
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-hired-remoteli
 
-## Operations (90 open roles)
+## Operations (89 open roles)
 
 ### Trade Surveillance Analyst 1 — Financial Crimes Department
 - **Company:** Alpaca
@@ -1957,13 +1928,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-the-studio
-
-### Customer Operations Specialist
-- **Company:** Hire With Near
-- **Salary:** $3,500 – $4,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-customer-operations-specialist-hire-with-near
 
 ### Staff Security Operations Engineer
 - **Company:** Canonical
@@ -2408,14 +2372,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
 
-## Other (267 open roles)
-
-### Mechanical/Plumbing Estimating Consultant
-- **Company:** Somewhere
-- **Salary:** $2,200 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-02
-- **View Job:** https://globalcaribbeans.com/#card-mechanical-plumbing-estimating-consultant-somewhere
+## Other (264 open roles)
 
 ### Regional Affiliate BD Manager
 - **Company:** WOO X
@@ -2663,13 +2620,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-dispatcher-offshore-launch-2
 
-### Construction Estimator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-construction-estimator-bruntwork
-
 ### Volunteer position: Logos Circles Organiser
 - **Company:** Logos
 - **Salary:** Not Disclosed
@@ -2809,13 +2759,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-security-risk-management-specialist-canonical
-
-### Junior Campaign & Marketing Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-junior-campaign-marketing-specialist-bruntwork
 
 ### Shape the Future of AI — English Talent Hub
 - **Company:** Welo Data
