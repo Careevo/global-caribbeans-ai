@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-03T19:43:02Z
+last_updated: 2026-08-04T02:54:15Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**978 active remote jobs** as of 2026-08-03.
+**973 active remote jobs** as of 2026-08-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
 ## Accounting/Bookkeeping (33 open roles)
+
+### Financial Planning & Analysis Associate
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-financial-planning-analysis-associate-remote-leverage-2
+
+### Financial Controller
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-financial-controller-remote-leverage-2
 
 ### HR Operations Coordinator
 - **Company:** Alphalion
@@ -129,20 +143,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-quickbooks-online-cas-sagan-recruitment
 
-### Financial Controller
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-financial-controller-remote-leverage
-
-### Financial Planning & Analysis Associate
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-financial-planning-analysis-associate-remote-leverage
-
 ### Accountant
 - **Company:** Hire With Near
 - **Salary:** $3,000 – $3,500 / month
@@ -249,15 +249,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-qventus
 
-## Admin (24 open roles)
+## Admin (22 open roles)
 
-### Spanish / English speaking - C-Suite Executive Assistant
-- **Company:** Somewhere
-- **Salary:** $2,200 – $3,800 / month
+### Executive Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
 - **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-spanish-english-speaking-c-suite-executive-assistant-somewhere
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-bruntwork
+
+### Executive Assistant
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-remote-leverage-2
+
+### Medical Virtual Assistant
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-medical-virtual-assistant-remote-leverage-2
+
+### Administrative Assistant
+- **Company:** Latino Legends
+- **Salary:** $1,200 – $1,700 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-latino-legends
+
+### Operations Assistant
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-operations-assistant-remote-leverage
 
 ### Administrative Assistant
 - **Company:** Remote Leverage
@@ -286,34 +313,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-automattic-careers
-
-### Operations Assistant
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-operations-assistant-remote-leverage-2
-
-### Medical Virtual Assistant
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-medical-virtual-assistant-remote-leverage
-
-### Executive Assistant
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-remote-leverage
-
-### Senior Executive Assistant
-- **Company:** Remote Leverage
-- **Salary:** $1,800 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-remote-leverage-2
 
 ### Virtual Assistant
 - **Company:** Virtustant
@@ -357,22 +356,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-office-manager-customer-operations-coordinator-home-services-somewhere
-
-### Virtual Assistant
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-virtustant-3
-
-### Virtual Assistant
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-virtustant-2
 
 ### Executive Assistant to CEO
 - **Company:** Automattic
@@ -425,7 +408,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-remote-work-ref-297031-bairesdev
 
-## Customer support (31 open roles)
+## Customer support (28 open roles)
+
+### Customer Service Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-bruntwork
 
 ### Customer Support Representative
 - **Company:** Hire With Near
@@ -540,34 +531,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-onsite-customer-success-specialist-mandarin-required-think-academy-us
 
-### Customer Success Manager
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-virtustant-9
-
-### Customer Success Manager
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-virtustant-8
-
-### Customer Success Manager
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-virtustant-7
-
-### Customer Success Manager
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-virtustant-6
-
 ### Inside Sales Closer
 - **Company:** Sagan Recruitment
 - **Salary:** $1,800 – $2,000 / month
@@ -646,7 +609,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (67 open roles)
+## Data/Analytics (70 open roles)
+
+### Data Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-data-engineer-remote-work-bairesdev
+
+### Data Engineer
+- **Company:** Remote Leverage
+- **Salary:** $3,200 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-data-engineer-remote-leverage-2
+
+### Data Analyst
+- **Company:** Remote Leverage
+- **Salary:** $1,920 – $2,080 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-data-analyst-remote-leverage-2
+
+### Commercial Support Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-commercial-support-analyst-remote-work-bairesdev
+
+### SAP Hana Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-sap-hana-developer-remote-work-bairesdev
 
 ### Senior Analytics Engineer
 - **Company:** Alpaca
@@ -908,20 +906,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-dtc-marketing-specialist-somewhere
 
-### Data Engineer
-- **Company:** Remote Leverage
-- **Salary:** $3,200 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-data-engineer-remote-leverage
-
-### Data Analyst
-- **Company:** Remote Leverage
-- **Salary:** $1,920 – $2,080 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-data-analyst-remote-leverage
-
 ### Real Estate Valuation Analyst (Residential Underwriting)
 - **Company:** Sagan Recruitment
 - **Salary:** $2,000 – $2,200 / month
@@ -1118,7 +1102,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-search-engineer-relevance-remote-work-ref-297568-bairesdev
 
-## IT/Engineering (7 open roles)
+## IT/Engineering (8 open roles)
+
+### Senior IT Systems Administrator & Team Lead (MSP)
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-msp-sagan-recruitment
 
 ### Security Product Researcher
 - **Company:** Job Board
@@ -1169,7 +1160,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-sysadmin-remote-work-ref-297489-bairesdev
 
-## Legal (5 open roles)
+## Legal (4 open roles)
 
 ### Litigation Paralegal
 - **Company:** BruntWork
@@ -1193,14 +1184,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-### Senior Immigration Paralegal Assistant
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-immigration-paralegal-assistant-virtual-latinos
-
 ### Personal Injury Litigation Paralegal (U.S. Law Firm)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,900 – $2,500 / month
@@ -1208,7 +1191,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (70 open roles)
+## Online Marketing (68 open roles)
+
+### Junior Media Buyer & Ad Operations Coordinator
+- **Company:** Hire With Near
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-junior-media-buyer-ad-operations-coordinator-hire-with-near
+
+### Social Media Manager
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-remote-leverage
+
+### Digital Marketing Specialist
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-digital-marketing-specialist-remote-leverage-3
+
+### VP of Growth & Customer Experience
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-vp-of-growth-customer-experience-somewhere
 
 ### SEO Strategist
 - **Company:** Hire With Near
@@ -1223,13 +1234,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-media-buyer-hire-with-near
-
-### Social Media Manager (Part-time) | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-part-time-scale-army-scale-army
 
 ### Customer Relationship Management Specialist
 - **Company:** BruntWork
@@ -1301,13 +1305,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-director-gtm-finance-customer-io
-
-### Content Marketing Lead
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-content-marketing-lead-remote
 
 ### Director of Marketing
 - **Company:** Somewhere
@@ -1443,20 +1440,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-search-engine-optimization-specialist-hire-with-near-2
 
-### Social Media Manager
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-remote-leverage-2
-
-### Digital Marketing Specialist
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-digital-marketing-specialist-remote-leverage-2
-
 ### Senior B2B PPC Specialist
 - **Company:** Sagan Recruitment
 - **Salary:** $2,500 – $3,000 / month
@@ -1569,13 +1552,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-digital-advertising-specialist-remotely-talents-client-confidential
 
-### Brand Marketing Manager
-- **Company:** Oscilar
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-brand-marketing-manager-oscilar
-
 ### Senior Google Ads Account Manager - Remote (Work From Home)
 - **Company:** StubGroup
 - **Salary:** Not Disclosed
@@ -1589,13 +1565,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-07-18
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-seo-organic-growth-remotely-talents-client-confidentia
-
-### SEO Strategist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-seo-strategist-hire-with-near
 
 ### Talent Network Social Media Brand Strategist
 - **Company:** Toptal
@@ -1704,13 +1673,26 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (86 open roles)
 
-### Property Manager - Operations
-- **Company:** Somewhere
-- **Salary:** $2,500 – $3,000 / month
+### Vibe Coder
+- **Company:** Remote Leverage
+- **Salary:** $1,800 – $2,400 / month
 - **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
 - **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-property-manager-operations-somewhere
+- **View Job:** https://globalcaribbeans.com/#card-vibe-coder-remote-leverage
+
+### Lifecycle Marketing & CRM Associate (Email & SMS Automation)
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-lifecycle-marketing-crm-associate-email-sms-automation-somewhere
+
+### M&A Integration Lead
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-m-a-integration-lead-somewhere
 
 ### Travel Operations Manager
 - **Company:** Mappa
@@ -1961,13 +1943,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-operations-specialist-somewhere
 
-### Vibe Coder
-- **Company:** Remote Leverage
-- **Salary:** $1,800 – $2,400 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-vibe-coder-remote-leverage
-
 ### Leasing Coordinator (Property Management)
 - **Company:** Sagan Recruitment
 - **Salary:** $2,100 – $2,300 / month
@@ -2143,13 +2118,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-15
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-client-intake-scheduling-coordinator-sagan-recruitment
 
-### Talent & Public Relations Assistant
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-talent-public-relations-assistant-somewhere
-
 ### Unit4 Developer - Remote Work | REF#295108
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2312,7 +2280,126 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
 
-## Other (237 open roles)
+## Other (241 open roles)
+
+### Operations Specialist
+- **Company:** Virtual Latinos
+- **Salary:** $11 – $13 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-operations-specialist-virtual-latinos
+
+### IT Infrastructure Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-it-infrastructure-analyst-remote-work-bairesdev
+
+### DevOps Tech Lead - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-devops-tech-lead-remote-work-bairesdev
+
+### Flutter Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-flutter-developer-remote-work-bairesdev
+
+### Data Entry Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-data-entry-specialist-remote-work-bairesdev
+
+### Junior Data Entry - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-junior-data-entry-remote-work-bairesdev
+
+### Salesforce Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-salesforce-engineer-remote-work-bairesdev
+
+### Data Entry Clerk - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-data-entry-clerk-remote-work-bairesdev
+
+### Graphic Designer
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-remote-leverage-2
+
+### Legal Assistant
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-legal-assistant-remote-leverage-3
+
+### Social Media Creative Assistant
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-social-media-creative-assistant-remote-leverage
+
+### Design Architect
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-design-architect-remote-leverage-2
+
+### Manager
+- **Company:** Remote Leverage
+- **Salary:** $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-manager-remote-leverage-2
+
+### Property Manager
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-property-manager-remote-leverage-2
+
+### Medical Biller
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-medical-biller-remote-leverage-2
+
+### Logistics Coordinator
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-logistics-coordinator-remote-leverage-2
+
+### Business Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-business-analyst-remote-work-bairesdev
 
 ### Rust Developer - Remote Work
 - **Company:** BairesDev
@@ -2320,13 +2407,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-rust-developer-remote-work-bairesdev
-
-### Social Media Content Creator | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-social-media-content-creator-scale-army-scale-army
 
 ### .NET Senior Tech Lead - Remote Work
 - **Company:** BairesDev
@@ -3080,62 +3160,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-vice-president-latino-legends
 
-### Social Media Creative Assistant
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-social-media-creative-assistant-remote-leverage-2
-
-### Medical Biller
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-medical-biller-remote-leverage
-
-### Property Manager
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-property-manager-remote-leverage
-
-### Manager
-- **Company:** Remote Leverage
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-manager-remote-leverage
-
-### Logistics Coordinator
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-logistics-coordinator-remote-leverage
-
-### Legal Assistant
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-legal-assistant-remote-leverage-2
-
-### Graphic Designer
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-remote-leverage
-
-### Design Architect
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-design-architect-remote-leverage
-
 ### Senior Brand Designer
 - **Company:** Circle
 - **Salary:** Not Disclosed
@@ -3143,26 +3167,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-brand-designer-circle
 
-### Sales Development Representative
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-virtustant-3
-
 ### OSP Fiber - Make Ready Engineer
 - **Company:** Virtustant
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-osp-fiber-make-ready-engineer-virtustant
-
-### Sales Development Representative
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-virtustant-2
 
 ### Appointment Setter
 - **Company:** Virtustant
@@ -3373,13 +3383,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-cobol-developer-remote-work-ref-294193-bairesdev
-
-### Remote Language Arts Teacher
-- **Company:** Think Academy US
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-remote-language-arts-teacher-think-academy-us
 
 ### Instructional Designer - Remote Work | REF#297827
 - **Company:** BairesDev
@@ -3747,13 +3750,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-10
 - **View Job:** https://globalcaribbeans.com/#card-fashion-buyer-rebag
 
-### Executive Operations Coordinator
-- **Company:** Hire With Near
-- **Salary:** $1,000 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-09
-- **View Job:** https://globalcaribbeans.com/#card-executive-operations-coordinator-hire-with-near
-
 ### Dispatcher (ServiceTitan expert)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,800 – $2,000 / month
@@ -3985,14 +3981,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-05
 - **View Job:** https://globalcaribbeans.com/#card-freelance-brand-and-marketing-designer-contrast-ux
 
-## Project Management (72 open roles)
+## Project Management (71 open roles)
 
-### eCommerce Campaign Coordinator
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** Remote
+### Scrum Master and Business Analyst
+- **Company:** Remote Leverage
+- **Salary:** $4,000 – $4,800 / month
+- **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-ecommerce-campaign-coordinator-somewhere
+- **View Job:** https://globalcaribbeans.com/#card-scrum-master-and-business-analyst-remote-leverage-2
+
+### Snr Project Manager
+- **Company:** Somewhere
+- **Salary:** $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-snr-project-manager-somewhere
+
+### Project Manager
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-leverage
 
 ### Senior Product Owner - Remote Work
 - **Company:** BairesDev
@@ -4345,20 +4355,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-accounts-billing-netlify
 
-### Scrum Master and Business Analyst
-- **Company:** Remote Leverage
-- **Salary:** $4,000 – $4,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-scrum-master-and-business-analyst-remote-leverage
-
-### Project Manager
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-leverage-2
-
 ### Project Manager
 - **Company:** Virtustant
 - **Salary:** Not Disclosed
@@ -4372,14 +4368,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-project-manager-virtustant
-
-### Senior Instructional Designer
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-instructional-designer-virtual-latinos
 
 ### Customer Success Coordinator
 - **Company:** Hire With Near
@@ -4495,7 +4483,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-construction-operations-coordinator-sagan-recruitment
 
-## Recruiting (9 open roles)
+## Recruiting (7 open roles)
+
+### Recruiter
+- **Company:** Remote Leverage
+- **Salary:** $1,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-recruiter-remote-leverage
 
 ### Senior Recruiter - Digital Transformation
 - **Company:** New Era Technology
@@ -4526,13 +4521,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-formwork-shoring-detailer-technical-coordinator-somewhere
 
-### Recruiter
-- **Company:** Remote Leverage
-- **Salary:** $1,600 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-remote-leverage-2
-
 ### Senior Recruiter - Digital Transformation
 - **Company:** New Era Technology
 - **Salary:** Not Disclosed
@@ -4547,21 +4535,78 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-4
 
-### Recruiter
-- **Company:** Virtustant
+## Sales (94 open roles)
+
+### Commercial Insurance Lead Generation Specialist (Telemarketing | Cold Calling)
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-5
+- **Posted:** 2026-08-04
+- **View Job:** https://globalcaribbeans.com/#card-commercial-insurance-lead-generation-specialist-telemarketing-cold-calling-brunt
 
-### Recruiter
-- **Company:** Virtustant
+### Account Manager
+- **Company:** Virtual Latinos
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-2
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-04
+- **View Job:** https://globalcaribbeans.com/#card-account-manager-virtual-latinos
 
-## Sales (95 open roles)
+### Full Cycle Sales Representative
+- **Company:** Hire With Near
+- **Salary:** $2,000 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-full-cycle-sales-representative-hire-with-near
+
+### Vice President of Sales
+- **Company:** Remote Leverage
+- **Salary:** $11,000 – $12,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-vice-president-of-sales-remote-leverage
+
+### Sales Recovery Manager
+- **Company:** Remote Leverage
+- **Salary:** $4,000 – $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-sales-recovery-manager-remote-leverage-2
+
+### Sales Manager
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-sales-manager-remote-leverage
+
+### Sales Performance Manager
+- **Company:** Remote Leverage
+- **Salary:** $4,000 – $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-sales-performance-manager-remote-leverage-2
+
+### Lead Generation Specialist
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-lead-generation-specialist-remote-leverage-2
+
+### Sales Development Representative
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-remote-leverage-2
+
+### Salesperson
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-salesperson-remote-leverage
 
 ### Account Executive
 - **Company:** Remote Leverage
@@ -4914,55 +4959,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-majors-sales-director-fivetran
 
-### Sales Recovery Manager
-- **Company:** Remote Leverage
-- **Salary:** $4,000 – $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-sales-recovery-manager-remote-leverage
-
-### Sales Performance Manager
-- **Company:** Remote Leverage
-- **Salary:** $4,000 – $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-sales-performance-manager-remote-leverage
-
-### Sales Manager
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-sales-manager-remote-leverage-2
-
-### Sales Development Representative
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-remote-leverage
-
-### Vice President of Sales
-- **Company:** Remote Leverage
-- **Salary:** $11,000 – $12,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-vice-president-of-sales-remote-leverage-2
-
-### Salesperson
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-salesperson-remote-leverage-2
-
-### Lead Generation Specialist
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-lead-generation-specialist-remote-leverage
-
 ### Sales Development Representative
 - **Company:** Hire With Near
 - **Salary:** $1,500 / month
@@ -5104,13 +5100,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-business-development-representative-hire-with-near-2
 
-### Solutions Engineer / Senior Solutions Engineer (Level Flexible)
-- **Company:** LogicGate
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-solutions-engineer-senior-solutions-engineer-level-flexible-logicgate
-
 ### Lead Generation Specialist
 - **Company:** Virtual Latinos
 - **Salary:** Not Disclosed
@@ -5118,13 +5107,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-lead-generation-specialist-virtual-latinos
-
-### Senior Director, Inside Sales
-- **Company:** Forward Financing
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-20
-- **View Job:** https://globalcaribbeans.com/#card-senior-director-inside-sales-forward-financing
 
 ### Sales Development Representative
 - **Company:** WorkBetterNow
@@ -5183,21 +5165,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-15
 - **View Job:** https://globalcaribbeans.com/#card-intake-specialist-somewhere
 
-### Account Executive (Biz Dev + Acct Mgmt)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-biz-dev-acct-mgmt-somewhere
-
-### Account Manager
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-account-manager-somewhere
-
 ### Enterprise Account Manager (saas)
 - **Company:** Latino Legends
 - **Salary:** $3,000 / month
@@ -5233,7 +5200,77 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-cold-email-marketing-coordinator-hired-remoteli
 
-## Software Development (242 open roles)
+## Software Development (241 open roles)
+
+### Elixir Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-elixir-developer-remote-work-bairesdev
+
+### Golang Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-golang-developer-remote-work-bairesdev
+
+### Senior Backend Engineer
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-remote-leverage
+
+### Big Data Senior - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-big-data-senior-remote-work-bairesdev
+
+### Senior Front-End Developer (React) - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-senior-front-end-developer-react-remote-work-bairesdev
+
+### Full Stack Developer
+- **Company:** Remote Leverage
+- **Salary:** $2,500 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-remote-leverage-2
+
+### AI Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-ai-engineer-remote-work-bairesdev
+
+### Angular Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-angular-engineer-remote-work-bairesdev
+
+### Android Mobile Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-android-mobile-developer-remote-work-bairesdev
+
+### Salesforce Commerce Cloud Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-03
+- **View Job:** https://globalcaribbeans.com/#card-salesforce-commerce-cloud-developer-remote-work-bairesdev
 
 ### Quality Assurance Engineer - Remote Work
 - **Company:** BairesDev
@@ -5248,20 +5285,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-angular-developer-remote-work-bairesdev
-
-### AI Implementation Specialist - Part-time | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-ai-implementation-specialist-part-time-scale-army-scale-army
-
-### Software Developer & AI Integration Engineer
-- **Company:** Somewhere
-- **Salary:** $2,800 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-software-developer-ai-integration-engineer-somewhere
 
 ### Lead Software Development Engineer in Test / R+D - Remote Work
 - **Company:** BairesDev
@@ -5563,20 +5586,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-ai-engineering-i-marketing-sezzle
-
-### AI Developer
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-ai-developer-hire-with-near
-
-### DevOps / SRE Engineer
-- **Company:** Remote Leverage
-- **Salary:** $3,200 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-devops-sre-engineer-remote-leverage
 
 ### AI Full-Stack Developer (E-commerce Funnels)
 - **Company:** Sagan Recruitment
@@ -6503,34 +6512,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-wordpress-woocommerce-somewhere
 
-### Senior System Architect
-- **Company:** Remote Leverage
-- **Salary:** $3,200 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-senior-system-architect-remote-leverage
-
-### Senior Backend Engineer
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-remote-leverage-2
-
-### Senior QA Engineer
-- **Company:** Remote Leverage
-- **Salary:** $3,200 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-senior-qa-engineer-remote-leverage
-
-### Full Stack Developer
-- **Company:** Remote Leverage
-- **Salary:** $2,500 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-remote-leverage
-
 ### Release Engineer
 - **Company:** Supabase
 - **Salary:** Not Disclosed
@@ -6593,13 +6574,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-engineer-2-remote-work-ref-295256-bairesdev
-
-### Senior Security Engineer, Bug Bounty
-- **Company:** Mozilla
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-security-engineer-bug-bounty-mozilla
 
 ### UI Engineer (Analytics) - Remote Work | REF#295600
 - **Company:** BairesDev
@@ -6706,26 +6680,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-fullstack-sdk-engineer-customer-io
 
-### Staff Platform Engineer
-- **Company:** MoxieLash
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-20
-- **View Job:** https://globalcaribbeans.com/#card-staff-platform-engineer-moxielash
-
 ### Lead Engineer
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-lead-engineer-hire-with-near
-
-### Software Engineer, Backend - Distributed Systems
-- **Company:** Camunda
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-20
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-backend-distributed-systems-camunda
 
 ### Senior GenAI Engineer
 - **Company:** CookUnity
