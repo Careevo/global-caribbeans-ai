@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-04T02:54:15Z
+last_updated: 2026-08-04T08:44:40Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**973 active remote jobs** as of 2026-08-04.
+**971 active remote jobs** as of 2026-08-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (33 open roles)
+## Accounting/Bookkeeping (32 open roles)
 
 ### Financial Planning & Analysis Associate
 - **Company:** Remote Leverage
@@ -234,13 +234,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-sap-sd-consultant-remote-work-ref-297615-bairesdev
-
-### Revenue Accountant
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-revenue-accountant-sagan-recruitment
 
 ### Senior Accountant
 - **Company:** Qventus
@@ -1160,15 +1153,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-sysadmin-remote-work-ref-297489-bairesdev
 
-## Legal (4 open roles)
-
-### Litigation Paralegal
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-litigation-paralegal-bruntwork
+## Legal (3 open roles)
 
 ### Legal Counsel
 - **Company:** Canonical
@@ -1673,6 +1658,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (86 open roles)
 
+### Supply Operations Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,500 – $4,500 / month
+- **Location:** Global
+- **Posted:** 2026-08-04
+- **View Job:** https://globalcaribbeans.com/#card-supply-operations-manager-sagan-recruitment
+
 ### Vibe Coder
 - **Company:** Remote Leverage
 - **Salary:** $1,800 – $2,400 / month
@@ -1956,13 +1948,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-screening-operations-specialist-toptal
-
-### Customer Operations Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,300 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-26
-- **View Job:** https://globalcaribbeans.com/#card-customer-operations-manager-sagan-recruitment
 
 ### Ecommerce Manager
 - **Company:** Hire With Near
@@ -2280,7 +2265,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
 
-## Other (241 open roles)
+## Other (240 open roles)
 
 ### Operations Specialist
 - **Company:** Virtual Latinos
@@ -2619,13 +2604,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-general-interest-future-consideration-xapo-bank
-
-### Automation Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-automation-specialist-bruntwork
 
 ### Student Advisor (Mandarin Required)
 - **Company:** Think Academy US
@@ -3981,7 +3959,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-05
 - **View Job:** https://globalcaribbeans.com/#card-freelance-brand-and-marketing-designer-contrast-ux
 
-## Project Management (71 open roles)
+## Project Management (72 open roles)
+
+### Construction Operations Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,200 – $3,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-04
+- **View Job:** https://globalcaribbeans.com/#card-construction-operations-manager-sagan-recruitment
 
 ### Scrum Master and Business Analyst
 - **Company:** Remote Leverage
