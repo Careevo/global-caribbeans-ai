@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-05T02:50:35Z
+last_updated: 2026-08-05T08:42:11Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1013 active remote jobs** as of 2026-08-05.
+**1016 active remote jobs** as of 2026-08-05.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (34 open roles)
+## Accounting/Bookkeeping (35 open roles)
+
+### Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-sagan-recruitment-3
 
 ### Trust Accounting Assistant (Property Accountant)
 - **Company:** Sagan Recruitment
@@ -2300,7 +2307,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
 
-## Other (259 open roles)
+## Other (261 open roles)
+
+### Bilingual Care Manager
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-care-manager-bruntwork
+
+### Client Service Associate
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-client-service-associate-sagan-recruitment
 
 ### Client Coordinator
 - **Company:** Sagan Recruitment
