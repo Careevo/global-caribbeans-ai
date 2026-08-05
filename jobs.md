@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-05T08:42:11Z
+last_updated: 2026-08-05T14:19:11Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -264,7 +264,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-qventus
 
-## Admin (19 open roles)
+## Admin (18 open roles)
 
 ### English & Spanish speaking Executive Virtual Assistant
 - **Company:** Somewhere
@@ -273,13 +273,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-english-spanish-speaking-executive-virtual-assistant-somewhere
-
-### Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-04
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-bruntwork
 
 ### Senior Executive Assistant
 - **Company:** Remote Leverage
@@ -596,7 +589,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (74 open roles)
+## Data/Analytics (75 open roles)
+
+### Data Analyst
+- **Company:** Sezzle
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-data-analyst-sezzle
 
 ### Onboarding Coordinator
 - **Company:** Sagan Recruitment
@@ -1671,7 +1671,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-06
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-hired-remoteli
 
-## Operations (90 open roles)
+## Operations (88 open roles)
 
 ### Finance and operations coordinator
 - **Company:** Hire With Near
@@ -1742,13 +1742,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-m-a-integration-lead-somewhere
-
-### Manufacturing Supervisor
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-manufacturing-supervisor-bruntwork
 
 ### Trade Surveillance Analyst 1 — Financial Crimes Department
 - **Company:** Alpaca
@@ -1905,13 +1898,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-inventory-logistics-lead-somewhere
-
-### Senior Logistics & Operations Specialist
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-logistics-operations-specialist-hired-remoteli
 
 ### Customer Success Manager
 - **Company:** THE/STUDIO
@@ -2307,7 +2293,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
 
-## Other (261 open roles)
+## Other (265 open roles)
+
+### CRM Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-crm-manager-remote-work-bairesdev-4
+
+### CRM Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-crm-manager-remote-work-bairesdev-3
+
+### CRM Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-crm-manager-remote-work-bairesdev-2
+
+### CRM Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-crm-manager-remote-work-bairesdev
 
 ### Bilingual Care Manager
 - **Company:** BruntWork
@@ -5437,7 +5451,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-cold-email-marketing-coordinator-hired-remoteli
 
-## Software Development (250 open roles)
+## Software Development (248 open roles)
+
+### Senior Site Reliability Engineer
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-05
+- **View Job:** https://globalcaribbeans.com/#card-senior-site-reliability-engineer-alpaca
 
 ### React Native Developer - Remote Work | REF#296936
 - **Company:** BairesDev
@@ -5754,13 +5775,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-broker-api-partner-facing-application-alpaca
 
-### Senior Frontend Engineer - Internal Tools
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-frontend-engineer-internal-tools-alpaca
-
 ### Senior AI Platform Engineer
 - **Company:** Alpaca
 - **Salary:** Not Disclosed
@@ -5886,20 +5900,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-junior-software-engineer-with-accounting-experience-sezzle
-
-### AI Engineer I
-- **Company:** Sezzle
-- **Salary:** $2,500 – $3,333 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-ai-engineer-i-sezzle
-
-### AI Engineering I - Marketing
-- **Company:** Sezzle
-- **Salary:** $2,500 – $3,333 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-ai-engineering-i-marketing-sezzle
 
 ### AI Full-Stack Developer (E-commerce Funnels)
 - **Company:** Sagan Recruitment
