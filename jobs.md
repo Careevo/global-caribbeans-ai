@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-06T08:43:49Z
+last_updated: 2026-08-06T14:22:13Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1047 active remote jobs** as of 2026-08-06.
+**1040 active remote jobs** as of 2026-08-06.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (34 open roles)
+## Accounting/Bookkeeping (35 open roles)
+
+### ATR GBS Coordinator
+- **Company:** Fresenius Medical Care
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-08-06
+- **View Job:** https://globalcaribbeans.com/#card-atr-gbs-coordinator-fresenius-medical-care
 
 ### Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -567,7 +574,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (75 open roles)
+## Data/Analytics (74 open roles)
 
 ### Marketing Recruitment Manager
 - **Company:** WorkBetterNow
@@ -575,13 +582,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-marketing-recruitment-manager-workbetternow
-
-### Data Analyst
-- **Company:** Sezzle
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-data-analyst-sezzle
 
 ### Onboarding Coordinator
 - **Company:** Sagan Recruitment
@@ -1198,7 +1198,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (65 open roles)
+## Online Marketing (64 open roles)
 
 ### GoHighLevel CRM & Paid Media Specialist
 - **Company:** BruntWork
@@ -1248,13 +1248,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-media-buyer-meta-somewhere
-
-### Social Media Manager
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-04
-- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-virtustant
 
 ### Digital Marketing Strategist
 - **Company:** Virtustant
@@ -1656,7 +1649,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-07
 - **View Job:** https://globalcaribbeans.com/#card-email-sms-marketing-strategist-bebonia
 
-## Operations (89 open roles)
+## Operations (88 open roles)
 
 ### Account Manager
 - **Company:** Somewhere
@@ -2278,14 +2271,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-deal-desk-associate-remote-com
 
-### Legal Assistant
-- **Company:** Customer.io
-- **Salary:** $78,000 – $89,000 / year
-- **Location:** Americas
-- **Posted:** 2026-07-07
-- **View Job:** https://globalcaribbeans.com/#card-legal-assistant-customer-io
-
-## Other (265 open roles)
+## Other (262 open roles)
 
 ### Property Assistant
 - **Company:** BruntWork
@@ -2300,13 +2286,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-senior-presales-lead-remote-work-bairesdev-2
-
-### Community Manager
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-community-manager-virtustant
 
 ### Senior Presales Lead - Remote Work
 - **Company:** BairesDev
@@ -2506,13 +2485,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-video-static-content-editor-somewhere-2
 
-### User Experience Designer
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-04
-- **View Job:** https://globalcaribbeans.com/#card-user-experience-designer-virtustant
-
 ### Delivery Director - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2561,13 +2533,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-director-of-creative-strategy-superside
-
-### Apparel Designer
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-04
-- **View Job:** https://globalcaribbeans.com/#card-apparel-designer-virtustant
 
 ### Senior CA GEN Consultant
 - **Company:** Vigil
@@ -4781,7 +4746,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-08
 - **View Job:** https://globalcaribbeans.com/#card-construction-operations-coordinator-sagan-recruitment
 
-## Recruiting (21 open roles)
+## Recruiting (19 open roles)
 
 ### Recruiter
 - **Company:** Sagan Recruitment
@@ -4880,20 +4845,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-analyst-remote-work-bairesdev
-
-### Recruiter
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-04
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-3
-
-### Recruiter
-- **Company:** Virtustant
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-04
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-virtustant-2
 
 ### Recruiter
 - **Company:** Remote Leverage
