@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-08T01:54:56Z
+last_updated: 2026-08-08T07:00:05Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**946 active remote jobs** as of 2026-08-08.
+**942 active remote jobs** as of 2026-08-08.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -344,7 +344,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-09
 - **View Job:** https://globalcaribbeans.com/#card-remote-office-assistant-coalition-technologies
 
-## Customer support (24 open roles)
+## Customer support (23 open roles)
 
 ### Customer Support Representative
 - **Company:** Hire With Near
@@ -437,13 +437,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-associate-linux-support-engineer-canonical
-
-### Onsite Customer Success Specialist (Mandarin Required)
-- **Company:** Think Academy US
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-25
-- **View Job:** https://globalcaribbeans.com/#card-onsite-customer-success-specialist-mandarin-required-think-academy-us
 
 ### Inside Sales Closer
 - **Company:** Sagan Recruitment
@@ -2052,15 +2045,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-09
 - **View Job:** https://globalcaribbeans.com/#card-operations-engineer-hire-with-near
 
-## Other (227 open roles)
-
-### Estimating/Takeoff Administrative Specialist
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-08
-- **View Job:** https://globalcaribbeans.com/#card-estimating-takeoff-administrative-specialist-somewhere
+## Other (226 open roles)
 
 ### Young Professional – Business Analyst - Remote Work
 - **Company:** BairesDev
@@ -3656,7 +3641,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-09
 - **View Job:** https://globalcaribbeans.com/#card-dispatcher-servicetitan-expert-sagan-recruitment
 
-## Project Management (77 open roles)
+## Project Management (75 open roles)
 
 ### Senior Project Manager - Remote Work
 - **Company:** BairesDev
@@ -4141,20 +4126,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-coordinator-hire-with-near
-
-### Senior Product Manager, Fraud and Compliance
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-fraud-and-compliance-remote
-
-### Product Manager - Marketplace
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-marketplace-supabase
 
 ### Senior Product Manager, Fraud and Compliance
 - **Company:** Remote.com
