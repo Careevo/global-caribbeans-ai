@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-08T07:00:05Z
+last_updated: 2026-08-08T12:56:12Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**942 active remote jobs** as of 2026-08-08.
+**939 active remote jobs** as of 2026-08-08.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -235,7 +235,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-qventus
 
-## Admin (15 open roles)
+## Admin (14 open roles)
 
 ### Executive Assistant
 - **Company:** Sagan Recruitment
@@ -336,13 +336,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends
-
-### Remote Office Assistant
-- **Company:** Coalition Technologies
-- **Salary:** $31,200 – $52,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-09
-- **View Job:** https://globalcaribbeans.com/#card-remote-office-assistant-coalition-technologies
 
 ## Customer support (23 open roles)
 
@@ -1140,7 +1133,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (52 open roles)
+## Online Marketing (51 open roles)
 
 ### Chief Marketing Officer
 - **Company:** Mappa
@@ -1499,13 +1492,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-09
 - **View Job:** https://globalcaribbeans.com/#card-meta-ads-manager-sagan-recruitment-2
-
-### Freelance Copywriter
-- **Company:** Coalition Technologies
-- **Salary:** $20,000 – $35,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-09
-- **View Job:** https://globalcaribbeans.com/#card-freelance-copywriter-coalition-technologies
 
 ## Operations (76 open roles)
 
@@ -2045,7 +2031,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-09
 - **View Job:** https://globalcaribbeans.com/#card-operations-engineer-hire-with-near
 
-## Other (226 open roles)
+## Other (225 open roles)
 
 ### Young Professional – Business Analyst - Remote Work
 - **Company:** BairesDev
@@ -3633,13 +3619,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-10
 - **View Job:** https://globalcaribbeans.com/#card-fashion-buyer-rebag
-
-### Dispatcher (ServiceTitan expert)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-07-09
-- **View Job:** https://globalcaribbeans.com/#card-dispatcher-servicetitan-expert-sagan-recruitment
 
 ## Project Management (75 open roles)
 
