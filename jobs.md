@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-09T12:58:53Z
+last_updated: 2026-08-09T18:47:09Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**937 active remote jobs** as of 2026-08-09.
+**934 active remote jobs** as of 2026-08-09.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2031,7 +2031,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-and-people-coordinator-sagan-recruitment
 
-## Other (223 open roles)
+## Other (221 open roles)
 
 ### Young Professional – Business Analyst - Remote Work
 - **Company:** BairesDev
@@ -3591,21 +3591,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-leasing-specialist-sagan-recruitment
 
-### Senior Solutions Consultant - Global Payroll, AMER
-- **Company:** Remote.com
-- **Salary:** $78,000 – $262,250 / year
-- **Location:** Americas
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-solutions-consultant-global-payroll-amer-remote-com
-
-### Fashion Buyer
-- **Company:** Rebag
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-10
-- **View Job:** https://globalcaribbeans.com/#card-fashion-buyer-rebag
-
 ## Project Management (75 open roles)
 
 ### Senior Project Manager - Remote Work
@@ -4925,7 +4910,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-systems-implementation-manager-somewhere-2
 
-## Software Development (244 open roles)
+## Software Development (243 open roles)
 
 ### Contract Operations Systems Analyst
 - **Company:** Customer.io
@@ -6628,10 +6613,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-latam-or-europe-bitso
-
-### Senior Software Engineer - Backend Platform
-- **Company:** Customer.io
-- **Salary:** $150,000 – $200,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-platform-customer-io
