@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-08T18:42:32Z
+last_updated: 2026-08-09T02:02:24Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**935 active remote jobs** as of 2026-08-08.
+**937 active remote jobs** as of 2026-08-09.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -509,7 +509,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-11
 - **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
-## Data/Analytics (76 open roles)
+## Data/Analytics (78 open roles)
+
+### Data Engineer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-08
+- **View Job:** https://globalcaribbeans.com/#card-data-engineer-kajae-6
+
+### Data Engineer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-08
+- **View Job:** https://globalcaribbeans.com/#card-data-engineer-kajae-5
 
 ### Data Engineer
 - **Company:** Kajae
