@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-09T18:47:09Z
+last_updated: 2026-08-10T02:07:02Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**934 active remote jobs** as of 2026-08-09.
+**933 active remote jobs** as of 2026-08-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2033,6 +2033,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (221 open roles)
 
+### Head of Marketing Design
+- **Company:** Peak Health
+- **Salary:** $5,000 – $6,000 / month
+- **Location:** Remote
+- **Posted:** 2026-08-10
+- **View Job:** https://globalcaribbeans.com/#card-head-of-marketing-design-peak-health
+
 ### Young Professional – Business Analyst - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -3584,14 +3591,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-packaging-designer-skincare-brand-uprising-beauty
 
-### Leasing Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,600 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-11
-- **View Job:** https://globalcaribbeans.com/#card-leasing-specialist-sagan-recruitment
-
-## Project Management (75 open roles)
+## Project Management (74 open roles)
 
 ### Senior Project Manager - Remote Work
 - **Company:** BairesDev
@@ -3634,13 +3634,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-work-bairesdev-2
-
-### Project Manager
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-project-manager-bruntwork
 
 ### Project Manager (IT) - Remote Work
 - **Company:** BairesDev
