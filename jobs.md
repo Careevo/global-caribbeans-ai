@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-10T07:48:39Z
+last_updated: 2026-08-10T13:17:39Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**926 active remote jobs** as of 2026-08-10.
+**920 active remote jobs** as of 2026-08-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2003,7 +2003,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-submission-revision-coordinator-hired-remoteli
 
-## Other (219 open roles)
+## Other (217 open roles)
 
 ### Head of Marketing Design
 - **Company:** Peak Health
@@ -2695,14 +2695,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-security-architect-remote-work-ref-297528-bairesdev
 
-### Sales Development Representative
-- **Company:** Remote.com
-- **Salary:** Not Disclosed
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-remote-com
-
 ### 1 on 1 Math Tutor (Grades 5-8)
 - **Company:** Think Academy US
 - **Salary:** $20 – $25 / hour
@@ -2928,14 +2920,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-staffing-analyst-lead-remote-work-ref-298875-bairesdev
-
-### Senior IT Operations Engineer
-- **Company:** Remote.com
-- **Salary:** $39,000 – $97,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-it-operations-engineer-remote-com
 
 ### Entry-Level AI Data Rater
 - **Company:** Welo Data
@@ -3548,7 +3532,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-12
 - **View Job:** https://globalcaribbeans.com/#card-packaging-designer-skincare-brand-uprising-beauty
 
-## Project Management (74 open roles)
+## Project Management (71 open roles)
 
 ### Senior Project Manager - Remote Work
 - **Company:** BairesDev
@@ -3816,14 +3800,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-creative-project-manager-kajae-5
 
-### Product Manager, Contractor Management
-- **Company:** Remote.com
-- **Salary:** $50,000 – $126,000 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-contractor-management-remote-com
-
 ### Creative Project Manager
 - **Company:** Kajae
 - **Salary:** Not Disclosed
@@ -4027,14 +4003,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-coordinator-hire-with-near
 
-### Senior Product Manager, Fraud and Compliance
-- **Company:** Remote.com
-- **Salary:** $149,750 – $168,500 / year
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-fraud-and-compliance-remote-com
-
 ### Product Analyst - Remote Work | REF#297809
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -4048,14 +4016,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-agile-delivery-manager-remote-work-ref-297807-bairesdev
-
-### Product Manager, Billing Platform
-- **Company:** Remote.com
-- **Salary:** Not Disclosed
-- **Location:** AMER | Global | Anywhere
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-20
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-billing-platform-remote-com
 
 ### Project Manager
 - **Company:** Somewhere
@@ -4221,14 +4181,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (89 open roles)
-
-### Growth Partner (Rainmaker)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-10
-- **View Job:** https://globalcaribbeans.com/#card-growth-partner-rainmaker-somewhere
+## Sales (88 open roles)
 
 ### Sales Development Representative
 - **Company:** WorkBetterNow
