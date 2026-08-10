@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-10T02:07:02Z
+last_updated: 2026-08-10T07:48:39Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**933 active remote jobs** as of 2026-08-10.
+**926 active remote jobs** as of 2026-08-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -344,7 +344,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends
 
-## Customer support (23 open roles)
+## Customer support (22 open roles)
 
 ### Customer Support Representative
 - **Company:** Hire With Near
@@ -501,13 +501,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment-2
-
-### Inbound Customer Service & Booking Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,300 – $1,500 / month
-- **Location:** Global
-- **Posted:** 2026-07-11
-- **View Job:** https://globalcaribbeans.com/#card-inbound-customer-service-booking-representative-sagan-recruitment
 
 ## Data/Analytics (78 open roles)
 
@@ -1154,7 +1147,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-personal-injury-litigation-paralegal-u-s-law-firm-sagan-recruitment
 
-## Online Marketing (50 open roles)
+## Online Marketing (49 open roles)
 
 ### Chief Marketing Officer
 - **Company:** Mappa
@@ -1162,13 +1155,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-06
 - **View Job:** https://globalcaribbeans.com/#card-chief-marketing-officer-mappa
-
-### GoHighLevel CRM & Paid Media Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-06
-- **View Job:** https://globalcaribbeans.com/#card-gohighlevel-crm-paid-media-specialist-bruntwork
 
 ### Skills & Role Content Specialist - Remote Work
 - **Company:** BairesDev
@@ -1507,7 +1493,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-growth-creative-strategist-paid-social-sagan-recruitment
 
-## Operations (74 open roles)
+## Operations (72 open roles)
 
 ### Recruitment Consultant
 - **Company:** Virtual Latinos
@@ -2017,21 +2003,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-submission-revision-coordinator-hired-remoteli
 
-### Operations & Project Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,200 / month
-- **Location:** Remote
-- **Posted:** 2026-07-11
-- **View Job:** https://globalcaribbeans.com/#card-operations-project-coordinator-sagan-recruitment
-
-### Recruiting and People Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-11
-- **View Job:** https://globalcaribbeans.com/#card-recruiting-and-people-coordinator-sagan-recruitment
-
-## Other (221 open roles)
+## Other (219 open roles)
 
 ### Head of Marketing Design
 - **Company:** Peak Health
@@ -2096,13 +2068,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-06
 - **View Job:** https://globalcaribbeans.com/#card-salesforce-developer-remote-work-bairesdev
-
-### Property Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-property-assistant-bruntwork
 
 ### Senior Presales Lead - Remote Work
 - **Company:** BairesDev
@@ -2195,14 +2160,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-crm-manager-remote-work-bairesdev
-
-### Bilingual Care Manager
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-care-manager-bruntwork
 
 ### Client Service Associate
 - **Company:** Sagan Recruitment
@@ -4264,7 +4221,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (90 open roles)
+## Sales (89 open roles)
+
+### Growth Partner (Rainmaker)
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-10
+- **View Job:** https://globalcaribbeans.com/#card-growth-partner-rainmaker-somewhere
 
 ### Sales Development Representative
 - **Company:** WorkBetterNow
@@ -4307,20 +4271,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-06
 - **View Job:** https://globalcaribbeans.com/#card-partnership-executive-remote-work-bairesdev
-
-### Outbound Email & LinkedIn Campaign Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-06
-- **View Job:** https://globalcaribbeans.com/#card-outbound-email-linkedin-campaign-specialist-bruntwork
-
-### Outbound Sales Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-bruntwork
 
 ### Senior Presales Analyst - Remote Work
 - **Company:** BairesDev
