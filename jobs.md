@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-11T02:01:52Z
+last_updated: 2026-08-11T07:14:19Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**810 active remote jobs** as of 2026-08-11.
+**813 active remote jobs** as of 2026-08-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1339,7 +1339,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-growth-creative-strategist-paid-social-sagan-recruitment
 
-## Operations (67 open roles)
+## Operations (68 open roles)
+
+### AP Operations Analyst
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 / month
+- **Location:** Global
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-ap-operations-analyst-sagan-recruitment
 
 ### Vibe Coder
 - **Company:** Remote Leverage
@@ -3584,7 +3591,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (78 open roles)
+## Sales (79 open roles)
+
+### Business Development Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-business-development-coordinator-sagan-recruitment
 
 ### Solutions Engineer
 - **Company:** Sezzle
@@ -4137,7 +4151,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-systems-implementation-manager-somewhere-2
 
-## Software Development (228 open roles)
+## Software Development (229 open roles)
+
+### Senior Shopify Developer
+- **Company:** Sagan Recruitment
+- **Salary:** $5,500 / month
+- **Location:** Remote
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-shopify-developer-sagan-recruitment
 
 ### Kotlin Mobile Developer - Remote Work
 - **Company:** BairesDev
