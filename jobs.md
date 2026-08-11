@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-11T07:14:19Z
+last_updated: 2026-08-11T13:14:26Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**813 active remote jobs** as of 2026-08-11.
+**817 active remote jobs** as of 2026-08-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (29 open roles)
+## Accounting/Bookkeeping (28 open roles)
 
 ### Bookkeeper
 - **Company:** Remote Leverage
@@ -122,13 +122,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-accountant-somewhere-3
-
-### Accounts Payable Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-specialist-sagan-recruitment
 
 ### Finance Manager (12 months Contract)
 - **Company:** CoinMarketCap
@@ -446,7 +439,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment-2
 
-## Data/Analytics (68 open roles)
+## Data/Analytics (69 open roles)
+
+### AI Learning Solutions - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-ai-learning-solutions-remote-work-bairesdev
 
 ### Data Analyst
 - **Company:** Remote Leverage
@@ -1339,7 +1339,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-13
 - **View Job:** https://globalcaribbeans.com/#card-growth-creative-strategist-paid-social-sagan-recruitment
 
-## Operations (68 open roles)
+## Operations (69 open roles)
+
+### AI Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-ai-specialist-remote-work-bairesdev
 
 ### AP Operations Analyst
 - **Company:** Sagan Recruitment
@@ -1820,7 +1827,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-submission-revision-coordinator-hired-remoteli
 
-## Other (177 open roles)
+## Other (179 open roles)
+
+### Yardi Property Management Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-yardi-property-management-specialist-bruntwork
+
+### Construction Estimator (Electrical & Trades)
+- **Company:** Sagan Recruitment
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-construction-estimator-electrical-trades-sagan-recruitment
 
 ### Agile Business Analyst - Remote Work
 - **Company:** BairesDev
@@ -4151,7 +4172,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-systems-implementation-manager-somewhere-2
 
-## Software Development (229 open roles)
+## Software Development (230 open roles)
+
+### AI Platform Engineer
+- **Company:** Somewhere
+- **Salary:** $3,500 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-11
+- **View Job:** https://globalcaribbeans.com/#card-ai-platform-engineer-somewhere
 
 ### Senior Shopify Developer
 - **Company:** Sagan Recruitment
