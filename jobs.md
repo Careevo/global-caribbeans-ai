@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-13T02:20:33Z
+last_updated: 2026-08-13T07:40:21Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**944 active remote jobs** as of 2026-08-13.
+**945 active remote jobs** as of 2026-08-13.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (31 open roles)
+## Accounting/Bookkeeping (32 open roles)
+
+### Commercial Property Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-13
+- **View Job:** https://globalcaribbeans.com/#card-commercial-property-accountant-sagan-recruitment
 
 ### NetSuite Business Analyst - Remote Work
 - **Company:** BairesDev
@@ -468,6 +475,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment-2
 
 ## Data/Analytics (92 open roles)
+
+### Client Success Manager (Healthcare & RCM)
+- **Company:** Sagan Recruitment
+- **Salary:** $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-13
+- **View Job:** https://globalcaribbeans.com/#card-client-success-manager-healthcare-rcm-sagan-recruitment
 
 ### SAP Hana Developer - Remote Work
 - **Company:** BairesDev
@@ -1106,13 +1120,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-14
 - **View Job:** https://globalcaribbeans.com/#card-data-quality-engineer-remote-work-ref-298113-bairesdev
-
-### Sales Development Representative
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-14
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-hire-with-near-3
 
 ## IT/Engineering (7 open roles)
 
