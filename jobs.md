@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-14T02:19:00Z
+last_updated: 2026-08-14T07:37:52Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -13,7 +13,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (34 open roles)
+## Accounting/Bookkeeping (35 open roles)
+
+### Controller
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $5,000 / month
+- **Location:** Global
+- **Posted:** 2026-08-14
+- **View Job:** https://globalcaribbeans.com/#card-controller-sagan-recruitment
 
 ### Accountant (Work From Home)
 - **Company:** Persona
@@ -256,7 +263,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-junior-staff-accountant-hire-with-near
 
-## Admin (8 open roles)
+## Admin (9 open roles)
+
+### Senior Executive & Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-executive-operations-coordinator-sagan-recruitment
 
 ### Dental Administrative Assistant
 - **Company:** BruntWork
@@ -495,7 +509,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-15
 - **View Job:** https://globalcaribbeans.com/#card-client-services-associate-customer-service-sagan-recruitment
 
-## Data/Analytics (95 open roles)
+## Data/Analytics (94 open roles)
 
 ### Healthcare Data Analyst - Remote Work
 - **Company:** BairesDev
@@ -1156,13 +1170,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-16
 - **View Job:** https://globalcaribbeans.com/#card-demand-generation-manager-multi-location-sagan-recruitment
 
-### Finance & Reporting Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $3,750 – $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-finance-reporting-manager-sagan-recruitment
-
 ## IT/Engineering (6 open roles)
 
 ### Senior Blockchain Infrastructure Engineer - Remote Work
@@ -1562,7 +1569,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-15
 - **View Job:** https://globalcaribbeans.com/#card-growth-marketing-creative-strategist-paid-social-meta-ads-manager-sagan-recruitm
 
-## Operations (71 open roles)
+## Operations (69 open roles)
 
 ### Senior Data Quality Engineer - Remote Work
 - **Company:** BairesDev
@@ -2049,21 +2056,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
 
-### Client Services Associate
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 / month
+## Other (196 open roles)
+
+### Video Editor
+- **Company:** Hire With Near
+- **Salary:** $2,000 – $2,500 / month
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-client-services-associate-sagan-recruitment
-
-### Bilingual Client Intake & Scheduling Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-07-15
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-client-intake-scheduling-coordinator-sagan-recruitment
-
-## Other (195 open roles)
+- **Posted:** 2026-08-14
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-hire-with-near
 
 ### Application Security Engineer (Checkmarx / SAST) - Remote Work
 - **Company:** BairesDev
