@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-14T07:37:52Z
+last_updated: 2026-08-14T13:15:30Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**946 active remote jobs** as of 2026-08-14.
+**944 active remote jobs** as of 2026-08-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (35 open roles)
+## Accounting/Bookkeeping (34 open roles)
 
 ### Controller
 - **Company:** Sagan Recruitment
@@ -193,13 +193,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-finance-manager-12-months-contract-coinmarketcap
 
-### Staff Accountant – Mortgage Lending
-- **Company:** Sagan Recruitment
-- **Salary:** $30 – $40 / hour
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-staff-accountant-mortgage-lending-sagan-recruitment
-
 ### Finance Manager
 - **Company:** Latino Legends
 - **Salary:** $2,500 – $3,000 / month
@@ -331,6 +324,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-virtual-latinos
 
 ## Customer support (25 open roles)
+
+### Operations and Customer Success Coordinator
+- **Company:** Somewhere
+- **Salary:** Up to $2,000 / month
+- **Location:** Remote, Fully Remote
+- **Posted:** 2026-08-14
+- **View Job:** https://globalcaribbeans.com/#card-operations-and-customer-success-coordinator-somewhere
 
 ### Technical Support Engineer - Remote Work
 - **Company:** BairesDev
@@ -465,13 +465,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-customer-experience-booking-specialist-sagan-recruitment
-
-### Customer Service Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-sagan-recruitment
 
 ### Technical Support Engineer - Remote work | REF#298632
 - **Company:** BairesDev
@@ -2056,7 +2049,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
 
-## Other (196 open roles)
+## Other (195 open roles)
 
 ### Video Editor
 - **Company:** Hire With Near
@@ -2479,13 +2472,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-11
 - **View Job:** https://globalcaribbeans.com/#card-influencer-marketing-coordinator-remotely-talents-client-confidential-2
-
-### Yardi Property Management Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-11
-- **View Job:** https://globalcaribbeans.com/#card-yardi-property-management-specialist-bruntwork
 
 ### Construction Estimator (Electrical & Trades)
 - **Company:** Sagan Recruitment
