@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-15T06:44:37Z
+last_updated: 2026-08-15T12:44:37Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**944 active remote jobs** as of 2026-08-15.
+**949 active remote jobs** as of 2026-08-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1239,7 +1239,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (45 open roles)
+## Online Marketing (46 open roles)
+
+### Paid Media Implementation Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-paid-media-implementation-specialist-sagan-recruitment
 
 ### Amazon Brand Manager (Operations & PPC)
 - **Company:** Sagan Recruitment
@@ -1556,7 +1563,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-16
 - **View Job:** https://globalcaribbeans.com/#card-paid-media-buyer-hire-with-near
 
-## Operations (71 open roles)
+## Operations (72 open roles)
+
+### Property Management Trust Accounting Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,920 – $2,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
 ### Subscription Retention Specialist (Work From Home)
 - **Company:** Persona
@@ -2058,7 +2072,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
 
-## Other (196 open roles)
+## Other (198 open roles)
+
+### Finnish Sports Localization Specialist (Football)
+- **Company:** Welo Data
+- **Salary:** $28 – $33 / hour
+- **Location:** Global
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-finnish-sports-localization-specialist-football-welo-data
+
+### TikTok Affiliate & Creator Success Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-tiktok-affiliate-creator-success-manager-sagan-recruitment
 
 ### Dutch Sports Localization Specialist (Football)
 - **Company:** Welo Data
@@ -4784,7 +4812,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-16
 - **View Job:** https://globalcaribbeans.com/#card-outbound-business-development-representative-customer-io
 
-## Software Development (270 open roles)
+## Software Development (271 open roles)
+
+### AI Operations Engineer
+- **Company:** ClickHouse
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-ai-operations-engineer-clickhouse
 
 ### Full Stack Engineer
 - **Company:** Hire With Near
