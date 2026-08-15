@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-15T01:26:22Z
+last_updated: 2026-08-15T06:44:37Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**946 active remote jobs** as of 2026-08-15.
+**944 active remote jobs** as of 2026-08-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -331,14 +331,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-virtual-latinos
 
-## Customer support (27 open roles)
-
-### Customer Support Representative
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-15
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-representative-somewhere
+## Customer support (26 open roles)
 
 ### Service Desk Technician
 - **Company:** Hire With Near
@@ -524,7 +517,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-18
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-full-time-sagan-recruitment
 
-## Data/Analytics (94 open roles)
+## Data/Analytics (93 open roles)
 
 ### Healthcare Data Analyst - Remote Work
 - **Company:** BairesDev
@@ -1178,13 +1171,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-fusion-fivetran
 
-### Demand Generation Manager (Multi-Location)
-- **Company:** Sagan Recruitment
-- **Salary:** $5,000 – $7,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-demand-generation-manager-multi-location-sagan-recruitment
-
 ## IT/Engineering (5 open roles)
 
 ### Senior Blockchain Infrastructure Engineer - Remote Work
@@ -1253,7 +1239,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (44 open roles)
+## Online Marketing (45 open roles)
+
+### Amazon Brand Manager (Operations & PPC)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-amazon-brand-manager-operations-ppc-sagan-recruitment-2
 
 ### Paid Media Buyer (Work From Home)
 - **Company:** Persona
@@ -2067,13 +2060,19 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (196 open roles)
 
-### Customer Onboarding Specialist
-- **Company:** Somewhere
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
+### Dutch Sports Localization Specialist (Football)
+- **Company:** Welo Data
+- **Salary:** $25 – $30 / hour
+- **Location:** Global
 - **Posted:** 2026-08-15
-- **View Job:** https://globalcaribbeans.com/#card-customer-onboarding-specialist-somewhere
+- **View Job:** https://globalcaribbeans.com/#card-dutch-sports-localization-specialist-football-welo-data
+
+### Croatian Sports Localization Specialist (Football)
+- **Company:** Welo Data
+- **Salary:** $20 – $25 / hour
+- **Location:** Global
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-croatian-sports-localization-specialist-football-welo-data
 
 ### AI / Machine Learning Engineer
 - **Company:** Mappa
@@ -2885,13 +2884,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-solutions-consultant-remote
-
-### Managing Counsel, Commercial - Partnerships
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-managing-counsel-commercial-partnerships-remote
 
 ### Dispatcher
 - **Company:** Offshore Launch
@@ -4224,14 +4216,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (81 open roles)
-
-### SDR (B2B SaaS)
-- **Company:** Somewhere
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-15
-- **View Job:** https://globalcaribbeans.com/#card-sdr-b2b-saas-somewhere
+## Sales (80 open roles)
 
 ### Business Development Executive
 - **Company:** WorkBetterNow
