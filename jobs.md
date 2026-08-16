@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-16T01:38:10Z
+last_updated: 2026-08-16T06:46:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**948 active remote jobs** as of 2026-08-16.
+**949 active remote jobs** as of 2026-08-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2058,7 +2058,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
 
-## Other (201 open roles)
+## Other (202 open roles)
+
+### Ukrainian Sports Localization Specialist (Football)
+- **Company:** Welo Data
+- **Salary:** $28 – $33 / hour
+- **Location:** Global
+- **Posted:** 2026-08-16
+- **View Job:** https://globalcaribbeans.com/#card-ukrainian-sports-localization-specialist-football-welo-data
 
 ### Slovak Sports Localization Specialist (Football)
 - **Company:** Welo Data
