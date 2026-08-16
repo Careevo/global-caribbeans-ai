@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-16T06:46:36Z
+last_updated: 2026-08-16T12:47:20Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**949 active remote jobs** as of 2026-08-16.
+**947 active remote jobs** as of 2026-08-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1171,7 +1171,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-fusion-fivetran
 
-## IT/Engineering (5 open roles)
+## IT/Engineering (4 open roles)
 
 ### Senior Blockchain Infrastructure Engineer - Remote Work
 - **Company:** BairesDev
@@ -1200,13 +1200,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-sagan-recruitment
-
-### Senior System Engineer
-- **Company:** Sagan Recruitment
-- **Salary:** $2,300 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-system-engineer-sagan-recruitment
 
 ## Legal (4 open roles)
 
@@ -2058,7 +2051,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
 
-## Other (202 open roles)
+## Other (201 open roles)
 
 ### Ukrainian Sports Localization Specialist (Football)
 - **Company:** Welo Data
@@ -3475,13 +3468,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-figma-web-designer-elvoro-ltd-elvoro
-
-### Head of Marketing & Communications
-- **Company:** garden3d
-- **Salary:** $150,000 – $230,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-head-of-marketing-communications-garden3d
 
 ## Project Management (89 open roles)
 
