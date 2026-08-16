@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-15T18:34:45Z
+last_updated: 2026-08-16T01:38:10Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**951 active remote jobs** as of 2026-08-15.
+**948 active remote jobs** as of 2026-08-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1239,7 +1239,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (46 open roles)
+## Online Marketing (44 open roles)
 
 ### Paid Media Implementation Specialist
 - **Company:** Sagan Recruitment
@@ -1548,20 +1548,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-07-18
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-seo-organic-growth-remotely-talents-client-confidentia
-
-### Talent Network Social Media Brand Strategist
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-talent-network-social-media-brand-strategist-toptal
-
-### Paid Media Buyer
-- **Company:** Hire With Near
-- **Salary:** $3,000 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-paid-media-buyer-hire-with-near
 
 ## Operations (72 open roles)
 
@@ -2072,7 +2058,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
 
-## Other (200 open roles)
+## Other (201 open roles)
+
+### Slovak Sports Localization Specialist (Football)
+- **Company:** Welo Data
+- **Salary:** $20 – $25 / hour
+- **Location:** Global
+- **Posted:** 2026-08-15
+- **View Job:** https://globalcaribbeans.com/#card-slovak-sports-localization-specialist-football-welo-data
 
 ### Hungarian Sports Localization Specialist (Football)
 - **Company:** Welo Data
@@ -4258,7 +4251,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (80 open roles)
+## Sales (78 open roles)
 
 ### Business Development Executive
 - **Company:** WorkBetterNow
@@ -4810,21 +4803,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-appointment-setter-somewhere
-
-### After-Hours Inbound Sales Representative
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-after-hours-inbound-sales-representative-somewhere-2
-
-### Outbound Business Development Representative
-- **Company:** Customer.io
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-16
-- **View Job:** https://globalcaribbeans.com/#card-outbound-business-development-representative-customer-io
 
 ## Software Development (271 open roles)
 
