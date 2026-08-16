@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-16T12:47:20Z
+last_updated: 2026-08-16T18:34:03Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**947 active remote jobs** as of 2026-08-16.
+**946 active remote jobs** as of 2026-08-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -4797,7 +4797,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-17
 - **View Job:** https://globalcaribbeans.com/#card-appointment-setter-somewhere
 
-## Software Development (271 open roles)
+## Software Development (270 open roles)
 
 ### AI Operations Engineer
 - **Company:** ClickHouse
@@ -6689,10 +6689,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-lead-engineer-hire-with-near
-
-### Senior GenAI Engineer
-- **Company:** CookUnity
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-senior-genai-engineer-cookunity
