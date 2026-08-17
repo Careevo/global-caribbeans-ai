@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-16T18:34:03Z
+last_updated: 2026-08-17T01:35:59Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**946 active remote jobs** as of 2026-08-16.
+**944 active remote jobs** as of 2026-08-17.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (34 open roles)
+## Accounting/Bookkeeping (33 open roles)
 
 ### Controller
 - **Company:** Sagan Recruitment
@@ -249,14 +249,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-hire-with-near
 
-### Junior Staff Accountant
-- **Company:** Hire With Near
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-junior-staff-accountant-hire-with-near
+## Admin (11 open roles)
 
-## Admin (10 open roles)
+### Legal Virtual Assistant
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-17
+- **View Job:** https://globalcaribbeans.com/#card-legal-virtual-assistant-somewhere
 
 ### Spanish Bilingual Medical Receptionist
 - **Company:** BruntWork
@@ -1542,7 +1542,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-18
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-seo-organic-growth-remotely-talents-client-confidentia
 
-## Operations (72 open roles)
+## Operations (71 open roles)
 
 ### Property Management Trust Accounting Specialist
 - **Company:** Sagan Recruitment
@@ -2044,14 +2044,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-sales-onboarding-manager-fivetran
 
-### Operational Excellence
-- **Company:** Somewhere
+## Other (201 open roles)
+
+### Bilingual Medical Scheduler
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-operational-excellence-somewhere
-
-## Other (201 open roles)
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-16
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-scheduler-bruntwork
 
 ### Ukrainian Sports Localization Specialist (Football)
 - **Company:** Welo Data
@@ -3462,13 +3463,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-19
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-hired-remoteli
 
-### Figma Web Designer – Elvoro Ltd
-- **Company:** Elvoro
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-figma-web-designer-elvoro-ltd-elvoro
-
 ## Project Management (89 open roles)
 
 ### Product Manager
@@ -4244,7 +4238,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (78 open roles)
+## Sales (77 open roles)
 
 ### Business Development Executive
 - **Company:** WorkBetterNow
@@ -4789,13 +4783,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-hire-with-near
-
-### Appointment Setter
-- **Company:** Somewhere
-- **Salary:** $1,000 – $1,300 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-17
-- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-somewhere
 
 ## Software Development (270 open roles)
 
