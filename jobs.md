@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-17T07:03:10Z
+last_updated: 2026-08-17T12:51:48Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**936 active remote jobs** as of 2026-08-17.
+**935 active remote jobs** as of 2026-08-17.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -317,7 +317,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-virtual-latinos
 
-## Customer support (26 open roles)
+## Customer support (25 open roles)
 
 ### Service Desk Technician
 - **Company:** Hire With Near
@@ -496,14 +496,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-virtual-latinos-2
 
-### Customer Service Representative (Full-Time)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-18
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-full-time-sagan-recruitment
+## Data/Analytics (94 open roles)
 
-## Data/Analytics (93 open roles)
+### B2B Supplier Acquisition & Onboarding Specialist (Facility Management)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-17
+- **View Job:** https://globalcaribbeans.com/#card-b2b-supplier-acquisition-onboarding-specialist-facility-management-bruntwork
 
 ### Healthcare Data Analyst - Remote Work
 - **Company:** BairesDev
@@ -1218,7 +1218,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (43 open roles)
+## Online Marketing (42 open roles)
 
 ### Paid Media Implementation Specialist
 - **Company:** Sagan Recruitment
@@ -1513,13 +1513,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-senior-google-ads-account-manager-remote-work-from-home-stubgroup-2
-
-### Content Marketing Manager (SEO & Organic Growth)
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-18
-- **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-seo-organic-growth-remotely-talents-client-confidentia
 
 ## Operations (70 open roles)
 
