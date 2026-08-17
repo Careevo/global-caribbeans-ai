@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-17T01:35:59Z
+last_updated: 2026-08-17T07:03:10Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**944 active remote jobs** as of 2026-08-17.
+**936 active remote jobs** as of 2026-08-17.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -249,14 +249,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-hire-with-near
 
-## Admin (11 open roles)
-
-### Legal Virtual Assistant
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-17
-- **View Job:** https://globalcaribbeans.com/#card-legal-virtual-assistant-somewhere
+## Admin (9 open roles)
 
 ### Spanish Bilingual Medical Receptionist
 - **Company:** BruntWork
@@ -272,13 +265,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-executive-operations-coordinator-sagan-recruitment
-
-### Dental Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-dental-administrative-assistant-bruntwork
 
 ### Executive Assistant
 - **Company:** Sagan Recruitment
@@ -1232,7 +1218,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (44 open roles)
+## Online Marketing (43 open roles)
 
 ### Paid Media Implementation Specialist
 - **Company:** Sagan Recruitment
@@ -1458,13 +1444,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-marketing-specialist-coinmarketcap
 
-### PR & Communications Associate
-- **Company:** CoinMarketCap
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-pr-communications-associate-coinmarketcap
-
 ### Global VP Marketing/CMO
 - **Company:** CoinMarketCap
 - **Salary:** Not Disclosed
@@ -1542,7 +1521,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-18
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-seo-organic-growth-remotely-talents-client-confidentia
 
-## Operations (71 open roles)
+## Operations (70 open roles)
 
 ### Property Management Trust Accounting Specialist
 - **Company:** Sagan Recruitment
@@ -1840,13 +1819,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-operations-manager-office-manager-offshore-launch-2
 
-### Workfront Solution Architect / Strategic Process Consultant
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-workfront-solution-architect-strategic-process-consultant-new-era-technology-2
-
 ### Technical Operations Manager
 - **Company:** Customer.io
 - **Salary:** $117,000 – $120,000 / year
@@ -2044,7 +2016,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-sales-onboarding-manager-fivetran
 
-## Other (201 open roles)
+## Other (198 open roles)
 
 ### Bilingual Medical Scheduler
 - **Company:** BruntWork
@@ -2257,27 +2229,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-sast-engineer-remote-work-bairesdev
 
-### Bilingual Healthcare Case Manager
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-healthcare-case-manager-bruntwork
-
 ### Medical Records Collection Specialist
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-medical-records-collection-specialist-somewhere
-
-### Health Insurance Administrative & Operations Assistant (Excel)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-health-insurance-administrative-operations-assistant-excel-bruntwork
 
 ### P2P BD Assistant
 - **Company:** Bybit
@@ -3222,13 +3179,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-embedded-linux-consultant-engineer-collabora-2
-
-### AI Operations Specialist
-- **Company:** CoinMarketCap
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-ai-operations-specialist-coinmarketcap
 
 ### AI Agentic Trading Expert
 - **Company:** CoinMarketCap
@@ -4784,7 +4734,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-hire-with-near
 
-## Software Development (270 open roles)
+## Software Development (269 open roles)
 
 ### AI Operations Engineer
 - **Company:** ClickHouse
@@ -6340,13 +6290,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-smart-contract-qa-engineer-atlas-oracle-coinmarketcap
-
-### Java Engineer
-- **Company:** CoinMarketCap
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-java-engineer-coinmarketcap
 
 ### iOS Engineer
 - **Company:** Vigil
