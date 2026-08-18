@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-18T01:25:49Z
+last_updated: 2026-08-18T06:50:40Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**857 active remote jobs** as of 2026-08-18.
+**855 active remote jobs** as of 2026-08-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (33 open roles)
+## Accounting/Bookkeeping (34 open roles)
+
+### Director of Finance & Controller
+- **Company:** Somewhere
+- **Salary:** $40,000 – $60,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-18
+- **View Job:** https://globalcaribbeans.com/#card-director-of-finance-controller-somewhere
 
 ### Bookkeeper
 - **Company:** Remote Leverage
@@ -1162,21 +1169,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (47 open roles)
-
-### Paid Ads Manager (Meta & Google)
-- **Company:** Somewhere
-- **Salary:** $2,500 – $2,900 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-paid-ads-manager-meta-google-somewhere
-
-### Automation & Sales Support Coordinator
-- **Company:** Somewhere
-- **Salary:** $1,400 – $2,400 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-automation-sales-support-coordinator-somewhere
+## Online Marketing (45 open roles)
 
 ### Head of Recruiting (Work From Home)
 - **Company:** Persona
@@ -1495,12 +1488,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (70 open roles)
 
-### Business Process Manager
-- **Company:** Athyna
-- **Salary:** Not Disclosed
+### Property Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-17
-- **View Job:** https://globalcaribbeans.com/#card-business-process-manager-athyna
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-18
+- **View Job:** https://globalcaribbeans.com/#card-property-operations-coordinator-sagan-recruitment-2
 
 ### Vibe Coder
 - **Company:** Remote Leverage
@@ -1988,7 +1982,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-sales-onboarding-manager-fivetran
 
-## Other (170 open roles)
+## Other (171 open roles)
+
+### Maintenance Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,600 – $2,100 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-18
+- **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment
 
 ### Registered Brokerage Client Service Associate - Pacific Timezone
 - **Company:** Alpaca
@@ -3760,15 +3762,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (74 open roles)
-
-### Appointment Setter (Part-time)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-part-time-somewhere
+## Sales (73 open roles)
 
 ### Sales Development Representative (Work From Home)
 - **Company:** Persona
@@ -4286,14 +4280,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-hire-with-near
 
-## Software Development (254 open roles)
-
-### Applications & Integrations Developer
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-applications-integrations-developer-somewhere
+## Software Development (253 open roles)
 
 ### Senior Security Infrastructure Engineer
 - **Company:** Sezzle
