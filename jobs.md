@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-18T06:50:40Z
+last_updated: 2026-08-18T12:53:53Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**855 active remote jobs** as of 2026-08-18.
+**857 active remote jobs** as of 2026-08-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (34 open roles)
+## Accounting/Bookkeeping (35 open roles)
+
+### Property Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-18
+- **View Job:** https://globalcaribbeans.com/#card-property-accountant-sagan-recruitment
 
 ### Director of Finance & Controller
 - **Company:** Somewhere
@@ -324,7 +331,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-virtual-latinos
 
-## Customer support (25 open roles)
+## Customer support (26 open roles)
+
+### Bilingual Level 2 Technical Support Specialist (SaaS)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-18
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-level-2-technical-support-specialist-saas-bruntwork
 
 ### Service Desk Technician
 - **Company:** Hire With Near
@@ -3190,7 +3205,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-19
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-hired-remoteli
 
-## Project Management (74 open roles)
+## Project Management (73 open roles)
 
 ### Creative Project Manager
 - **Company:** Kajae
@@ -3366,13 +3381,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-10
 - **View Job:** https://globalcaribbeans.com/#card-scrum-master-trabajo-remoto-bairesdev
-
-### Client Services Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $1,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-06
-- **View Job:** https://globalcaribbeans.com/#card-client-services-coordinator-sagan-recruitment
 
 ### Construction Project Coordinator (Field Service & Dispatch)
 - **Company:** Sagan Recruitment
@@ -4280,7 +4288,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-hire-with-near
 
-## Software Development (253 open roles)
+## Software Development (254 open roles)
+
+### Software Engineer - Market Data
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-18
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-market-data-alpaca
 
 ### Senior Security Infrastructure Engineer
 - **Company:** Sezzle
