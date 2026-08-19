@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-19T06:51:00Z
+last_updated: 2026-08-19T12:54:28Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**742 active remote jobs** as of 2026-08-19.
+**746 active remote jobs** as of 2026-08-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (29 open roles)
+## Accounting/Bookkeeping (31 open roles)
+
+### Client Onboarding Accountant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-19
+- **View Job:** https://globalcaribbeans.com/#card-client-onboarding-accountant-bruntwork
+
+### Senior Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-19
+- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-sagan-recruitment-2
 
 ### Property Accountant
 - **Company:** Sagan Recruitment
@@ -1629,7 +1643,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-sales-onboarding-manager-fivetran
 
-## Other (162 open roles)
+## Other (164 open roles)
+
+### Mid-Level Frontend React Engineer
+- **Company:** Vigil
+- **Salary:** Not Disclosed
+- **Location:** Worldwide / Remote
+- **Posted:** 2026-08-19
+- **View Job:** https://globalcaribbeans.com/#card-mid-level-frontend-react-engineer-vigil
+
+### Finance Application Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-19
+- **View Job:** https://globalcaribbeans.com/#card-finance-application-specialist-bruntwork
 
 ### Litigation E-Filing Order Coordinator
 - **Company:** BruntWork
@@ -3209,7 +3237,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-20
 - **View Job:** https://globalcaribbeans.com/#card-systems-implementation-manager-sagan-recruitment
 
-## Recruiting (12 open roles)
+## Recruiting (11 open roles)
 
 ### Recruiter
 - **Company:** Remote Leverage
@@ -3260,13 +3288,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-18
 - **View Job:** https://globalcaribbeans.com/#card-young-professional-it-recruiter-remote-work-bairesdev
 
-### Recruiter
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-06
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-sagan-recruitment
-
 ### Senior Recruiter - Digital Transformation
 - **Company:** New Era Technology
 - **Salary:** Not Disclosed
@@ -3296,7 +3317,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (73 open roles)
+## Sales (74 open roles)
+
+### Bilingual B2B Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-19
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-b2b-appointment-setter-bruntwork
 
 ### Salesperson
 - **Company:** Remote Leverage
