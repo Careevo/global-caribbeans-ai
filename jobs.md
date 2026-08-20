@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-20T01:26:25Z
+last_updated: 2026-08-20T06:52:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**774 active remote jobs** as of 2026-08-20.
+**776 active remote jobs** as of 2026-08-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (31 open roles)
+
+### Property Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-property-accountant-sagan-recruitment-2
+
+### Accountant
+- **Company:** Sezzle
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-accountant-sezzle
 
 ### Accounts Payable Specialist
 - **Company:** Hire With Near
@@ -219,13 +233,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-26
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-property-management-sagan-recruitment
-
-### Bookkeeper (Senior-Level)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-senior-level-sagan-recruitment
 
 ## Admin (7 open roles)
 
@@ -438,7 +445,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-support-engineer-remote-work-ref-298635-bairesdev
 
-## Data/Analytics (60 open roles)
+## Data/Analytics (59 open roles)
 
 ### Automations Data Engineer
 - **Company:** Hire With Near
@@ -509,13 +516,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-data-analyst-remote-leverage-2
-
-### B2B Supplier Acquisition & Onboarding Specialist (Facility Management)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-17
-- **View Job:** https://globalcaribbeans.com/#card-b2b-supplier-acquisition-onboarding-specialist-facility-management-bruntwork
 
 ### Client Success Manager (Healthcare & RCM)
 - **Company:** Sagan Recruitment
@@ -900,14 +900,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (47 open roles)
+## Online Marketing (48 open roles)
 
-### Media Buyer
-- **Company:** Somewhere
-- **Salary:** $2,500 – $3,000 / month
+### E-Commerce Graphic Designer & Photo Editor
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-media-buyer-somewhere
+- **View Job:** https://globalcaribbeans.com/#card-e-commerce-graphic-designer-photo-editor-bruntwork
+
+### Growth Marketing Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-manager-sagan-recruitment-2
 
 ### Marketing Content Specialist - Remote Work
 - **Company:** BairesDev
@@ -1678,15 +1685,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-sales-onboarding-manager-fivetran
 
-## Other (173 open roles)
+## Other (174 open roles)
 
-### Agricultural Underwriter
-- **Company:** Somewhere
-- **Salary:** $2,000 – $2,500 / month
+### Apparel
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
 - **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-agricultural-underwriter-somewhere
+- **View Job:** https://globalcaribbeans.com/#card-apparel-hired-remoteli-2
+
+### Graphic & Apparel Print Designer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-graphic-apparel-print-designer-bruntwork
 
 ### Logistics Coordinator
 - **Company:** Remote Leverage
@@ -3529,6 +3542,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Sales (76 open roles)
 
+### Bilingual Sales and Marketing Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-sales-and-marketing-coordinator-bruntwork
+
+### B2B Appointment Setter (Public Safety Industry)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-b2b-appointment-setter-public-safety-industry-bruntwork
+
 ### Sales Development Representative
 - **Company:** Remote Leverage
 - **Salary:** $1,400 – $2,500 / month
@@ -3629,21 +3658,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-business-development-representative-remote-leverage-2
-
-### Client Intake & Lead Conversion Specialist (Litigation Funding)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-17
-- **View Job:** https://globalcaribbeans.com/#card-client-intake-lead-conversion-specialist-litigation-funding-bruntwork
-
-### GoHighLevel Lead Nurturing Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-17
-- **View Job:** https://globalcaribbeans.com/#card-gohighlevel-lead-nurturing-representative-bruntwork
 
 ### Business Development Executive
 - **Company:** WorkBetterNow
