@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-20T06:52:36Z
+last_updated: 2026-08-20T12:56:15Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -234,7 +234,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-26
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-property-management-sagan-recruitment
 
-## Admin (7 open roles)
+## Admin (9 open roles)
+
+### Bilingual Property Management Administrator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-administrator-bruntwork
+
+### Patient Care Coordinator (Healthcare Virtual Assistant)
+- **Company:** Sagan Recruitment
+- **Salary:** $1,300 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-patient-care-coordinator-healthcare-virtual-assistant-sagan-recruitment
 
 ### Bilingual Executive Assistant
 - **Company:** BruntWork
@@ -287,7 +302,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-office-manager-customer-operations-coordinator-home-services-somewhere
 
-## Customer support (22 open roles)
+## Customer support (21 open roles)
 
 ### Sr. Customer Success Manager, MM/ENT - AMER
 - **Company:** Remote
@@ -316,14 +331,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-18
 - **View Job:** https://globalcaribbeans.com/#card-associate-it-operations-work-from-home-persona-2
-
-### Bilingual Level 2 Technical Support Specialist (SaaS)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-level-2-technical-support-specialist-saas-bruntwork
 
 ### Client Services Associate (Customer Service)
 - **Company:** Sagan Recruitment
@@ -445,7 +452,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-support-engineer-remote-work-ref-298635-bairesdev
 
-## Data/Analytics (59 open roles)
+## Data/Analytics (58 open roles)
 
 ### Automations Data Engineer
 - **Company:** Hire With Near
@@ -854,13 +861,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-21
 - **View Job:** https://globalcaribbeans.com/#card-global-alliance-lead-microsoft-fivetran
 
-### Product Manager - Fusion
-- **Company:** Fivetran
-- **Salary:** $135,000 – $220,000 / year
-- **Location:** Americas
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-fusion-fivetran
-
 ## IT/Engineering (3 open roles)
 
 ### Senior IT Systems Administrator & Team Lead (MSP)
@@ -900,7 +900,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (48 open roles)
+## Online Marketing (46 open roles)
 
 ### E-Commerce Graphic Designer & Photo Editor
 - **Company:** BruntWork
@@ -1224,21 +1224,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential
 
-### Junior SEO Specialist
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-junior-seo-specialist-remotely-talents-client-confidential
+## Operations (64 open roles)
 
-### Digital Advertising Specialist
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-21
-- **View Job:** https://globalcaribbeans.com/#card-digital-advertising-specialist-remotely-talents-client-confidential
-
-## Operations (63 open roles)
+### Field Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-field-operations-coordinator-sagan-recruitment
 
 ### Marketing Specialist - Remote Work
 - **Company:** BairesDev
@@ -1686,6 +1679,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-senior-sales-onboarding-manager-fivetran
 
 ## Other (174 open roles)
+
+### Senior Product Designer
+- **Company:** CashCow
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-cashcow
 
 ### Apparel
 - **Company:** Hired Remoteli
@@ -2828,13 +2828,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-property-management-specialist-hire-with-near
 
-### Graphic & Production Designer
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-graphic-production-designer-sagan-recruitment
-
 ### Product Sales Specialist - Pet Health (CST timezone)
 - **Company:** Tribe Wellness
 - **Salary:** Not Disclosed
@@ -3540,7 +3533,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (76 open roles)
+## Sales (77 open roles)
+
+### Business Development Manager (AI & HubSpot)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-20
+- **View Job:** https://globalcaribbeans.com/#card-business-development-manager-ai-hubspot-bruntwork
 
 ### Bilingual Sales and Marketing Coordinator
 - **Company:** BruntWork
