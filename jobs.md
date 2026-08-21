@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-21T01:37:09Z
+last_updated: 2026-08-21T06:53:37Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**765 active remote jobs** as of 2026-08-21.
+**760 active remote jobs** as of 2026-08-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (31 open roles)
+## Accounting/Bookkeeping (30 open roles)
 
 ### Human Resources Director
 - **Company:** Sagan Recruitment
@@ -170,13 +170,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-somewhere
 
-### Bookkeeper
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-hire-with-near
-
 ### Payroll Specialist Lead
 - **Company:** Remote
 - **Salary:** Not Disclosed
@@ -235,14 +228,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-26
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-property-management-sagan-recruitment
 
-## Admin (11 open roles)
-
-### Virtual Assistant
-- **Company:** Somewhere
-- **Salary:** $1,300 – $1,400 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-somewhere-4
+## Admin (10 open roles)
 
 ### Customer Support & E-commerce Assistant
 - **Company:** BruntWork
@@ -1183,7 +1169,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential
 
-## Operations (56 open roles)
+## Operations (55 open roles)
 
 ### Design Lead - Account Hub
 - **Company:** New Era Technology
@@ -1574,21 +1560,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-junior-procurement-analyst-sagan-recruitment
 
-### Regional Sourcing Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $3,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-regional-sourcing-manager-sagan-recruitment
-
-## Other (184 open roles)
-
-### AI Automation Associate
-- **Company:** Athyna
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-ai-automation-associate-athyna
+## Other (183 open roles)
 
 ### Mid-Level Web Engineer – React
 - **Company:** Vigil
@@ -3370,7 +3342,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-accounts-billing-netlify
 
-## Recruiting (18 open roles)
+## Recruiting (19 open roles)
+
+### High-Volume Outbound Recruiter (Part-Time)
+- **Company:** Sagan Recruitment
+- **Salary:** $600 – $650 / month
+- **Location:** Global
+- **Posted:** 2026-08-21
+- **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
 ### Home Health Recruiter
 - **Company:** BruntWork
@@ -3499,35 +3478,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-digital-transformation-new-era-technology
 
-## Sales (83 open roles)
+## Sales (80 open roles)
 
-### Outbound Sales Representative
-- **Company:** Somewhere
-- **Salary:** $1,400 – $2,400 / month
+### Appointment Setter
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-somewhere-3
-
-### Outbound Sales Representative
-- **Company:** Somewhere
-- **Salary:** $1,500 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-somewhere-2
-
-### Outbound Sales Representative
-- **Company:** Somewhere
-- **Salary:** $1,500 – $2,300 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-somewhere
-
-### Sales Development Representative
-- **Company:** Somewhere
-- **Salary:** $1,200 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-hire-with-near
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -4090,7 +4048,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-23
 - **View Job:** https://globalcaribbeans.com/#card-client-partner-customer-success-sagan-recruitment
 
-## Software Development (190 open roles)
+## Software Development (191 open roles)
+
+### Senior QRadar Platform Engineer
+- **Company:** New Era Technology
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-21
+- **View Job:** https://globalcaribbeans.com/#card-senior-qradar-platform-engineer-new-era-technology
 
 ### Senior IT Project Manager - Remote Work
 - **Company:** BairesDev
