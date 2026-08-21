@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-21T06:53:37Z
+last_updated: 2026-08-21T12:55:16Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**760 active remote jobs** as of 2026-08-21.
+**761 active remote jobs** as of 2026-08-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -303,14 +303,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-office-manager-customer-operations-coordinator-home-services-somewhere
 
-## Customer support (17 open roles)
-
-### Sr. Customer Success Manager, MM/ENT - AMER
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-sr-customer-success-manager-mm-ent-amer-remote
+## Customer support (16 open roles)
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -852,7 +845,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (45 open roles)
+## Online Marketing (43 open roles)
 
 ### E-Commerce Graphic Designer & Photo Editor
 - **Company:** BruntWork
@@ -1099,13 +1092,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-freelance-performance-marketing-creative-strategist-superside-2
 
-### Freelance Performance Marketing Creative Strategist
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-freelance-performance-marketing-creative-strategist-superside
-
 ### Creative Strategist, Performance Marketing
 - **Company:** Superside
 - **Salary:** Not Disclosed
@@ -1161,13 +1147,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-organic-growth-manager-seo-content-marketing-remotely-talents-client-confidentia
-
-### Senior Creative Strategist
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-22
-- **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential
 
 ## Operations (55 open roles)
 
@@ -1560,7 +1539,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-junior-procurement-analyst-sagan-recruitment
 
-## Other (183 open roles)
+## Other (185 open roles)
+
+### Solar PV & Battery Storage (ESS) CAD Designer / Drafter
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 / month
+- **Location:** Remote
+- **Posted:** 2026-08-21
+- **View Job:** https://globalcaribbeans.com/#card-solar-pv-battery-storage-ess-cad-designer-drafter-sagan-recruitment
+
+### Bilingual Dental Patient Care Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-21
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-dental-patient-care-coordinator-bruntwork
 
 ### Mid-Level Web Engineer – React
 - **Company:** Vigil
@@ -3342,7 +3336,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-accounts-billing-netlify
 
-## Recruiting (19 open roles)
+## Recruiting (20 open roles)
+
+### Senior Talent Sourcer
+- **Company:** Sagan Recruitment
+- **Salary:** $1,600 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-08-21
+- **View Job:** https://globalcaribbeans.com/#card-senior-talent-sourcer-sagan-recruitment
 
 ### High-Volume Outbound Recruiter (Part-Time)
 - **Company:** Sagan Recruitment
@@ -4048,7 +4049,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-23
 - **View Job:** https://globalcaribbeans.com/#card-client-partner-customer-success-sagan-recruitment
 
-## Software Development (191 open roles)
+## Software Development (192 open roles)
+
+### Senior Data Engineer
+- **Company:** Lemon.io
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-21
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-lemon-io
 
 ### Senior QRadar Platform Engineer
 - **Company:** New Era Technology
