@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-22T01:26:02Z
+last_updated: 2026-08-22T06:46:40Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -325,7 +325,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-office-manager-customer-operations-coordinator-home-services-somewhere
 
-## Customer support (16 open roles)
+## Customer support (15 open roles)
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -432,13 +432,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-associate-linux-support-engineer-canonical
-
-### Inside Sales Closer
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-inside-sales-closer-sagan-recruitment
 
 ## Data/Analytics (56 open roles)
 
@@ -1583,6 +1576,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-junior-procurement-analyst-sagan-recruitment
 
 ## Other (182 open roles)
+
+### Director, Corporate Actions
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-22
+- **View Job:** https://globalcaribbeans.com/#card-director-corporate-actions-alpaca
 
 ### UI/UX Designer (Work From Home)
 - **Company:** Persona
@@ -2859,14 +2859,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-23
 - **View Job:** https://globalcaribbeans.com/#card-product-sales-specialist-pet-health-cst-timezone-tribe-wellness
 
-### Legal Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-legal-operations-coordinator-sagan-recruitment
+## Project Management (71 open roles)
 
-## Project Management (70 open roles)
+### GTM Product Manager - Marketing Operations
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-22
+- **View Job:** https://globalcaribbeans.com/#card-gtm-product-manager-marketing-operations-remote
 
 ### Delivery Manager - Remote Work
 - **Company:** BairesDev
@@ -3358,7 +3358,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-accounts-billing-netlify
 
-## Recruiting (20 open roles)
+## Recruiting (21 open roles)
+
+### Senior Technical Recruiter
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-alpaca
 
 ### High-Volume Outbound Recruiter (Part-Time Project)
 - **Company:** Sagan Recruitment
@@ -3503,12 +3510,19 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Sales (83 open roles)
 
-### SDR
-- **Company:** Somewhere
-- **Salary:** $1,200 – $1,600 / month
+### Sales & Customer Engagement Specialist (SMS, Email & Live Chat) | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-22
-- **View Job:** https://globalcaribbeans.com/#card-sdr-somewhere-2
+- **View Job:** https://globalcaribbeans.com/#card-sales-customer-engagement-specialist-sms-email-live-chat-scale-army-scale-army
+
+### Account Executive | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-22
+- **View Job:** https://globalcaribbeans.com/#card-account-executive-scale-army-scale-army
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -4085,21 +4099,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-director-latino-legends
 
-### Client Partner (Customer Success)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-client-partner-customer-success-sagan-recruitment
-
-## Software Development (192 open roles)
-
-### Full
-- **Company:** Somewhere
-- **Salary:** $2,200 – $4,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-22
-- **View Job:** https://globalcaribbeans.com/#card-full-somewhere
+## Software Development (191 open roles)
 
 ### Senior Data Engineer
 - **Company:** Lemon.io
