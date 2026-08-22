@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-22T06:46:40Z
+last_updated: 2026-08-22T12:46:48Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**767 active remote jobs** as of 2026-08-22.
+**764 active remote jobs** as of 2026-08-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1575,7 +1575,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-junior-procurement-analyst-sagan-recruitment
 
-## Other (182 open roles)
+## Other (181 open roles)
 
 ### Director, Corporate Actions
 - **Company:** Alpaca
@@ -2852,13 +2852,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-property-management-specialist-hire-with-near
 
-### Product Sales Specialist - Pet Health (CST timezone)
-- **Company:** Tribe Wellness
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-product-sales-specialist-pet-health-cst-timezone-tribe-wellness
-
 ## Project Management (71 open roles)
 
 ### GTM Product Manager - Marketing Operations
@@ -3508,21 +3501,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-formwork-shoring-detailer-technical-coordinator-somewhere
 
-## Sales (83 open roles)
-
-### Sales & Customer Engagement Specialist (SMS, Email & Live Chat) | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-22
-- **View Job:** https://globalcaribbeans.com/#card-sales-customer-engagement-specialist-sms-email-live-chat-scale-army-scale-army
-
-### Account Executive | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-22
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-scale-army-scale-army
+## Sales (81 open roles)
 
 ### Sales Development Representative
 - **Company:** Hire With Near
