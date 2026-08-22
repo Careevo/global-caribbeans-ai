@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-22T12:46:48Z
+last_updated: 2026-08-22T18:35:51Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**764 active remote jobs** as of 2026-08-22.
+**763 active remote jobs** as of 2026-08-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -433,7 +433,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-associate-linux-support-engineer-canonical
 
-## Data/Analytics (56 open roles)
+## Data/Analytics (55 open roles)
 
 ### SEO & AI Search Manager
 - **Company:** Virtual Latinos
@@ -820,13 +820,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-dtc-marketing-specialist-somewhere
-
-### Real Estate Valuation Analyst (Residential Underwriting)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-23
-- **View Job:** https://globalcaribbeans.com/#card-real-estate-valuation-analyst-residential-underwriting-sagan-recruitment
 
 ## IT/Engineering (3 open roles)
 
