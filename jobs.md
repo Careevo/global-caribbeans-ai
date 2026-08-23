@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-23T12:48:02Z
+last_updated: 2026-08-23T18:34:38Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**760 active remote jobs** as of 2026-08-23.
+**757 active remote jobs** as of 2026-08-23.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -853,7 +853,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (43 open roles)
+## Online Marketing (42 open roles)
 
 ### Content & Lifecycle Marketing Specialist
 - **Company:** BruntWork
@@ -1149,14 +1149,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-demand-generation-wordpress-vip-automattic-careers
 
-### Video Editor
-- **Company:** Latino Legends
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-video-editor-latino-legends-2
-
-## Operations (55 open roles)
+## Operations (54 open roles)
 
 ### Operations & Finance Coordinator
 - **Company:** Sagan Recruitment
@@ -1539,13 +1532,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-ecommerce-manager-hire-with-near
-
-### Marketing Screening Team Lead
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-marketing-screening-team-lead-toptal
 
 ## Other (181 open roles)
 
@@ -3473,7 +3459,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-formwork-shoring-detailer-technical-coordinator-somewhere
 
-## Sales (81 open roles)
+## Sales (80 open roles)
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -4042,13 +4028,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-sales-representative-sagan-recruitment
-
-### Director
-- **Company:** Latino Legends
-- **Salary:** $85,000 – $120,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-director-latino-legends
 
 ## Software Development (191 open roles)
 
