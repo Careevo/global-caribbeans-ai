@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-23T01:39:46Z
+last_updated: 2026-08-23T06:47:53Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**762 active remote jobs** as of 2026-08-23.
+**761 active remote jobs** as of 2026-08-23.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1163,7 +1163,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-organic-growth-manager-seo-content-marketing-remotely-talents-client-confidentia
 
-## Operations (56 open roles)
+## Operations (55 open roles)
 
 ### Operations & Finance Coordinator
 - **Company:** Sagan Recruitment
@@ -1553,13 +1553,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-marketing-screening-team-lead-toptal
-
-### Junior Procurement Analyst
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $1,700 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-junior-procurement-analyst-sagan-recruitment
 
 ## Other (181 open roles)
 
