@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-23T06:47:53Z
+last_updated: 2026-08-23T12:48:02Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**761 active remote jobs** as of 2026-08-23.
+**760 active remote jobs** as of 2026-08-23.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -853,7 +853,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (44 open roles)
+## Online Marketing (43 open roles)
 
 ### Content & Lifecycle Marketing Specialist
 - **Company:** BruntWork
@@ -1155,13 +1155,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-24
 - **View Job:** https://globalcaribbeans.com/#card-video-editor-latino-legends-2
-
-### Organic Growth Manager (SEO & Content Marketing)
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-organic-growth-manager-seo-content-marketing-remotely-talents-client-confidentia
 
 ## Operations (55 open roles)
 
