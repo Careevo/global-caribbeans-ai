@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-24T01:37:49Z
+last_updated: 2026-08-24T07:05:41Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**755 active remote jobs** as of 2026-08-24.
+**751 active remote jobs** as of 2026-08-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (33 open roles)
+## Accounting/Bookkeeping (32 open roles)
 
 ### Senior Client Accountant
 - **Company:** Sagan Recruitment
@@ -65,13 +65,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-accounts-payable-specialist-hire-with-near
-
-### Client Onboarding Accountant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-client-onboarding-accountant-bruntwork
 
 ### Senior Accountant
 - **Company:** Sagan Recruitment
@@ -250,7 +243,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-26
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-property-management-sagan-recruitment
 
-## Admin (9 open roles)
+## Admin (10 open roles)
+
+### Bilingual Medical Receptionist – Patient & Billing Support
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-receptionist-patient-billing-support-bruntwork
 
 ### Customer Support & E-commerce Assistant
 - **Company:** BruntWork
@@ -318,7 +319,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-automattic-careers
 
-## Customer support (15 open roles)
+## Customer support (16 open roles)
+
+### Bilingual Customer Service & Scheduling Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-customer-service-scheduling-coordinator-bruntwork
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -814,7 +823,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-dtc-marketing-specialist-somewhere
 
-## IT/Engineering (3 open roles)
+## IT/Engineering (2 open roles)
 
 ### Senior IT Systems Administrator & Team Lead (MSP)
 - **Company:** Sagan Recruitment
@@ -829,13 +838,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-infrastructure-engineer-on-prem-remote-work-ref-297490-bairesdev
-
-### Senior IT Systems Administrator & Team Lead
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-sagan-recruitment
 
 ## Legal (2 open roles)
 
@@ -1149,7 +1151,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-demand-generation-wordpress-vip-automattic-careers
 
-## Operations (54 open roles)
+## Operations (53 open roles)
 
 ### Operations & Finance Coordinator
 - **Company:** Sagan Recruitment
@@ -1342,13 +1344,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-m-a-integration-lead-somewhere
 
-### Trade Surveillance Analyst 1 — Financial Crimes Department
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-trade-surveillance-analyst-1-financial-crimes-department-alpaca
-
 ### IT Operations Specialist
 - **Company:** Alpaca
 - **Salary:** Not Disclosed
@@ -1533,7 +1528,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-ecommerce-manager-hire-with-near
 
-## Other (180 open roles)
+## Other (178 open roles)
 
 ### Director, Corporate Actions
 - **Company:** Alpaca
@@ -1822,13 +1817,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Worldwide / Remote
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-mid-level-frontend-react-engineer-vigil
-
-### Finance Application Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-finance-application-specialist-bruntwork
 
 ### SOC Engineer - Remote Work | REF#300863
 - **Company:** BairesDev
@@ -2315,13 +2303,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-graphic-designer-alpaca
-
-### Senior Fraud Analyst – Fraud Investigations & Financial Crimes Monitoring
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-fraud-analyst-fraud-investigations-financial-crimes-monitoring-alpaca
 
 ### Join our Talent Community!
 - **Company:** Quanata
@@ -3452,7 +3433,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-formwork-shoring-detailer-technical-coordinator-somewhere
 
-## Sales (79 open roles)
+## Sales (78 open roles)
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -3532,14 +3513,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-presales-analyst-remote-work-bairesdev
-
-### Bilingual B2B Appointment Setter
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-b2b-appointment-setter-bruntwork
 
 ### Salesperson
 - **Company:** Remote Leverage
