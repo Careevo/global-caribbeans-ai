@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-24T07:05:41Z
+last_updated: 2026-08-24T12:57:42Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**751 active remote jobs** as of 2026-08-24.
+**753 active remote jobs** as of 2026-08-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (32 open roles)
+## Accounting/Bookkeeping (33 open roles)
+
+### Construction Operations & Project Coordinator (QuickBooks)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-construction-operations-project-coordinator-quickbooks-bruntwork
 
 ### Senior Client Accountant
 - **Company:** Sagan Recruitment
@@ -319,7 +326,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-automattic-careers
 
-## Customer support (16 open roles)
+## Customer support (17 open roles)
+
+### Bilingual Level 2 Technical Support Specialist (SaaS & AI tools)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-level-2-technical-support-specialist-saas-ai-tools-bruntwork
 
 ### Bilingual Customer Service & Scheduling Coordinator
 - **Company:** BruntWork
@@ -435,7 +450,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-associate-linux-support-engineer-canonical
 
-## Data/Analytics (55 open roles)
+## Data/Analytics (54 open roles)
 
 ### SEO & AI Search Manager
 - **Company:** Virtual Latinos
@@ -669,13 +684,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-circles-regional-lead-part-time-logos
 
-### Crypto Operations Lead
-- **Company:** IFT
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-crypto-operations-lead-ift
-
 ### Circles: Regional Lead (Part Time)
 - **Company:** IFT
 - **Salary:** Not Disclosed
@@ -855,14 +863,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (42 open roles)
-
-### Content & Lifecycle Marketing Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-content-lifecycle-marketing-specialist-bruntwork
+## Online Marketing (41 open roles)
 
 ### Marketing Content Manager
 - **Company:** Remote Leverage
@@ -1151,7 +1152,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-demand-generation-wordpress-vip-automattic-careers
 
-## Operations (53 open roles)
+## Operations (54 open roles)
+
+### Data Entry Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-data-entry-coordinator-sagan-recruitment
 
 ### Operations & Finance Coordinator
 - **Company:** Sagan Recruitment
@@ -1529,6 +1537,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-ecommerce-manager-hire-with-near
 
 ## Other (178 open roles)
+
+### Provider Enrollment Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,300 / month
+- **Location:** Global
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-provider-enrollment-specialist-sagan-recruitment
 
 ### Director, Corporate Actions
 - **Company:** Alpaca
@@ -2693,13 +2708,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-devsecops-engineer-raya-2
 
-### People Success Lead - Fixed Term 12 Month Contract
-- **Company:** Collabora
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-people-success-lead-fixed-term-12-month-contract-collabora
-
 ### Embedded Linux Consultant Engineer
 - **Company:** Collabora
 - **Salary:** Not Disclosed
@@ -3283,7 +3291,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-accounts-billing-netlify
 
-## Recruiting (21 open roles)
+## Recruiting (22 open roles)
+
+### Recruiter / Talent Sourcer
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-recruiter-talent-sourcer-sagan-recruitment
 
 ### Senior Technical Recruiter
 - **Company:** Alpaca
@@ -3433,7 +3448,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-formwork-shoring-detailer-technical-coordinator-somewhere
 
-## Sales (78 open roles)
+## Sales (79 open roles)
+
+### Sales Lead Generation Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-sales-lead-generation-specialist-bruntwork
+
+### Appointment Setter (Outbound Sales)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-08-24
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-outbound-sales-sagan-recruitment
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -3980,14 +4010,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-hire-with-near-2
 
-### Inside Sales Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-25
-- **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-sagan-recruitment
-
-## Software Development (191 open roles)
+## Software Development (190 open roles)
 
 ### Senior Data Engineer
 - **Company:** Lemon.io
@@ -4976,13 +4999,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-junior-ubuntu-software-engineer-canonical
-
-### Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-2
 
 ### Golang + Kubernetes Developer - Remote Work | REF#298893
 - **Company:** BairesDev
