@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-23T18:34:38Z
+last_updated: 2026-08-24T01:37:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**757 active remote jobs** as of 2026-08-23.
+**755 active remote jobs** as of 2026-08-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1533,7 +1533,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-ecommerce-manager-hire-with-near
 
-## Other (181 open roles)
+## Other (180 open roles)
 
 ### Director, Corporate Actions
 - **Company:** Alpaca
@@ -2803,13 +2803,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-vice-president-latino-legends
 
-### Property Management Specialist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-property-management-specialist-hire-with-near
-
 ## Project Management (71 open roles)
 
 ### GTM Product Manager - Marketing Operations
@@ -3459,7 +3452,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-formwork-shoring-detailer-technical-coordinator-somewhere
 
-## Sales (80 open roles)
+## Sales (79 open roles)
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -4020,14 +4013,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-25
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-sagan-recruitment
-
-### Sales Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-24
-- **View Job:** https://globalcaribbeans.com/#card-sales-representative-sagan-recruitment
 
 ## Software Development (191 open roles)
 
