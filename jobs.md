@@ -2,25 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-25T01:27:33Z
+last_updated: 2026-08-25T06:54:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**667 active remote jobs** as of 2026-08-25.
+**665 active remote jobs** as of 2026-08-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (27 open roles)
-
-### Fractional Chief Financial Officer (CFO)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-fractional-chief-financial-officer-cfo-somewhere
+## Accounting/Bookkeeping (26 open roles)
 
 ### Construction Operations & Project Coordinator (QuickBooks)
 - **Company:** BruntWork
@@ -770,7 +763,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-legal-counsel-coinmarketcap-2
 
-## Online Marketing (36 open roles)
+## Online Marketing (37 open roles)
+
+### Senior Creative Designer, Marketing
+- **Company:** Brand.co
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
 
 ### Social Media Manager
 - **Company:** Remote Leverage
@@ -1024,14 +1024,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-demand-generation-wordpress-vip-automattic-careers
 
-## Operations (53 open roles)
-
-### Capital Operations Specialist - Service
-- **Company:** Somewhere
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-capital-operations-specialist-service-somewhere
+## Operations (51 open roles)
 
 ### Apparel Artwork & Revision Coordinator
 - **Company:** Hired Remoteli
@@ -1137,14 +1130,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-head-of-content-media-alpaca
-
-### Operations Specialist
-- **Company:** Hire With Near
-- **Salary:** $1,200 – $2,800 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-operations-specialist-hire-with-near
 
 ### Property Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -1401,7 +1386,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-screening-operations-specialist-toptal
 
-## Other (149 open roles)
+## Other (150 open roles)
+
+### Bilingual Civil Litigation Legal Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-25
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-civil-litigation-legal-assistant-bruntwork
 
 ### Data Entry Clerk - Remote Work
 - **Company:** BairesDev
@@ -3388,7 +3381,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-majors-sales-director-fivetran
 
-## Software Development (192 open roles)
+## Software Development (191 open roles)
 
 ### Software Engineer (CircleCI) - Remote Work
 - **Company:** BairesDev
@@ -3606,13 +3599,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-ai-operations-engineer-clickhouse
-
-### Full Stack Engineer
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-14
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-hire-with-near
 
 ### Senior Full-Stack Software Engineer, AI Core
 - **Company:** Circle.so
