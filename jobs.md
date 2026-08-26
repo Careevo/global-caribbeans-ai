@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-26T06:55:41Z
+last_updated: 2026-08-26T12:59:54Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**705 active remote jobs** as of 2026-08-26.
+**709 active remote jobs** as of 2026-08-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (27 open roles)
+## Accounting/Bookkeeping (28 open roles)
+
+### Senior Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-sagan-recruitment-3
 
 ### Senior FP&A Analyst, Cloud Hosting
 - **Company:** GitLab
@@ -205,7 +212,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near-3
 
-## Admin (10 open roles)
+## Admin (11 open roles)
+
+### Executive Assistant & Customer Care Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-customer-care-coordinator-sagan-recruitment
 
 ### Senior Bilingual Clinical Support Assistant
 - **Company:** BruntWork
@@ -280,7 +294,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-automattic-careers
 
-## Customer support (19 open roles)
+## Customer support (20 open roles)
+
+### Medical Billing Customer Service Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $1,500 / month
+- **Location:** Remote
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-medical-billing-customer-service-representative-sagan-recruitment-3
+
+### Medical Billing Customer Service Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-medical-billing-customer-service-representative-sagan-recruitment-2
 
 ### Senior Technical Customer Support Engineer
 - **Company:** ClickHouse
@@ -296,14 +324,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-08-24
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-insurance-support-specialist-bruntwork
-
-### Bilingual Level 2 Technical Support Specialist (SaaS & AI tools)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-24
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-level-2-technical-support-specialist-saas-ai-tools-bruntwork
 
 ### Bilingual Customer Service & Scheduling Coordinator
 - **Company:** BruntWork
@@ -783,7 +803,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-legal-counsel-canonical
 
-## Online Marketing (38 open roles)
+## Online Marketing (39 open roles)
+
+### PPC Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,200 / month
+- **Location:** Global
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-ppc-specialist-sagan-recruitment
 
 ### Email Marketing Specialist (Direct Response Funnel & GHL)
 - **Company:** Sagan Recruitment
@@ -1052,6 +1079,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-demand-generation-wordpress-vip-automattic-careers
 
 ## Operations (54 open roles)
+
+### Maintenance Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Remote
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment-2
 
 ### Senior Logistics & Operations Specialist
 - **Company:** Hired Remoteli
@@ -1427,13 +1461,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-operations-specialist-somewhere
-
-### Screening Operations Specialist
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-27
-- **View Job:** https://globalcaribbeans.com/#card-screening-operations-specialist-toptal
 
 ## Other (168 open roles)
 
