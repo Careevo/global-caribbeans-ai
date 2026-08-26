@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-26T01:37:51Z
+last_updated: 2026-08-26T06:55:41Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**704 active remote jobs** as of 2026-08-26.
+**705 active remote jobs** as of 2026-08-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (28 open roles)
+## Accounting/Bookkeeping (27 open roles)
 
 ### Senior FP&A Analyst, Cloud Hosting
 - **Company:** GitLab
@@ -49,14 +49,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-client-accountant-sagan-recruitment
-
-### Senior Accounts Officer – Xero, AR, Australian Accounting
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-accounts-officer-xero-ar-australian-accounting-bruntwork
 
 ### Human Resources Director
 - **Company:** Sagan Recruitment
@@ -1443,7 +1435,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-27
 - **View Job:** https://globalcaribbeans.com/#card-screening-operations-specialist-toptal
 
-## Other (167 open roles)
+## Other (168 open roles)
+
+### Aesthetic Patient Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-aesthetic-patient-coordinator-bruntwork
 
 ### Senior Solutions Architect - Remote Work | REF#302241
 - **Company:** BairesDev
@@ -3564,7 +3563,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-majors-sales-director-fivetran
 
-## Software Development (204 open roles)
+## Software Development (205 open roles)
+
+### Senior Integration Developer (Celigo / NetSuite)
+- **Company:** Sagan Recruitment
+- **Salary:** $2,800 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-26
+- **View Job:** https://globalcaribbeans.com/#card-senior-integration-developer-celigo-netsuite-sagan-recruitment-2
 
 ### IT Support Analyst - Remote Work
 - **Company:** BairesDev
