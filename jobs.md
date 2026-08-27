@@ -2,18 +2,33 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-27T08:28:15Z
+last_updated: 2026-08-27T22:02:14Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**749 active remote jobs** as of 2026-08-27.
+**646 active remote jobs** as of 2026-08-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
 ## Accounting/Bookkeeping (27 open roles)
+
+### Treasury and Billing Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-treasury-and-billing-analyst-remote-work-bairesdev
+
+### Office Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,200 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-office-manager-sagan-recruitment
 
 ### Staff Accountant (AP/AR Focused)
 - **Company:** Sagan Recruitment
@@ -163,13 +178,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-sagan-recruitment-3
 
-### HR Operations Coordinator
-- **Company:** Alphalion
-- **Salary:** $18,000 – $26,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-hr-operations-coordinator-alphalion
-
 ### International Accounting Manager
 - **Company:** Alpaca
 - **Salary:** Not Disclosed
@@ -198,14 +206,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-accountant-somewhere-3
 
-### Finance Manager (12 months Contract)
-- **Company:** CoinMarketCap
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-finance-manager-12-months-contract-coinmarketcap
-
-## Admin (10 open roles)
+## Admin (8 open roles)
 
 ### Executive Assistant - Remote Work
 - **Company:** BairesDev
@@ -220,14 +221,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-customer-care-coordinator-sagan-recruitment
-
-### Senior Bilingual Clinical Support Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-bilingual-clinical-support-assistant-bruntwork
 
 ### Executive Assistant - Digital Marketing & Project Operations
 - **Company:** BruntWork
@@ -272,14 +265,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-sagan-recruitment-2
 
-### Executive Assistant to CEO
-- **Company:** Automattic Careers
-- **Salary:** $95,000 – $195,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-to-ceo-automattic-careers
+## Customer support (19 open roles)
 
-## Customer support (21 open roles)
+### Customer Service Representative
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-somewhere
 
 ### Customer Service Administrator
 - **Company:** BruntWork
@@ -410,28 +403,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-sagan-recruitment-3
 
-### Graduate Customer Success Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-graduate-customer-success-manager-canonical-2
+## Data/Analytics (38 open roles)
 
-### Sales & Customer Service Coordinator
-- **Company:** Somewhere
+### Recruiting Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-sales-customer-service-coordinator-somewhere
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-recruiting-manager-remote-work-bairesdev-2
 
-### Associate Linux Support Engineer
-- **Company:** Canonical
+### Recruiting Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-associate-linux-support-engineer-canonical
-
-## Data/Analytics (51 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-recruiting-manager-remote-work-bairesdev
 
 ### Power BI Junior Analyst - Remote Work
 - **Company:** BairesDev
@@ -686,112 +672,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-head-of-security-operations-canonical
 
-### Senior Spark Data Engineer - Remote Work | REF#298937
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-spark-data-engineer-remote-work-ref-298937-bairesdev
-
-### Senior Data Engineer (Azure) - Remote Work | REF#298941
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-azure-remote-work-ref-298941-bairesdev
-
-### Senior ETL Developer - Remote Work | REF#298890
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-etl-developer-remote-work-ref-298890-bairesdev
-
-### Lead Data Engineer (Snowflake) - Remote work | REF#298944
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-lead-data-engineer-snowflake-remote-work-ref-298944-bairesdev
-
-### Data Analyst - Growth Marketing - Remote Work | REF#298885
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-data-analyst-growth-marketing-remote-work-ref-298885-bairesdev
-
-### Senior Data Engineer (Azure Databricks, Python) - Remote Work | REF#298943
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-azure-databricks-python-remote-work-ref-298943-bairesdev
-
-### Business Intelligence Specialist - Remote Work | REF#298877
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-business-intelligence-specialist-remote-work-ref-298877-bairesdev
-
-### Influencer coordinator
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-influencer-coordinator-somewhere
-
-### Senior Data Engineer (Python / AWS / ML Pipelines)
-- **Company:** Vigil
-- **Salary:** Not Disclosed
-- **Location:** Worldwide / Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-python-aws-ml-pipelines-vigil
-
-### Senior Pricing Data Scientist
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-pricing-data-scientist-fivetran
-
-### Senior Instructional Designer
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-instructional-designer-fivetran
-
-### Senior Director, People Strategy & Execution
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-director-people-strategy-execution-fivetran
-
-### Senior Director, Global Sales Compensation
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-director-global-sales-compensation-fivetran
-
-### Regional Vice President of Sales
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-regional-vice-president-of-sales-fivetran
-
-### Global Alliance Lead, Microsoft
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-global-alliance-lead-microsoft-fivetran-2
-
-## IT/Engineering (2 open roles)
+## IT/Engineering (1 open roles)
 
 ### Senior IT Systems Administrator & Team Lead (MSP)
 - **Company:** Sagan Recruitment
@@ -799,13 +680,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-msp-sagan-recruitment
-
-### Infrastructure Engineer (On-Prem) - Remote Work | REF#297490
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-infrastructure-engineer-on-prem-remote-work-ref-297490-bairesdev
 
 ## Legal (1 open roles)
 
@@ -816,7 +690,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-legal-counsel-canonical
 
-## Online Marketing (41 open roles)
+## Online Marketing (33 open roles)
+
+### Marketing Content Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-marketing-content-specialist-remote-work-bairesdev-2
+
+### Marketing Content Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-marketing-content-specialist-remote-work-bairesdev
 
 ### Growth Operations Specialist (Work From Home)
 - **Company:** Persona
@@ -965,13 +853,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-junior-media-buyer-ad-operations-coordinator-hire-with-near
 
-### VP of Growth & Customer Experience
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-vp-of-growth-customer-experience-somewhere
-
 ### SEO Strategist
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -1042,70 +923,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-graduate-partner-marketing-manager-canonical
 
-### Global Head of Cloud Alliances
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-global-head-of-cloud-alliances-canonical-2
+## Operations (47 open roles)
 
-### Interim Marketing Director
-- **Company:** Bobbie
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-interim-marketing-director-bobbie
-
-### Freelance Performance Marketing Creative Strategist
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-freelance-performance-marketing-creative-strategist-superside-2
-
-### Creative Strategist, Performance Marketing
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-creative-strategist-performance-marketing-superside
-
-### DTC Marketing Specialist - Email, Social & Growth
-- **Company:** Somewhere
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-dtc-marketing-specialist-email-social-growth-somewhere
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev-2
 
-### Senior Marketing Specialist
-- **Company:** CoinMarketCap
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-marketing-specialist-coinmarketcap
-
-### Global VP Marketing/CMO
-- **Company:** CoinMarketCap
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-global-vp-marketing-cmo-coinmarketcap
-
-### Alliances & Channels Leader
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-alliances-channels-leader-canonical
-
-### Senior Manager, Demand Generation, WordPress VIP
-- **Company:** Automattic Careers
-- **Salary:** $140,000 – $180,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-demand-generation-wordpress-vip-automattic-careers
-
-## Operations (53 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev
 
 ### E-Commerce Operations Manager
 - **Company:** Somewhere
@@ -1270,13 +1102,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-creator-partnerships-coordinator-bobbie
 
-### Operational Specialist
-- **Company:** Hire With Near
-- **Salary:** $1,000 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-11
-- **View Job:** https://globalcaribbeans.com/#card-operational-specialist-hire-with-near
-
 ### Account Manager
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
@@ -1346,13 +1171,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-semi-senior-chargebee-engineer-remote-work-ref-297086-bairesdev
-
-### Security GRC Engineer - Remote Work | REF#297524
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-security-grc-engineer-remote-work-ref-297524-bairesdev
 
 ### Senior Indirect Sourcing Specialist
 - **Company:** Medtronic
@@ -1439,50 +1257,121 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-finance-admin-operations-manager-sagan-recruitment
 
-### Developer Productivity Engineer - Remote work | REF#298903
+## Other (171 open roles)
+
+### UiPath Developer - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-developer-productivity-engineer-remote-work-ref-298903-bairesdev
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-uipath-developer-remote-work-bairesdev
 
-### Facilities Operations Specialist
-- **Company:** Somewhere
+### Young Professional – Data Entry - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-young-professional-data-entry-remote-work-bairesdev
+
+### Financial Analyst
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-financial-analyst-hire-with-near-2
+
+### Bilingual Payroll Operations Administrator (Spanish/English)
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-facilities-operations-specialist-somewhere
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-payroll-operations-administrator-spanish-english-bruntwork
 
-### Financial Analyst
-- **Company:** Canonical
+### Staffing Solution Architect - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-financial-analyst-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-staffing-solution-architect-remote-work-bairesdev
 
-### Senior Revenue Operations Manager
-- **Company:** Automattic Careers
-- **Salary:** $140,000 – $200,000 / year
+### iOS Application Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-ios-application-developer-remote-work-bairesdev
+
+### Email Designer
+- **Company:** Stimulate
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-email-designer-stimulate
+
+### Motion Designer / Video Editor
+- **Company:** EFK
+- **Salary:** $40 – $50 / hour
+- **Location:** Remote
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-motion-designer-video-editor-efk
+
+### Senior Presales Lead - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-presales-lead-remote-work-bairesdev
+
+### Graphic Designer
+- **Company:** EFK
+- **Salary:** $60,000 – $70,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-efk
+
+### Palantir Foundry Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-palantir-foundry-engineer-remote-work-bairesdev
+
+### Sales Development Representative
+- **Company:** Somewhere
+- **Salary:** $1,200 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
+
+### Social Media Designer
+- **Company:** Creative Shop
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-social-media-designer-creative-shop
+
+### CRM Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-crm-manager-remote-work-bairesdev
+
+### Senior Video Editor & Graphic Designer
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-video-editor-graphic-designer-sagan-recruitment
+
+### Sales & Dispatch Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,300 – $2,000 / month
 - **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-revenue-operations-manager-automattic-careers
-
-### Global Alliance Lead
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-global-alliance-lead-fivetran-2
-
-### Global Alliance Lead
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-global-alliance-lead-fivetran
-
-## Other (188 open roles)
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-sales-dispatch-coordinator-sagan-recruitment-2
 
 ### CRM Coordinator
 - **Company:** Sagan Recruitment
@@ -1682,13 +1571,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-ux-product-designer-toybox-labs
-
-### Wholesale Real Estate Transaction Coordinator
-- **Company:** Rebuilt
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-wholesale-real-estate-transaction-coordinator-rebuilt
 
 ### Client Solutions Support Lead - Remote Work
 - **Company:** BairesDev
@@ -2417,34 +2299,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-remote-math-tutor-grades-5-8-think-academy-us
 
-### Auth0 Engineer - Remote Work | REF#297520
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-auth0-engineer-remote-work-ref-297520-bairesdev
-
-### Test Engineer (Mobile) - Remote Work | REF#297560
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-test-engineer-mobile-remote-work-ref-297560-bairesdev
-
-### Senior GRC Analyst - Remote Work | REF#297526
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-grc-analyst-remote-work-ref-297526-bairesdev
-
-### Senior Security Architect - Remote Work | REF#297528
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-security-architect-remote-work-ref-297528-bairesdev
-
 ### 1 on 1 Math Tutor (Grades 5-8)
 - **Company:** Think Academy US
 - **Salary:** $20 – $25 / hour
@@ -2608,48 +2462,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-freelance-senior-linguist-marketing-life-sciences-amharic-et-welo-data
 
-### Senior Data Modeler - Remote Work | REF#296335
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-modeler-remote-work-ref-296335-bairesdev
-
-### Business Process Analyst - Remote Work | REF#298883
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-business-process-analyst-remote-work-ref-298883-bairesdev
-
-### Business Process Analyst - Remote Work | REF#298884
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-business-process-analyst-remote-work-ref-298884-bairesdev
-
-### Email Copywriter - B2B Tech, AI Experience - Remote Work | REF#298889
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-email-copywriter-b2b-tech-ai-experience-remote-work-ref-298889-bairesdev
-
-### Staffing Analyst - Remote Work | REF#298872
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-staffing-analyst-remote-work-ref-298872-bairesdev
-
-### Staffing Analyst Lead - Remote Work | REF#298875
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-staffing-analyst-lead-remote-work-ref-298875-bairesdev
-
 ### Entry-Level AI Data Rater
 - **Company:** Welo Data
 - **Salary:** Not Disclosed
@@ -2657,161 +2469,84 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-entry-level-ai-data-rater-welo-data
 
-### Lead Creative Strategist
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-lead-creative-strategist-superside
+## Project Management (50 open roles)
 
-### Director of Deal Desk
-- **Company:** Superside
+### Technical Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-director-of-deal-desk-superside
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-technical-project-manager-remote-work-bairesdev-2
 
-### Creative (Motion Design)
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-creative-motion-design-superside
-
-### Conceptual Copywriter
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-conceptual-copywriter-superside
-
-### Associate Director (Studio Operations)
-- **Company:** Superside
+### Technical Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-associate-director-studio-operations-superside
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-technical-project-manager-remote-work-bairesdev
 
-### AI Video Creative
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-ai-video-creative-superside
-
-### AI Lead Creative
-- **Company:** Superside
+### Senior Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-ai-lead-creative-superside
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-project-manager-remote-work-bairesdev-2
 
-### AI Creative Director / AI Associate Creative Director
-- **Company:** Superside
+### Semi Senior Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-ai-creative-director-ai-associate-creative-director-superside
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-semi-senior-project-manager-remote-work-bairesdev-3
 
-### AI Creative
-- **Company:** Superside
+### Semi Senior Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-ai-creative-superside
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-semi-senior-project-manager-remote-work-bairesdev-2
 
-### Account Director
-- **Company:** Superside
+### Semi Senior Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-account-director-superside
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-semi-senior-project-manager-remote-work-bairesdev
 
-### Product Designer, Places
-- **Company:** Raya
+### Senior Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-product-designer-places-raya-2
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-project-manager-remote-work-bairesdev
 
-### DevSecOps Engineer
-- **Company:** Raya
-- **Salary:** $160,000 – $190,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-devsecops-engineer-raya-2
-
-### Embedded Linux Consultant Engineer
-- **Company:** Collabora
+### Project Manager (IT) - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-embedded-linux-consultant-engineer-collabora-2
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-it-remote-work-bairesdev-2
 
-### AI Agentic Trading Expert
-- **Company:** CoinMarketCap
+### Project Manager (IT) - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-ai-agentic-trading-expert-coinmarketcap
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-it-remote-work-bairesdev
 
-### Senior NodeJS Engineer
-- **Company:** Vigil
+### Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Worldwide / Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-nodejs-engineer-vigil
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-work-bairesdev-3
 
-### Senior Java Engineer
-- **Company:** Vigil
-- **Salary:** Not Disclosed
-- **Location:** Worldwide / Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-java-engineer-vigil
-
-### Power BI Implementation Consultant
-- **Company:** Vigil
-- **Salary:** Not Disclosed
-- **Location:** Worldwide / Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-power-bi-implementation-consultant-vigil
-
-### Engineering Manager - Linux Hardware Enablement
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-linux-hardware-enablement-canonical
-
-### Embedded Devices Software Solution Sales - All Roles
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-embedded-devices-software-solution-sales-all-roles-canonical
-
-### Community Engineer (multiple roles and seniority levels)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-community-engineer-multiple-roles-and-seniority-levels-canonical
-
-### Business Services Team Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-business-services-team-manager-canonical-2
-
-### Your Chance to Join Our Talent Community!
-- **Company:** Netlify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-your-chance-to-join-our-talent-community-netlify
-
-## Project Management (55 open roles)
+### Systems & Growth Project Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,250 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-systems-growth-project-manager-sagan-recruitment
 
 ### Project Manager - Remote Work
 - **Company:** BairesDev
@@ -3086,119 +2821,49 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-graduate-sales-development-representative-canonical
 
-### Senior IT Project Manager - Remote Work | REF#298945
+## Recruiting (21 open roles)
+
+### Senior Recruiter - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-it-project-manager-remote-work-ref-298945-bairesdev
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-remote-work-bairesdev-2
 
-### Project Manager
-- **Company:** Superside
+### Talent Acquisition Leader - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-project-manager-superside
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-leader-remote-work-bairesdev
 
-### Customer Success Manager
-- **Company:** Arcadia
-- **Salary:** $70,000 – $112,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-arcadia
-
-### Enterprise Project Manager
-- **Company:** Canonical
+### Senior Recruiter - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-project-manager-canonical-2
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-remote-work-bairesdev
 
-### Enterprise Customer Success Manager
-- **Company:** Canonical
+### Talent Acquisition Associate - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-customer-success-manager-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-associate-remote-work-bairesdev-4
 
-### Engineering Manager - Ubuntu Security
-- **Company:** Canonical
+### Talent Acquisition Associate - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-ubuntu-security-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-associate-remote-work-bairesdev-3
 
-### Engineering Manager - Ubuntu Linux Kernel
-- **Company:** Canonical
+### Talent Acquisition Associate - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-ubuntu-linux-kernel-canonical
-
-### Engineering Manager - Ubuntu Core
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-ubuntu-core-canonical
-
-### Engineering Manager - Security Standards and Hardening
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-security-standards-and-hardening-canonical
-
-### Engineering Manager, Managed Services
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-managed-services-canonical
-
-### Engineering Manager - AppArmor
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-apparmor-canonical
-
-### Embedded Linux Field Engineer for Devices/IoT
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-embedded-linux-field-engineer-for-devices-iot-canonical
-
-### Devices & IOT Field Engineering Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-devices-iot-field-engineering-manager-canonical
-
-### Cloud Engineering Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-cloud-engineering-manager-canonical-2
-
-### Senior Product Manager, Payments
-- **Company:** Automattic Careers
-- **Salary:** $170,000 – $240,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-payments-automattic-careers
-
-### Staff Product Manager (Accounts & Billing)
-- **Company:** Netlify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-accounts-billing-netlify
-
-## Recruiting (15 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-talent-acquisition-associate-remote-work-bairesdev-2
 
 ### Senior Technical Recruiter
 - **Company:** Customer.io
@@ -3305,7 +2970,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-regional-hr-manager-amer-canonical
 
-## Sales (75 open roles)
+## Sales (65 open roles)
+
+### Proposal Manager, Presales - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-proposal-manager-presales-remote-work-bairesdev
+
+### Senior Presales Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-presales-analyst-remote-work-bairesdev
+
+### Account Executive
+- **Company:** Hire With Near
+- **Salary:** $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-account-executive-hire-with-near
 
 ### Technical Manager - Remote Work
 - **Company:** BairesDev
@@ -3745,98 +3431,77 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-ibm-global-alliance-director-canonical
 
-### Head of Commercial - Develp
-- **Company:** Nimbus
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-head-of-commercial-develp-nimbus
+## Software Development (165 open roles)
 
-### Enterprise Business Development Representative (TALENT POOL)
-- **Company:** Superside
+### Full Stack Web Developer
+- **Company:** Somewhere
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-business-development-representative-talent-pool-superside
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-web-developer-somewhere-2
 
-### Enterprise Account Executive
-- **Company:** Canonical
+### Senior IT Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-it-project-manager-remote-work-bairesdev-3
 
-### Embedded Devices Software Solution Sales Manager
-- **Company:** Canonical
+### Senior IT Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-embedded-devices-software-solution-sales-manager-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-it-project-manager-remote-work-bairesdev-2
 
-### Embedded Devices Software Solution Sales Account Manager
-- **Company:** Canonical
+### Validation Engineer (AV) - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-embedded-devices-software-solution-sales-account-manager-canonical-2
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-validation-engineer-av-remote-work-bairesdev
 
-### Dell Global Alliance Director
-- **Company:** Canonical
+### Senior IT Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-dell-global-alliance-director-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-it-project-manager-remote-work-bairesdev
 
-### Cloud Alliances Business Development Lead
-- **Company:** Canonical
+### iOS Mobile Developer - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-cloud-alliances-business-development-lead-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-ios-mobile-developer-remote-work-bairesdev
 
-### Channel Partner Sales Executive
-- **Company:** Canonical
+### iOS Developer - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-channel-partner-sales-executive-canonical
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-ios-developer-remote-work-bairesdev
 
-### Business Development Representative
-- **Company:** Canonical
+### Full Stack Engineer - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-canonical-2
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-remote-work-bairesdev-2
 
-### Head of Commercial - Develp
-- **Company:** Iftother
+### Full Stack Engineer - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-head-of-commercial-develp-iftother
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-remote-work-bairesdev
 
-### Technical Account Manager, Newspack
-- **Company:** Automattic Careers
-- **Salary:** $73,000 – $130,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-technical-account-manager-newspack-automattic-careers
-
-### Senior Business Value Engineer
-- **Company:** Fivetran
+### Senior DevOps Engineer
+- **Company:** Lemon.io
 - **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-business-value-engineer-fivetran
-
-### Majors Sales Director
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-majors-sales-director-fivetran
-
-## Software Development (210 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-devops-engineer-lemon-io-2
 
 ### Clojure Full Stack Engineer - Remote Work
 - **Company:** BairesDev
@@ -4496,82 +4161,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-development-engineer-in-test-sdet-network-security-apps-job-board
 
-### Senior Cloud Security Engineer - Remote Work | REF#297494
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-cloud-security-engineer-remote-work-ref-297494-bairesdev
-
-### DevSecOps Engineer - Remote Work | REF#297514
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-devsecops-engineer-remote-work-ref-297514-bairesdev
-
-### Security Engineer | REF#297492
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-security-engineer-ref-297492-bairesdev
-
-### Software Engineer (Build Systems) - Remote Work | REF#297488
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-build-systems-remote-work-ref-297488-bairesdev
-
-### IAM Engineer - Remote Work | REF#297518
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-iam-engineer-remote-work-ref-297518-bairesdev
-
-### QA Engineer - Remote Work | REF#297563
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-qa-engineer-remote-work-ref-297563-bairesdev
-
-### SDET (Junior/Mid) - Remote Work | REF#297535
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-sdet-junior-mid-remote-work-ref-297535-bairesdev
-
-### Senior QA Engineer (Manual) - Remote Work | REF#297539
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-qa-engineer-manual-remote-work-ref-297539-bairesdev
-
 ### Senior Graphic Designer
 - **Company:** Lemon.io
 - **Salary:** Not Disclosed
 - **Location:** Americas
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-graphic-designer-lemon-io
-
-### Senior AppSec Engineer - Remote Work | REF#297512
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-appsec-engineer-remote-work-ref-297512-bairesdev
-
-### Quality Engineer - Remote Work | REF#297541
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-quality-engineer-remote-work-ref-297541-bairesdev
 
 ### Senior Full Stack Engineer — Platform Extensions
 - **Company:** Fueled
@@ -4987,324 +4582,9 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-junior-ubuntu-software-engineer-canonical
 
-### Golang + Kubernetes Developer - Remote Work | REF#298893
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-golang-kubernetes-developer-remote-work-ref-298893-bairesdev
-
-### Java Engineering Director | REF#298880
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-java-engineering-director-ref-298880-bairesdev
-
-### Kubernetes Platform Engineer - Remote Work | REF#298910
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-kubernetes-platform-engineer-remote-work-ref-298910-bairesdev
-
-### Mobile Engineer (Flutter) - Remote Work | REF#294732
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-mobile-engineer-flutter-remote-work-ref-294732-bairesdev
-
-### Java Director of Engineering - Remote Work | REF#298879
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-java-director-of-engineering-remote-work-ref-298879-bairesdev
-
-### Senior Platform Engineer - Remote Work | REF#298886
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-platform-engineer-remote-work-ref-298886-bairesdev
-
-### Staff Platform Engineer - Remote Work | REF#298887
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-staff-platform-engineer-remote-work-ref-298887-bairesdev
-
 ### Senior React & TypeScript Engineer - Remote Work | REF#298938
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-28
 - **View Job:** https://globalcaribbeans.com/#card-senior-react-typescript-engineer-remote-work-ref-298938-bairesdev
-
-### Python + React Fullstack Developer - Remote Work | REF#298882
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-python-react-fullstack-developer-remote-work-ref-298882-bairesdev
-
-### Senior Ruby on Rails Engineer - Remote Work | REF#298939
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-ruby-on-rails-engineer-remote-work-ref-298939-bairesdev
-
-### Node.js Engineering Director - Remote | REF#298878
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-node-js-engineering-director-remote-ref-298878-bairesdev
-
-### React Engineer - Remote Work | REF#298906
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-react-engineer-remote-work-ref-298906-bairesdev
-
-### Principal Platform Engineer - Remote Work | REF#298888
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-principal-platform-engineer-remote-work-ref-298888-bairesdev
-
-### Full-Stack Python + React + ML/DS Senior Developer - Remote Work | REF#298881
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-python-react-ml-ds-senior-developer-remote-work-ref-298881-bairesdev
-
-### Golang System Software Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-golang-system-software-engineer-canonical
-
-### Golang Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-golang-engineer-canonical
-
-### Senior Backend Engineer, Member Experience
-- **Company:** Raya
-- **Salary:** $180,000 – $240,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-member-experience-raya
-
-### Senior Backend Engineer, Core Discovery
-- **Company:** Raya
-- **Salary:** $180,000 – $230,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-core-discovery-raya-2
-
-### Smart Contract QA Engineer, Atlas Oracle
-- **Company:** CoinMarketCap
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-smart-contract-qa-engineer-atlas-oracle-coinmarketcap
-
-### iOS Engineer
-- **Company:** Vigil
-- **Salary:** Not Disclosed
-- **Location:** Worldwide / Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-ios-engineer-vigil
-
-### Senior Platform Engineer (AWS)
-- **Company:** Vigil
-- **Salary:** Not Disclosed
-- **Location:** Worldwide / Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-platform-engineer-aws-vigil
-
-### Engineering Manager - Solutions Engineering
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-solutions-engineering-canonical
-
-### Engineering Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-canonical-2
-
-### Engineering Manager - MLOps & Analytics
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-mlops-analytics-canonical
-
-### Engineering Manager for IAM (Identity and Access Management)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-for-iam-identity-and-access-management-canonical
-
-### Engineering Manager - Data Platform
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-data-platform-canonical
-
-### Engineering Manager- Ceph & Distributed Storage
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-ceph-distributed-storage-canonical
-
-### Engineering Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-canonical
-
-### Embedded Linux Senior Software Engineer - Optimisation
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-embedded-linux-senior-software-engineer-optimisation-canonical
-
-### Embedded & Desktop Linux Systems Engineer - Optimisation
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-embedded-desktop-linux-systems-engineer-optimisation-canonical
-
-### Distributed Systems Testing Software Engineer, Python / Go
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-distributed-systems-testing-software-engineer-python-go-canonical
-
-### Distributed Systems Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-distributed-systems-engineer-canonical
-
-### Containerization & Virtualisation Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-containerization-virtualisation-engineer-canonical
-
-### Cloud Support Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-cloud-support-engineer-canonical
-
-### Cloud Solutions Architect - Alliances
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-cloud-solutions-architect-alliances-canonical
-
-### Cloud Professional Services Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-cloud-professional-services-manager-canonical
-
-### Cloud Field Engineering Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-cloud-field-engineering-manager-canonical
-
-### Cloud Field Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-cloud-field-engineer-canonical
-
-### Alliances Field Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-alliances-field-engineer-canonical-2
-
-### Performance Engineer - Benchmarking
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-performance-engineer-benchmarking-supabase
-
-### Performance Engineer - Performance Analysis & Tuning
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-performance-engineer-performance-analysis-tuning-supabase
-
-### Senior Systems Engineer
-- **Company:** Automattic Careers
-- **Salary:** $120,000 – $180,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-systems-engineer-automattic-careers
-
-### Experienced Software Engineer
-- **Company:** Automattic Careers
-- **Salary:** $70,000 – $170,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-experienced-software-engineer-automattic-careers
-
-### Senior Staff Software Engineer
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-staff-software-engineer-fivetran
-
-### Senior Platform Software Engineer, Transport
-- **Company:** Fivetran
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-platform-software-engineer-transport-fivetran-2
-
-### Software Engineer - PlanetScale Postgres
-- **Company:** PlanetScale
-- **Salary:** $120,000 – $290,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-28
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-planetscale-postgres-planetscale
