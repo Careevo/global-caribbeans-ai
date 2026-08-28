@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-28T10:41:53Z
+last_updated: 2026-08-28T21:58:58Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**604 active remote jobs** as of 2026-08-28.
+**515 active remote jobs** as of 2026-08-28.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (28 open roles)
+## Accounting/Bookkeeping (27 open roles)
+
+### Controller / Head of Finance
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $5,000 / month
+- **Location:** Global
+- **Posted:** 2026-08-28
+- **View Job:** https://globalcaribbeans.com/#card-controller-head-of-finance-sagan-recruitment
+
+### Accounting Manager
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-28
+- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-hire-with-near-2
 
 ### Accounts Payable Accountant
 - **Company:** Hire With Near
@@ -43,13 +57,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-ap-ar-focused-sagan-recruitment
-
-### Billing Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $2,100 / month
-- **Location:** Remote
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-billing-operations-coordinator-sagan-recruitment
 
 ### Senior Accountant
 - **Company:** Sagan Recruitment
@@ -85,14 +92,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-senior-client-accountant-sagan-recruitment
-
-### Human Resources Director
-- **Company:** Sagan Recruitment
-- **Salary:** $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-human-resources-director-sagan-recruitment
 
 ### Property Accountant
 - **Company:** Sagan Recruitment
@@ -206,13 +205,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-somewhere
 
-### Accountant
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-accountant-somewhere-3
-
 ## Admin (8 open roles)
 
 ### Administrative Assistant
@@ -272,7 +264,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-latino-legends
 
-## Customer support (17 open roles)
+## Customer support (16 open roles)
 
 ### Customer Service Representative
 - **Company:** Somewhere
@@ -388,14 +380,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-and-dispatcher-offshore-launch
 
-### Support Engineering Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-support-engineering-manager-canonical
-
-## Data/Analytics (37 open roles)
+## Data/Analytics (33 open roles)
 
 ### Head of AI Transformation
 - **Company:** Somewhere
@@ -629,34 +614,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-bi-analyst-remote-work-ref-297070-bairesdev
 
-### Circles: Regional Lead (Part Time)
-- **Company:** Logos
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-circles-regional-lead-part-time-logos
-
-### Circles: Regional Lead (Part Time)
-- **Company:** IFT
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-circles-regional-lead-part-time-ift
-
-### Senior Manager, Data Science & Analytics
-- **Company:** Customer.io
-- **Salary:** $170,000 – $200,000 / year
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-data-science-analytics-customer-io
-
-### Staff Engineer, Development Lifecycle
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-staff-engineer-development-lifecycle-canonical-2
-
 ## IT/Engineering (1 open roles)
 
 ### Senior IT Systems Administrator & Team Lead (MSP)
@@ -666,7 +623,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-msp-sagan-recruitment
 
-## Online Marketing (30 open roles)
+## Online Marketing (33 open roles)
+
+### SEO Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-28
+- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-sagan-recruitment-2
+
+### PPC Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-28
+- **View Job:** https://globalcaribbeans.com/#card-ppc-specialist-sagan-recruitment-2
+
+### Social Media Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $3,500 / month
+- **Location:** Remote
+- **Posted:** 2026-08-28
+- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
 ### SEO Marketing Specialist
 - **Company:** Sagan Recruitment
@@ -879,7 +857,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-director-gtm-finance-customer-io
 
-## Operations (50 open roles)
+## Operations (42 open roles)
 
 ### Construction Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -951,13 +929,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment-2
-
-### Senior Logistics & Operations Specialist
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-logistics-operations-specialist-hired-remoteli
 
 ### Cleaning Operations Coordinator
 - **Company:** BruntWork
@@ -1080,13 +1051,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-### Creator Partnerships Coordinator
-- **Company:** Bobbie
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-12
-- **View Job:** https://globalcaribbeans.com/#card-creator-partnerships-coordinator-bobbie
-
 ### Account Manager
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
@@ -1193,49 +1157,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-operations-manager-office-manager-offshore-launch-2
 
-### Technical Operations Manager
-- **Company:** Customer.io
-- **Salary:** $117,000 – $120,000 / year
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-technical-operations-manager-customer-io-2
+## Other (150 open roles)
 
-### Technical Marketing Operations Manager
-- **Company:** Customer.io
-- **Salary:** $105,000 – $125,000 / year
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-technical-marketing-operations-manager-customer-io
-
-### Intercompany Process Transformation Manager
-- **Company:** Fresenius Medical Care
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-intercompany-process-transformation-manager-fresenius-medical-care
-
-### Inventory & Logistics Lead
+### Estimating/Takeoff Administrative Specialist
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-inventory-logistics-lead-somewhere
-
-### Customer Success Manager
-- **Company:** THE/STUDIO
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-the-studio
-
-### Staff Security Operations Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-staff-security-operations-engineer-canonical
-
-## Other (160 open roles)
+- **Posted:** 2026-08-28
+- **View Job:** https://globalcaribbeans.com/#card-estimating-takeoff-administrative-specialist-somewhere
 
 ### Bilingual Clinical Care Coordination Specialist
 - **Company:** BruntWork
@@ -1486,20 +1415,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-talent-quality-auditor-remote-work-bairesdev
-
-### Lead Product Designer, Marketplace
-- **Company:** Circle.so
-- **Salary:** $140,000 – $170,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-lead-product-designer-marketplace-circle-so
-
-### Lead Product Designer
-- **Company:** Circle.so
-- **Salary:** $140,000 – $170,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-lead-product-designer-circle-so
 
 ### DevOps Tech Lead - Remote Work
 - **Company:** BairesDev
@@ -2307,70 +2222,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-29
 - **View Job:** https://globalcaribbeans.com/#card-dispatcher-offshore-launch-2
 
-### Volunteer position: Logos Circles Organiser
-- **Company:** Logos
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-volunteer-position-logos-circles-organiser-logos
+## Project Management (38 open roles)
 
-### Volunteer position: Logos Circles Activist Builder
-- **Company:** Logos
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-volunteer-position-logos-circles-activist-builder-logos
-
-### Volunteer position: Logos Circles Organiser
-- **Company:** IFT
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-volunteer-position-logos-circles-organiser-ift
-
-### Volunteer position: Logos Circles Activist Builder
-- **Company:** IFT
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-volunteer-position-logos-circles-activist-builder-ift
-
-### Product Designer – Content Solutions
-- **Company:** Fueled
+### JCL Mainframe Migration Engineer
+- **Company:** New Era Technology
 - **Salary:** Not Disclosed
 - **Location:** Remote
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-product-designer-content-solutions-fueled-2
-
-### Senior Brand Designer
-- **Company:** Circle.so
-- **Salary:** $100,000 – $120,000 / year
-- **Location:** Remote
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-brand-designer-circle-so
-
-### Ubuntu Linux Kernel Engineer - Silicon Enablement
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-ubuntu-linux-kernel-engineer-silicon-enablement-canonical
-
-### Senior Organisational Development Practitioner
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-organisational-development-practitioner-canonical
-
-### Security Risk Management Specialist
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-security-risk-management-specialist-canonical
-
-## Project Management (44 open roles)
+- **Posted:** 2026-08-28
+- **View Job:** https://globalcaribbeans.com/#card-jcl-mainframe-migration-engineer-new-era-technology
 
 ### Technical Project Manager - Remote Work
 - **Company:** BairesDev
@@ -2631,56 +2490,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-remote-build-remote
 
-### Ubuntu Engineering Lead
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-ubuntu-engineering-lead-canonical
-
-### Threat Intelligence Lead
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-threat-intelligence-lead-canonical
-
-### Software Architect
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-architect-canonical
-
-### Software Alliance Ecosystem Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-alliance-ecosystem-manager-canonical
-
-### Silicon Alliances Ecosystem Development Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-silicon-alliances-ecosystem-development-manager-canonical
-
-### Sales Development Representative
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-canonical
-
-### Public Cloud Project Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-public-cloud-project-manager-canonical
-
-## Recruiting (21 open roles)
+## Recruiting (20 open roles)
 
 ### Senior Recruiter - Remote Work
 - **Company:** BairesDev
@@ -2822,14 +2632,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-### Regional HR Manager - AMER
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-regional-hr-manager-amer-canonical
-
-## Sales (55 open roles)
+## Sales (45 open roles)
 
 ### Proposal Manager, Presales - Remote Work
 - **Company:** BairesDev
@@ -2895,13 +2698,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-sales-executive-for-campus-live-remote-work-bairesdev
-
-### Account Manager (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-account-manager-work-from-home-persona
 
 ### Salesperson
 - **Company:** Remote Leverage
@@ -3156,70 +2952,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-account-development-representative-join-our-talent-community-job-board
 
-### Head of Commercial - Develp
-- **Company:** IFT
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-head-of-commercial-develp-ift
-
-### Telecom Account Executive
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-telecom-account-executive-canonical
-
-### Regional SDR Director
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-regional-sdr-director-canonical
-
-### Software Alliances Director, Americas
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-alliances-director-americas-canonical
-
-### Senior Sales Operations Analyst
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-sales-operations-analyst-canonical
-
-### Senior Partner Sales Manager - Global System Integrator (GSI)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-partner-sales-manager-global-system-integrator-gsi-canonical
-
-### Sales Operations Analyst
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-sales-operations-analyst-canonical
-
-### Renewals Sales Manager, Americas
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-renewals-sales-manager-americas-canonical
-
-### Regional BDR Team Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-regional-bdr-team-manager-canonical
-
-## Software Development (153 open roles)
+## Software Development (102 open roles)
 
 ### Team Lead - Trading
 - **Company:** Alpaca
@@ -3430,13 +3163,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-python-ai-engineer-remote-work-bairesdev
-
-### Senior Full Stack Engineer
-- **Company:** Mappa
-- **Salary:** $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-mappa
 
 ### Senior AI Engineer - Remote Work
 - **Company:** BairesDev
@@ -3668,20 +3394,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-ai-operations-engineer-clickhouse
-
-### Senior Full-Stack Software Engineer, AI Core
-- **Company:** Circle.so
-- **Salary:** $130,000 – $140,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-12
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-software-engineer-ai-core-circle-so
-
-### Senior Full-Stack Software Engineer, Discover
-- **Company:** Circle.so
-- **Salary:** $130,000 – $140,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-12
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-software-engineer-discover-circle-so
 
 ### Senior Consulting Engineer - AMER
 - **Company:** ClickHouse
@@ -3955,340 +3667,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-development-engineer-in-test-sdet-network-security-apps-job-board
-
-### Senior Graphic Designer
-- **Company:** Lemon.io
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-graphic-designer-lemon-io
-
-### Senior Full Stack Engineer — Platform Extensions
-- **Company:** Fueled
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-platform-extensions-fueled-3
-
-### Senior Full Stack Engineer
-- **Company:** Fueled
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-fueled-2
-
-### Contract Senior Web Engineer
-- **Company:** Fueled
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-contract-senior-web-engineer-fueled
-
-### Contract Senior Front End Engineer
-- **Company:** Fueled
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-contract-senior-front-end-engineer-fueled
-
-### Web Frontend Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-web-frontend-engineer-canonical
-
-### Ubuntu Security Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-ubuntu-security-engineer-canonical-2
-
-### Ubuntu Sales Engineer (Entry-Level)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-ubuntu-sales-engineer-entry-level-canonical-2
-
-### Ubuntu Sales Engineer (English/Spanish Required)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-ubuntu-sales-engineer-english-spanish-required-canonical
-
-### Telco Cloud Field Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-telco-cloud-field-engineer-canonical
-
-### System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-system-software-engineer-gcc-llvm-compiler-tooling-and-ecosystem-canonical
-
-### Sustaining Operations Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-sustaining-operations-engineer-canonical
-
-### Staff Software Engineer for Identity Management (Go/Golang)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-for-identity-management-go-golang-canonical
-
-### Solutions Architect for Automotive
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-solutions-architect-for-automotive-canonical
-
-### Solution Architecture Manager
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-solution-architecture-manager-canonical
-
-### Software Support Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-support-engineer-canonical-2
-
-### Software Maintenance Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-maintenance-engineer-canonical
-
-### Software Engineer - Ubuntu Server Certification
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ubuntu-server-certification-canonical
-
-### Software Engineer, Sustaining Engineering
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-sustaining-engineering-canonical
-
-### Software Engineer - Solutions Engineering
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-solutions-engineering-canonical
-
-### Software Engineer (Python/Linux/Packaging)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-python-linux-packaging-canonical
-
-### Software Engineer - Python/Golang - Kubernetes
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-python-golang-kubernetes-canonical
-
-### Software Engineer - Python - Cloud - graduate level
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-python-cloud-graduate-level-canonical
-
-### Software Engineer - Python and K8s
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-python-and-k8s-canonical
-
-### Software Engineer - OpenStack
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-openstack-canonical
-
-### Software Engineer - L3 Support
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-l3-support-canonical
-
-### Software Engineering Manager - Sustaining Engineering
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineering-manager-sustaining-engineering-canonical
-
-### Software Engineering Manager - Container and Virtualisation Infrastructure
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineering-manager-container-and-virtualisation-infrastructure-canonic
-
-### Software Engineering Manager (Backend SaaS)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineering-manager-backend-saas-canonical
-
-### Software Engineering Director
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineering-director-canonical
-
-### Software Engineer, Cloud - Sustaining Engineering
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-cloud-sustaining-engineering-canonical
-
-### Software Engineer - Cloud Images
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-cloud-images-canonical
-
-### Software Engineer, Ceph & Distributed Storage
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ceph-distributed-storage-canonical
-
-### Software Engineer - App Stores
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-app-stores-canonical-2
-
-### Software Developer (Backend SaaS)
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-software-developer-backend-saas-canonical
-
-### Site Reliability / Gitops Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-site-reliability-gitops-engineer-canonical
-
-### Site Reliability Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-site-reliability-engineer-canonical
-
-### Senior/Staff/Principal Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-staff-principal-engineer-canonical
-
-### Senior Software Engineer - Python/Golang - Kubernetes
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-python-golang-kubernetes-canonical
-
-### Senior Software Engineer - MAAS
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-maas-canonical
-
-### Senior Site Reliability / Gitops Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-site-reliability-gitops-engineer-canonical
-
-### Senior Site Reliability Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-site-reliability-engineer-canonical
-
-### Senior Security Operations Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-security-operations-engineer-canonical
-
-### Security Software Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-security-software-engineer-canonical
-
-### Rust Engineering Lead - Linux and Open Source
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-rust-engineering-lead-linux-and-open-source-canonical
-
-### Python Engineer
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-python-engineer-canonical
-
-### Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-canonical
-
-### Public Cloud Solution Architect
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-public-cloud-solution-architect-canonical
