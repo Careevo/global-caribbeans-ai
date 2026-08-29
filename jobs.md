@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-28T21:58:58Z
+last_updated: 2026-08-29T06:29:21Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**515 active remote jobs** as of 2026-08-28.
+**503 active remote jobs** as of 2026-08-29.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -264,7 +264,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-latino-legends
 
-## Customer support (16 open roles)
+## Customer support (11 open roles)
 
 ### Customer Service Representative
 - **Company:** Somewhere
@@ -343,42 +343,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
-
-### Customer Service Representative (Mandarin Required)
-- **Company:** Think Academy US
-- **Salary:** $20 / hour
-- **Location:** Remote
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-mandarin-required-think-academy-us
-
-### Benefits Operations Specialist - AMER
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-benefits-operations-specialist-amer-remote
-
-### Support Engineer (L2) — Developer Track | SaaS Startup
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-support-engineer-l2-developer-track-saas-startup-offshore-launch-2
-
-### Customer Service Representative (Plumbing/HVAC Experience Required)
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-plumbing-hvac-experience-required-offshore-launc-2
-
-### Customer Service and Dispatcher
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-and-dispatcher-offshore-launch
 
 ## Data/Analytics (33 open roles)
 
@@ -857,7 +821,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-director-gtm-finance-customer-io
 
-## Operations (42 open roles)
+## Operations (39 open roles)
+
+### Healthcare Intake Operations Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 – $5,000 / month
+- **Location:** Remote
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-healthcare-intake-operations-manager-sagan-recruitment
 
 ### Construction Operations Coordinator
 - **Company:** Sagan Recruitment
@@ -1129,35 +1100,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-indirect-sourcing-specialist-medtronic
 
-### Mobility Specialist - AMER
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-mobility-specialist-amer-remote
-
-### Lifecycle Specialist, Time and Attendance - AMER
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-time-and-attendance-amer-remote
-
-### Lifecycle Specialist, Contract Management
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-lifecycle-specialist-contract-management-remote
-
-### Operations Manager / Office Manager
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-operations-manager-office-manager-offshore-launch-2
-
-## Other (150 open roles)
+## Other (147 open roles)
 
 ### Estimating/Takeoff Administrative Specialist
 - **Company:** Somewhere
@@ -2200,29 +2143,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-remote-math-tutor-grades-5-8-think-academy-us
 
-### 1 on 1 Math Tutor (Grades 5-8)
-- **Company:** Think Academy US
-- **Salary:** $20 – $25 / hour
-- **Location:** Remote
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-1-on-1-math-tutor-grades-5-8-think-academy-us-2
+## Project Management (38 open roles)
 
-### Senior Solutions Consultant
-- **Company:** Remote
+### Construction Project Manager
+- **Company:** WorkBetterNow
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-solutions-consultant-remote
-
-### Dispatcher
-- **Company:** Offshore Launch
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-29
-- **View Job:** https://globalcaribbeans.com/#card-dispatcher-offshore-launch-2
-
-## Project Management (38 open roles)
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-construction-project-manager-workbetternow-2
 
 ### JCL Mainframe Migration Engineer
 - **Company:** New Era Technology
@@ -2483,13 +2411,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-ai-product-team-job-board
 
-### Senior Product Manager, Remote Build
-- **Company:** Remote
-- **Salary:** $149,750 – $168,500 / year
-- **Location:** Americas
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-remote-build-remote
-
 ## Recruiting (20 open roles)
 
 ### Senior Recruiter - Remote Work
@@ -2632,7 +2553,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (45 open roles)
+## Sales (44 open roles)
 
 ### Proposal Manager, Presales - Remote Work
 - **Company:** BairesDev
@@ -2838,13 +2759,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-10
 - **View Job:** https://globalcaribbeans.com/#card-solution-executive-digital-new-era-technology
-
-### Sales Development Representative
-- **Company:** WorkBetterNow
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-07
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-workbetternow-2
 
 ### Director
 - **Company:** Latino Legends
