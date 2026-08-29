@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-29T16:29:09Z
+last_updated: 2026-08-29T20:43:09Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -559,7 +559,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-msp-sagan-recruitment
 
-## Online Marketing (34 open roles)
+## Online Marketing (32 open roles)
 
 ### Marketing Operations Specialist
 - **Company:** Sagan Recruitment
@@ -588,13 +588,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
-
-### SEO Marketing Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-seo-marketing-specialist-sagan-recruitment
 
 ### Bilingual Medical Billing & Social Media Specialist
 - **Company:** BruntWork
@@ -792,13 +785,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-marketing-manager-safetywing
-
-### Director, GTM Finance
-- **Company:** Customer.io
-- **Salary:** $200,000 – $255,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-director-gtm-finance-customer-io
 
 ## Operations (41 open roles)
 
@@ -1091,7 +1077,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-engagement-manager-medallion-2
 
-## Other (146 open roles)
+## Other (147 open roles)
+
+### Marketing & Content Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-marketing-content-coordinator-sagan-recruitment
 
 ### Project Coordinator
 - **Company:** Sagan Recruitment
@@ -2126,7 +2119,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-general-interest-future-consideration-xapo-bank
 
-## Project Management (38 open roles)
+## Project Management (39 open roles)
+
+### Technical Designer
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-technical-designer-somewhere
 
 ### Construction Project Manager
 - **Company:** WorkBetterNow
