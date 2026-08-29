@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-29T06:29:21Z
+last_updated: 2026-08-29T16:29:09Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**503 active remote jobs** as of 2026-08-29.
+**504 active remote jobs** as of 2026-08-29.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (27 open roles)
+## Accounting/Bookkeeping (28 open roles)
+
+### Accounting Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-sagan-recruitment-2
 
 ### Controller / Head of Finance
 - **Company:** Sagan Recruitment
@@ -344,7 +351,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
 
-## Data/Analytics (33 open roles)
+## Data/Analytics (28 open roles)
 
 ### Head of AI Transformation
 - **Company:** Somewhere
@@ -451,13 +458,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-automations-data-engineer-hire-with-near
 
-### Client Success Manager (Healthcare & RCM)
-- **Company:** Sagan Recruitment
-- **Salary:** $5,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-client-success-manager-healthcare-rcm-sagan-recruitment
-
 ### Data Engineer
 - **Company:** Kajae
 - **Salary:** Not Disclosed
@@ -550,34 +550,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-assurance-associate-guyana-pricewaterhousecoopers
 
-### SQL Engineer - Remote Work | REF#296932
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-sql-engineer-remote-work-ref-296932-bairesdev
-
-### Power BI Analyst - Remote Work | REF#297038
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-power-bi-analyst-remote-work-ref-297038-bairesdev
-
-### Senior SQL Server Developer - Remote Work | REF#297082
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-sql-server-developer-remote-work-ref-297082-bairesdev
-
-### BI Analyst - Remote Work | REF#297070
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-bi-analyst-remote-work-ref-297070-bairesdev
-
 ## IT/Engineering (1 open roles)
 
 ### Senior IT Systems Administrator & Team Lead (MSP)
@@ -587,7 +559,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-msp-sagan-recruitment
 
-## Online Marketing (33 open roles)
+## Online Marketing (34 open roles)
+
+### Marketing Operations Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-marketing-operations-specialist-sagan-recruitment
 
 ### SEO Specialist
 - **Company:** Sagan Recruitment
@@ -821,7 +800,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-30
 - **View Job:** https://globalcaribbeans.com/#card-director-gtm-finance-customer-io
 
-## Operations (39 open roles)
+## Operations (41 open roles)
+
+### SVP, Operations and Transformation
+- **Company:** Theoria Medical
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-svp-operations-and-transformation-theoria-medical
+
+### Registered Brokerage Specialist
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-registered-brokerage-specialist-alpaca
+
+### Corporate Operations Lead
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-corporate-operations-lead-alpaca
+
+### Financial & Operations Analyst
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-financial-operations-analyst-sagan-recruitment
+
+### Fleet Compliance Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $600 – $800 / month
+- **Location:** Remote
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-fleet-compliance-coordinator-sagan-recruitment
 
 ### Healthcare Intake Operations Manager
 - **Company:** Sagan Recruitment
@@ -829,14 +843,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-healthcare-intake-operations-manager-sagan-recruitment
-
-### Construction Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-construction-operations-coordinator-sagan-recruitment-2
 
 ### Order Management & Fulfillment Specialist
 - **Company:** Somewhere
@@ -1085,22 +1091,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-engagement-manager-medallion-2
 
-### Semi Senior Chargebee Engineer - Remote Work | REF#297086
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-semi-senior-chargebee-engineer-remote-work-ref-297086-bairesdev
+## Other (146 open roles)
 
-### Senior Indirect Sourcing Specialist
-- **Company:** Medtronic
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
+### Project Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,600 – $2,500 / month
+- **Location:** Global
 - **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-senior-indirect-sourcing-specialist-medtronic
-
-## Other (147 open roles)
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-project-coordinator-sagan-recruitment
 
 ### Estimating/Takeoff Administrative Specialist
 - **Company:** Somewhere
@@ -2127,22 +2126,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-general-interest-future-consideration-xapo-bank
 
-### Student Advisor (Mandarin Required)
-- **Company:** Think Academy US
-- **Salary:** $20 / hour
-- **Location:** Remote
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-student-advisor-mandarin-required-think-academy-us
-
-### Remote Math Tutor (Grades 5-8)
-- **Company:** Think Academy US
-- **Salary:** $20 – $25 / hour
-- **Location:** Remote
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-remote-math-tutor-grades-5-8-think-academy-us
-
 ## Project Management (38 open roles)
 
 ### Construction Project Manager
@@ -2866,7 +2849,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-account-development-representative-join-our-talent-community-job-board
 
-## Software Development (102 open roles)
+## Software Development (105 open roles)
+
+### Senior Software Engineer, Inference
+- **Company:** AssemblyAI
+- **Salary:** $190,000 – $225,000 / year
+- **Location:** North America
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-inference-assemblyai
+
+### Supervisor, NOC
+- **Company:** DYOPATH
+- **Salary:** $115,000 – $120,000 / year
+- **Location:** Remote
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-supervisor-noc-dyopath
+
+### Senior React Full-stack Developer
+- **Company:** Lemon.io
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-senior-react-full-stack-developer-lemon-io
 
 ### Team Lead - Trading
 - **Company:** Alpaca
