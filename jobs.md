@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-30T11:35:36Z
+last_updated: 2026-08-30T16:22:44Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**486 active remote jobs** as of 2026-08-30.
+**485 active remote jobs** as of 2026-08-30.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2084,7 +2084,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-medallion-2
 
-## Project Management (38 open roles)
+## Project Management (37 open roles)
 
 ### Technical Designer
 - **Company:** Somewhere
@@ -2344,13 +2344,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-customer-io
-
-### Senior Program Manager, Data Center Delivery
-- **Company:** Together AI
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-program-manager-data-center-delivery-together-ai
 
 ## Recruiting (20 open roles)
 
