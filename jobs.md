@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-30T04:40:53Z
+last_updated: 2026-08-30T11:35:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**492 active remote jobs** as of 2026-08-30.
+**486 active remote jobs** as of 2026-08-30.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1063,7 +1063,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-engagement-manager-medallion-2
 
-## Other (145 open roles)
+## Other (144 open roles)
 
 ### Marketing & Content Coordinator
 - **Company:** Sagan Recruitment
@@ -2084,14 +2084,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-medallion-2
 
-### French to English Life Sciences / Pharmacovigilance Linguist
-- **Company:** Welo Data
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-french-to-english-life-sciences-pharmacovigilance-linguist-welo-data
-
-## Project Management (39 open roles)
+## Project Management (38 open roles)
 
 ### Technical Designer
 - **Company:** Somewhere
@@ -2359,13 +2352,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-senior-program-manager-data-center-delivery-together-ai
 
-### Senior Product Manager -- AI Product Team
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-ai-product-team-job-board
-
 ## Recruiting (20 open roles)
 
 ### Senior Recruiter - Remote Work
@@ -2508,7 +2494,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (40 open roles)
+## Sales (39 open roles)
 
 ### Sales Specialist
 - **Company:** WorkBetterNow
@@ -2786,14 +2772,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-business-development-specialist-bybit
 
-### Strategic Account Executive - NA WEST
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-strategic-account-executive-na-west-job-board
-
-## Software Development (101 open roles)
+## Software Development (98 open roles)
 
 ### Senior Software Engineer, Inference
 - **Company:** AssemblyAI
@@ -3480,24 +3459,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-junior-software-engineer-with-accounting-experience-sezzle
-
-### Senior UI Engineer
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-ui-engineer-job-board
-
-### Senior Software Quality Engineer, Release Testing
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-quality-engineer-release-testing-job-board
-
-### Senior Integration Developer (Celigo / NetSuite)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,800 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-integration-developer-celigo-netsuite-sagan-recruitment
