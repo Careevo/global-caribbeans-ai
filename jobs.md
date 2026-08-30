@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-30T16:22:44Z
+last_updated: 2026-08-30T20:48:24Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**485 active remote jobs** as of 2026-08-30.
+**479 active remote jobs** as of 2026-08-30.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -344,7 +344,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
 
-## Data/Analytics (27 open roles)
+## Data/Analytics (26 open roles)
 
 ### Head of AI Transformation
 - **Company:** Somewhere
@@ -528,14 +528,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-technical-solutions-manager-medallion
 
-### Data Engineer (Azure)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-data-engineer-azure-somewhere
-
 ## IT/Engineering (1 open roles)
 
 ### Senior IT Systems Administrator & Team Lead (MSP)
@@ -545,7 +537,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-it-systems-administrator-team-lead-msp-sagan-recruitment
 
-## Online Marketing (32 open roles)
+## Online Marketing (31 open roles)
 
 ### Marketing Operations Specialist
 - **Company:** Sagan Recruitment
@@ -764,13 +756,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-growth-marketer-paid-media-alphalion
-
-### Lifecycle Marketing Manager
-- **Company:** SafetyWing
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-lifecycle-marketing-manager-safetywing
 
 ## Operations (41 open roles)
 
@@ -2084,7 +2069,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-medallion-2
 
-## Project Management (37 open roles)
+## Project Management (35 open roles)
 
 ### Technical Designer
 - **Company:** Somewhere
@@ -2296,13 +2281,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-construction-operations-manager-sagan-recruitment
 
-### Snr Project Manager
-- **Company:** Somewhere
-- **Salary:** $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-snr-project-manager-somewhere
-
 ### Product Manager, New Assets
 - **Company:** Alpaca
 - **Salary:** Not Disclosed
@@ -2337,13 +2315,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-implementation-project-manager-medallion
-
-### Senior Product Manager
-- **Company:** Customer.io
-- **Salary:** $166,000 – $187,000 / year
-- **Location:** Global
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-customer-io
 
 ## Recruiting (20 open roles)
 
@@ -2487,7 +2458,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (39 open roles)
+## Sales (37 open roles)
 
 ### Sales Specialist
 - **Company:** WorkBetterNow
@@ -2750,20 +2721,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-medallion
-
-### Head of Partnerships
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-head-of-partnerships-somewhere
-
-### Business Development Specialist
-- **Company:** Bybit
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-business-development-specialist-bybit
 
 ## Software Development (98 open roles)
 
