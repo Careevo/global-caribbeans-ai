@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-29T20:43:09Z
+last_updated: 2026-08-30T04:40:53Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**504 active remote jobs** as of 2026-08-29.
+**492 active remote jobs** as of 2026-08-30.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (28 open roles)
+## Accounting/Bookkeeping (27 open roles)
 
 ### Accounting Manager
 - **Company:** Sagan Recruitment
@@ -205,13 +205,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-sagan-recruitment
 
-### Accounting Manager
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-somewhere
-
 ## Admin (8 open roles)
 
 ### Administrative Assistant
@@ -351,7 +344,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
 
-## Data/Analytics (28 open roles)
+## Data/Analytics (27 open roles)
 
 ### Head of AI Transformation
 - **Company:** Somewhere
@@ -542,13 +535,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-data-engineer-azure-somewhere
-
-### Assurance Associate - Guyana
-- **Company:** PricewaterhouseCoopers
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-07-30
-- **View Job:** https://globalcaribbeans.com/#card-assurance-associate-guyana-pricewaterhousecoopers
 
 ## IT/Engineering (1 open roles)
 
@@ -1077,7 +1063,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-engagement-manager-medallion-2
 
-## Other (147 open roles)
+## Other (145 open roles)
 
 ### Marketing & Content Coordinator
 - **Company:** Sagan Recruitment
@@ -2105,20 +2091,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-french-to-english-life-sciences-pharmacovigilance-linguist-welo-data
 
-### Regional Vice President, Sales - West
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-regional-vice-president-sales-west-job-board
-
-### General Interest - Future Consideration
-- **Company:** Xapo Bank
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-general-interest-future-consideration-xapo-bank
-
 ## Project Management (39 open roles)
 
 ### Technical Designer
@@ -2536,7 +2508,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (44 open roles)
+## Sales (40 open roles)
+
+### Sales Specialist
+- **Company:** WorkBetterNow
+- **Salary:** $1,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-sales-specialist-workbetternow-3
+
+### Sales Specialist
+- **Company:** WorkBetterNow
+- **Salary:** $1,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-29
+- **View Job:** https://globalcaribbeans.com/#card-sales-specialist-workbetternow-2
 
 ### Proposal Manager, Presales - Remote Work
 - **Company:** BairesDev
@@ -2757,13 +2743,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-marketing-lead-somewhere
 
-### Sales Specialist
-- **Company:** WorkBetterNow
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-sales-specialist-workbetternow
-
 ### Enterprise Account Executive - Southeast NA SLED
 - **Company:** Job Board
 - **Salary:** Not Disclosed
@@ -2814,42 +2793,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-strategic-account-executive-na-west-job-board
 
-### Enterprise Account Executive - SoCal
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-socal-job-board
-
-### Enterprise Account Executive - NorCal
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-norcal-job-board
-
-### Enterprise Account Executive - NA East
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-na-east-job-board
-
-### Enterprise Account Executive (Central)
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-central-job-board
-
-### Account Development Representative (Join our Talent Community)
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-account-development-representative-join-our-talent-community-job-board
-
-## Software Development (105 open roles)
+## Software Development (101 open roles)
 
 ### Senior Software Engineer, Inference
 - **Company:** AssemblyAI
@@ -3557,31 +3501,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-07-31
 - **View Job:** https://globalcaribbeans.com/#card-senior-integration-developer-celigo-netsuite-sagan-recruitment
-
-### Senior Backend Engineer
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-job-board
-
-### Lead Software Engineer - Applications
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-lead-software-engineer-applications-job-board
-
-### Enterprise AI Automation Engineer (Workflow & Agentic AI)
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-ai-automation-engineer-workflow-agentic-ai-job-board
-
-### Development Engineer in Test (SDET) - Network Security (Apps)
-- **Company:** Job Board
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-07-31
-- **View Job:** https://globalcaribbeans.com/#card-development-engineer-in-test-sdet-network-security-apps-job-board
