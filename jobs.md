@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-08-31T04:44:32Z
+last_updated: 2026-08-31T13:11:14Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**473 active remote jobs** as of 2026-08-31.
+**458 active remote jobs** as of 2026-08-31.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (27 open roles)
+## Accounting/Bookkeeping (26 open roles)
 
 ### Accounting Manager
 - **Company:** Sagan Recruitment
@@ -198,14 +198,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-international-accounting-manager-alpaca
 
-### Senior Accountant
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-sagan-recruitment
+## Admin (9 open roles)
 
-## Admin (8 open roles)
+### Bilingual Tax Executive Assistant (U.S. Tax & CPA Firm)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-31
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-tax-executive-assistant-u-s-tax-cpa-firm-bruntwork
 
 ### Administrative Assistant
 - **Company:** Latino Legends
@@ -336,7 +337,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
 
-## Data/Analytics (26 open roles)
+## Data/Analytics (25 open roles)
 
 ### Head of AI Transformation
 - **Company:** Somewhere
@@ -512,13 +513,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-alpaca
-
-### Technical Solutions Manager
-- **Company:** Medallion
-- **Salary:** $110,000 – $140,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-technical-solutions-manager-medallion
 
 ## IT/Engineering (1 open roles)
 
@@ -749,7 +743,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-growth-marketer-paid-media-alphalion
 
-## Operations (41 open roles)
+## Operations (40 open roles)
 
 ### Senior Healthcare Compliance & Clinical Audit Specialist (ABA | Medicaid)
 - **Company:** BruntWork
@@ -1032,14 +1026,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-head-of-business-crypto-exchanges-alpaca
 
-### Senior Engagement Manager
-- **Company:** Medallion
-- **Salary:** $135,000 – $175,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-engagement-manager-medallion-2
-
-## Other (141 open roles)
+## Other (138 open roles)
 
 ### Marketing & Content Coordinator
 - **Company:** Sagan Recruitment
@@ -2017,28 +2004,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-join-our-talent-community-quanata
 
-### Trust Accounting Assistant
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-trust-accounting-assistant-sagan-recruitment
+## Project Management (34 open roles)
 
-### Real Estate Transactions Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-real-estate-transactions-coordinator-sagan-recruitment
-
-### Senior Product Designer
-- **Company:** Medallion
+### Digital Marketing Coordinator - Non-Profit Fundraising Campaigns
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-medallion-2
-
-## Project Management (35 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-08-31
+- **View Job:** https://globalcaribbeans.com/#card-digital-marketing-coordinator-non-profit-fundraising-campaigns-bruntwork
 
 ### Technical Designer
 - **Company:** Somewhere
@@ -2271,20 +2244,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-accounts-alpaca
 
-### Senior Technical Product Manager
-- **Company:** Sezzle
-- **Salary:** $5,000 – $8,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-sezzle
-
-### Implementation Project Manager
-- **Company:** Medallion
-- **Salary:** $95,000 – $140,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-implementation-project-manager-medallion
-
 ## Recruiting (20 open roles)
 
 ### Senior Recruiter - Remote Work
@@ -2427,7 +2386,23 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (37 open roles)
+## Sales (38 open roles)
+
+### Spanish Bilingual Cold Caller (Real Estate Industry)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-31
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-cold-caller-real-estate-industry-bruntwork
+
+### B2B Sales Development Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-08-31
+- **View Job:** https://globalcaribbeans.com/#card-b2b-sales-development-representative-bruntwork
 
 ### Sales Specialist
 - **Company:** WorkBetterNow
@@ -2684,14 +2659,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-alliances-partnerships-lead-aws-tensorops
 
-### Enterprise Account Executive
-- **Company:** Medallion
-- **Salary:** $145,000 – $160,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-medallion
-
-## Software Development (96 open roles)
+## Software Development (86 open roles)
 
 ### Senior Software Engineer, Inference
 - **Company:** AssemblyAI
@@ -3294,73 +3262,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-08-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-ai-platform-engineer-alpaca
-
-### Software Engineer II with Accounting Experience
-- **Company:** Sezzle
-- **Salary:** $2,800 – $6,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ii-with-accounting-experience-sezzle
-
-### Software Engineer II
-- **Company:** Sezzle
-- **Salary:** $2,800 – $6,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ii-sezzle
-
-### Senior Software Engineer with Accounting Experience
-- **Company:** Sezzle
-- **Salary:** $5,000 – $9,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-with-accounting-experience-sezzle
-
-### Senior Software Engineer
-- **Company:** Sezzle
-- **Salary:** $5,000 – $9,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-sezzle
-
-### Senior Payments Engineer — Acquiring & Payment Processing
-- **Company:** Sezzle
-- **Salary:** $5,000 – $9,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-payments-engineer-acquiring-payment-processing-sezzle
-
-### Senior Database Reliability Engineer
-- **Company:** Sezzle
-- **Salary:** $5,000 – $9,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-database-reliability-engineer-sezzle
-
-### Contractor: PHP Website Developer
-- **Company:** Newsela
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-contractor-php-website-developer-newsela
-
-### Staff Software Engineer
-- **Company:** Medallion
-- **Salary:** $210,000 – $2,600,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-medallion-2
-
-### Software Engineer
-- **Company:** Medallion
-- **Salary:** $145,000 – $175,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-medallion
-
-### Senior Software Engineer
-- **Company:** Medallion
-- **Salary:** $170,000 – $2,200,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-medallion-2
