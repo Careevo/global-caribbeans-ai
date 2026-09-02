@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-02T10:57:09Z
+last_updated: 2026-09-02T16:17:26Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**376 active remote jobs** as of 2026-09-02.
+**369 active remote jobs** as of 2026-09-02.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (29 open roles)
+## Accounting/Bookkeeping (27 open roles)
 
 ### Senior US Tax Accountant
 - **Company:** BruntWork
@@ -114,26 +114,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-staff-accountant-ap-ar-focused-sagan-recruitment
 
-### Senior Accountant
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-sagan-recruitment-3
-
 ### Senior FP&A Analyst, Cloud Hosting
 - **Company:** GitLab
 - **Salary:** Not Disclosed
 - **Location:** Remote
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-fp-a-analyst-cloud-hosting-gitlab
-
-### Accounting Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $4,000 / month
-- **Location:** Remote
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-sagan-recruitment
 
 ### Accountant
 - **Company:** Sezzle
@@ -219,7 +205,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-sagan-recruitment-3
 
-## Admin (10 open roles)
+## Admin (9 open roles)
 
 ### Medical Office Assistant
 - **Company:** BruntWork
@@ -265,13 +251,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends-2
 
-### Executive Assistant & Customer Care Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-customer-care-coordinator-sagan-recruitment
-
 ### Patient Care Coordinator (Healthcare Virtual Assistant)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,300 – $1,500 / month
@@ -294,7 +273,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-latino-legends
 
-## Customer support (11 open roles)
+## Customer support (9 open roles)
 
 ### Maintenance Coordinator
 - **Company:** Sagan Recruitment
@@ -323,20 +302,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-information-technology-service-desk-hire-with-near
-
-### Medical Billing Customer Service Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $1,500 / month
-- **Location:** Remote
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-medical-billing-customer-service-representative-sagan-recruitment-3
-
-### Medical Billing Customer Service Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-medical-billing-customer-service-representative-sagan-recruitment-2
 
 ### Technical Support Specialist
 - **Company:** Sagan Recruitment
@@ -510,14 +475,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-cyber-security-analyst-remote-work-bairesdev
 
-## Online Marketing (30 open roles)
+## Online Marketing (29 open roles)
 
-### Content Strategist (Social Media)
-- **Company:** Trust Wallet
+### Email Marketing Specialist | Scale Army
+- **Company:** Scale Army
 - **Salary:** Not Disclosed
-- **Location:** Global
+- **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-02
-- **View Job:** https://globalcaribbeans.com/#card-content-strategist-social-media-trust-wallet
+- **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-scale-army-scale-army
 
 ### Social Media Manager
 - **Company:** Remote Leverage
@@ -595,13 +560,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-seo-specialist-sagan-recruitment
-
-### PPC Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,200 / month
-- **Location:** Global
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-ppc-specialist-sagan-recruitment
 
 ### Email Marketing Specialist (Direct Response Funnel & GHL)
 - **Company:** Sagan Recruitment
@@ -722,7 +680,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-seo-strategist-hire-with-near-2
 
-## Operations (35 open roles)
+## Operations (34 open roles)
+
+### Customer Service & Order Processing Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-02
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-order-processing-specialist-sagan-recruitment
 
 ### Content Lead
 - **Company:** New Era Technology
@@ -858,13 +823,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-information-technology-customer-io
 
-### Maintenance Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** Remote
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment-2
-
 ### Packaging Designer
 - **Company:** Hired Remoteli
 - **Salary:** Not Disclosed
@@ -957,13 +915,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-supply-operations-manager-sagan-recruitment
 
-### Lifecycle Marketing & CRM Associate (Email & SMS Automation)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-lifecycle-marketing-crm-associate-email-sms-automation-somewhere
-
 ### M&A Integration Lead
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
@@ -972,6 +923,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-m-a-integration-lead-somewhere
 
 ## Other (121 open roles)
+
+### Medical Coder (Surgery & Revenue Cycle Specialist)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-02
+- **View Job:** https://globalcaribbeans.com/#card-medical-coder-surgery-revenue-cycle-specialist-bruntwork
 
 ### Property Management & Leasing Specialist (AppFolio)
 - **Company:** BruntWork
@@ -1823,13 +1781,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-gen-consultant-vigil
 
-### Opener (3-Month Contract)
-- **Company:** SafetyWing
-- **Salary:** $1,500 – $1,500 / month
-- **Location:** Remote
-- **Posted:** 2026-08-03
-- **View Job:** https://globalcaribbeans.com/#card-opener-3-month-contract-safetywing
-
 ## Project Management (20 open roles)
 
 ### Senior Business Analyst
@@ -1972,7 +1923,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-04
 - **View Job:** https://globalcaribbeans.com/#card-construction-operations-manager-sagan-recruitment
 
-## Recruiting (10 open roles)
+## Recruiting (8 open roles)
 
 ### High-Volume Outbound Recruiter (Part-Time Project)
 - **Company:** Sagan Recruitment
@@ -2016,26 +1967,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-### Recruiter / Talent Sourcer
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-08-24
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-talent-sourcer-sagan-recruitment
-
 ### Senior Technical Recruiter
 - **Company:** Alpaca
 - **Salary:** Not Disclosed
 - **Location:** North America
 - **Posted:** 2026-08-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-alpaca
-
-### Senior Talent Sourcer
-- **Company:** Sagan Recruitment
-- **Salary:** $1,600 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-talent-sourcer-sagan-recruitment
 
 ### High-Volume Outbound Recruiter (Part-Time)
 - **Company:** Sagan Recruitment
@@ -2044,7 +1981,39 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (34 open roles)
+## Sales (36 open roles)
+
+### Client Enrollment Specialist
+- **Company:** Latino Legends
+- **Salary:** $1,700 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-02
+- **View Job:** https://globalcaribbeans.com/#card-client-enrollment-specialist-latino-legends
+
+### Spanish Bilingual Outbound Sales & Demo Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-02
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-outbound-sales-demo-representative-bruntwork
+
+### Sales Lead Generation Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-02
+- **View Job:** https://globalcaribbeans.com/#card-sales-lead-generation-specialist-bruntwork
+
+### Spanish Bilingual Cold Caller (Real Estate Industry)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-02
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-cold-caller-real-estate-industry-bruntwork-2
 
 ### Marketing Coordinator
 - **Company:** WorkBetterNow
@@ -2129,22 +2098,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-director-business-development-life-sciences-arcadia
-
-### Spanish Bilingual Cold Caller (Real Estate Industry)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-31
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-cold-caller-real-estate-industry-bruntwork
-
-### B2B Sales Development Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-31
-- **View Job:** https://globalcaribbeans.com/#card-b2b-sales-development-representative-bruntwork
 
 ### Sales Specialist
 - **Company:** WorkBetterNow
