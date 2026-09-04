@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-04T03:48:49Z
+last_updated: 2026-09-04T10:56:08Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**410 active remote jobs** as of 2026-09-04.
+**416 active remote jobs** as of 2026-09-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (26 open roles)
+## Accounting/Bookkeeping (28 open roles)
+
+### ATR Supervisor (night shift)
+- **Company:** Fresenius Medical Care
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-atr-supervisor-night-shift-fresenius-medical-care
+
+### AP/AR Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-ap-ar-specialist-sagan-recruitment
 
 ### Property Accountant
 - **Company:** Hire With Near
@@ -249,7 +263,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-patient-care-coordinator-healthcare-virtual-assistant-sagan-recruitment
 
-## Customer support (10 open roles)
+## Customer support (11 open roles)
+
+### Support & Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,200 / month
+- **Location:** Global
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-support-operations-coordinator-sagan-recruitment
 
 ### Coordinator, Payroll Client Services - AMER
 - **Company:** Remote
@@ -486,7 +507,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-cyber-security-analyst-remote-work-bairesdev
 
-## Online Marketing (29 open roles)
+## Online Marketing (30 open roles)
+
+### B2B -Digital Marketing Specialist.
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $1,700 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-b2b-digital-marketing-specialist-sagan-recruitment
 
 ### Marketing Content Specialist - Remote Work
 - **Company:** BairesDev
@@ -912,7 +940,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-account-manager-somewhere
 
-## Other (128 open roles)
+## Other (129 open roles)
+
+### Creative Technologist
+- **Company:** Superside
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-creative-technologist-superside
 
 ### Product Engineer
 - **Company:** SafetyWing
@@ -2131,7 +2166,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (42 open roles)
+## Sales (44 open roles)
+
+### Head of Business Development - Logos
+- **Company:** IFT
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-ift
+
+### Product Partnerships Lead
+- **Company:** Oscilar
+- **Salary:** $185,000 – $222,500 / year
+- **Location:** Remote
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-product-partnerships-lead-oscilar
 
 ### Head of Business Development - Logos
 - **Company:** Logos
@@ -2433,7 +2482,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-marketing-lead-somewhere
 
-## Software Development (70 open roles)
+## Software Development (69 open roles)
 
 ### Server Engineering Manager, Member Experience
 - **Company:** Raya
@@ -2917,10 +2966,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-senior-fullstack-engineer-operational-automations-alpaca-3
-
-### Senior Site Reliability Engineer
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-08-05
-- **View Job:** https://globalcaribbeans.com/#card-senior-site-reliability-engineer-alpaca
