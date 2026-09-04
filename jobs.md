@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-04T10:56:08Z
+last_updated: 2026-09-04T16:02:46Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -342,7 +342,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
 
-## Data/Analytics (22 open roles)
+## Data/Analytics (20 open roles)
 
 ### Fraud Data Analyst
 - **Company:** Sezzle
@@ -483,20 +483,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-08
 - **View Job:** https://globalcaribbeans.com/#card-data-engineer-kajae-5
-
-### Data Engineer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-07
-- **View Job:** https://globalcaribbeans.com/#card-data-engineer-kajae-4
-
-### Data Engineer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-07
-- **View Job:** https://globalcaribbeans.com/#card-data-engineer-kajae
 
 ## IT/Engineering (1 open roles)
 
@@ -719,7 +705,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-creative-strategist-organic-growth-remotely-talents-client-confidential
 
-## Operations (31 open roles)
+## Operations (32 open roles)
+
+### Integrations & Vendor Operations Analyst
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-integrations-vendor-operations-analyst-mappa
 
 ### Payer Enrollment Account Specialist
 - **Company:** Medallion
@@ -940,7 +934,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-account-manager-somewhere
 
-## Other (129 open roles)
+## Other (131 open roles)
+
+### Head of Media
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-head-of-media-mappa
+
+### Recruiting Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-recruiting-analyst-remote-work-bairesdev
 
 ### Creative Technologist
 - **Company:** Superside
@@ -2166,7 +2175,23 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (44 open roles)
+## Sales (41 open roles)
+
+### Sales Lead Generation Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-sales-lead-generation-specialist-bruntwork-2
+
+### Spanish Bilingual Outbound Sales & Demo Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-outbound-sales-demo-representative-bruntwork-2
 
 ### Head of Business Development - Logos
 - **Company:** IFT
@@ -2174,20 +2199,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-ift
-
-### Product Partnerships Lead
-- **Company:** Oscilar
-- **Salary:** $185,000 – $222,500 / year
-- **Location:** Remote
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-product-partnerships-lead-oscilar
-
-### Head of Business Development - Logos
-- **Company:** Logos
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-09-03
-- **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-logos
 
 ### Proposal Manager, Presales - Remote Work
 - **Company:** BairesDev
@@ -2268,30 +2279,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-client-enrollment-specialist-latino-legends
-
-### Spanish Bilingual Outbound Sales & Demo Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-02
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-outbound-sales-demo-representative-bruntwork
-
-### Sales Lead Generation Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-02
-- **View Job:** https://globalcaribbeans.com/#card-sales-lead-generation-specialist-bruntwork
-
-### Spanish Bilingual Cold Caller (Real Estate Industry)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-02
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-cold-caller-real-estate-industry-bruntwork-2
 
 ### Marketing Coordinator
 - **Company:** WorkBetterNow
@@ -2482,7 +2469,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-05
 - **View Job:** https://globalcaribbeans.com/#card-marketing-lead-somewhere
 
-## Software Development (69 open roles)
+## Software Development (71 open roles)
+
+### Full Stack Engineer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-kajae-2
+
+### Full Stack Engineer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-04
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-kajae
 
 ### Server Engineering Manager, Member Experience
 - **Company:** Raya
