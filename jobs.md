@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-05T14:53:05Z
+last_updated: 2026-09-05T20:08:04Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -13,7 +13,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (29 open roles)
+## Accounting/Bookkeeping (28 open roles)
 
 ### Bookkeeper
 - **Company:** Sagan Recruitment
@@ -56,13 +56,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-netsuite-administrator-remote-work-bairesdev
-
-### Billing Specialist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-02
-- **View Job:** https://globalcaribbeans.com/#card-billing-specialist-hire-with-near
 
 ### Senior US Tax Accountant
 - **Company:** BruntWork
@@ -549,7 +542,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-cyber-security-analyst-remote-work-bairesdev
 
-## Online Marketing (31 open roles)
+## Online Marketing (32 open roles)
+
+### Meta Media Buyer
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-05
+- **View Job:** https://globalcaribbeans.com/#card-meta-media-buyer-somewhere
 
 ### Product Marketing Associate, Rewards
 - **Company:** Sezzle
