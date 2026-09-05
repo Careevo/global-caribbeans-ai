@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-05T03:47:04Z
+last_updated: 2026-09-05T10:16:59Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**424 active remote jobs** as of 2026-09-05.
+**426 active remote jobs** as of 2026-09-05.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -542,7 +542,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-cyber-security-analyst-remote-work-bairesdev
 
-## Online Marketing (30 open roles)
+## Online Marketing (31 open roles)
+
+### Product Marketing Associate, Rewards
+- **Company:** Sezzle
+- **Salary:** $2,333 – $3,167 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-05
+- **View Job:** https://globalcaribbeans.com/#card-product-marketing-associate-rewards-sezzle
 
 ### AI-native UI/UX designer
 - **Company:** ClickGUARD
@@ -754,7 +761,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential-2
 
-## Operations (31 open roles)
+## Operations (32 open roles)
+
+### Salesforce Administrator (Service Cloud)
+- **Company:** Engine
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-05
+- **View Job:** https://globalcaribbeans.com/#card-salesforce-administrator-service-cloud-engine
 
 ### Integrations & Vendor Operations Analyst
 - **Company:** Mappa
