@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-05T10:16:59Z
+last_updated: 2026-09-05T14:53:05Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**426 active remote jobs** as of 2026-09-05.
+**427 active remote jobs** as of 2026-09-05.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
 ## Accounting/Bookkeeping (29 open roles)
+
+### Bookkeeper
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-05
+- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-sagan-recruitment-2
 
 ### Xero Certified Bookkeeper
 - **Company:** BruntWork
@@ -212,14 +219,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-property-bookkeeper-sagan-recruitment
 
-### ATR GBS Coordinator
-- **Company:** Fresenius Medical Care
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-08-06
-- **View Job:** https://globalcaribbeans.com/#card-atr-gbs-coordinator-fresenius-medical-care
+## Admin (8 open roles)
 
-## Admin (7 open roles)
+### Junior Administrative Assistant
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $1,100 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-05
+- **View Job:** https://globalcaribbeans.com/#card-junior-administrative-assistant-sagan-recruitment
 
 ### Executive Assistant
 - **Company:** Sagan Recruitment
@@ -991,6 +998,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
 ## Other (131 open roles)
+
+### Architectural Drafter & 3D Modeler
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $1,800 / month
+- **Location:** Remote
+- **Posted:** 2026-09-05
+- **View Job:** https://globalcaribbeans.com/#card-architectural-drafter-3d-modeler-sagan-recruitment
 
 ### Bilingual Clinical Care Coordination Specialist
 - **Company:** BruntWork
@@ -1790,14 +1804,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-18
 - **View Job:** https://globalcaribbeans.com/#card-video-editor-davinci-resolve-somewhere
-
-### Maintenance Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,600 – $2,100 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment
 
 ### Director, Cybersecurity Operations and Platform Delivery
 - **Company:** DYOPATH
