@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-05T20:08:04Z
+last_updated: 2026-09-06T03:51:00Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**427 active remote jobs** as of 2026-09-05.
+**427 active remote jobs** as of 2026-09-06.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -768,7 +768,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential-2
 
-## Operations (32 open roles)
+## Operations (33 open roles)
+
+### Retail Operations Specialist
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-05
+- **View Job:** https://globalcaribbeans.com/#card-retail-operations-specialist-hire-with-near
 
 ### Salesforce Administrator (Service Cloud)
 - **Company:** Engine
@@ -2272,7 +2279,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (40 open roles)
+## Sales (39 open roles)
 
 ### Account Executive
 - **Company:** Hire With Near
@@ -2551,13 +2558,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-10
 - **View Job:** https://globalcaribbeans.com/#card-solution-executive-digital-new-era-technology
-
-### Director
-- **Company:** Latino Legends
-- **Salary:** $85,000 – $120,000 / year
-- **Location:** Global
-- **Posted:** 2026-08-06
-- **View Job:** https://globalcaribbeans.com/#card-director-latino-legends-2
 
 ## Software Development (69 open roles)
 
