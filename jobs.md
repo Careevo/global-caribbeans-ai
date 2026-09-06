@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-06T15:13:14Z
+last_updated: 2026-09-06T20:12:44Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**426 active remote jobs** as of 2026-09-06.
+**427 active remote jobs** as of 2026-09-06.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -768,7 +768,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential-2
 
-## Operations (33 open roles)
+## Operations (34 open roles)
+
+### Head of Operations
+- **Company:** THE/STUDIO
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-06
+- **View Job:** https://globalcaribbeans.com/#card-head-of-operations-the-studio
 
 ### Retail Operations Specialist
 - **Company:** Hire With Near
