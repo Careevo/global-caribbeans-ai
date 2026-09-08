@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-08T03:53:39Z
+last_updated: 2026-09-08T10:56:12Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**359 active remote jobs** as of 2026-09-08.
+**357 active remote jobs** as of 2026-09-08.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (26 open roles)
+## Accounting/Bookkeeping (25 open roles)
 
 ### Payroll Administrator
 - **Company:** Remote Leverage
@@ -42,13 +42,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-bookkeeper-sagan-recruitment-2
-
-### Xero Certified Bookkeeper
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-xero-certified-bookkeeper-bruntwork
 
 ### ATR Supervisor (night shift)
 - **Company:** Fresenius Medical Care
@@ -722,7 +715,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential-2
 
-## Operations (31 open roles)
+## Operations (30 open roles)
 
 ### Integrations & Vendor Operations Analyst
 - **Company:** Mappa
@@ -851,13 +844,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-order-management-fulfillment-specialist-somewhere
-
-### Trading Operations Associate - America
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-trading-operations-associate-america-alpaca
 
 ### Matching Operations Coordinator
 - **Company:** Toptal
