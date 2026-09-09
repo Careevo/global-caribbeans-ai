@@ -2,18 +2,33 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-09T16:16:39Z
+last_updated: 2026-09-09T20:43:55Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**357 active remote jobs** as of 2026-09-09.
+**373 active remote jobs** as of 2026-09-09.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
 ## Accounting/Bookkeeping (26 open roles)
+
+### NetSuite Administrator - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-netsuite-administrator-remote-work-bairesdev
+
+### Spanish Bilingual Bookkeeper
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-bookkeeper-bruntwork
 
 ### Client Accountant
 - **Company:** Sagan Recruitment
@@ -28,14 +43,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-accountant-remote-leverage
-
-### Finance & Administration Manager — U.S. Accounting & Real Estate
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-08
-- **View Job:** https://globalcaribbeans.com/#card-finance-administration-manager-u-s-accounting-real-estate-mappa
 
 ### Bookkeeper
 - **Company:** Remote Leverage
@@ -99,13 +106,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-global-controller-customer-io
-
-### Accounting Manager (CPA)
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-31
-- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-cpa-sagan-recruitment
 
 ### Accounting Manager
 - **Company:** Sagan Recruitment
@@ -343,7 +343,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
 
-## Data/Analytics (21 open roles)
+## Data/Analytics (25 open roles)
+
+### Power BI Junior Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-power-bi-junior-analyst-remote-work-bairesdev
+
+### Marketing Operations Partner - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-marketing-operations-partner-remote-work-bairesdev
+
+### Looker Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-looker-developer-remote-work-bairesdev
+
+### CRM Analyst - Reactivations - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-crm-analyst-reactivations-remote-work-bairesdev
 
 ### Azure Data Architect - Remote Work | REF#303886
 - **Company:** BairesDev
@@ -511,7 +539,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-personal-injury-paralegal-property-damage-specialist-bruntwork
 
-## Online Marketing (27 open roles)
+## Online Marketing (29 open roles)
+
+### Growth Marketing Manager
+- **Company:** Hire With Near
+- **Salary:** $3,500 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-manager-hire-with-near
+
+### Skills & Role Content Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-skills-role-content-specialist-remote-work-bairesdev
 
 ### SaaS Product UI/UX designer
 - **Company:** ClickGUARD
@@ -702,7 +744,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential-2
 
-## Operations (31 open roles)
+## Operations (34 open roles)
+
+### Packaging Developer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-packaging-developer-hired-remoteli
+
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev-3
+
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev-2
+
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev
 
 ### Product Manager - Remote Work | REF#304092
 - **Company:** BairesDev
@@ -788,13 +858,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-content-lead-new-era-technology
-
-### Head of Revenue Operations
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-01
-- **View Job:** https://globalcaribbeans.com/#card-head-of-revenue-operations-hire-with-near
 
 ### Commercial Insurance CSR / Account Manager
 - **Company:** Sagan Recruitment
@@ -923,7 +986,49 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (107 open roles)
+## Other (111 open roles)
+
+### NetSuite ERP Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-netsuite-erp-developer-remote-work-bairesdev
+
+### Delphi Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-delphi-developer-remote-work-bairesdev
+
+### Databricks Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-databricks-engineer-remote-work-bairesdev
+
+### Executive Headhunter - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-executive-headhunter-remote-work-bairesdev
+
+### Corporate Travel and Mobility Agent - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-corporate-travel-and-mobility-agent-remote-work-bairesdev-2
+
+### Computer Scientist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-computer-scientist-remote-work-bairesdev-2
 
 ### Computer Scientist - Remote Work
 - **Company:** BairesDev
@@ -1107,14 +1212,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-trading-operations-associate-west-coast-alpaca
-
-### Head of Media
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-08
-- **View Job:** https://globalcaribbeans.com/#card-head-of-media-mappa
 
 ### German Sports Localization Specialist (Football)
 - **Company:** Welo Data
@@ -1675,28 +1772,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-11
 - **View Job:** https://globalcaribbeans.com/#card-influencer-marketing-coordinator-remotely-talents-client-confidential-2
 
-### Talent Coach
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-10
-- **View Job:** https://globalcaribbeans.com/#card-talent-coach-toptal
+## Project Management (23 open roles)
 
-## Project Management (21 open roles)
-
-### Web Project Manager
-- **Company:** Athyna
+### Technical Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-09
-- **View Job:** https://globalcaribbeans.com/#card-web-project-manager-athyna
+- **View Job:** https://globalcaribbeans.com/#card-technical-project-manager-remote-work-bairesdev-3
 
-### Tech Project Manager AI
-- **Company:** Athyna
+### Technical Project Manager - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-09
-- **View Job:** https://globalcaribbeans.com/#card-tech-project-manager-ai-athyna
+- **View Job:** https://globalcaribbeans.com/#card-technical-project-manager-remote-work-bairesdev-2
+
+### Technical Project Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-technical-project-manager-remote-work-bairesdev
+
+### Scrum Master - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-scrum-master-remote-work-bairesdev
 
 ### Junior Product Owner - Remote Work
 - **Company:** BairesDev
@@ -1831,7 +1935,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-banking-platform-sezzle
 
-## Recruiting (8 open roles)
+## Recruiting (9 open roles)
+
+### IT Recruiter - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-it-recruiter-remote-work-bairesdev
 
 ### Junior Recruiter – Temporary Position
 - **Company:** Hire With Near
@@ -1889,7 +2000,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (31 open roles)
+## Sales (29 open roles)
+
+### Client Care Specialist
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-client-care-specialist-hire-with-near
+
+### Senior Account Manager
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-senior-account-manager-remote-leverage
 
 ### Commercial & Personal Lines Insurance Account Manager
 - **Company:** BruntWork
@@ -2060,26 +2185,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-account-manager-workbetternow
 
-### Appointment Setter
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-hire-with-near
-
 ### Sales & Leasing Specialist
 - **Company:** Latino Legends
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-sales-leasing-specialist-latino-legends
-
-### Account Executive
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-hire-with-near-3
 
 ### Sales Development Representative (Work From Home)
 - **Company:** Persona
@@ -2095,21 +2206,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-customer-lifecycle-marketing-coordinator-sagan-recruitment
 
-### Solutions Engineer
-- **Company:** Sezzle
+## Software Development (65 open roles)
+
+### Kotlin Mobile Developer - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-10
-- **View Job:** https://globalcaribbeans.com/#card-solutions-engineer-sezzle
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-kotlin-mobile-developer-remote-work-bairesdev
 
-### Solution Executive - Digital
-- **Company:** New Era Technology
+### Kubernetes DevOps Engineer - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-10
-- **View Job:** https://globalcaribbeans.com/#card-solution-executive-digital-new-era-technology
-
-## Software Development (63 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-kubernetes-devops-engineer-remote-work-bairesdev
 
 ### Senior Solution Architect - Remote Work | REF#303194
 - **Company:** BairesDev
