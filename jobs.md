@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-09T03:58:36Z
+last_updated: 2026-09-09T11:00:44Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**358 active remote jobs** as of 2026-09-09.
+**353 active remote jobs** as of 2026-09-09.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (25 open roles)
+## Accounting/Bookkeeping (26 open roles)
+
+### Client Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,000 / month
+- **Location:** Remote
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-client-accountant-sagan-recruitment
 
 ### Accountant
 - **Company:** Remote Leverage
@@ -192,7 +199,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-property-bookkeeper-sagan-recruitment
 
-## Admin (9 open roles)
+## Admin (8 open roles)
 
 ### Customer Support & E-commerce Assistant
 - **Company:** BruntWork
@@ -214,13 +221,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-australian-real-estate-sales-administrator-agentbox-bruntwork
-
-### Healthcare Executive Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-07
-- **View Job:** https://globalcaribbeans.com/#card-healthcare-executive-assistant-bruntwork
 
 ### Junior Administrative Assistant
 - **Company:** Sagan Recruitment
@@ -511,7 +511,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-personal-injury-paralegal-property-damage-specialist-bruntwork
 
-## Online Marketing (28 open roles)
+## Online Marketing (27 open roles)
 
 ### SaaS Product UI/UX designer
 - **Company:** ClickGUARD
@@ -632,13 +632,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-### SEO Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,500 / month
-- **Location:** Remote
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-sagan-recruitment
-
 ### Email Marketing Specialist (Direct Response Funnel & GHL)
 - **Company:** Sagan Recruitment
 - **Salary:** $2,999 / month
@@ -709,7 +702,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-strategist-remotely-talents-client-confidential-2
 
-## Operations (32 open roles)
+## Operations (31 open roles)
 
 ### Product Manager - Remote Work | REF#304092
 - **Company:** BairesDev
@@ -923,14 +916,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-head-of-content-media-alpaca
 
-### Property Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-18
-- **View Job:** https://globalcaribbeans.com/#card-property-operations-coordinator-sagan-recruitment-2
-
 ### Property Management Trust Accounting Specialist
 - **Company:** Sagan Recruitment
 - **Salary:** $1,920 – $2,200 / month
@@ -938,7 +923,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (108 open roles)
+## Other (106 open roles)
+
+### Ticketing Operations Associate
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-ticketing-operations-associate-remotely-talents-client-confidential-2
+
+### AI Video Producer
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-ai-video-producer-sagan-recruitment
+
+### Medical Administrative & Insurance Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-medical-administrative-insurance-coordinator-bruntwork
+
+### Copy Editor & Newsletter Producer
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Remote
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-copy-editor-newsletter-producer-sagan-recruitment
 
 ### Graphic Designer
 - **Company:** Remote Leverage
@@ -1388,14 +1401,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-production-coordinator-sagan-recruitment-2
 
-### Project Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,600 – $2,500 / month
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-29
-- **View Job:** https://globalcaribbeans.com/#card-project-coordinator-sagan-recruitment
-
 ### Estimating/Takeoff Administrative Specialist
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
@@ -1460,20 +1465,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-video-editor-graphic-designer-sagan-recruitment
 
-### Sales & Dispatch Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,300 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-sales-dispatch-coordinator-sagan-recruitment-2
-
-### CRM Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-crm-coordinator-sagan-recruitment
-
 ### Organisational Development Associate
 - **Company:** Canonical
 - **Salary:** Not Disclosed
@@ -1487,21 +1478,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-apparel-technical-designer-hired-remoteli
-
-### Client Intake Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 / month
-- **Location:** Remote
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-client-intake-coordinator-sagan-recruitment
-
-### Production Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-production-coordinator-sagan-recruitment
 
 ### Senior Solutions Architect - Remote Work | REF#302241
 - **Company:** BairesDev
@@ -1672,13 +1648,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-p2p-bd-assistant-bybit
 
-### Sales Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $1,800 / month
-- **Location:** Global
-- **Posted:** 2026-08-12
-- **View Job:** https://globalcaribbeans.com/#card-sales-operations-coordinator-sagan-recruitment
-
 ### Client Services Team Lead
 - **Company:** Sagan Recruitment
 - **Salary:** $1,200 – $1,800 / month
@@ -1707,7 +1676,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-10
 - **View Job:** https://globalcaribbeans.com/#card-talent-coach-toptal
 
-## Project Management (20 open roles)
+## Project Management (19 open roles)
 
 ### Junior Product Owner - Remote Work
 - **Company:** BairesDev
@@ -1785,13 +1754,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-jcl-mainframe-migration-engineer-new-era-technology
-
-### Systems & Growth Project Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,250 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-systems-growth-project-manager-sagan-recruitment
 
 ### ServiceNow Product Manager - Remote Work | REF#302350
 - **Company:** BairesDev
