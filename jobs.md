@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-09T11:00:44Z
+last_updated: 2026-09-09T16:16:39Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**353 active remote jobs** as of 2026-09-09.
+**357 active remote jobs** as of 2026-09-09.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -923,7 +923,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (106 open roles)
+## Other (107 open roles)
+
+### Computer Scientist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-computer-scientist-remote-work-bairesdev
+
+### Business Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-business-analyst-remote-work-bairesdev
 
 ### Ticketing Operations Associate
 - **Company:** Remotely Talents (client confidential)
@@ -1272,14 +1286,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-architectural-drafter-3d-modeler-sagan-recruitment
-
-### Bilingual Clinical Care Coordination Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-clinical-care-coordination-specialist-bruntwork
 
 ### DoD SkillBridge Opportunities at Corelight
 - **Company:** Job Board
@@ -1676,7 +1682,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-10
 - **View Job:** https://globalcaribbeans.com/#card-talent-coach-toptal
 
-## Project Management (19 open roles)
+## Project Management (21 open roles)
+
+### Web Project Manager
+- **Company:** Athyna
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-web-project-manager-athyna
+
+### Tech Project Manager AI
+- **Company:** Athyna
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-tech-project-manager-ai-athyna
 
 ### Junior Product Owner - Remote Work
 - **Company:** BairesDev
@@ -1869,7 +1889,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (30 open roles)
+## Sales (31 open roles)
+
+### Commercial & Personal Lines Insurance Account Manager
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-09
+- **View Job:** https://globalcaribbeans.com/#card-commercial-personal-lines-insurance-account-manager-bruntwork
 
 ### Technical Manager - Remote Work
 - **Company:** BairesDev
