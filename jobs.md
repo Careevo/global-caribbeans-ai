@@ -2,18 +2,33 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-11T16:10:49Z
+last_updated: 2026-09-11T20:44:17Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**428 active remote jobs** as of 2026-09-11.
+**431 active remote jobs** as of 2026-09-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (25 open roles)
+## Accounting/Bookkeeping (27 open roles)
+
+### Contract Accounts Payable Manager
+- **Company:** Customer.io
+- **Salary:** $45 – $60 / hour
+- **Location:** Global
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-contract-accounts-payable-manager-customer-io
+
+### Finance & Administration Manager — U.S. Accounting & Real Estate
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-finance-administration-manager-u-s-accounting-real-estate-mappa
 
 ### Bookkeeper
 - **Company:** Sagan Recruitment
@@ -597,7 +612,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (29 open roles)
+## Online Marketing (30 open roles)
+
+### Paid Social Media Buyer (Meta Ads)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-paid-social-media-buyer-meta-ads-bruntwork
+
+### Administrative & Marketing Manager - Construction
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-administrative-marketing-manager-construction-bruntwork
 
 ### Social Media Manager
 - **Company:** Mappa
@@ -794,13 +823,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-14
 - **View Job:** https://globalcaribbeans.com/#card-organic-content-strategist-remotely-talents-client-confidential
-
-### Visual Merchandising & Concept Specialist
-- **Company:** THE/STUDIO
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-08-12
-- **View Job:** https://globalcaribbeans.com/#card-visual-merchandising-concept-specialist-the-studio
 
 ## Operations (34 open roles)
 
@@ -1043,7 +1065,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (123 open roles)
+## Other (122 open roles)
 
 ### Production Coordinator
 - **Company:** Mappa
@@ -1342,14 +1364,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-hl7-fhir-engineer-remote-work-bairesdev
-
-### Marketing Automation Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-08
-- **View Job:** https://globalcaribbeans.com/#card-marketing-automation-specialist-bruntwork
 
 ### Corporate Travel and Mobility Agent - Remote Work
 - **Company:** BairesDev
@@ -2275,7 +2289,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (35 open roles)
+## Sales (36 open roles)
+
+### Sales Development Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-specialist-bruntwork
+
+### Account Manager
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-account-manager-mappa
 
 ### AU Property Management Lead Generator (PropertyMe)
 - **Company:** BruntWork
@@ -2339,13 +2367,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-09
 - **View Job:** https://globalcaribbeans.com/#card-real-estate-support-agent-bruntwork
-
-### Client Care Specialist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-09
-- **View Job:** https://globalcaribbeans.com/#card-client-care-specialist-hire-with-near
 
 ### Senior Account Manager
 - **Company:** Remote Leverage
