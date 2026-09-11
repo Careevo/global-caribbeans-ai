@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-10T20:39:06Z
+last_updated: 2026-09-11T03:54:05Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**413 active remote jobs** as of 2026-09-10.
+**428 active remote jobs** as of 2026-09-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (28 open roles)
+## Accounting/Bookkeeping (27 open roles)
 
 ### Finance & Administration Manager — U.S. Accounting & Real Estate
 - **Company:** Mappa
@@ -208,14 +208,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-corporate-bookkeeper-cleanup-specialist-sagan-recruitment
 
-### Property Bookkeeper
-- **Company:** Sagan Recruitment
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-12
-- **View Job:** https://globalcaribbeans.com/#card-property-bookkeeper-sagan-recruitment
-
-## Admin (11 open roles)
+## Admin (10 open roles)
 
 ### Accounting Administrative Assistant
 - **Company:** Hire With Near
@@ -251,13 +244,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-remote-leverage
-
-### Australian Real Estate Sales Administrator - AgentBox
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-07
-- **View Job:** https://globalcaribbeans.com/#card-australian-real-estate-sales-administrator-agentbox-bruntwork
 
 ### Junior Administrative Assistant
 - **Company:** Sagan Recruitment
@@ -603,7 +589,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (29 open roles)
+## Online Marketing (30 open roles)
+
+### Social Media Manager
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-mappa-2
+
+### Technical & Local SEO Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-technical-local-seo-specialist-sagan-recruitment
+
+### Marketing Content Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-marketing-content-specialist-remote-work-bairesdev
 
 ### Senior Paid Search Specialist
 - **Company:** Kajae
@@ -653,13 +660,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-saas-product-ui-ux-designer-clickguard
-
-### Senior Klaviyo Lifecycle Marketing Manager
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-08
-- **View Job:** https://globalcaribbeans.com/#card-senior-klaviyo-lifecycle-marketing-manager-bruntwork
 
 ### Social Media Manager
 - **Company:** Remote Leverage
@@ -723,13 +723,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-marketing-operations-specialist-sagan-recruitment
-
-### SEO Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-sagan-recruitment-2
 
 ### PPC Specialist
 - **Company:** Sagan Recruitment
@@ -1042,7 +1035,65 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (120 open roles)
+## Other (125 open roles)
+
+### Remote Bilingual Patient Care Liaison (EN/ES)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-remote-bilingual-patient-care-liaison-en-es-bruntwork
+
+### Bilingual Medicaid Outreach Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-medicaid-outreach-representative-bruntwork
+
+### Construction Accounting Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-construction-accounting-specialist-bruntwork
+
+### Graphic and Packaging Designer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-graphic-and-packaging-designer-hired-remoteli
+
+### Construction Estimator & Project Coordinator
+- **Company:** Virtual Latinos
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-construction-estimator-project-coordinator-virtual-latinos
+
+### Product & Packaging Designer (Outdoor Games)
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-product-packaging-designer-outdoor-games-hired-remoteli
+
+### Staffing Solution Architect - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-staffing-solution-architect-remote-work-bairesdev
+
+### CRM Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-crm-manager-remote-work-bairesdev-3
 
 ### CRM Manager - Remote Work
 - **Company:** BairesDev
@@ -1425,14 +1476,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-takeoff-estimator-remote-leverage-2
 
-### Bilingual Appointment Setter
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-07
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-appointment-setter-bruntwork
-
 ### Construction Cost Estimator
 - **Company:** Remote Leverage
 - **Salary:** $1,400 – $2,500 / month
@@ -1509,21 +1552,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-ios-application-developer-remote-work-bairesdev
-
-### Property Management Assistant (Rent Manager)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-07
-- **View Job:** https://globalcaribbeans.com/#card-property-management-assistant-rent-manager-bruntwork
-
-### Bilingual Residential Property Administrator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-07
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-residential-property-administrator-bruntwork
 
 ### Architectural Drafter & 3D Modeler
 - **Company:** Sagan Recruitment
@@ -1892,7 +1920,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-client-services-team-lead-sagan-recruitment
 
-## Project Management (34 open roles)
+## Project Management (38 open roles)
+
+### Senior Project Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-project-manager-remote-work-bairesdev-3
+
+### Senior Project Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-project-manager-remote-work-bairesdev-2
+
+### Project Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-remote-work-bairesdev-2
+
+### Senior Project Manager - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-project-manager-remote-work-bairesdev
 
 ### Project Manager (IT) - Remote Work
 - **Company:** BairesDev
@@ -2132,7 +2188,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-banking-platform-sezzle
 
-## Recruiting (13 open roles)
+## Recruiting (14 open roles)
+
+### Senior Recruiter - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-recruiter-remote-work-bairesdev
 
 ### Talent Acquisition Associate - Remote Work
 - **Company:** BairesDev
@@ -2225,7 +2288,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (33 open roles)
+## Sales (35 open roles)
+
+### Remote Sales & Legal Intake Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-remote-sales-legal-intake-specialist-bruntwork
+
+### Inside Sales Representative
+- **Company:** Hire With Near
+- **Salary:** $1,800 – $2,300 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-hire-with-near
 
 ### Proposal Manager, Presales - Remote Work
 - **Company:** BairesDev
@@ -2459,7 +2536,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-customer-lifecycle-marketing-coordinator-sagan-recruitment
 
-## Software Development (69 open roles)
+## Software Development (73 open roles)
+
+### Senior Web Designer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-web-designer-kajae-4
+
+### Senior Web Designer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-web-designer-kajae-3
+
+### Senior Web Designer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-web-designer-kajae-2
+
+### Senior Web Designer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-10
+- **View Job:** https://globalcaribbeans.com/#card-senior-web-designer-kajae
 
 ### Senior Visual Designer, Profile/Account Hub
 - **Company:** New Era Technology
