@@ -2,26 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-11T10:55:39Z
+last_updated: 2026-09-11T16:10:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**427 active remote jobs** as of 2026-09-11.
+**428 active remote jobs** as of 2026-09-11.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (26 open roles)
-
-### Finance & Administration Manager — U.S. Accounting & Real Estate
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-finance-administration-manager-u-s-accounting-real-estate-mappa
+## Accounting/Bookkeeping (25 open roles)
 
 ### Bookkeeper
 - **Company:** Sagan Recruitment
@@ -201,7 +193,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-commercial-property-accountant-sagan-recruitment
 
-## Admin (11 open roles)
+## Admin (12 open roles)
+
+### Bilingual Tax Executive Assistant (U.S. Tax & CPA Firm)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-tax-executive-assistant-u-s-tax-cpa-firm-bruntwork
 
 ### Medical Receptionist
 - **Company:** BruntWork
@@ -604,6 +604,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-mappa
+
+### Social Media Manager
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-mappa-2
 
 ### Technical & Local SEO Specialist
@@ -640,13 +647,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-media-buye-kajae
-
-### Social Media Manager
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-mappa
 
 ### Growth Marketing Manager
 - **Company:** Hire With Near
@@ -802,7 +802,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-visual-merchandising-concept-specialist-the-studio
 
-## Operations (33 open roles)
+## Operations (34 open roles)
+
+### Legal Claims Intake Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-legal-claims-intake-specialist-bruntwork
 
 ### Paylocity Payroll and Compliance Specialist
 - **Company:** BruntWork
@@ -1036,7 +1043,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (125 open roles)
+## Other (123 open roles)
+
+### Production Coordinator
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-production-coordinator-mappa-4
 
 ### Dispatcher
 - **Company:** Sagan Recruitment
@@ -1144,13 +1158,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-senior-visual-designer-search-new-era-technology
-
-### Production Coordinator
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-production-coordinator-mappa-4
 
 ### AI Video Editor
 - **Company:** Remotely Talents (client confidential)
@@ -1646,13 +1653,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-rag-engineer-remote-work-ref-303035-bairesdev
 
-### Senior Graphic Web Designer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-graphic-web-designer-kajae
-
 ### Graphics Designer
 - **Company:** CRAE GROUP
 - **Salary:** €50,000 – €80,000 / year
@@ -1892,13 +1892,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-dutch-sports-localization-specialist-football-welo-data
 
-### Croatian Sports Localization Specialist (Football)
-- **Company:** Welo Data
-- **Salary:** $20 – $25 / hour
-- **Location:** Global
-- **Posted:** 2026-08-15
-- **View Job:** https://globalcaribbeans.com/#card-croatian-sports-localization-specialist-football-welo-data
-
 ### Jira Administrator
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -1921,7 +1914,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-12
 - **View Job:** https://globalcaribbeans.com/#card-p2p-bd-assistant-bybit
 
-## Project Management (38 open roles)
+## Project Management (37 open roles)
 
 ### Senior Project Manager - Remote Work
 - **Company:** BairesDev
@@ -2126,13 +2119,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-construction-project-manager-workbetternow-2
 
-### JCL Mainframe Migration Engineer
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-jcl-mainframe-migration-engineer-new-era-technology
-
 ### ServiceNow Product Manager - Remote Work | REF#302350
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2289,7 +2275,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (34 open roles)
+## Sales (35 open roles)
+
+### AU Property Management Lead Generator (PropertyMe)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-au-property-management-lead-generator-propertyme-bruntwork
 
 ### Remote Sales & Legal Intake Specialist
 - **Company:** BruntWork
@@ -2530,7 +2523,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-work-from-home-persona
 
-## Software Development (73 open roles)
+## Software Development (75 open roles)
+
+### Senior Web Design Lead
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-web-design-lead-kajae-2
+
+### Senior Web Design Lead
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-web-design-lead-kajae
 
 ### Senior Web Designer
 - **Company:** Kajae
