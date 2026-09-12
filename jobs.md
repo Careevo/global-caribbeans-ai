@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-12T03:56:39Z
+last_updated: 2026-09-12T10:23:03Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**433 active remote jobs** as of 2026-09-12.
+**436 active remote jobs** as of 2026-09-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (27 open roles)
+## Accounting/Bookkeeping (26 open roles)
 
 ### Contract Accounts Payable Manager
 - **Company:** Customer.io
@@ -201,13 +201,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
 
-### Commercial Property Accountant
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-commercial-property-accountant-sagan-recruitment
-
 ## Admin (13 open roles)
 
 ### Personal Assistant
@@ -305,6 +298,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Customer support (14 open roles)
 
+### Client Support Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,300 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-12
+- **View Job:** https://globalcaribbeans.com/#card-client-support-specialist-sagan-recruitment
+
 ### Solar Customer Service Representative
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -397,13 +397,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-14
 - **View Job:** https://globalcaribbeans.com/#card-client-services-associate-customer-service-sagan-recruitment-2
-
-### Customer Success Manager
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca
 
 ## Data/Analytics (29 open roles)
 
@@ -1093,7 +1086,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (120 open roles)
+## Other (121 open roles)
+
+### Unit Turn Project Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 – $3,000 / month
+- **Location:** Remote
+- **Posted:** 2026-09-12
+- **View Job:** https://globalcaribbeans.com/#card-unit-turn-project-coordinator-sagan-recruitment
 
 ### Production Coordinator
 - **Company:** Mappa
@@ -1943,6 +1943,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Project Management (37 open roles)
 
+### Maintenance Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-12
+- **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment
+
 ### Senior Project Manager - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2194,13 +2201,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-customer-io
-
-### Senior Technical Product Manager, Banking Platform
-- **Company:** Sezzle
-- **Salary:** $5,000 – $8,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-senior-technical-product-manager-banking-platform-sezzle
 
 ## Recruiting (14 open roles)
 
@@ -2557,7 +2557,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-work-from-home-persona
 
-## Software Development (75 open roles)
+## Software Development (78 open roles)
+
+### Engineering Manager, Billing
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-12
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-billing-supabase
+
+### Senior Product Designer, Operations Tools
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-09-12
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-operations-tools-alpaca
+
+### Principal Infrastructure Engineer
+- **Company:** Sezzle
+- **Salary:** $12,500 – $20,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-12
+- **View Job:** https://globalcaribbeans.com/#card-principal-infrastructure-engineer-sezzle
 
 ### Senior Web Design Lead
 - **Company:** Kajae
