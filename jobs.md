@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-12T15:17:54Z
+last_updated: 2026-09-12T20:21:53Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**435 active remote jobs** as of 2026-09-12.
+**434 active remote jobs** as of 2026-09-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (26 open roles)
+## Accounting/Bookkeeping (25 open roles)
 
 ### Contract Accounts Payable Manager
 - **Company:** Customer.io
@@ -193,13 +193,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-14
 - **View Job:** https://globalcaribbeans.com/#card-controller-sagan-recruitment
-
-### Accountant
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
 
 ## Admin (13 open roles)
 
@@ -1941,7 +1934,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-14
 - **View Job:** https://globalcaribbeans.com/#card-jira-administrator-hire-with-near
 
-## Project Management (37 open roles)
+## Project Management (36 open roles)
 
 ### Maintenance Coordinator
 - **Company:** Sagan Recruitment
@@ -2195,13 +2188,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-servicenow-product-owner-remote-work-ref-301600-bairesdev
 
-### Product Manager
-- **Company:** Customer.io
-- **Salary:** $137,000 – $156,000 / year
-- **Location:** Global
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-customer-io
-
 ## Recruiting (14 open roles)
 
 ### Senior Recruiter - Remote Work
@@ -2302,7 +2288,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (36 open roles)
+## Sales (37 open roles)
+
+### Real Estate Assistant / Transaction Coordinator
+- **Company:** Somewhere
+- **Salary:** $1,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-12
+- **View Job:** https://globalcaribbeans.com/#card-real-estate-assistant-transaction-coordinator-somewhere
 
 ### Sales Development Specialist
 - **Company:** BruntWork
