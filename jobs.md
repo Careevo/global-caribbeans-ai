@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-11T20:44:17Z
+last_updated: 2026-09-12T03:56:39Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**431 active remote jobs** as of 2026-09-11.
+**433 active remote jobs** as of 2026-09-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -208,7 +208,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-13
 - **View Job:** https://globalcaribbeans.com/#card-commercial-property-accountant-sagan-recruitment
 
-## Admin (12 open roles)
+## Admin (13 open roles)
+
+### Personal Assistant
+- **Company:** Hire With Near
+- **Salary:** $1,100 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-personal-assistant-hire-with-near
 
 ### Bilingual Tax Executive Assistant (U.S. Tax & CPA Firm)
 - **Company:** BruntWork
@@ -824,7 +831,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-14
 - **View Job:** https://globalcaribbeans.com/#card-organic-content-strategist-remotely-talents-client-confidential
 
-## Operations (34 open roles)
+## Operations (37 open roles)
+
+### Social Media Strategist
+- **Company:** New Era Technology
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-social-media-strategist-new-era-technology
+
+### eCom Operations Coordinator
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-ecom-operations-coordinator-hired-remoteli
+
+### AI Operations & Workflow Consultant
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-11
+- **View Job:** https://globalcaribbeans.com/#card-ai-operations-workflow-consultant-persona
 
 ### Legal Claims Intake Specialist
 - **Company:** BruntWork
@@ -1065,7 +1093,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (122 open roles)
+## Other (120 open roles)
 
 ### Production Coordinator
 - **Company:** Mappa
@@ -1912,21 +1940,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-14
 - **View Job:** https://globalcaribbeans.com/#card-jira-administrator-hire-with-near
-
-### Medical Records Collection Specialist
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-13
-- **View Job:** https://globalcaribbeans.com/#card-medical-records-collection-specialist-somewhere
-
-### P2P BD Assistant
-- **Company:** Bybit
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-12
-- **View Job:** https://globalcaribbeans.com/#card-p2p-bd-assistant-bybit
 
 ## Project Management (37 open roles)
 
