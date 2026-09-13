@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-13T15:54:52Z
+last_updated: 2026-09-13T20:32:38Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**432 active remote jobs** as of 2026-09-13.
+**431 active remote jobs** as of 2026-09-13.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -282,7 +282,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-patient-care-coordinator-healthcare-virtual-assistant-sagan-recruitment
 
-## Customer support (14 open roles)
+## Customer support (13 open roles)
 
 ### Client Support Specialist
 - **Company:** Sagan Recruitment
@@ -376,13 +376,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-customer-support-engineer-remote-work-ref-301330-bairesdev
-
-### Client Services Associate (Customer Service)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-14
-- **View Job:** https://globalcaribbeans.com/#card-client-services-associate-customer-service-sagan-recruitment-2
 
 ## Data/Analytics (29 open roles)
 
