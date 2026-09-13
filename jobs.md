@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-12T20:21:53Z
+last_updated: 2026-09-13T04:05:33Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**434 active remote jobs** as of 2026-09-12.
+**433 active remote jobs** as of 2026-09-13.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (25 open roles)
+## Accounting/Bookkeeping (24 open roles)
 
 ### Contract Accounts Payable Manager
 - **Company:** Customer.io
@@ -186,13 +186,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-18
 - **View Job:** https://globalcaribbeans.com/#card-director-of-finance-controller-somewhere
-
-### Controller
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $5,000 / month
-- **Location:** Global
-- **Posted:** 2026-08-14
-- **View Job:** https://globalcaribbeans.com/#card-controller-sagan-recruitment
 
 ## Admin (13 open roles)
 
