@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-13T20:32:38Z
+last_updated: 2026-09-14T04:13:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**431 active remote jobs** as of 2026-09-13.
+**429 active remote jobs** as of 2026-09-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -187,7 +187,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-18
 - **View Job:** https://globalcaribbeans.com/#card-director-of-finance-controller-somewhere
 
-## Admin (13 open roles)
+## Admin (12 open roles)
 
 ### Personal Assistant
 - **Company:** Hire With Near
@@ -233,13 +233,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-remote-work-bairesdev-2
 
-### Customer Support & E-commerce Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-08
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-e-commerce-assistant-bruntwork
-
 ### Executive Assistant
 - **Company:** Remote Leverage
 - **Salary:** $1,600 – $2,300 / month
@@ -282,7 +275,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-patient-care-coordinator-healthcare-virtual-assistant-sagan-recruitment
 
-## Customer support (13 open roles)
+## Customer support (14 open roles)
+
+### SaaS Technical Client Support Representativepport Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-13
+- **View Job:** https://globalcaribbeans.com/#card-saas-technical-client-support-representativepport-specialist-bruntwork
 
 ### Client Support Specialist
 - **Company:** Sagan Recruitment
@@ -591,7 +591,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (29 open roles)
+## Online Marketing (28 open roles)
 
 ### Paid Social Media Buyer (Meta Ads)
 - **Company:** BruntWork
@@ -788,13 +788,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-head-of-marketing-the-studio
-
-### Amazon Brand Manager (Operations & PPC)
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-08-15
-- **View Job:** https://globalcaribbeans.com/#card-amazon-brand-manager-operations-ppc-sagan-recruitment-2
 
 ## Operations (37 open roles)
 
@@ -1058,7 +1051,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-property-management-trust-accounting-specialist-sagan-recruitment
 
-## Other (121 open roles)
+## Other (120 open roles)
+
+### Remote Bilingual Patient Care Coordinator (EN/ES)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-14
+- **View Job:** https://globalcaribbeans.com/#card-remote-bilingual-patient-care-coordinator-en-es-bruntwork
 
 ### Unit Turn Project Coordinator
 - **Company:** Sagan Recruitment
@@ -1080,14 +1081,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-11
 - **View Job:** https://globalcaribbeans.com/#card-dispatcher-sagan-recruitment
-
-### Remote Bilingual Patient Care Liaison (EN/ES)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-11
-- **View Job:** https://globalcaribbeans.com/#card-remote-bilingual-patient-care-liaison-en-es-bruntwork
 
 ### Bilingual Medicaid Outreach Representative
 - **Company:** BruntWork
@@ -1905,13 +1898,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-15
 - **View Job:** https://globalcaribbeans.com/#card-dutch-sports-localization-specialist-football-welo-data
-
-### Jira Administrator
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-14
-- **View Job:** https://globalcaribbeans.com/#card-jira-administrator-hire-with-near
 
 ## Project Management (36 open roles)
 
