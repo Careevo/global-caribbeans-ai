@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-15T11:25:25Z
+last_updated: 2026-09-15T16:37:40Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**280 active remote jobs** as of 2026-09-15.
+**284 active remote jobs** as of 2026-09-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (18 open roles)
+## Accounting/Bookkeeping (19 open roles)
+
+### Construction Accountant
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-15
+- **View Job:** https://globalcaribbeans.com/#card-construction-accountant-somewhere
 
 ### Finance & Administration Manager — U.S. Accounting & Real Estate
 - **Company:** Mappa
@@ -203,7 +210,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-patient-care-coordinator-healthcare-virtual-assistant-sagan-recruitment
 
-## Customer support (12 open roles)
+## Customer support (13 open roles)
+
+### Customer Support Representative
+- **Company:** Hire With Near
+- **Salary:** $1,200 – $1,350 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-15
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-representative-hire-with-near
 
 ### Customer Service Representative
 - **Company:** Somewhere
@@ -610,7 +625,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-head-of-marketing-the-studio
 
-## Operations (30 open roles)
+## Operations (31 open roles)
+
+### Assistant Property Manager
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-15
+- **View Job:** https://globalcaribbeans.com/#card-assistant-property-manager-somewhere
 
 ### Sales QA & Audit Associate
 - **Company:** Sagan Recruitment
@@ -1493,7 +1516,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-servicenow-product-owner-remote-work-ref-301600-bairesdev
 
-## Recruiting (4 open roles)
+## Recruiting (5 open roles)
+
+### Recruiter
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-15
+- **View Job:** https://globalcaribbeans.com/#card-recruiter-remote-leverage
 
 ### High-Volume Outbound Recruiter (Part-Time Project)
 - **Company:** Sagan Recruitment
