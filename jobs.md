@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-15T21:02:56Z
+last_updated: 2026-09-16T04:09:31Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**292 active remote jobs** as of 2026-09-15.
+**296 active remote jobs** as of 2026-09-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -151,14 +151,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-18
 - **View Job:** https://globalcaribbeans.com/#card-director-of-finance-controller-somewhere
 
-## Admin (8 open roles)
+## Admin (9 open roles)
 
-### Personal Assistant
-- **Company:** Hire With Near
-- **Salary:** $1,100 – $1,500 / month
+### Senior Executive Assistant
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-11
-- **View Job:** https://globalcaribbeans.com/#card-personal-assistant-hire-with-near
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-somewhere
+
+### Bilingual Executive Assistant to the CEO – Operations & Strategy
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-executive-assistant-to-the-ceo-operations-strategy-bruntwork
 
 ### Bilingual Tax Executive Assistant (U.S. Tax & CPA Firm)
 - **Company:** BruntWork
@@ -304,7 +312,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-customer-support-engineer-remote-work-ref-301330-bairesdev
 
-## Data/Analytics (20 open roles)
+## Data/Analytics (21 open roles)
+
+### Looker Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-15
+- **View Job:** https://globalcaribbeans.com/#card-looker-developer-remote-work-bairesdev
 
 ### Real Estate Valuation Analyst - Residential Underwriter
 - **Company:** Sagan Recruitment
@@ -455,7 +470,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (27 open roles)
+## Online Marketing (28 open roles)
+
+### Marketing Content Manager
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-15
+- **View Job:** https://globalcaribbeans.com/#card-marketing-content-manager-remote-leverage
 
 ### Social Media Manager and Copywriter
 - **Company:** Somewhere
@@ -646,7 +668,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-head-of-marketing-the-studio
 
-## Operations (33 open roles)
+## Operations (31 open roles)
 
 ### Spanish Bilingual Patient Coordinator & Scheduling
 - **Company:** BruntWork
@@ -699,13 +721,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-paylocity-payroll-and-compliance-specialist-bruntwork-2
 
-### Social Media Strategist
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-11
-- **View Job:** https://globalcaribbeans.com/#card-social-media-strategist-new-era-technology
-
 ### eCom Operations Coordinator
 - **Company:** Hired Remoteli
 - **Salary:** Not Disclosed
@@ -747,13 +762,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-06
 - **View Job:** https://globalcaribbeans.com/#card-head-of-operations-the-studio
-
-### Retail Operations Specialist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-05
-- **View Job:** https://globalcaribbeans.com/#card-retail-operations-specialist-hire-with-near
 
 ### Salesforce Administrator (Service Cloud)
 - **Company:** Engine
@@ -883,6 +891,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-head-of-content-media-alpaca
 
 ## Other (79 open roles)
+
+### Graphic Designer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-15
+- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-hired-remoteli
 
 ### Sr Specialist - Employee Relations
 - **Company:** Remote
@@ -1049,14 +1064,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-11
 - **View Job:** https://globalcaribbeans.com/#card-dispatcher-sagan-recruitment
-
-### Bilingual Medicaid Outreach Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-11
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-medicaid-outreach-representative-bruntwork
 
 ### Construction Accounting Specialist
 - **Company:** BruntWork
@@ -1589,7 +1596,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (26 open roles)
+## Sales (27 open roles)
+
+### Inside Sales Representative
+- **Company:** Hire With Near
+- **Salary:** $35,000 – $45,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-hire-with-near-2
 
 ### Inbound Sales Representative / Sales Closer
 - **Company:** Mappa
@@ -1776,7 +1790,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-sales-leasing-specialist-latino-legends
 
-## Software Development (46 open roles)
+## Software Development (48 open roles)
+
+### Senior Platform Engineer
+- **Company:** New Era Technology
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-platform-engineer-new-era-technology
+
+### Team Lead, Android Core Product
+- **Company:** Speechify
+- **Salary:** $140,000 – $200,000 / year
+- **Location:** Remote
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-team-lead-android-core-product-speechify
 
 ### Clojure Full Stack Engineer - Remote Work
 - **Company:** BairesDev
