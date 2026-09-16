@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-16T04:09:31Z
+last_updated: 2026-09-16T11:10:51Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**296 active remote jobs** as of 2026-09-16.
+**300 active remote jobs** as of 2026-09-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (19 open roles)
+## Accounting/Bookkeeping (20 open roles)
+
+### Multi-Entity Controller
+- **Company:** Sagan Recruitment
+- **Salary:** $3,500 – $5,500 / month
+- **Location:** Remote
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-multi-entity-controller-sagan-recruitment
 
 ### Finance & Administration Manager — U.S. Accounting & Real Estate
 - **Company:** Mappa
@@ -668,7 +675,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-17
 - **View Job:** https://globalcaribbeans.com/#card-head-of-marketing-the-studio
 
-## Operations (31 open roles)
+## Operations (32 open roles)
+
+### Business Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-business-manager-sagan-recruitment
 
 ### Spanish Bilingual Patient Coordinator & Scheduling
 - **Company:** BruntWork
@@ -890,7 +904,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-head-of-content-media-alpaca
 
-## Other (79 open roles)
+## Other (80 open roles)
+
+### Tenant Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $3,200 / month
+- **Location:** Remote
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-tenant-operations-coordinator-sagan-recruitment
 
 ### Graphic Designer
 - **Company:** Hired Remoteli
@@ -1790,7 +1812,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-sales-leasing-specialist-latino-legends
 
-## Software Development (48 open roles)
+## Software Development (49 open roles)
+
+### UI/UX Designer
+- **Company:** Aurify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-16
+- **View Job:** https://globalcaribbeans.com/#card-ui-ux-designer-aurify
 
 ### Senior Platform Engineer
 - **Company:** New Era Technology
