@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-18T04:00:04Z
+last_updated: 2026-09-18T10:53:35Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**305 active remote jobs** as of 2026-09-18.
+**303 active remote jobs** as of 2026-09-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (14 open roles)
+## Accounting/Bookkeeping (13 open roles)
 
 ### Multi-Entity Controller
 - **Company:** Sagan Recruitment
@@ -107,14 +107,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-accountant-sezzle
 
-### Senior Accountant
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-sagan-recruitment-2
+## Admin (11 open roles)
 
-## Admin (10 open roles)
+### REO Administrative Assistant / Operations Support
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-18
+- **View Job:** https://globalcaribbeans.com/#card-reo-administrative-assistant-operations-support-sagan-recruitment
 
 ### Administrative Assistant
 - **Company:** Somewhere
@@ -260,7 +260,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-information-technology-service-desk-hire-with-near
 
-## Data/Analytics (22 open roles)
+## Data/Analytics (23 open roles)
+
+### Programmatic Media Buyer
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-18
+- **View Job:** https://globalcaribbeans.com/#card-programmatic-media-buyer-kajae
 
 ### SEO & AI Search Manager
 - **Company:** Virtual Latinos
@@ -440,7 +447,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (28 open roles)
+## Online Marketing (25 open roles)
 
 ### Digital Content & Email Specialist
 - **Company:** Somewhere
@@ -498,13 +505,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-manager-crypto-alpaca
 
-### Client Fulfillment & Support Representative (GoHighLevel)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-15
-- **View Job:** https://globalcaribbeans.com/#card-client-fulfillment-support-representative-gohighlevel-bruntwork
-
 ### Email Marketing Specialist (Klaviyo/SMS)
 - **Company:** Sagan Recruitment
 - **Salary:** $3,000 / month
@@ -546,20 +546,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-senior-paid-search-specialist-kajae
-
-### Media Buye
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-media-buye-kajae-2
-
-### Media Buye
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-media-buye-kajae
 
 ### Growth Marketing Manager
 - **Company:** Hire With Near
@@ -859,7 +845,29 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-head-of-content-media-alpaca
 
-## Other (77 open roles)
+## Other (79 open roles)
+
+### Bilingual E-Commerce Operations Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-18
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-e-commerce-operations-representative-bruntwork
+
+### Management Consulting Matcher
+- **Company:** Toptal
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-18
+- **View Job:** https://globalcaribbeans.com/#card-management-consulting-matcher-toptal
+
+### Short-Form Video Host & Producer (Skyecap & VIMB)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-18
+- **View Job:** https://globalcaribbeans.com/#card-short-form-video-host-producer-skyecap-vimb-bruntwork
 
 ### Drayage Operations Coordinator
 - **Company:** Somewhere
@@ -1076,14 +1084,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-cabinetvision-cad-drafter-cnc-specialist-bruntwork
-
-### Bilingual Construction Project Coordinator (Buildertrend)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-14
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-construction-project-coordinator-buildertrend-bruntwork-2
 
 ### Unit Turn Project Coordinator
 - **Company:** Sagan Recruitment
@@ -1782,7 +1782,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-sales-leasing-specialist-latino-legends
 
-## Software Development (58 open roles)
+## Software Development (56 open roles)
 
 ### Developer
 - **Company:** Hired Remoteli
@@ -2000,20 +2000,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-11
 - **View Job:** https://globalcaribbeans.com/#card-senior-web-designer-kajae-3
-
-### Senior Web Designer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-11
-- **View Job:** https://globalcaribbeans.com/#card-senior-web-designer-kajae-2
-
-### Senior Web Designer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-web-designer-kajae
 
 ### Senior Visual Designer, Profile/Account Hub
 - **Company:** New Era Technology
