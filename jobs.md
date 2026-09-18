@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-17T21:07:44Z
+last_updated: 2026-09-18T04:00:04Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**307 active remote jobs** as of 2026-09-17.
+**305 active remote jobs** as of 2026-09-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -187,7 +187,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-patient-care-coordinator-healthcare-virtual-assistant-sagan-recruitment
 
-## Customer support (11 open roles)
+## Customer support (10 open roles)
 
 ### Customer Support Representative
 - **Company:** Hire With Near
@@ -260,14 +260,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-information-technology-service-desk-hire-with-near
 
-### Customer Support Engineer - Remote work | REF#301330
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-engineer-remote-work-ref-301330-bairesdev
-
-## Data/Analytics (23 open roles)
+## Data/Analytics (22 open roles)
 
 ### SEO & AI Search Manager
 - **Company:** Virtual Latinos
@@ -296,13 +289,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-real-estate-valuation-analyst-residential-underwriter-sagan-recruitment
-
-### TikTok Shop Affiliate & Creator Partnerships Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-14
-- **View Job:** https://globalcaribbeans.com/#card-tiktok-shop-affiliate-creator-partnerships-specialist-bruntwork-2
 
 ### Consumer Experience Insights Lead
 - **Company:** New Era Technology
@@ -454,7 +440,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (29 open roles)
+## Online Marketing (28 open roles)
 
 ### Digital Content & Email Specialist
 - **Company:** Somewhere
@@ -651,13 +637,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
-
-### Growth Marketing Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $3,500 / month
-- **Location:** Global
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-manager-sagan-recruitment
 
 ## Operations (31 open roles)
 
@@ -880,7 +859,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-head-of-content-media-alpaca
 
-## Other (76 open roles)
+## Other (77 open roles)
+
+### Drayage Operations Coordinator
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-18
+- **View Job:** https://globalcaribbeans.com/#card-drayage-operations-coordinator-somewhere
+
+### Video Editor
+- **Company:** Remote Leverage
+- **Salary:** $2,500 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-17
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-remote-leverage
 
 ### Product Designer
 - **Company:** SafetyWing
@@ -1415,14 +1409,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-mid-level-frontend-react-engineer-vigil
 
-### SOC Engineer - Remote Work | REF#300863
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-soc-engineer-remote-work-ref-300863-bairesdev
-
-## Project Management (16 open roles)
+## Project Management (13 open roles)
 
 ### Senior Project Manager - Remote Work
 - **Company:** BairesDev
@@ -1480,13 +1467,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-senior-client-services-marketing-delivery-lead-sagan-recruitment
 
-### Senior AI Product Owner
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-02
-- **View Job:** https://globalcaribbeans.com/#card-senior-ai-product-owner-new-era-technology
-
 ### Senior Business Analyst
 - **Company:** New Era Technology
 - **Salary:** Not Disclosed
@@ -1521,20 +1501,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-19
 - **View Job:** https://globalcaribbeans.com/#card-enterprise-implementation-manager-arcadia
-
-### Senior Product Manager - Remote Work | REF#301304
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-remote-work-ref-301304-bairesdev
-
-### ServiceNow Product Owner - Remote Work | REF#301600
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-19
-- **View Job:** https://globalcaribbeans.com/#card-servicenow-product-owner-remote-work-ref-301600-bairesdev
 
 ## Recruiting (7 open roles)
 
@@ -1588,7 +1554,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
-## Sales (30 open roles)
+## Sales (32 open roles)
+
+### Sales Manager
+- **Company:** Remote Leverage
+- **Salary:** $3,300 – $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-17
+- **View Job:** https://globalcaribbeans.com/#card-sales-manager-remote-leverage-2
+
+### Business Development Specialist
+- **Company:** Virtual Latinos
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-17
+- **View Job:** https://globalcaribbeans.com/#card-business-development-specialist-virtual-latinos
 
 ### Inside Sales Specialist
 - **Company:** Hire With Near
@@ -1801,7 +1782,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-sales-leasing-specialist-latino-legends
 
-## Software Development (57 open roles)
+## Software Development (58 open roles)
+
+### Developer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-17
+- **View Job:** https://globalcaribbeans.com/#card-developer-hired-remoteli
 
 ### Staff Software Engineer, Backend
 - **Company:** Customer.io
