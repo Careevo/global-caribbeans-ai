@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-19T15:40:04Z
+last_updated: 2026-09-19T20:19:06Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -888,7 +888,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-regional-risk-quality-associate-experienced-associate-pricewaterhousecoopers
 
-## Other (75 open roles)
+## Other (76 open roles)
+
+### Production Designer
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-19
+- **View Job:** https://globalcaribbeans.com/#card-production-designer-hire-with-near
 
 ### Project Auditor & Documentation Coordinator
 - **Company:** Sagan Recruitment
@@ -1518,7 +1525,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-22
 - **View Job:** https://globalcaribbeans.com/#card-gtm-product-manager-marketing-operations-remote
 
-## Recruiting (7 open roles)
+## Recruiting (6 open roles)
 
 ### Recruiting Intern
 - **Company:** Think Academy US
@@ -1562,13 +1569,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-08-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-alpaca
-
-### High-Volume Outbound Recruiter (Part-Time)
-- **Company:** Sagan Recruitment
-- **Salary:** $600 – $650 / month
-- **Location:** Global
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
 ## Sales (33 open roles)
 
