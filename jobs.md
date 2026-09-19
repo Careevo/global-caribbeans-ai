@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-19T10:36:13Z
+last_updated: 2026-09-19T15:40:04Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**305 active remote jobs** as of 2026-09-19.
+**307 active remote jobs** as of 2026-09-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -281,7 +281,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-26
 - **View Job:** https://globalcaribbeans.com/#card-information-technology-service-desk-hire-with-near
 
-## Data/Analytics (25 open roles)
+## Data/Analytics (26 open roles)
+
+### Director of Marketing Analytics & Performance
+- **Company:** Sagan Recruitment
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-19
+- **View Job:** https://globalcaribbeans.com/#card-director-of-marketing-analytics-performance-sagan-recruitment
 
 ### Google Cloud Lead Data Engineer
 - **Company:** Fueled
@@ -659,7 +666,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
 
-## Operations (29 open roles)
+## Operations (31 open roles)
+
+### Regional Sourcing Team Lead
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 / month
+- **Location:** Remote
+- **Posted:** 2026-09-19
+- **View Job:** https://globalcaribbeans.com/#card-regional-sourcing-team-lead-sagan-recruitment
+
+### ServiceTitan Administrator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** Remote
+- **Posted:** 2026-09-19
+- **View Job:** https://globalcaribbeans.com/#card-servicetitan-administrator-sagan-recruitment
 
 ### Fund Operations Associate
 - **Company:** Sagan Recruitment
@@ -868,6 +889,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-regional-risk-quality-associate-experienced-associate-pricewaterhousecoopers
 
 ## Other (75 open roles)
+
+### Project Auditor & Documentation Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-19
+- **View Job:** https://globalcaribbeans.com/#card-project-auditor-documentation-coordinator-sagan-recruitment
 
 ### Energy Calculation Specialist
 - **Company:** Sagan Recruitment
@@ -1397,13 +1425,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-20
 - **View Job:** https://globalcaribbeans.com/#card-mid-level-web-engineer-react-vigil
 
-### Senior Product Designer
-- **Company:** CashCow
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-cashcow
-
 ## Project Management (13 open roles)
 
 ### Product Manager - Derivatives
@@ -1550,6 +1571,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-high-volume-outbound-recruiter-part-time-sagan-recruitment
 
 ## Sales (33 open roles)
+
+### Sales Development Representative (SDR) – Supply Chain & Logistics Tech
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-19
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-supply-chain-logistics-tech-sagan-recruitme
 
 ### Call Booker (Sales-Oriented CSR)
 - **Company:** Sagan Recruitment
@@ -1776,14 +1805,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-executives-mid-market-enterprise-new-era-technology
 
-### Sales & Leasing Specialist
-- **Company:** Latino Legends
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-sales-leasing-specialist-latino-legends
-
-## Software Development (58 open roles)
+## Software Development (57 open roles)
 
 ### Mid/Senior AI Engineer
 - **Company:** TensorOps
@@ -2176,13 +2198,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-24
 - **View Job:** https://globalcaribbeans.com/#card-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-2
-
-### Senior Data Engineer
-- **Company:** Lemon.io
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-lemon-io
 
 ### Senior QRadar Platform Engineer
 - **Company:** New Era Technology
