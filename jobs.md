@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-20T15:45:21Z
+last_updated: 2026-09-20T20:33:32Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**303 active remote jobs** as of 2026-09-20.
+**301 active remote jobs** as of 2026-09-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -666,7 +666,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
 
-## Operations (30 open roles)
+## Operations (29 open roles)
 
 ### Regional Sourcing Team Lead
 - **Company:** Sagan Recruitment
@@ -874,14 +874,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-24
 - **View Job:** https://globalcaribbeans.com/#card-director-of-finance-hire-with-near
 
-### Regional Risk & Quality Associate/Experienced Associate
-- **Company:** PricewaterhouseCoopers
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-regional-risk-quality-associate-experienced-associate-pricewaterhousecoopers
-
-## Other (73 open roles)
+## Other (72 open roles)
 
 ### Production Designer
 - **Company:** Hire With Near
@@ -1396,13 +1389,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-escrow-officer-rebuilt
-
-### Conceptual Art Director
-- **Company:** Superside
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-conceptual-art-director-superside
 
 ## Project Management (13 open roles)
 
