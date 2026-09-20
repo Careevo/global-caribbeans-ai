@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-19T20:19:06Z
+last_updated: 2026-09-20T04:15:54Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**307 active remote jobs** as of 2026-09-19.
+**306 active remote jobs** as of 2026-09-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -888,7 +888,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-regional-risk-quality-associate-experienced-associate-pricewaterhousecoopers
 
-## Other (76 open roles)
+## Other (75 open roles)
 
 ### Production Designer
 - **Company:** Hire With Near
@@ -1424,13 +1424,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-search-engine-optimization-specialist-hire-with-near-2
-
-### Mid-Level Web Engineer – React
-- **Company:** Vigil
-- **Salary:** Not Disclosed
-- **Location:** Worldwide / Remote
-- **Posted:** 2026-08-20
-- **View Job:** https://globalcaribbeans.com/#card-mid-level-web-engineer-react-vigil
 
 ## Project Management (13 open roles)
 
