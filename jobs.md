@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-20T10:59:17Z
+last_updated: 2026-09-20T15:45:21Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**305 active remote jobs** as of 2026-09-20.
+**303 active remote jobs** as of 2026-09-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -666,7 +666,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
 
-## Operations (31 open roles)
+## Operations (30 open roles)
 
 ### Regional Sourcing Team Lead
 - **Company:** Sagan Recruitment
@@ -681,13 +681,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-servicetitan-administrator-sagan-recruitment
-
-### Fund Operations Associate
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-fund-operations-associate-sagan-recruitment
 
 ### Senior Manager, Implementation
 - **Company:** Medallion
@@ -888,7 +881,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-regional-risk-quality-associate-experienced-associate-pricewaterhousecoopers
 
-## Other (75 open roles)
+## Other (73 open roles)
 
 ### Production Designer
 - **Company:** Hire With Near
@@ -903,13 +896,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-project-auditor-documentation-coordinator-sagan-recruitment
-
-### Energy Calculation Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $3,200 – $4,600 / month
-- **Location:** Global
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-energy-calculation-specialist-sagan-recruitment
 
 ### Admin Assistant / Junior Processor
 - **Company:** Somewhere
@@ -1418,13 +1404,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-21
 - **View Job:** https://globalcaribbeans.com/#card-conceptual-art-director-superside
 
-### Search Engine Optimization Specialist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-search-engine-optimization-specialist-hire-with-near-2
-
 ## Project Management (13 open roles)
 
 ### Product Manager - Derivatives
@@ -1798,7 +1777,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-executives-mid-market-enterprise-new-era-technology
 
-## Software Development (56 open roles)
+## Software Development (57 open roles)
+
+### Senior Shopify Developer
+- **Company:** Sanctuary Computer
+- **Salary:** $80,000 – $150,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-20
+- **View Job:** https://globalcaribbeans.com/#card-senior-shopify-developer-sanctuary-computer
 
 ### Mid/Senior AI Engineer
 - **Company:** TensorOps
