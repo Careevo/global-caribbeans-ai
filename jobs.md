@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-20T04:15:54Z
+last_updated: 2026-09-20T10:59:17Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**306 active remote jobs** as of 2026-09-20.
+**305 active remote jobs** as of 2026-09-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1798,7 +1798,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-executives-mid-market-enterprise-new-era-technology
 
-## Software Development (57 open roles)
+## Software Development (56 open roles)
 
 ### Mid/Senior AI Engineer
 - **Company:** TensorOps
@@ -2191,10 +2191,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-08-24
 - **View Job:** https://globalcaribbeans.com/#card-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-2
-
-### Senior QRadar Platform Engineer
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-21
-- **View Job:** https://globalcaribbeans.com/#card-senior-qradar-platform-engineer-new-era-technology
