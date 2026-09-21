@@ -2,18 +2,26 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-20T20:33:32Z
+last_updated: 2026-09-21T04:13:25Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**301 active remote jobs** as of 2026-09-20.
+**304 active remote jobs** as of 2026-09-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (16 open roles)
+## Accounting/Bookkeeping (17 open roles)
+
+### Bilingual Property Management Accounts Payable Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-20
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-accounts-payable-specialist-bruntwork
 
 ### Finance Manager
 - **Company:** Netlify
@@ -201,7 +209,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends-2
 
-## Customer support (11 open roles)
+## Customer support (10 open roles)
 
 ### Customer Service Representative
 - **Company:** Virtual Latinos
@@ -274,14 +282,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-inbound-sales-specialist-sagan-recruitment-2
 
-### Information Technology Service Desk
-- **Company:** Hire With Near
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-26
-- **View Job:** https://globalcaribbeans.com/#card-information-technology-service-desk-hire-with-near
+## Data/Analytics (27 open roles)
 
-## Data/Analytics (26 open roles)
+### Salesforce Administrator
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-20
+- **View Job:** https://globalcaribbeans.com/#card-salesforce-administrator-hire-with-near
 
 ### Director of Marketing Analytics & Performance
 - **Company:** Sagan Recruitment
@@ -874,7 +882,23 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-24
 - **View Job:** https://globalcaribbeans.com/#card-director-of-finance-hire-with-near
 
-## Other (72 open roles)
+## Other (74 open roles)
+
+### Bilingual Property Management Collections Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-20
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-collections-specialist-bruntwork
+
+### Spanish Bilingual Senior Debt Collection Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-20
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-senior-debt-collection-specialist-bruntwork
 
 ### Production Designer
 - **Company:** Hire With Near
@@ -1390,7 +1414,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-escrow-officer-rebuilt
 
-## Project Management (13 open roles)
+## Project Management (12 open roles)
 
 ### Product Manager - Derivatives
 - **Company:** Alpaca
@@ -1476,14 +1500,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-servicenow-product-manager-remote-work-ref-302350-bairesdev
 
-### GTM Product Manager - Marketing Operations
-- **Company:** Remote
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-08-22
-- **View Job:** https://globalcaribbeans.com/#card-gtm-product-manager-marketing-operations-remote
-
 ## Recruiting (6 open roles)
+
+### Recruiter
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-20
+- **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
 
 ### Recruiting Intern
 - **Company:** Think Academy US
@@ -1521,14 +1545,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-### Senior Technical Recruiter
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-08-22
-- **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-alpaca
+## Sales (34 open roles)
 
-## Sales (33 open roles)
+### Spanish Bilingual Sales Account Executive (Outbound | Retention)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-sales-account-executive-outbound-retention-bruntwork
 
 ### Sales Development Representative (SDR) – Supply Chain & Logistics Tech
 - **Company:** Sagan Recruitment
