@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-21T04:13:25Z
+last_updated: 2026-09-21T12:25:25Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -282,7 +282,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-inbound-sales-specialist-sagan-recruitment-2
 
-## Data/Analytics (27 open roles)
+## Data/Analytics (28 open roles)
+
+### Customer Success & Student Operations Coordinator (Onboarding)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-student-operations-coordinator-onboarding-bruntwork
 
 ### Salesforce Administrator
 - **Company:** Hire With Near
@@ -674,7 +681,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
 
-## Operations (29 open roles)
+## Operations (28 open roles)
 
 ### Regional Sourcing Team Lead
 - **Company:** Sagan Recruitment
@@ -875,14 +882,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-24
 - **View Job:** https://globalcaribbeans.com/#card-interior-design-assistant-latino-legends
 
-### Director of Finance
-- **Company:** Hire With Near
-- **Salary:** $60,000 – $85,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-24
-- **View Job:** https://globalcaribbeans.com/#card-director-of-finance-hire-with-near
+## Other (73 open roles)
 
-## Other (74 open roles)
+### Field Recruiting Manager
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-field-recruiting-manager-hire-with-near
 
 ### Bilingual Property Management Collections Specialist
 - **Company:** BruntWork
@@ -936,14 +943,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-registered-nurse-bruntwork
-
-### Bilingual E-Commerce Operations Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-18
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-e-commerce-operations-representative-bruntwork
 
 ### Management Consulting Matcher
 - **Company:** Toptal
@@ -1137,14 +1136,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-b2b-graphic-designer-needed-emco
-
-### Bilingual Care Coordinator & Case Management Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-14
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-care-coordinator-case-management-specialist-bruntwork
 
 ### Unit Turn Project Coordinator
 - **Company:** Sagan Recruitment
@@ -1500,7 +1491,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-servicenow-product-manager-remote-work-ref-302350-bairesdev
 
-## Recruiting (6 open roles)
+## Recruiting (7 open roles)
+
+### Bilingual Patient Coordinator & Scheduler
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-patient-coordinator-scheduler-bruntwork
 
 ### Recruiter
 - **Company:** Hire With Near
