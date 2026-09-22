@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-21T21:50:23Z
+last_updated: 2026-09-22T04:09:45Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**279 active remote jobs** as of 2026-09-21.
+**287 active remote jobs** as of 2026-09-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -15,12 +15,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Accounting/Bookkeeping (18 open roles)
 
-### Finance Manager, Marketing
-- **Company:** Zapier
+### Accountant
+- **Company:** Hire With Near
 - **Salary:** Not Disclosed
-- **Location:** North America
-- **Posted:** 2026-09-21
-- **View Job:** https://globalcaribbeans.com/#card-finance-manager-marketing-zapier
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
 
 ### Accountant
 - **Company:** Remote Leverage
@@ -217,7 +217,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends-2
 
-## Customer support (11 open roles)
+## Customer support (12 open roles)
+
+### Customer Success Specialist
+- **Company:** Hire With Near
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-2
 
 ### Customer Success Specialist
 - **Company:** Hire With Near
@@ -505,7 +512,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (24 open roles)
+## Online Marketing (25 open roles)
+
+### Performance Consultant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-performance-consultant-bruntwork
 
 ### Marketing Content Manager
 - **Company:** Remote Leverage
@@ -675,7 +689,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
 
-## Operations (28 open roles)
+## Operations (30 open roles)
+
+### Part-Time Operations Assistant
+- **Company:** Virtual Latinos
+- **Salary:** $9 – $10 / hour
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-part-time-operations-assistant-virtual-latinos
+
+### Managed Services Coordinator
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-managed-services-coordinator-persona
 
 ### Regional Sourcing Team Lead
 - **Company:** Sagan Recruitment
@@ -1496,7 +1524,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (32 open roles)
+## Sales (34 open roles)
+
+### Outbound Sales Representative
+- **Company:** WorkBetterNow
+- **Salary:** $1,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-workbetternow
+
+### Enterprise Account Executive (Central)
+- **Company:** Job Board
+- **Salary:** Not Disclosed
+- **Location:** North America
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-central-job-board
+
+### Enterprise Sales Executive, AI Solutions
+- **Company:** Toptal
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-enterprise-sales-executive-ai-solutions-toptal
 
 ### 65124266909 - Enterprise Sales Executive / Account Executive
 - **Company:** Somewhere
@@ -1683,13 +1732,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-business-development-manager-hire-with-near
 
-### Business Development Executive
-- **Company:** WorkBetterNow
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-02
-- **View Job:** https://globalcaribbeans.com/#card-business-development-executive-workbetternow
-
 ### Business Development Assistant
 - **Company:** Bybit
 - **Salary:** Not Disclosed
@@ -1725,14 +1767,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-executives-mid-market-enterprise-new-era-technology
 
-## Software Development (41 open roles)
+## Software Development (43 open roles)
 
-### AI Forward-Deployed Engineer | Scale Army
-- **Company:** Scale Army
+### DevSecOps Engineer
+- **Company:** Raya
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-devsecops-engineer-raya
+
+### Software Engineer - Crypto
+- **Company:** Alpaca
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-21
-- **View Job:** https://globalcaribbeans.com/#card-ai-forward-deployed-engineer-scale-army-scale-army
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-crypto-alpaca
+
+### Team Lead, Android Core Product
+- **Company:** Speechify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-21
+- **View Job:** https://globalcaribbeans.com/#card-team-lead-android-core-product-speechify-2
 
 ### Senior Backend Engineer - JavaScript, Node.js, PostgreSQL
 - **Company:** BruntWork
