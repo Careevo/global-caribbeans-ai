@@ -2,18 +2,39 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-22T04:09:45Z
+last_updated: 2026-09-22T11:15:42Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**287 active remote jobs** as of 2026-09-22.
+**295 active remote jobs** as of 2026-09-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (18 open roles)
+## Accounting/Bookkeeping (21 open roles)
+
+### Senior Accounts Receivable Analyst
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-accounts-receivable-analyst-sagan-recruitment
+
+### Controller
+- **Company:** Sagan Recruitment
+- **Salary:** $4,500 – $6,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-controller-sagan-recruitment
+
+### U.S. Tax Accountant (Form 1120S | Drake Tax | QBO)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-u-s-tax-accountant-form-1120s-drake-tax-qbo-bruntwork
 
 ### Accountant
 - **Company:** Hire With Near
@@ -146,6 +167,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Admin (10 open roles)
 
+### Sales Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-sales-operations-coordinator-sagan-recruitment
+
 ### Travel Coordinator - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -173,14 +201,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-somewhere
-
-### Bilingual Executive Assistant to the CEO – Operations & Strategy
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-16
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-executive-assistant-to-the-ceo-operations-strategy-bruntwork
 
 ### Accounting Administrative Assistant
 - **Company:** Hire With Near
@@ -304,7 +324,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-inbound-sales-specialist-sagan-recruitment-2
 
-## Data/Analytics (26 open roles)
+## Data/Analytics (27 open roles)
+
+### Senior Financial Reporting Analyst
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-financial-reporting-analyst-sagan-recruitment
 
 ### BI Analyst - Remote Work
 - **Company:** BairesDev
@@ -512,7 +539,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-military-veteran-talent-opportunities-job-board
 
-## Online Marketing (25 open roles)
+## Online Marketing (26 open roles)
+
+### Shopify Store Operations & Social Media Specialist (E-Commerce)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-shopify-store-operations-social-media-specialist-e-commerce-bruntwork
 
 ### Performance Consultant
 - **Company:** BruntWork
@@ -689,7 +723,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-creative-designer-marketing-brand-co
 
-## Operations (30 open roles)
+## Operations (31 open roles)
+
+### Senior Marketing Operations Manager
+- **Company:** Netlify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
 
 ### Part-Time Operations Assistant
 - **Company:** Virtual Latinos
@@ -904,7 +945,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-24
 - **View Job:** https://globalcaribbeans.com/#card-interior-design-assistant-latino-legends
 
-## Other (71 open roles)
+## Other (73 open roles)
+
+### Treasury Operations Senior Specialist
+- **Company:** Fresenius Medical Care
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-treasury-operations-senior-specialist-fresenius-medical-care
+
+### Bilingual Accounting & Bookkeeping Team Lead (QuickBooks Online)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-accounting-bookkeeping-team-lead-quickbooks-online-bruntwork
 
 ### Sr. Product Designer - Consumer Mobile
 - **Company:** Jumpspeak
@@ -1524,7 +1580,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (34 open roles)
+## Sales (33 open roles)
 
 ### Outbound Sales Representative
 - **Company:** WorkBetterNow
@@ -1648,13 +1704,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-business-development-representative-bdr-outbound-hire-with-near
 
-### Outbound Sales Development Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-16
-- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-development-representative-bruntwork
-
 ### Client Advisor
 - **Company:** Toptal
 - **Salary:** Not Disclosed
@@ -1767,7 +1816,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-executives-mid-market-enterprise-new-era-technology
 
-## Software Development (43 open roles)
+## Software Development (44 open roles)
+
+### Staff Software Engineer - Margin & Risk
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-22
+- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-margin-risk-alpaca
 
 ### DevSecOps Engineer
 - **Company:** Raya
