@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-24T16:49:55Z
+last_updated: 2026-09-24T21:19:54Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**471 active remote jobs** as of 2026-09-24.
+**484 active remote jobs** as of 2026-09-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (29 open roles)
+## Accounting/Bookkeeping (28 open roles)
 
 ### Senior Manager, FP&A
 - **Company:** Camunda
@@ -212,13 +212,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-office-manager-sagan-recruitment
-
-### Senior FP&A Analyst, Cloud Hosting
-- **Company:** GitLab
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-fp-a-analyst-cloud-hosting-gitlab
 
 ## Admin (16 open roles)
 
@@ -481,7 +474,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near-2
 
-## Data/Analytics (35 open roles)
+## Data/Analytics (36 open roles)
+
+### Senior Data Scientist
+- **Company:** Constructor
+- **Salary:** $80,000 – $120,000 / year
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-scientist-constructor
+
+### Financial Planning & Analysis Data Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-financial-planning-analysis-data-analyst-remote-work-bairesdev
 
 ### Growth Product Lead, Kids
 - **Company:** ClassDojo
@@ -720,13 +727,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-data-analyst-python-remote-work-ref-295217-bairesdev
-
-### GCP Data Engineer - Remote Work | REF#295233
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-gcp-data-engineer-remote-work-ref-295233-bairesdev
 
 ## IT/Engineering (2 open roles)
 
@@ -1330,7 +1330,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (78 open roles)
+## Other (79 open roles)
+
+### DevOps Tech Lead - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-devops-tech-lead-remote-work-bairesdev
+
+### Care Navigator
+- **Company:** SafetyWing
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-care-navigator-safetywing
 
 ### Part-Time Brand Designer
 - **Company:** Millie
@@ -1877,14 +1891,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-ux-product-designer-toybox-labs
 
-### Escrow Officer
-- **Company:** Rebuilt
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-escrow-officer-rebuilt
+## Project Management (24 open roles)
 
-## Project Management (23 open roles)
+### Customer Success Enablement Manager
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-enablement-manager-constructor
 
 ### Senior Product Manager - Merchant Intelligence and Analytics
 - **Company:** Constructor
@@ -2048,7 +2062,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-servicenow-product-manager-remote-work-ref-302350-bairesdev
 
-## Recruiting (8 open roles)
+## Recruiting (9 open roles)
+
+### Recruiter
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-recruiter-remote-leverage
 
 ### Recruiter / Talent Acquisition Specialist
 - **Company:** Sagan Recruitment
@@ -2107,7 +2128,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (66 open roles)
+## Sales (68 open roles)
+
+### Sales Development Representative
+- **Company:** Somewhere
+- **Salary:** $1,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere
+
+### Director of Product Marketing
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-director-of-product-marketing-constructor
+
+### B2B SaaS Account Sales Executive
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-b2b-saas-account-sales-executive-somewhere
 
 ### AWS Enterprise Segment Lead
 - **Company:** Supabase
@@ -2206,13 +2248,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-manager-scale-army-scale-army
-
-### Senior Business Development Representative | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-business-development-representative-scale-army-scale-army
 
 ### Technical Sales Manager | Scale Army
 - **Company:** Scale Army
@@ -2575,7 +2610,63 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
 
-## Software Development (111 open roles)
+## Software Development (119 open roles)
+
+### Senior AI Engineer
+- **Company:** TensorOps
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-ai-engineer-tensorops
+
+### Staff Software Engineer, Product
+- **Company:** Customer.io
+- **Salary:** $200,000 – $280,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-product-customer-io
+
+### FullStack Engineer - Prospect UI Solutions
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-fullstack-engineer-prospect-ui-solutions-constructor
+
+### Engineering Manager: Agentic Integrations
+- **Company:** Constructor
+- **Salary:** $100,000 – $130,000 / year
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-agentic-integrations-constructor
+
+### Engineering Manager - Customer Developer Experience
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-customer-developer-experience-constructor
+
+### Platform Engineer: Platform Enablement
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-platform-engineer-platform-enablement-constructor
+
+### Full Stack Engineer: Searchandizing
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-searchandizing-constructor
+
+### Senior Backend Engineer: Offsite Search Optimisation
+- **Company:** Constructor
+- **Salary:** $80,000 – $120,000 / year
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-offsite-search-optimisation-constructor
 
 ### Founding Senior Software Engineer, Developer Experience & AI Platform team
 - **Company:** ClassDojo
