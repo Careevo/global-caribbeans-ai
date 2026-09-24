@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-24T11:24:46Z
+last_updated: 2026-09-24T16:49:55Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**458 active remote jobs** as of 2026-09-24.
+**471 active remote jobs** as of 2026-09-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (29 open roles)
 
 ### Senior Manager, FP&A
 - **Company:** Camunda
@@ -49,14 +49,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lead-accountant-near
-
-### Finance & Administration Manager — U.S. Accounting & Real Estate
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-finance-administration-manager-u-s-accounting-real-estate-mappa
 
 ### Accounting Manager
 - **Company:** Hire With Near
@@ -228,7 +220,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-fp-a-analyst-cloud-hosting-gitlab
 
-## Admin (15 open roles)
+## Admin (16 open roles)
+
+### Bilingual HR and Administrative Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-hr-and-administrative-assistant-bruntwork
 
 ### IT Operations Coordinator | Scale Army
 - **Company:** Scale Army
@@ -336,7 +336,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends-2
 
-## Customer support (19 open roles)
+## Customer support (20 open roles)
+
+### Customer Support Lead
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-lead-trust-wallet
 
 ### Engineering Manager
 - **Company:** Supabase
@@ -474,7 +481,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near-2
 
-## Data/Analytics (34 open roles)
+## Data/Analytics (35 open roles)
+
+### Growth Product Lead, Kids
+- **Company:** ClassDojo
+- **Salary:** $215,000 – $250,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-growth-product-lead-kids-classdojo
 
 ### Senior Data Engineer
 - **Company:** Trust Wallet
@@ -1316,7 +1330,36 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (74 open roles)
+## Other (78 open roles)
+
+### Part-Time Brand Designer
+- **Company:** Millie
+- **Salary:** $50 – $60 / hour
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-part-time-brand-designer-millie
+
+### 0→1 Product Leader
+- **Company:** ClassDojo
+- **Salary:** $188,000 – $280,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-0-1-product-leader-classdojo
+
+### Mantle Squad
+- **Company:** Windranger
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-mantle-squad-windranger
+
+### Brand Video Creator & KOL Partner (视频创作)
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-brand-video-creator-kol-partner-trust-wallet
 
 ### Senior Engineering Manager
 - **Company:** Trust Wallet
@@ -1841,7 +1884,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-escrow-officer-rebuilt
 
-## Project Management (22 open roles)
+## Project Management (23 open roles)
+
+### Senior Product Manager - Merchant Intelligence and Analytics
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-merchant-intelligence-and-analytics-constructor
 
 ### Founding Technical Program Manager
 - **Company:** Supabase
@@ -2525,7 +2575,49 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
 
-## Software Development (105 open roles)
+## Software Development (111 open roles)
+
+### Founding Senior Software Engineer, Developer Experience & AI Platform team
+- **Company:** ClassDojo
+- **Salary:** $171,500 – $250,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-founding-senior-software-engineer-developer-experience-ai-platform-team-classdoj
+
+### Senior Full-Stack Engineer
+- **Company:** ClassDojo
+- **Salary:** $171,500 – $250,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-classdojo
+
+### Design Engineer
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-design-engineer-trust-wallet
+
+### Senior Mobile Engineer (React Native)
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-mobile-engineer-react-native-trust-wallet
+
+### Mid/Senior AI Engineer
+- **Company:** TensorOps
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-engineer-tensorops-4
+
+### Join Our Engineering Talent Network
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-join-our-engineering-talent-network-trust-wallet
 
 ### Senior Platform Engineer
 - **Company:** Trust Wallet
