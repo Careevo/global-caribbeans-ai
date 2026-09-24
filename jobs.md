@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-24T04:02:04Z
+last_updated: 2026-09-24T11:24:46Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**402 active remote jobs** as of 2026-09-24.
+**458 active remote jobs** as of 2026-09-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (29 open roles)
+## Accounting/Bookkeeping (30 open roles)
+
+### Senior Manager, FP&A
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-manager-fp-a-camunda
 
 ### Sr. Accountant (Accounting & AP Manager) | Scale Army
 - **Company:** Scale Army
@@ -331,6 +338,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Customer support (19 open roles)
 
+### Engineering Manager
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-supabase
+
 ### Customer Service Representative | Scale Army
 - **Company:** Scale Army
 - **Salary:** Not Disclosed
@@ -351,13 +365,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-manager-posthog-2
-
-### AI Automation Specialist
-- **Company:** Oshido's Placement
-- **Salary:** $1,500 USD per month
-- **Location:** Remote, The Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-ai-automation-specialist-oshido-s-placement
 
 ### Customer Support Representative - Food Logistics & Dispatch
 - **Company:** BruntWork
@@ -467,7 +474,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near-2
 
-## Data/Analytics (31 open roles)
+## Data/Analytics (34 open roles)
+
+### Senior Data Engineer
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-trust-wallet
+
+### Data Analyst: Growth & Product
+- **Company:** Smallpdf
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-data-analyst-growth-product-smallpdf
+
+### Senior Data Analyst - Marketing
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-analyst-marketing-supabase
 
 ### Senior Manager, QA Engineering
 - **Company:** Camunda
@@ -702,7 +730,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (40 open roles)
+## Online Marketing (44 open roles)
+
+### AWS Partner Marketing Manager
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-aws-partner-marketing-manager-supabase
+
+### AWS Gaming GTM Segment Lead
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-aws-gaming-gtm-segment-lead-supabase
+
+### Growth Manager, International
+- **Company:** Oscilar
+- **Salary:** $195,000 – $225,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-growth-manager-international-oscilar
+
+### Senior Performance Marketer (Full Remote - Worldwide)
+- **Company:** EverAI
+- **Salary:** €65,000 – €105,000 / year
+- **Location:** Worldwide
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-performance-marketer-full-remote-worldwide-everai-2
 
 ### Marketing Generalist | Scale Army
 - **Company:** Scale Army
@@ -984,7 +1040,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-## Operations (35 open roles)
+## Operations (39 open roles)
+
+### Head of SEO and AI Visibility
+- **Company:** Smallpdf
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-head-of-seo-and-ai-visibility-smallpdf
+
+### Consumer Experience Lead, Retention Services
+- **Company:** New Era Technology
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-consumer-experience-lead-retention-services-new-era-technology
+
+### Director of Business Operations
+- **Company:** MUI
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-director-of-business-operations-mui
+
+### Lead Employment Counsel
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-lead-employment-counsel-camunda
 
 ### Flight Operations Coordinator | Scale Army
 - **Company:** Scale Army
@@ -1232,7 +1316,29 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (71 open roles)
+## Other (74 open roles)
+
+### Senior Engineering Manager
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-engineering-manager-trust-wallet
+
+### English to Spanish Linguists for Patent
+- **Company:** Welo Data
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-english-to-spanish-linguists-for-patent-welo-data
+
+### The WildCard
+- **Company:** Douro Labs
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-the-wildcard-douro-labs
 
 ### Customer Care Representative
 - **Company:** Near
@@ -1735,7 +1841,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-escrow-officer-rebuilt
 
-## Project Management (18 open roles)
+## Project Management (22 open roles)
+
+### Founding Technical Program Manager
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-founding-technical-program-manager-supabase
+
+### Product Manager - Security & Trust
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-security-trust-supabase
+
+### Product Manager - Marketplace
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-marketplace-supabase
+
+### Principal Product Manager- Time to First Production
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-principal-product-manager-time-to-first-production-camunda
 
 ### Senior Product Manager - Core Platform
 - **Company:** Camunda
@@ -1923,7 +2057,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (61 open roles)
+## Sales (66 open roles)
+
+### AWS Enterprise Segment Lead
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-aws-enterprise-segment-lead-supabase
+
+### Technical Account Management (TAM) Leader
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-technical-account-management-tam-leader-supabase
+
+### Pre-Sales Solutions Architect (SA) Leader
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-pre-sales-solutions-architect-sa-leader-supabase
+
+### Partnerships Manager, Ecosystem
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-partnerships-manager-ecosystem-supabase
+
+### Customer Success Manager - AMER
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-amer-camunda
 
 ### Director, Solutions and Product Marketing
 - **Company:** Camunda
@@ -2356,7 +2525,231 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
 
-## Software Development (73 open roles)
+## Software Development (105 open roles)
+
+### Senior Platform Engineer
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-platform-engineer-trust-wallet
+
+### AI agent engineer
+- **Company:** Sticker Mule
+- **Salary:** $150,000 – $250,000 / year
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-ai-agent-engineer-sticker-mule
+
+### Software engineer
+- **Company:** Sticker Mule
+- **Salary:** $150,000 – $250,000 / year
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-sticker-mule-2
+
+### OrioleDB Deployment Engineer (AMER)
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-orioledb-deployment-engineer-amer-supabase
+
+### FinOps Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-finops-engineer-supabase
+
+### Platform Engineer, Edge & Networking
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-platform-engineer-edge-networking-supabase
+
+### Engineering Manager, Billing
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-billing-supabase
+
+### Platform Security Engineer (AMER/APAC)
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-platform-security-engineer-amer-apac-supabase
+
+### Software Engineer - Branching
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-branching-supabase
+
+### Platform Engineer - Compute Capacity
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-platform-engineer-compute-capacity-supabase
+
+### Engineering Productivity Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-engineering-productivity-engineer-supabase
+
+### Performance Engineer - Benchmarking
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-performance-engineer-benchmarking-supabase
+
+### Performance Engineer - Performance Analysis & Tuning
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-performance-engineer-performance-analysis-tuning-supabase
+
+### Release Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-release-engineer-supabase
+
+### Supalite Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-supalite-engineer-supabase
+
+### API Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-api-engineer-supabase
+
+### Site Reliability Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-site-reliability-engineer-supabase
+
+### OrioleDB Developer (AMER)
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-orioledb-developer-amer-supabase
+
+### Product Lead, Infrastructure
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-product-lead-infrastructure-supabase
+
+### Edge Functions Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-edge-functions-engineer-supabase
+
+### Software Engineer: IaC Platform Experience
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-iac-platform-experience-supabase
+
+### Software Engineer - Auth
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-auth-supabase
+
+### Postgres Deployment Engineer (Nix)
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-postgres-deployment-engineer-nix-supabase
+
+### Customer Solution Architect, Team Lead
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-customer-solution-architect-team-lead-supabase
+
+### Multigres Deployment Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-multigres-deployment-engineer-supabase
+
+### Postgres Engineer (AMER)
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-postgres-engineer-amer-supabase
+
+### Multigres Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-multigres-engineer-supabase
+
+### Customer Solution Architect (AMER)
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-customer-solution-architect-amer-supabase
+
+### Staff Platform Engineer
+- **Company:** MoxieLash
+- **Salary:** $97,000 – $170,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-staff-platform-engineer-moxielash
+
+### Senior Software Engineer, Kubernetes
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-kubernetes-camunda
+
+### Senior GTM Systems AI and Automation Engineer
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-gtm-systems-ai-and-automation-engineer-camunda
+
+### Software Engineer, Backend - Data Layer
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-backend-data-layer-camunda
 
 ### Senior Software Engineer, Engineering Operations
 - **Company:** Camunda
