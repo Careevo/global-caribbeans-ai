@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-23T21:18:51Z
+last_updated: 2026-09-24T04:02:04Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**349 active remote jobs** as of 2026-09-23.
+**402 active remote jobs** as of 2026-09-24.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (28 open roles)
+## Accounting/Bookkeeping (29 open roles)
+
+### Sr. Accountant (Accounting & AP Manager) | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-sr-accountant-accounting-ap-manager-scale-army-scale-army
 
 ### Senior Financial Analyst | Scale Army
 - **Company:** Scale Army
@@ -214,7 +221,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-senior-fp-a-analyst-cloud-hosting-gitlab
 
-## Admin (12 open roles)
+## Admin (15 open roles)
+
+### IT Operations Coordinator | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-it-operations-coordinator-scale-army-scale-army
+
+### Administrative Assistant | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-scale-army-scale-army
+
+### Marketing Administrative Assistant | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-marketing-administrative-assistant-scale-army-scale-army
 
 ### Data Entry Specialist
 - **Company:** Somewhere
@@ -301,7 +329,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends-2
 
-## Customer support (17 open roles)
+## Customer support (19 open roles)
+
+### Customer Service Representative | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-scale-army-scale-army-2
 
 ### Customer Service Representative | Scale Army
 - **Company:** Scale Army
@@ -316,6 +351,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-manager-posthog-2
+
+### AI Automation Specialist
+- **Company:** Oshido's Placement
+- **Salary:** $1,500 USD per month
+- **Location:** Remote, The Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-ai-automation-specialist-oshido-s-placement
 
 ### Customer Support Representative - Food Logistics & Dispatch
 - **Company:** BruntWork
@@ -425,7 +467,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near-2
 
-## Data/Analytics (28 open roles)
+## Data/Analytics (31 open roles)
+
+### Senior Manager, QA Engineering
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-manager-qa-engineering-camunda
+
+### AI Implementation Specialist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-ai-implementation-specialist-scale-army-scale-army
+
+### Business Analyst (Marketing) | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-business-analyst-marketing-scale-army-scale-army
 
 ### AI Automation & Analytics Specialist | Scale Army
 - **Company:** Scale Army
@@ -639,7 +702,77 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (31 open roles)
+## Online Marketing (40 open roles)
+
+### Marketing Generalist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-marketing-generalist-scale-army-scale-army
+
+### Growth Strategist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-growth-strategist-scale-army-scale-army
+
+### Senior PPC/SEM Specialist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-ppc-sem-specialist-scale-army-scale-army
+
+### Email Marketing Specialist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-scale-army-scale-army-2
+
+### Meta Ads Specialist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-meta-ads-specialist-scale-army-scale-army
+
+### Email Marketing Specialist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-scale-army-scale-army
+
+### Marketing & Growth Specialist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-marketing-growth-specialist-scale-army-scale-army
+
+### Full-Cycle Marketing Generalist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-full-cycle-marketing-generalist-scale-army-scale-army
+
+### Marketing Strategy Coordinator, Growth (Agency Liaison) | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-marketing-strategy-coordinator-growth-agency-liaison-scale-army-scale-army
+
+### Senior Paid Media Buyer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-paid-media-buyer-scale-army-scale-army
 
 ### Organic & Paid Social Media Specialist | Scale Army
 - **Company:** Scale Army
@@ -802,13 +935,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-11
 - **View Job:** https://globalcaribbeans.com/#card-technical-local-seo-specialist-sagan-recruitment
 
-### Growth Marketing Manager
-- **Company:** Hire With Near
-- **Salary:** $3,500 – $4,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-09
-- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-manager-hire-with-near
-
 ### SaaS Product UI/UX designer
 - **Company:** ClickGUARD
 - **Salary:** Not Disclosed
@@ -858,7 +984,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-## Operations (31 open roles)
+## Operations (35 open roles)
+
+### Flight Operations Coordinator | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-flight-operations-coordinator-scale-army-scale-army
+
+### Revenue Operations Analyst | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-revenue-operations-analyst-scale-army-scale-army
+
+### Executive Operations Coordinator | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-executive-operations-coordinator-scale-army-scale-army
+
+### Email Campaigns Strategist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-email-campaigns-strategist-scale-army-scale-army
 
 ### Manhattan WMS Specialist | Scale Army
 - **Company:** Scale Army
@@ -1078,7 +1232,63 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (63 open roles)
+## Other (71 open roles)
+
+### Customer Care Representative
+- **Company:** Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-customer-care-representative-near
+
+### Permit Technician
+- **Company:** Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-permit-technician-near
+
+### Account Development Representative - Future Openings Talent Pool
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-account-development-representative-future-openings-talent-pool-camunda
+
+### Wellness Creative Designer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-wellness-creative-designer-scale-army-scale-army
+
+### CPG Brand Designer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-cpg-brand-designer-scale-army-scale-army
+
+### HR Representative | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-hr-representative-scale-army-scale-army
+
+### Music & Motion Graphics Video Editor | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-music-motion-graphics-video-editor-scale-army-scale-army
+
+### Operations Coordinator
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-hire-with-near
 
 ### Educational Video Editor | Scale Army
 - **Company:** Scale Army
@@ -1525,7 +1735,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-25
 - **View Job:** https://globalcaribbeans.com/#card-escrow-officer-rebuilt
 
-## Project Management (15 open roles)
+## Project Management (18 open roles)
+
+### Senior Product Manager - Core Platform
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-core-platform-camunda
+
+### Product Manager, Self Managed Service
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-self-managed-service-camunda
+
+### Development Career Coach | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-development-career-coach-scale-army-scale-army
 
 ### Creative Operations Coordinator | Scale Army
 - **Company:** Scale Army
@@ -1692,7 +1923,63 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (56 open roles)
+## Sales (61 open roles)
+
+### Director, Solutions and Product Marketing
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-director-solutions-and-product-marketing-camunda
+
+### Senior Sales Engineer
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-sales-engineer-camunda
+
+### AI Enablement Facilitator | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-ai-enablement-facilitator-scale-army-scale-army
+
+### Senior B2B Demand Generation Manager | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-b2b-demand-generation-manager-scale-army-scale-army
+
+### Outbound Sales Specialist | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-specialist-scale-army-scale-army-2
+
+### Sales Executive
+- **Company:** Hire With Near
+- **Salary:** $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-sales-executive-hire-with-near
+
+### Senior Account Executive — AI Implementation Pods | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-account-executive-ai-implementation-pods-scale-army-scale-army
+
+### Sales Account Executive (Zoho) | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-sales-account-executive-zoho-scale-army-scale-army
 
 ### Technical Account Manager | Scale Army
 - **Company:** Scale Army
@@ -2033,14 +2320,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-ift
 
-### Business Development Manager
-- **Company:** Hire With Near
-- **Salary:** $2,000 – $2,400 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-03
-- **View Job:** https://globalcaribbeans.com/#card-business-development-manager-hire-with-near
-
 ### Business Development Assistant
 - **Company:** Bybit
 - **Salary:** Not Disclosed
@@ -2077,21 +2356,113 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
 
-### Technical Solution Executive, Managed Services
-- **Company:** New Era Technology
+## Software Development (73 open roles)
+
+### Senior Software Engineer, Engineering Operations
+- **Company:** Camunda
+- **Salary:** $143,800 – $231,900 / year
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-engineering-operations-camunda
+
+### Senior Software Engineer, Backend - Data Streaming
+- **Company:** Camunda
 - **Salary:** Not Disclosed
 - **Location:** Remote
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-technical-solution-executive-managed-services-new-era-technology
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-data-streaming-camunda
 
-### Technical Account Executives (Mid-Market & Enterprise)
-- **Company:** New Era Technology
+### Senior Software Engineer, Backend - Data Layer
+- **Company:** Camunda
 - **Salary:** Not Disclosed
 - **Location:** Remote
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-technical-account-executives-mid-market-enterprise-new-era-technology
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-data-layer-camunda
 
-## Software Development (58 open roles)
+### Senior Software Engineer, Backend - Reliability
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-backend-reliability-camunda
+
+### Software Engineer - Infrastructure
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-infrastructure-camunda
+
+### AI Process Forward Deployed Engineer
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-ai-process-forward-deployed-engineer-camunda
+
+### Senior Full Stack AI Engineer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-ai-engineer-scale-army-scale-army
+
+### AI Forward-Deployed Engineer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-ai-forward-deployed-engineer-scale-army-scale-army
+
+### AI-Enabled QA Engineer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-ai-enabled-qa-engineer-scale-army-scale-army
+
+### Solutions Engineer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-solutions-engineer-scale-army-scale-army
+
+### Engineering Manager - Infrastructure
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-infrastructure-camunda
+
+### Junior Shopify Developer (Part-time) | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-junior-shopify-developer-part-time-scale-army-scale-army
+
+### Full Stack TypeScript Engineer – Next.js & AI | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-typescript-engineer-next-js-ai-scale-army-scale-army
+
+### Senior Backend Engineer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-scale-army-scale-army
+
+### Transportation & Logistics AI Automation Engineer | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-23
+- **View Job:** https://globalcaribbeans.com/#card-transportation-logistics-ai-automation-engineer-scale-army-scale-army
 
 ### PHP Developer (Laravel & Symfony) | Scale Army
 - **Company:** Scale Army
