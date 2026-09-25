@@ -2,18 +2,32 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-24T21:19:54Z
+last_updated: 2026-09-25T04:16:01Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**484 active remote jobs** as of 2026-09-24.
+**505 active remote jobs** as of 2026-09-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (28 open roles)
+## Accounting/Bookkeeping (30 open roles)
+
+### Bookkeeper and Finance Support for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-and-finance-support-for-home-services-remote-talent-pool-sagan-recrui
+
+### Accounts Payable Representative for Healthcare — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-representative-for-healthcare-remote-talent-pool-sagan-recruitm
 
 ### Senior Manager, FP&A
 - **Company:** Camunda
@@ -213,7 +227,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-office-manager-sagan-recruitment
 
-## Admin (16 open roles)
+## Admin (17 open roles)
+
+### Executive Assistant for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,000 – $1,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-for-home-services-remote-talent-pool-sagan-recruitment
 
 ### Bilingual HR and Administrative Assistant
 - **Company:** BruntWork
@@ -329,7 +350,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends-2
 
-## Customer support (20 open roles)
+## Customer support (22 open roles)
+
+### Customer Support and Success for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-and-success-for-home-services-remote-talent-pool-sagan-recruitm
+
+### Call Booker — Home Services Customer Support — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-call-booker-home-services-customer-support-remote-talent-pool-sagan-recruitment
 
 ### Customer Support Lead
 - **Company:** Trust Wallet
@@ -474,7 +509,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near-2
 
-## Data/Analytics (36 open roles)
+## Data/Analytics (35 open roles)
 
 ### Senior Data Scientist
 - **Company:** Constructor
@@ -721,13 +756,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-head-of-ai-transformation-somewhere
 
-### Data Analyst (Python) - Remote Work | REF#295217
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-data-analyst-python-remote-work-ref-295217-bairesdev
-
 ## IT/Engineering (2 open roles)
 
 ### Tier 3 IT Engineer
@@ -744,7 +772,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (44 open roles)
+## Online Marketing (46 open roles)
+
+### Social Media and SEO Roles for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,600 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-social-media-and-seo-roles-for-home-services-remote-talent-pool-sagan-recruitmen
+
+### Paid Media Manager
+- **Company:** Somewhere
+- **Salary:** $2,500 – $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-paid-media-manager-somewhere
+
+### Client Account Manager — Digital Marketing Agency — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-client-account-manager-digital-marketing-agency-remote-talent-pool-sagan-recruit
 
 ### AWS Partner Marketing Manager
 - **Company:** Supabase
@@ -914,13 +963,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-shopify-store-operations-social-media-specialist-e-commerce-bruntwork
 
-### Performance Consultant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-performance-consultant-bruntwork
-
 ### Marketing Content Manager
 - **Company:** Remote Leverage
 - **Salary:** $1,400 – $2,500 / month
@@ -1056,6 +1098,20 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (39 open roles)
 
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev-2
+
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev
+
 ### Head of SEO and AI Visibility
 - **Company:** Smallpdf
 - **Salary:** Not Disclosed
@@ -1161,14 +1217,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
 
-### Part-Time Operations Assistant
-- **Company:** Virtual Latinos
-- **Salary:** $9 – $10 / hour
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-part-time-operations-assistant-virtual-latinos
-
 ### Managed Services Coordinator
 - **Company:** Persona
 - **Salary:** Not Disclosed
@@ -1210,13 +1258,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-real-estate-investment-specialist-hire-with-near
-
-### Business Operations Analyst
-- **Company:** Hire With Near
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-16
-- **View Job:** https://globalcaribbeans.com/#card-business-operations-analyst-hire-with-near
 
 ### Business Manager
 - **Company:** Sagan Recruitment
@@ -1330,7 +1371,49 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (79 open roles)
+## Other (83 open roles)
+
+### Estimating and Drafting for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $3,200 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-estimating-and-drafting-for-home-services-remote-talent-pool-sagan-recruitment
+
+### Operations, Dispatch and Purchasing for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-operations-dispatch-and-purchasing-for-home-services-remote-talent-pool-sagan-re
+
+### Real Estate Valuation Analyst and Underwriter — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,200 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-real-estate-valuation-analyst-and-underwriter-remote-talent-pool-sagan-recruitme
+
+### Operations Coordinator — Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-home-services-remote-talent-pool-sagan-recruitment
+
+### Logistics Dispatcher — Routing and Fleet Coordination — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-logistics-dispatcher-routing-and-fleet-coordination-remote-talent-pool-sagan-rec
+
+### Dispatch Coordinator — Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $1,800 / month
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-dispatch-coordinator-home-services-remote-talent-pool-sagan-recruitment
 
 ### DevOps Tech Lead - Remote Work
 - **Company:** BairesDev
@@ -1877,21 +1960,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-organisational-development-associate-canonical
 
-### Senior Solutions Architect - Remote Work | REF#302241
+## Project Management (26 open roles)
+
+### Staff Product Manager: Product Discovery Engine
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-product-discovery-engine-constructor
+
+### Project Manager Senior - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-solutions-architect-remote-work-ref-302241-bairesdev
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-senior-remote-work-bairesdev-2
 
-### UX Product Designer
-- **Company:** Toybox Labs
+### Project Manager Senior - Remote Work
+- **Company:** BairesDev
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-ux-product-designer-toybox-labs
-
-## Project Management (24 open roles)
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-project-manager-senior-remote-work-bairesdev
 
 ### Customer Success Enablement Manager
 - **Company:** Constructor
@@ -2055,14 +2145,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-technical-designer-somewhere
 
-### ServiceNow Product Manager - Remote Work | REF#302350
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-25
-- **View Job:** https://globalcaribbeans.com/#card-servicenow-product-manager-remote-work-ref-302350-bairesdev
+## Recruiting (11 open roles)
 
-## Recruiting (9 open roles)
+### Recruiting and People Operations for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-recruiting-and-people-operations-for-home-services-remote-talent-pool-sagan-recr
+
+### Skilled Trades Recruiter — Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-skilled-trades-recruiter-home-services-remote-talent-pool-sagan-recruitment
 
 ### Recruiter
 - **Company:** Remote Leverage
@@ -2128,7 +2225,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (68 open roles)
+## Sales (72 open roles)
+
+### Appointment Setting and Sales Roles for Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setting-and-sales-roles-for-home-services-remote-talent-pool-sagan-r
+
+### Business Development Representative — Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-home-services-remote-talent-pool-sagan-recru
+
+### Appointment Setter — Home Services — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,300 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-home-services-remote-talent-pool-sagan-recruitment
+
+### Enterprise Account Executive III - NA
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-iii-na-camunda
 
 ### Sales Development Representative
 - **Company:** Somewhere
@@ -2610,7 +2735,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
 
-## Software Development (119 open roles)
+## Software Development (122 open roles)
+
+### Software Engineer, Infrastructure - Self Managed Experience (SMX)
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-infrastructure-self-managed-experience-smx-camunda
+
+### n8n Automation and Integrations Specialist — Remote Talent Pool
+- **Company:** Sagan Recruitment
+- **Salary:** $1,800 – $2,200 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-n8n-automation-and-integrations-specialist-remote-talent-pool-sagan-recruitment
+
+### Machine Learning Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-24
+- **View Job:** https://globalcaribbeans.com/#card-machine-learning-engineer-remote-work-bairesdev
 
 ### Senior AI Engineer
 - **Company:** TensorOps
