@@ -2,18 +2,33 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-25T04:16:01Z
+last_updated: 2026-09-25T11:30:27Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**505 active remote jobs** as of 2026-09-25.
+**502 active remote jobs** as of 2026-09-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
 ## Accounting/Bookkeeping (30 open roles)
+
+### Bilingual Accounts Receivable & Collections Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-accounts-receivable-collections-specialist-bruntwork
+
+### Accounting Team Lead
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-accounting-team-lead-sagan-recruitment
 
 ### Bookkeeper and Finance Support for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -121,14 +136,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-accountant-remote-leverage-2
 
-### Bilingual Property Management Accounts Payable Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-20
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-accounts-payable-specialist-bruntwork
-
 ### Finance Manager
 - **Company:** Netlify
 - **Salary:** Not Disclosed
@@ -142,13 +149,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-client-accountant-sagan-recruitment
-
-### Multi-Entity Controller
-- **Company:** Sagan Recruitment
-- **Salary:** $3,500 – $5,500 / month
-- **Location:** Remote
-- **Posted:** 2026-09-16
-- **View Job:** https://globalcaribbeans.com/#card-multi-entity-controller-sagan-recruitment
 
 ### Construction Accountant
 - **Company:** Somewhere
@@ -772,7 +772,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (46 open roles)
+## Online Marketing (47 open roles)
+
+### Email Marketing Specialist (Klaviyo & SMS)
+- **Company:** Sagan Recruitment
+- **Salary:** $3,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-klaviyo-sms-sagan-recruitment-2
 
 ### Social Media and SEO Roles for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -1096,7 +1103,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-## Operations (39 open roles)
+## Operations (40 open roles)
+
+### Operations & Finance Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-operations-finance-coordinator-sagan-recruitment
 
 ### Marketing Specialist - Remote Work
 - **Company:** BairesDev
@@ -1371,7 +1385,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (83 open roles)
+## Other (80 open roles)
+
+### Medical Billing & Denials Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-medical-billing-denials-specialist-sagan-recruitment
 
 ### Estimating and Drafting for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -1627,22 +1648,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-finance-expert-hire-with-near
 
-### Bilingual Property Management Collections Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-20
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-collections-specialist-bruntwork
-
-### Spanish Bilingual Senior Debt Collection Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-20
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-senior-debt-collection-specialist-bruntwork
-
 ### Production Designer
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -1848,13 +1853,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-solutions-architect-private-equity-m-a-dyopath
 
-### Product Engineer
-- **Company:** SafetyWing
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-03
-- **View Job:** https://globalcaribbeans.com/#card-product-engineer-safetywing
-
 ### Content Publisher
 - **Company:** Hire With Near
 - **Salary:** $1,200 – $1,500 / month
@@ -1875,13 +1873,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-construction-estimator-somewhere
-
-### Graphic Desisgner
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-03
-- **View Job:** https://globalcaribbeans.com/#card-graphic-desisgner-somewhere
 
 ### Parts Research & Quoting Coordinator
 - **Company:** Sagan Recruitment
@@ -2225,7 +2216,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (72 open roles)
+## Sales (70 open roles)
 
 ### Appointment Setting and Sales Roles for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -2268,13 +2259,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-director-of-product-marketing-constructor
-
-### B2B SaaS Account Sales Executive
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-b2b-saas-account-sales-executive-somewhere
 
 ### AWS Enterprise Segment Lead
 - **Company:** Supabase
@@ -2563,14 +2547,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-appointment-setter-remote-leverage
-
-### Spanish Bilingual Sales Account Executive (Outbound | Retention)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-21
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-sales-account-executive-outbound-retention-bruntwork
 
 ### Sales Development Representative (SDR) – Supply Chain & Logistics Tech
 - **Company:** Sagan Recruitment
