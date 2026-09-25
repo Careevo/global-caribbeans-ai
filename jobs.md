@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-25T16:54:34Z
+last_updated: 2026-09-25T21:18:55Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**503 active remote jobs** as of 2026-09-25.
+**505 active remote jobs** as of 2026-09-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (31 open roles)
+
+### Accounts Receivable Collection Specialist
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-accounts-receivable-collection-specialist-somewhere
 
 ### Bilingual Accounts Receivable & Collections Specialist
 - **Company:** BruntWork
@@ -772,7 +779,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (47 open roles)
+## Online Marketing (48 open roles)
+
+### Video Editor
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-hire-with-near
 
 ### Email Marketing Specialist (Klaviyo & SMS)
 - **Company:** Sagan Recruitment
@@ -1103,7 +1117,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-## Operations (39 open roles)
+## Operations (40 open roles)
+
+### IT Procurement & Vendor Management Manager
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-it-procurement-vendor-management-manager-bruntwork
 
 ### Operations & Finance Coordinator
 - **Company:** Sagan Recruitment
@@ -1378,7 +1399,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (81 open roles)
+## Other (82 open roles)
+
+### Schedule Strategy Representative
+- **Company:** Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-schedule-strategy-representative-near
+
+### Techpack Designer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-techpack-designer-hired-remoteli
 
 ### Digital Content Creator
 - **Company:** Mappa
@@ -1812,13 +1847,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-09
 - **View Job:** https://globalcaribbeans.com/#card-mid-sr-designer-global-navigation-new-era-technology
 
-### Ticketing Operations Associate
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-09
-- **View Job:** https://globalcaribbeans.com/#card-ticketing-operations-associate-remotely-talents-client-confidential-2
-
 ### Trading Operations Associate - West Coast
 - **Company:** Alpaca
 - **Salary:** Not Disclosed
@@ -2217,7 +2245,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (71 open roles)
+## Sales (70 open roles)
 
 ### Creator Partnerships Manager
 - **Company:** Mappa
@@ -2507,13 +2535,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-outbound-sales-specialist-hire-with-near
 
-### Outbound Sales Representative
-- **Company:** WorkBetterNow
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-workbetternow
-
 ### Enterprise Sales Executive, AI Solutions
 - **Company:** Toptal
 - **Salary:** Not Disclosed
@@ -2719,7 +2740,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
 
-## Software Development (122 open roles)
+## Software Development (121 open roles)
 
 ### Software Engineer, Infrastructure - Self Managed Experience (SMX)
 - **Company:** Camunda
@@ -3568,10 +3589,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-web-developer-somewhere-2
-
-### Senior DevOps Engineer
-- **Company:** Lemon.io
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-senior-devops-engineer-lemon-io-2
