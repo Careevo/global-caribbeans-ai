@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-25T11:30:27Z
+last_updated: 2026-09-25T16:54:34Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**502 active remote jobs** as of 2026-09-25.
+**503 active remote jobs** as of 2026-09-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1103,7 +1103,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-## Operations (40 open roles)
+## Operations (39 open roles)
 
 ### Operations & Finance Coordinator
 - **Company:** Sagan Recruitment
@@ -1181,13 +1181,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-email-campaigns-strategist-scale-army-scale-army
-
-### Manhattan WMS Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-manhattan-wms-specialist-scale-army-scale-army
 
 ### Financial Systems & AI Automation Specialist | Scale Army
 - **Company:** Scale Army
@@ -1385,7 +1378,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-e-commerce-operations-manager-somewhere-2
 
-## Other (80 open roles)
+## Other (81 open roles)
+
+### Digital Content Creator
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-digital-content-creator-mappa
+
+### Production Coordinator
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-production-coordinator-mappa-4
 
 ### Medical Billing & Denials Specialist
 - **Company:** Sagan Recruitment
@@ -1584,13 +1592,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-transaction-coordinator-remote-leverage
-
-### Takeoff Estimator
-- **Company:** Remote Leverage
-- **Salary:** $1,400 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-takeoff-estimator-remote-leverage
 
 ### Boomi Integration Engineer - Remote Work
 - **Company:** BairesDev
@@ -2216,7 +2217,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-recruiter-customer-io
 
-## Sales (70 open roles)
+## Sales (71 open roles)
+
+### Creator Partnerships Manager
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-creator-partnerships-manager-mappa
+
+### Partnerships Manager
+- **Company:** Remote Leverage
+- **Salary:** $3,000 – $4,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-25
+- **View Job:** https://globalcaribbeans.com/#card-partnerships-manager-remote-leverage
 
 ### Appointment Setting and Sales Roles for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -2413,13 +2428,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-oyster-hr
-
-### Account Executive
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-mappa
 
 ### Outbound Lead Generation Specialist - Revenue Engine Execution & Data Validation
 - **Company:** BruntWork
