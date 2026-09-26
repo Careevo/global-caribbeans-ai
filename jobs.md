@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-26T04:20:12Z
+last_updated: 2026-09-26T11:05:10Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**500 active remote jobs** as of 2026-09-26.
+**498 active remote jobs** as of 2026-09-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (29 open roles)
 
 ### Accounts Receivable Collection Specialist
 - **Company:** Somewhere
@@ -219,13 +219,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-global-controller-customer-io
-
-### Office Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,200 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-office-manager-sagan-recruitment
 
 ## Admin (18 open roles)
 
@@ -1392,7 +1385,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-matching-operations-coordinator-toptal
 
-## Other (80 open roles)
+## Other (79 open roles)
 
 ### Schedule Strategy Representative
 - **Company:** Near
@@ -1951,13 +1944,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-social-media-designer-creative-shop
-
-### Senior Video Editor & Graphic Designer
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,600 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-senior-video-editor-graphic-designer-sagan-recruitment
 
 ## Project Management (27 open roles)
 
