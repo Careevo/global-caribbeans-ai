@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-26T16:05:42Z
+last_updated: 2026-09-26T20:51:18Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**496 active remote jobs** as of 2026-09-26.
+**493 active remote jobs** as of 2026-09-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1392,7 +1392,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-matching-operations-coordinator-toptal
 
-## Other (77 open roles)
+## Other (75 open roles)
 
 ### Schedule Strategy Representative
 - **Company:** Near
@@ -1923,20 +1923,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-ui-visual-designer-crae-group
-
-### Email Designer
-- **Company:** Stimulate
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-email-designer-stimulate
-
-### Motion Designer / Video Editor
-- **Company:** EFK
-- **Salary:** $40 – $50 / hour
-- **Location:** Remote
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-motion-designer-video-editor-efk
 
 ## Project Management (27 open roles)
 
@@ -2675,7 +2661,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-director-business-development-life-sciences-arcadia
 
-## Software Development (121 open roles)
+## Software Development (120 open roles)
 
 ### Senior Backend Engineer, NodeJS
 - **Company:** Deel
@@ -3517,10 +3503,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-team-lead-trading-alpaca
-
-### Full Stack Web Developer
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-web-developer-somewhere-2
