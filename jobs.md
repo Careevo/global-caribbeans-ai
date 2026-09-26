@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-26T11:05:10Z
+last_updated: 2026-09-26T16:05:42Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**498 active remote jobs** as of 2026-09-26.
+**496 active remote jobs** as of 2026-09-26.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1110,7 +1110,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-## Operations (39 open roles)
+## Operations (40 open roles)
+
+### Manager Onboarding Operations AMER
+- **Company:** Remote
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-09-26
+- **View Job:** https://globalcaribbeans.com/#card-manager-onboarding-operations-amer-remote
 
 ### IT Procurement & Vendor Management Manager
 - **Company:** BruntWork
@@ -1385,7 +1392,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-matching-operations-coordinator-toptal
 
-## Other (79 open roles)
+## Other (77 open roles)
 
 ### Schedule Strategy Representative
 - **Company:** Near
@@ -1931,20 +1938,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-27
 - **View Job:** https://globalcaribbeans.com/#card-motion-designer-video-editor-efk
 
-### Graphic Designer
-- **Company:** EFK
-- **Salary:** $60,000 – $70,000 / year
-- **Location:** Remote
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-efk
-
-### Social Media Designer
-- **Company:** Creative Shop
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-social-media-designer-creative-shop
-
 ## Project Management (27 open roles)
 
 ### Product Manager - Market Data
@@ -2210,7 +2203,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (68 open roles)
+## Sales (67 open roles)
 
 ### Customer Success Associate
 - **Company:** Netlify
@@ -2681,14 +2674,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-director-business-development-life-sciences-arcadia
-
-### Sales Development Representative
-- **Company:** Somewhere
-- **Salary:** $1,200 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-somewhere-2
 
 ## Software Development (121 open roles)
 
