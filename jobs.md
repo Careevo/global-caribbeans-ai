@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-26T20:51:18Z
+last_updated: 2026-09-27T04:36:58Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**493 active remote jobs** as of 2026-09-26.
+**488 active remote jobs** as of 2026-09-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -220,7 +220,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-global-controller-customer-io
 
-## Admin (18 open roles)
+## Admin (16 open roles)
 
 ### Receptionist
 - **Company:** Latino Legends
@@ -335,20 +335,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-for-licensing-hired-remoteli
-
-### Administrative Assistant
-- **Company:** Latino Legends
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-latino-legends-2
-
-### Construction Admin Assistant
-- **Company:** Latino Legends
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-construction-admin-assistant-latino-legends-2
 
 ## Customer support (23 open roles)
 
@@ -516,7 +502,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-02
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near-2
 
-## Data/Analytics (34 open roles)
+## Data/Analytics (33 open roles)
 
 ### Staff Data Scientist, Growth
 - **Company:** Alpaca
@@ -748,13 +734,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-data-scientist-latino-legends
-
-### Head of AI Transformation
-- **Company:** Somewhere
-- **Salary:** $5,000 – $10,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-head-of-ai-transformation-somewhere
 
 ## IT/Engineering (2 open roles)
 
@@ -1110,7 +1089,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
-## Operations (40 open roles)
+## Operations (38 open roles)
 
 ### Manager Onboarding Operations AMER
 - **Company:** Remote
@@ -1377,20 +1356,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-fleet-compliance-coordinator-sagan-recruitment
-
-### Order Management & Fulfillment Specialist
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-order-management-fulfillment-specialist-somewhere
-
-### Matching Operations Coordinator
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-matching-operations-coordinator-toptal
 
 ## Other (75 open roles)
 
@@ -2663,6 +2628,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Software Development (120 open roles)
 
+### IT Lead
+- **Company:** ClassDojo
+- **Salary:** $185,000 – $220,000 / year
+- **Location:** Global
+- **Posted:** 2026-09-26
+- **View Job:** https://globalcaribbeans.com/#card-it-lead-classdojo
+
 ### Senior Backend Engineer, NodeJS
 - **Company:** Deel
 - **Salary:** Not Disclosed
@@ -3496,10 +3468,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-senior-react-full-stack-developer-lemon-io
-
-### Team Lead - Trading
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-08-27
-- **View Job:** https://globalcaribbeans.com/#card-team-lead-trading-alpaca
