@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-27T11:44:17Z
+last_updated: 2026-09-27T16:42:11Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -751,7 +751,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (48 open roles)
+## Online Marketing (47 open roles)
 
 ### Video Editor
 - **Company:** Hire With Near
@@ -1081,13 +1081,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-08-28
 - **View Job:** https://globalcaribbeans.com/#card-ppc-specialist-sagan-recruitment-2
-
-### Social Media Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $3,500 / month
-- **Location:** Remote
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-sagan-recruitment
 
 ## Operations (38 open roles)
 
@@ -1889,7 +1882,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-ui-visual-designer-crae-group
 
-## Project Management (27 open roles)
+## Project Management (28 open roles)
+
+### Senior Program Manager - Business Transformation and Systems
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-senior-program-manager-business-transformation-and-systems-somewhere
 
 ### Product Manager - Market Data
 - **Company:** Alpaca
