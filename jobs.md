@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-27T16:42:11Z
+last_updated: 2026-09-27T21:07:43Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**488 active remote jobs** as of 2026-09-27.
+**494 active remote jobs** as of 2026-09-27.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (29 open roles)
+## Accounting/Bookkeeping (30 open roles)
+
+### Construction Back Office — Accounting, Bookkeeping and Dispatch — Remote
+- **Company:** Sagan Recruitment
+- **Salary:** $1,200 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-construction-back-office-accounting-bookkeeping-and-dispatch-remote-sagan-recrui
 
 ### Accounts Receivable Collection Specialist
 - **Company:** Somewhere
@@ -336,7 +343,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-for-licensing-hired-remoteli
 
-## Customer support (23 open roles)
+## Customer support (24 open roles)
+
+### Client Account Coordinators — Software, E-commerce and Agency Experience — Remote
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-client-account-coordinators-software-e-commerce-and-agency-experience-remote-sag
 
 ### Customer Support Specialist
 - **Company:** Hire With Near
@@ -751,7 +765,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (47 open roles)
+## Online Marketing (46 open roles)
 
 ### Video Editor
 - **Company:** Hire With Near
@@ -1075,13 +1089,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-marketing-operations-specialist-sagan-recruitment
 
-### PPC Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-28
-- **View Job:** https://globalcaribbeans.com/#card-ppc-specialist-sagan-recruitment-2
-
 ## Operations (38 open roles)
 
 ### Manager Onboarding Operations AMER
@@ -1350,7 +1357,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-fleet-compliance-coordinator-sagan-recruitment
 
-## Other (75 open roles)
+## Other (79 open roles)
+
+### Home Services Support — Customer Booking and Records — Remote
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-home-services-support-customer-booking-and-records-remote-sagan-recruitment
+
+### Home Services Office Roles — Operations, Records and Recruiting — Remote
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-home-services-office-roles-operations-records-and-recruiting-remote-sagan-recrui
+
+### Home Services Booking, Customer Care and Operations — Remote
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-home-services-booking-customer-care-and-operations-remote-sagan-recruitment
+
+### General Application
+- **Company:** TensorOps
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-general-application-tensorops
 
 ### Schedule Strategy Representative
 - **Company:** Near
@@ -2155,7 +2190,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (67 open roles)
+## Sales (68 open roles)
+
+### Home Services Growth Roles — Business Development, Sales and Recruiting — Remote
+- **Company:** Sagan Recruitment
+- **Salary:** $1,300 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-09-27
+- **View Job:** https://globalcaribbeans.com/#card-home-services-growth-roles-business-development-sales-and-recruiting-remote-saga
 
 ### Customer Success Associate
 - **Company:** Netlify
