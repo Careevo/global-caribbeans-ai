@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-27T21:07:43Z
+last_updated: 2026-09-28T04:38:33Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**494 active remote jobs** as of 2026-09-27.
+**496 active remote jobs** as of 2026-09-28.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -343,7 +343,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-for-licensing-hired-remoteli
 
-## Customer support (24 open roles)
+## Customer support (25 open roles)
+
+### Customer Support Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-28
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-sagan-recruitment
 
 ### Client Account Coordinators — Software, E-commerce and Agency Experience — Remote
 - **Company:** Sagan Recruitment
@@ -1357,7 +1364,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-fleet-compliance-coordinator-sagan-recruitment
 
-## Other (79 open roles)
+## Other (80 open roles)
+
+### Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-28
+- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-sagan-recruitment
 
 ### Home Services Support — Customer Booking and Records — Remote
 - **Company:** Sagan Recruitment
@@ -2117,7 +2131,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-29
 - **View Job:** https://globalcaribbeans.com/#card-technical-designer-somewhere
 
-## Recruiting (10 open roles)
+## Recruiting (11 open roles)
+
+### Recruiter
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-28
+- **View Job:** https://globalcaribbeans.com/#card-recruiter-sagan-recruitment
 
 ### Recruiting and People Operations for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -2669,7 +2690,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-director-business-development-life-sciences-arcadia
 
-## Software Development (120 open roles)
+## Software Development (119 open roles)
 
 ### IT Lead
 - **Company:** ClassDojo
@@ -3504,10 +3525,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** North America
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-alpaca-connect-alpaca
-
-### Senior React Full-stack Developer
-- **Company:** Lemon.io
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-08-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-react-full-stack-developer-lemon-io
