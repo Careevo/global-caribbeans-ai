@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-29T05:05:52Z
+last_updated: 2026-09-29T12:27:43Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**457 active remote jobs** as of 2026-09-29.
+**458 active remote jobs** as of 2026-09-29.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## Accounting/Bookkeeping (30 open roles)
+## Accounting/Bookkeeping (29 open roles)
 
 ### 65307254682 - Client Controller
 - **Company:** Somewhere
@@ -135,14 +135,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-accounts-receivable-analyst-sagan-recruitment
 
-### Bilingual Accounting & Bookkeeping Team Lead (QuickBooks Online)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-accounting-bookkeeping-team-lead-quickbooks-online-bruntwork
-
 ### Accountant
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -227,7 +219,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-global-controller-customer-io
 
-## Admin (15 open roles)
+## Admin (16 open roles)
+
+### US Federal Civil Litigation Research & Legal Support Analyst
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-29
+- **View Job:** https://globalcaribbeans.com/#card-us-federal-civil-litigation-research-legal-support-analyst-bruntwork
 
 ### Executive Assistant | Scale Army
 - **Company:** Scale Army
@@ -335,7 +334,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-for-licensing-hired-remoteli
 
-## Customer support (25 open roles)
+## Customer support (26 open roles)
+
+### Bilingual Level 2 Technical Support Specialist (SaaS & AI tools)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-29
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-level-2-technical-support-specialist-saas-ai-tools-bruntwork
 
 ### Customer Service Representative
 - **Company:** Somewhere
@@ -1292,7 +1299,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-commercial-insurance-csr-account-manager-sagan-recruitment
 
-## Other (84 open roles)
+## Other (83 open roles)
 
 ### Polish Sports Localization Specialist (Football)
 - **Company:** Welo Data
@@ -1513,14 +1520,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-mantle-squad-windranger
-
-### Brand Video Creator & KOL Partner (视频创作)
-- **Company:** Trust Wallet
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-brand-video-creator-kol-partner-trust-wallet
 
 ### Senior Engineering Manager
 - **Company:** Trust Wallet
@@ -1889,7 +1888,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-ui-visual-designer-crae-group
 
-## Project Management (25 open roles)
+## Project Management (26 open roles)
+
+### Senior Product Manager - Trading Growth (Web3)
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-29
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-trading-growth-web3-trust-wallet
 
 ### Senior Program Manager - Business Transformation and Systems
 - **Company:** Somewhere
