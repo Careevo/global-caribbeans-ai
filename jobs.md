@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-29T22:03:04Z
+last_updated: 2026-09-30T04:52:59Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**452 active remote jobs** as of 2026-09-29.
+**454 active remote jobs** as of 2026-09-30.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -226,7 +226,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-global-controller-customer-io
 
-## Admin (15 open roles)
+## Admin (16 open roles)
+
+### Remote Medical Receptionist (EMR Patient Communications)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-30
+- **View Job:** https://globalcaribbeans.com/#card-remote-medical-receptionist-emr-patient-communications-bruntwork
 
 ### US Federal Civil Litigation Research & Legal Support Analyst
 - **Company:** BruntWork
@@ -334,7 +341,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-08-31
 - **View Job:** https://globalcaribbeans.com/#card-data-entry-associate-for-licensing-hired-remoteli
 
-## Customer support (26 open roles)
+## Customer support (27 open roles)
+
+### Fitness Membership Sales & Client Retention Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-30
+- **View Job:** https://globalcaribbeans.com/#card-fitness-membership-sales-client-retention-specialist-bruntwork
+
+### Customer Support Specialist
+- **Company:** Hire With Near
+- **Salary:** $1,000 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-29
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-hire-with-near-2
 
 ### Bilingual Level 2 Technical Support Specialist (SaaS & AI tools)
 - **Company:** BruntWork
@@ -427,13 +448,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-manager-posthog-2
-
-### Customer Support Representative - Food Logistics & Dispatch
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-representative-food-logistics-dispatch-bruntwork
 
 ### Tier 1 Customer Service Representative
 - **Company:** Sagan Recruitment
@@ -763,7 +777,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (37 open roles)
+## Online Marketing (36 open roles)
 
 ### Marketing Content Manager
 - **Company:** Remote Leverage
@@ -925,13 +939,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
-
-### Shopify Store Operations & Social Media Specialist (E-Commerce)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-shopify-store-operations-social-media-specialist-e-commerce-bruntwork
 
 ### Paid Media & Growth Marketing Specialist
 - **Company:** Sagan Recruitment
@@ -1257,7 +1264,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-commercial-insurance-csr-account-manager-sagan-recruitment
 
-## Other (84 open roles)
+## Other (85 open roles)
+
+### Bilingual Property Collections & Lease Renewals Coordinator (AppFolio)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-09-30
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-collections-lease-renewals-coordinator-appfolio-bruntwork
 
 ### Escrow Officer
 - **Company:** Rebuilt
