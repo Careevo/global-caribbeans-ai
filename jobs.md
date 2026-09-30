@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-09-30T04:52:59Z
+last_updated: 2026-09-30T12:13:03Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -226,7 +226,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-global-controller-customer-io
 
-## Admin (16 open roles)
+## Admin (15 open roles)
 
 ### Remote Medical Receptionist (EMR Patient Communications)
 - **Company:** BruntWork
@@ -269,14 +269,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-25
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-for-home-services-remote-talent-pool-sagan-recruitment
-
-### Bilingual HR and Administrative Assistant
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-hr-and-administrative-assistant-bruntwork
 
 ### IT Operations Coordinator | Scale Army
 - **Company:** Scale Army
@@ -777,7 +769,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-contract-it-specialist-customer-io
 
-## Online Marketing (36 open roles)
+## Online Marketing (37 open roles)
+
+### Senior PPC Manager (Shopping&YouTube)
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-09-30
+- **View Job:** https://globalcaribbeans.com/#card-senior-ppc-manager-shopping-youtube-remotely-talents-client-confidential
 
 ### Marketing Content Manager
 - **Company:** Remote Leverage
@@ -1264,7 +1263,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-commercial-insurance-csr-account-manager-sagan-recruitment
 
-## Other (85 open roles)
+## Other (87 open roles)
+
+### Video Editor
+- **Company:** Superside
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-30
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-superside
+
+### Senior Product Designer - CoinGlass
+- **Company:** CoinMarketCap
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-09-30
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-coinglass-coinmarketcap
 
 ### Bilingual Property Collections & Lease Renewals Coordinator (AppFolio)
 - **Company:** BruntWork
@@ -2092,7 +2105,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (59 open roles)
+## Sales (57 open roles)
 
 ### Creator Partnerships Manager
 - **Company:** Mappa
@@ -2114,13 +2127,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-29
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-near-2
-
-### Creator Partnerships B2B Appointment Setter (OnlyFans)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-29
-- **View Job:** https://globalcaribbeans.com/#card-creator-partnerships-b2b-appointment-setter-onlyfans-bruntwork
 
 ### Account Executive
 - **Company:** Remote Leverage
@@ -2198,13 +2204,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-management-tam-leader-supabase
-
-### Pre-Sales Solutions Architect (SA) Leader
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-pre-sales-solutions-architect-sa-leader-supabase
 
 ### Partnerships Manager, Ecosystem
 - **Company:** Supabase
@@ -2509,6 +2508,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Software Development (103 open roles)
 
+### AI Automation Developer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-09-30
+- **View Job:** https://globalcaribbeans.com/#card-ai-automation-developer-bruntwork
+
 ### Senior Platform Data & Python Engineer - Remote Work
 - **Company:** BairesDev
 - **Salary:** Not Disclosed
@@ -2725,13 +2731,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-platform-engineer-compute-capacity-supabase
-
-### Engineering Productivity Engineer
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-engineering-productivity-engineer-supabase
 
 ### Performance Engineer - Benchmarking
 - **Company:** Supabase
