@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-01T05:05:55Z
+last_updated: 2026-10-01T12:47:24Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**460 active remote jobs** as of 2026-10-01.
+**458 active remote jobs** as of 2026-10-01.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -904,7 +904,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-client-success-manager-b2b-agency-sagan-recruitment
 
-## Design and Creative (34 open roles)
+## Design and Creative (31 open roles)
 
 ### Content Designer
 - **Company:** Fueled
@@ -954,13 +954,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-28
 - **View Job:** https://globalcaribbeans.com/#card-virtual-interior-designer-latino-legends
-
-### Senior Commercial Video Editor & Motion Graphics Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-28
-- **View Job:** https://globalcaribbeans.com/#card-senior-commercial-video-editor-motion-graphics-specialist-bruntwork
 
 ### Techpack Designer
 - **Company:** Hired Remoteli
@@ -1129,20 +1122,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-ai-native-ui-ux-designer-clickguard
-
-### Graphics Designer
-- **Company:** CRAE GROUP
-- **Salary:** €50,000 – €80,000 / year
-- **Location:** Remote
-- **Posted:** 2026-09-01
-- **View Job:** https://globalcaribbeans.com/#card-graphics-designer-crae-group
-
-### UI & Visual Designer
-- **Company:** CRAE GROUP
-- **Salary:** €60,000 – €90,000 / year
-- **Location:** Remote
-- **Posted:** 2026-09-01
-- **View Job:** https://globalcaribbeans.com/#card-ui-visual-designer-crae-group
 
 ## IT/Engineering (2 open roles)
 
@@ -1435,7 +1414,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-seo-specialist-technical-local-seo-sagan-recruitment
 
-## Operations (43 open roles)
+## Operations (44 open roles)
+
+### Occupational Health & Safety Compliance Coordinator (ISNetworld, Complyworks)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-01
+- **View Job:** https://globalcaribbeans.com/#card-occupational-health-safety-compliance-coordinator-isnetworld-complyworks-bruntwo-2
+
+### Sales Operations Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-01
+- **View Job:** https://globalcaribbeans.com/#card-sales-operations-coordinator-bruntwork
 
 ### CCaaS Engineer - Remote Work
 - **Company:** BairesDev
@@ -1730,13 +1723,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-local-seo-operations-specialist-sagan-recruitment
-
-### Commercial Insurance CSR / Account Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-01
-- **View Job:** https://globalcaribbeans.com/#card-commercial-insurance-csr-account-manager-sagan-recruitment
 
 ## Other (30 open roles)
 
@@ -2208,7 +2194,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (56 open roles)
+## Sales (55 open roles)
 
 ### Business Development Representative
 - **Company:** Remote Leverage
@@ -2596,14 +2582,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-01
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-manager-hire-with-near
 
-### Inbound Sales Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-01
-- **View Job:** https://globalcaribbeans.com/#card-inbound-sales-specialist-sagan-recruitment-2
+## Software Development (97 open roles)
 
-## Software Development (96 open roles)
+### Engineering Manager - Distributed Systems, Python / Go
+- **Company:** Canonical
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-10-01
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-distributed-systems-python-go-canonical
 
 ### Nuxt Developer - Remote Work
 - **Company:** BairesDev
