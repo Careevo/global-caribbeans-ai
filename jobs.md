@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-02T04:55:29Z
+last_updated: 2026-10-02T12:11:03Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**457 active remote jobs** as of 2026-10-02.
+**458 active remote jobs** as of 2026-10-02.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -319,7 +319,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-ap-ar-specialist-sagan-recruitment
 
-## Admin (14 open roles)
+## Admin (13 open roles)
+
+### C-Suite Support Executive Assistant - Operations & Bookkeeping
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-02
+- **View Job:** https://globalcaribbeans.com/#card-c-suite-support-executive-assistant-operations-bookkeeping-bruntwork
 
 ### Bilingual Medical Receptionist
 - **Company:** BruntWork
@@ -328,20 +335,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-receptionist-bruntwork
-
-### Remote Medical Receptionist (EMR Patient Communications)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-30
-- **View Job:** https://globalcaribbeans.com/#card-remote-medical-receptionist-emr-patient-communications-bruntwork
-
-### US Federal Civil Litigation Research & Legal Support Analyst
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-29
-- **View Job:** https://globalcaribbeans.com/#card-us-federal-civil-litigation-research-legal-support-analyst-bruntwork
 
 ### Executive Assistant | Scale Army
 - **Company:** Scale Army
@@ -421,7 +414,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-sagan-recruitment-3
 
-## Customer support (30 open roles)
+## Customer support (32 open roles)
+
+### Customer Success Specialist
+- **Company:** 1%
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-10-02
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-1
+
+### Customer Success & Community Specialist
+- **Company:** 1%
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-10-02
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-community-specialist-1
 
 ### Customer Support Specialist
 - **Company:** Hire With Near
@@ -1735,7 +1742,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-03
 - **View Job:** https://globalcaribbeans.com/#card-local-seo-operations-specialist-sagan-recruitment
 
-## Other (29 open roles)
+## Other (28 open roles)
 
 ### Spanish Bilingual Medical Authorizations Representative
 - **Company:** BruntWork
@@ -1796,14 +1803,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-09-28
 - **View Job:** https://globalcaribbeans.com/#card-italian-sports-localization-specialist-football-welo-data
-
-### Bilingual Property Management Collections Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-28
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-collections-specialist-bruntwork-2
 
 ### Home Services Support — Customer Booking and Records — Remote
 - **Company:** Sagan Recruitment
@@ -2588,7 +2587,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-ift
 
-## Software Development (96 open roles)
+## Software Development (97 open roles)
+
+### Senior Software Engineer Full stack
+- **Company:** Sezzle
+- **Salary:** $5,000 – $10,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-02
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-full-stack-sezzle
 
 ### Full Stack Applications Developer | Scale Army
 - **Company:** Scale Army
