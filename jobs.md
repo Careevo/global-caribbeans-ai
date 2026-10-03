@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-03T15:59:17Z
+last_updated: 2026-10-03T20:49:01Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**452 active remote jobs** as of 2026-10-03.
+**450 active remote jobs** as of 2026-10-03.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1404,7 +1404,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-b2b-digital-marketing-specialist-sagan-recruitment
 
-## Operations (46 open roles)
+## Operations (45 open roles)
 
 ### Remote Bilingual Patient Care Coordinator (EN/ES)
 - **Company:** BruntWork
@@ -1722,14 +1722,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-salesforce-administrator-service-cloud-engine
 
-### Real Estate Transaction Coordinator (VA)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-03
-- **View Job:** https://globalcaribbeans.com/#card-real-estate-transaction-coordinator-va-somewhere
-
-## Other (28 open roles)
+## Other (27 open roles)
 
 ### Director of Professional Services, WordPress VIP
 - **Company:** Automattic Careers
@@ -1925,13 +1918,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-rental-application-coordinator-sagan-recruitment
-
-### Construction Estimator
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-03
-- **View Job:** https://globalcaribbeans.com/#card-construction-estimator-somewhere
 
 ## Project Management (23 open roles)
 
