@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-03T20:49:01Z
+last_updated: 2026-10-04T05:09:32Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**450 active remote jobs** as of 2026-10-03.
+**448 active remote jobs** as of 2026-10-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -694,7 +694,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-support-operations-coordinator-sagan-recruitment
 
-## Data/Analytics (31 open roles)
+## Data/Analytics (30 open roles)
 
 ### AI Automation and Integration Engineer | Scale Army
 - **Company:** Scale Army
@@ -905,13 +905,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-assurance-experienced-associate-pricewaterhousecoopers
-
-### Fraud Data Analyst
-- **Company:** Sezzle
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-fraud-data-analyst-sezzle
 
 ## Design and Creative (30 open roles)
 
@@ -2532,7 +2525,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-ift
 
-## Software Development (97 open roles)
+## Software Development (96 open roles)
 
 ### Staff Software Engineer
 - **Company:** B12
@@ -3205,10 +3198,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-senior-solutions-architect-private-equity-m-a-dyopath
-
-### Server Engineering Manager, Member Experience
-- **Company:** Raya
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-server-engineering-manager-member-experience-raya
