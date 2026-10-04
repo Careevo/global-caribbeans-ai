@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-04T12:02:49Z
+last_updated: 2026-10-04T21:04:29Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**444 active remote jobs** as of 2026-10-04.
+**440 active remote jobs** as of 2026-10-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -680,7 +680,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-rep-plumbing-hvac-somewhere
 
-## Data/Analytics (30 open roles)
+## Data/Analytics (28 open roles)
 
 ### AI Automation and Integration Engineer | Scale Army
 - **Company:** Scale Army
@@ -877,20 +877,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-data-and-automation-systems-builder-the-studio
-
-### Technical Operations Specialist, Fintech / Payments
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-technical-operations-specialist-fintech-payments-persona
-
-### Assurance Experienced Associate
-- **Company:** PricewaterhouseCoopers
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-assurance-experienced-associate-pricewaterhousecoopers
 
 ## Design and Creative (30 open roles)
 
@@ -2130,7 +2116,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (52 open roles)
+## Sales (51 open roles)
 
 ### Beauty Business Development Representative | Scale Army
 - **Company:** Scale Army
@@ -2490,14 +2476,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-sales-representative-somewhere-2
 
-### Head of Business Development - Logos
-- **Company:** Logos
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-logos
-
-## Software Development (96 open roles)
+## Software Development (95 open roles)
 
 ### Staff Software Engineer
 - **Company:** B12
@@ -3163,10 +3142,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-kajae-3
-
-### Senior Solutions Architect, Private Equity & M&A
-- **Company:** DYOPATH
-- **Salary:** $120,000 – $130,000 / year
-- **Location:** Remote
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-senior-solutions-architect-private-equity-m-a-dyopath
