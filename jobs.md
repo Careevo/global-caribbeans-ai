@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-04T05:09:32Z
+last_updated: 2026-10-04T12:02:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**448 active remote jobs** as of 2026-10-04.
+**444 active remote jobs** as of 2026-10-04.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -93,7 +93,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-automation-integration-engineer-sagan-recruitment
 
-## Accounting/Bookkeeping (37 open roles)
+## Accounting/Bookkeeping (36 open roles)
 
 ### Accounting Assistant
 - **Company:** Virtual Latinos
@@ -347,13 +347,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-bookkeeper-sagan-recruitment-2
 
-### AP/AR Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-ap-ar-specialist-sagan-recruitment
-
 ## Admin (15 open roles)
 
 ### Admin Coordinator/Ops Assistant | Scale Army
@@ -464,7 +457,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-junior-administrative-assistant-sagan-recruitment
 
-## Customer support (32 open roles)
+## Customer support (31 open roles)
 
 ### Customer Service Representative
 - **Company:** Near
@@ -686,13 +679,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-rep-plumbing-hvac-somewhere
-
-### Support & Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,200 / month
-- **Location:** Global
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-support-operations-coordinator-sagan-recruitment
 
 ## Data/Analytics (30 open roles)
 
@@ -1143,7 +1129,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (36 open roles)
+## Online Marketing (35 open roles)
 
 ### Senior Demand Generation Marketing Manager
 - **Company:** Netlify
@@ -1389,13 +1375,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-creative-strategist-superside
-
-### B2B -Digital Marketing Specialist.
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $1,700 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-b2b-digital-marketing-specialist-sagan-recruitment
 
 ## Operations (45 open roles)
 
@@ -2151,7 +2130,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (53 open roles)
+## Sales (52 open roles)
 
 ### Beauty Business Development Representative | Scale Army
 - **Company:** Scale Army
@@ -2517,13 +2496,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-04
 - **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-logos
-
-### Head of Business Development - Logos
-- **Company:** IFT
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-09-04
-- **View Job:** https://globalcaribbeans.com/#card-head-of-business-development-logos-ift
 
 ## Software Development (96 open roles)
 
