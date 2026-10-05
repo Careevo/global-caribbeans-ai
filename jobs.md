@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-04T21:04:29Z
+last_updated: 2026-10-05T04:54:31Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**440 active remote jobs** as of 2026-10-04.
+**433 active remote jobs** as of 2026-10-05.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -457,7 +457,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-junior-administrative-assistant-sagan-recruitment
 
-## Customer support (31 open roles)
+## Customer support (28 open roles)
 
 ### Customer Service Representative
 - **Company:** Near
@@ -516,27 +516,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-30
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-customer-service-representative-english-spanish-sagan-recruitment
 
-### Fitness Membership Sales & Client Retention Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-30
-- **View Job:** https://globalcaribbeans.com/#card-fitness-membership-sales-client-retention-specialist-bruntwork
-
 ### Customer Support Specialist
 - **Company:** Hire With Near
 - **Salary:** $1,000 – $1,500 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-29
 - **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-hire-with-near-2
-
-### Bilingual Level 2 Technical Support Specialist (SaaS & AI tools)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-29
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-level-2-technical-support-specialist-saas-ai-tools-bruntwork
 
 ### Customer Service Representative
 - **Company:** Somewhere
@@ -672,13 +657,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-12
 - **View Job:** https://globalcaribbeans.com/#card-client-support-specialist-sagan-recruitment
-
-### Customer Service Rep (Plumbing & HVAC)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-05
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-rep-plumbing-hvac-somewhere
 
 ## Data/Analytics (28 open roles)
 
@@ -878,7 +856,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-data-and-automation-systems-builder-the-studio
 
-## Design and Creative (30 open roles)
+## Design and Creative (27 open roles)
 
 ### Content Designer
 - **Company:** Fueled
@@ -1062,33 +1040,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-09
 - **View Job:** https://globalcaribbeans.com/#card-mid-sr-designer-global-navigation-new-era-technology
 
-### SaaS Product UI/UX designer
-- **Company:** ClickGUARD
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-08
-- **View Job:** https://globalcaribbeans.com/#card-saas-product-ui-ux-designer-clickguard
-
 ### AI Creative (Illustrator)
 - **Company:** Superside
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-ai-creative-illustrator-superside
-
-### Architectural Drafter & 3D Modeler
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $1,800 / month
-- **Location:** Remote
-- **Posted:** 2026-09-05
-- **View Job:** https://globalcaribbeans.com/#card-architectural-drafter-3d-modeler-sagan-recruitment
-
-### AI-native UI/UX designer
-- **Company:** ClickGUARD
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-05
-- **View Job:** https://globalcaribbeans.com/#card-ai-native-ui-ux-designer-clickguard
 
 ## IT/Engineering (2 open roles)
 
@@ -1680,7 +1637,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-05
 - **View Job:** https://globalcaribbeans.com/#card-salesforce-administrator-service-cloud-engine
 
-## Other (27 open roles)
+## Other (26 open roles)
 
 ### Director of Professional Services, WordPress VIP
 - **Company:** Automattic Careers
@@ -1710,14 +1667,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-30
 - **View Job:** https://globalcaribbeans.com/#card-oracle-erp-cloud-consultant-remote-work-bairesdev
-
-### Bilingual Property Collections & Lease Renewals Coordinator (AppFolio)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-30
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-collections-lease-renewals-coordinator-appfolio-bruntwork
 
 ### Escrow Officer
 - **Company:** Rebuilt
