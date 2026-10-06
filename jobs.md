@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-06T05:42:40Z
+last_updated: 2026-10-06T13:04:10Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**432 active remote jobs** as of 2026-10-06.
+**425 active remote jobs** as of 2026-10-06.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (11 open roles)
+## AI and Automation (10 open roles)
 
 ### Business Systems Automation Specialist | Scale Army
 - **Company:** Scale Army
@@ -21,13 +21,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-30
 - **View Job:** https://globalcaribbeans.com/#card-business-systems-automation-specialist-scale-army-scale-army
-
-### AI Automation Developer
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-30
-- **View Job:** https://globalcaribbeans.com/#card-ai-automation-developer-bruntwork
 
 ### Brazilian Subject Matter Expert in Sports
 - **Company:** Welo Data
@@ -354,7 +347,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near-2
 
-## Admin (14 open roles)
+## Admin (11 open roles)
 
 ### Executive Assistant
 - **Company:** Superside
@@ -369,29 +362,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-freelance-executive-assistant-hire-with-near
-
-### Automotive Receptionist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-02
-- **View Job:** https://globalcaribbeans.com/#card-automotive-receptionist-bruntwork
-
-### C-Suite Support Executive Assistant - Operations & Bookkeeping
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-02
-- **View Job:** https://globalcaribbeans.com/#card-c-suite-support-executive-assistant-operations-bookkeeping-bruntwork
-
-### Bilingual Medical Receptionist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-medical-receptionist-bruntwork
 
 ### Executive Assistant | Scale Army
 - **Company:** Scale Army
@@ -1305,7 +1275,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-creative-strategist-superside
 
-## Operations (46 open roles)
+## Operations (43 open roles)
 
 ### Operations Assistant
 - **Company:** Hire With Near
@@ -1343,14 +1313,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-sales-operations-retail-support-coordinator-netsuite-bruntwork
 
-### Remote Bilingual Patient Care Coordinator (EN/ES)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-remote-bilingual-patient-care-coordinator-en-es-bruntwork
-
 ### Specialist, Payer Enrollment
 - **Company:** Medallion
 - **Salary:** $20 / hour
@@ -1378,20 +1340,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-due-diligence-analyst-alpaca
-
-### Occupational Health & Safety Compliance Coordinator (ISNetworld, Complyworks)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-occupational-health-safety-compliance-coordinator-isnetworld-complyworks-bruntwo-2
-
-### Sales Operations Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-sales-operations-coordinator-bruntwork
 
 ### Senior Manager, Technical Program Management
 - **Company:** GitLab
