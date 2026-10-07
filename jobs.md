@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-07T05:13:04Z
+last_updated: 2026-10-07T12:58:35Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**444 active remote jobs** as of 2026-10-07.
+**445 active remote jobs** as of 2026-10-07.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -665,6 +665,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Data/Analytics (26 open roles)
 
+### Developer Marketer - Sales
+- **Company:** PostHog
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-07
+- **View Job:** https://globalcaribbeans.com/#card-developer-marketer-sales-posthog
+
 ### Senior Staff Data Scientist
 - **Company:** Netlify
 - **Salary:** Not Disclosed
@@ -839,13 +846,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-07
 - **View Job:** https://globalcaribbeans.com/#card-integrations-data-engineer-somewhere
-
-### Data and Automation Systems Builder
-- **Company:** THE/STUDIO
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-07
-- **View Job:** https://globalcaribbeans.com/#card-data-and-automation-systems-builder-the-studio
 
 ## Design and Creative (22 open roles)
 
@@ -1650,7 +1650,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-trading-operations-associate-west-coast-alpaca
 
-## Other (34 open roles)
+## Other (33 open roles)
 
 ### Electrical Substation Estimator
 - **Company:** Sagan Recruitment
@@ -1723,13 +1723,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-personal-injury-case-coordinator-bruntwork
-
-### Booking & Scheduling Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-05
-- **View Job:** https://globalcaribbeans.com/#card-booking-scheduling-coordinator-bruntwork
 
 ### Bilingual Dental Claims Specialist
 - **Company:** BruntWork
@@ -1897,7 +1890,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-rental-application-coordinator-sagan-recruitment
 
-## Project Management (24 open roles)
+## Project Management (25 open roles)
+
+### Product Manager - Auth
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-07
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-auth-supabase
 
 ### Project Coordinator
 - **Company:** BruntWork
@@ -2143,7 +2143,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (53 open roles)
+## Sales (54 open roles)
+
+### Real Estate Lead Generation Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-07
+- **View Job:** https://globalcaribbeans.com/#card-real-estate-lead-generation-specialist-bruntwork
 
 ### Business Development Representative
 - **Company:** Remote Leverage
