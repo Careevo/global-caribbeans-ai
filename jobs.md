@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-08T05:23:07Z
+last_updated: 2026-10-08T13:06:35Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**448 active remote jobs** as of 2026-10-08.
+**450 active remote jobs** as of 2026-10-08.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1646,7 +1646,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-08
 - **View Job:** https://globalcaribbeans.com/#card-trading-operations-associate-west-coast-alpaca
 
-## Other (32 open roles)
+## Other (34 open roles)
+
+### Tenant Relations & Property Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-08
+- **View Job:** https://globalcaribbeans.com/#card-tenant-relations-property-coordinator-bruntwork
+
+### Construction Project Administrator
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-08
+- **View Job:** https://globalcaribbeans.com/#card-construction-project-administrator-remotely-talents-client-confidential
 
 ### Candidate Sourcing & Outreach Specialist
 - **Company:** BruntWork
