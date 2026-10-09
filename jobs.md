@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-09T05:26:44Z
+last_updated: 2026-10-09T12:52:56Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**453 active remote jobs** as of 2026-10-09.
+**455 active remote jobs** as of 2026-10-09.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -700,7 +700,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-12
 - **View Job:** https://globalcaribbeans.com/#card-client-support-specialist-sagan-recruitment
 
-## Data/Analytics (25 open roles)
+## Data/Analytics (26 open roles)
+
+### Product Development Manager - AdTech
+- **Company:** TradeTracker
+- **Salary:** $30,000 – $50,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-09
+- **View Job:** https://globalcaribbeans.com/#card-product-development-manager-adtech-tradetracker
 
 ### Marketing Analyst, New Business and M&A
 - **Company:** Toptal
@@ -1047,6 +1054,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Online Marketing (42 open roles)
 
+### Head of Product Marketing & Growth
+- **Company:** Defuse Labs
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-09
+- **View Job:** https://globalcaribbeans.com/#card-head-of-product-marketing-growth-defuse-labs
+
 ### Social Media Content Manager | Scale Army
 - **Company:** Scale Army
 - **Salary:** Not Disclosed
@@ -1060,13 +1074,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-senior-programmatic-media-buyer-kajae-3
-
-### Social Media & Content Creation Specialist (Video, CRM & Admin Support)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-07
-- **View Job:** https://globalcaribbeans.com/#card-social-media-content-creation-specialist-video-crm-admin-support-bruntwork
 
 ### AI-Native Growth Marketing Strategist | Scale Army
 - **Company:** Scale Army
@@ -1343,6 +1350,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (41 open roles)
 
+### Bilingual Spanish Property Management Coordinator - Rentvine
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-09
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-spanish-property-management-coordinator-rentvine-bruntwork
+
 ### Pricing & Margin Analyst
 - **Company:** Near
 - **Salary:** Not Disclosed
@@ -1363,14 +1378,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-65718080326-client-sales-assistant-somewhere
-
-### Bilingual Dispatch Agent (Spanish/English) - Amazon DSP
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-07
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-dispatch-agent-spanish-english-amazon-dsp-bruntwork-2
 
 ### Senior Manager / Director, Payer Enrollment Operations
 - **Company:** Medallion
@@ -1631,7 +1638,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-09
 - **View Job:** https://globalcaribbeans.com/#card-targeting-analyst-new-era-technology
 
-## Other (37 open roles)
+## Other (36 open roles)
 
 ### English to Estonian Review Lead for UI, Marketing & Product Content
 - **Company:** Welo Data
@@ -1646,13 +1653,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-hyperledger-fabric-developer-remote-work-bairesdev-2
-
-### Impact Producer
-- **Company:** ElevenLabs
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-impact-producer-elevenlabs
 
 ### Bilingual E-Commerce Operations Representative (Spanish/English)
 - **Company:** BruntWork
@@ -2186,7 +2186,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (53 open roles)
+## Sales (54 open roles)
+
+### Sales Consultant
+- **Company:** TradeTracker
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-09
+- **View Job:** https://globalcaribbeans.com/#card-sales-consultant-tradetracker
 
 ### B2B Outbound Appointment Setter - SEO
 - **Company:** BruntWork
@@ -2560,7 +2567,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-sales-representative-somewhere-2
 
-## Software Development (96 open roles)
+## Software Development (97 open roles)
+
+### Cloud Platform Engineer
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-09
+- **View Job:** https://globalcaribbeans.com/#card-cloud-platform-engineer-supabase
 
 ### Staff Backend Engineer - Search Features & APIs (SABR)
 - **Company:** Constructor
