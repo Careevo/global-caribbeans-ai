@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-09T22:27:01Z
+last_updated: 2026-10-10T05:10:24Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**455 active remote jobs** as of 2026-10-09.
+**455 active remote jobs** as of 2026-10-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -368,7 +368,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-ar-ap-specialist-sagan-recruitment
 
-## Admin (13 open roles)
+## Admin (14 open roles)
+
+### Executive Assistant
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-10
+- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-somewhere
 
 ### Data Entry Specialist
 - **Company:** Somewhere
@@ -1610,7 +1617,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-11
 - **View Job:** https://globalcaribbeans.com/#card-dispatcher-sagan-recruitment
 
-## Other (36 open roles)
+## Other (35 open roles)
 
 ### English to Estonian Review Lead for UI, Marketing & Product Content
 - **Company:** Welo Data
@@ -1863,13 +1870,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-software-validation-specialist-somewhere
 
-### Rental Application Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-rental-application-coordinator-sagan-recruitment
-
 ## Project Management (28 open roles)
 
 ### Production Manager | Scale Army
@@ -2070,7 +2070,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-internal-auditor-canonical
 
-## Recruiting (12 open roles)
+## Recruiting (13 open roles)
+
+### Associate GTM Recruiter
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-10
+- **View Job:** https://globalcaribbeans.com/#card-associate-gtm-recruiter-constructor
 
 ### Recruiting Manager - Remote Work
 - **Company:** BairesDev
@@ -2158,7 +2165,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (56 open roles)
+## Sales (55 open roles)
+
+### Account Executive
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-09
+- **View Job:** https://globalcaribbeans.com/#card-account-executive-hire-with-near-2
 
 ### Sales Development Representative
 - **Company:** Hire With Near
@@ -2538,20 +2552,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-10
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-toptal
-
-### Inside Sales Executive
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** Remote
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-inside-sales-executive-sagan-recruitment
-
-### Sales Representative
-- **Company:** Somewhere
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-sales-representative-somewhere-2
 
 ## Software Development (99 open roles)
 
