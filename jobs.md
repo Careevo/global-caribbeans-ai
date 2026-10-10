@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-10T12:11:04Z
+last_updated: 2026-10-10T21:22:45Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**451 active remote jobs** as of 2026-10-10.
+**449 active remote jobs** as of 2026-10-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -855,7 +855,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-programmatic-media-buyer-kajae
 
-## Design and Creative (16 open roles)
+## Design and Creative (14 open roles)
 
 ### Content Designer
 - **Company:** Fueled
@@ -954,20 +954,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-b2b-graphic-designer-needed-emco
-
-### Senior Visual Designer - Search
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-visual-designer-search-new-era-technology
-
-### Senior Visual Designer, Profile/Account Hub
-- **Company:** New Era Technology
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-senior-visual-designer-profile-account-hub-new-era-technology
 
 ## IT/Engineering (1 open roles)
 
