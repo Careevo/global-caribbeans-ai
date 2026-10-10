@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-10T05:10:24Z
+last_updated: 2026-10-10T12:11:04Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**455 active remote jobs** as of 2026-10-10.
+**451 active remote jobs** as of 2026-10-10.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -86,7 +86,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-automation-integration-engineer-sagan-recruitment
 
-## Accounting/Bookkeeping (40 open roles)
+## Accounting/Bookkeeping (38 open roles)
 
 ### Junior Accountant – QuickBooks Online and Dext
 - **Company:** BruntWork
@@ -353,20 +353,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-construction-accountant-somewhere
-
-### Bookkeeper
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-sagan-recruitment
-
-### AR/AP Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-ar-ap-specialist-sagan-recruitment
 
 ## Admin (14 open roles)
 
@@ -1870,7 +1856,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-software-validation-specialist-somewhere
 
-## Project Management (28 open roles)
+## Project Management (27 open roles)
 
 ### Production Manager | Scale Army
 - **Company:** Scale Army
@@ -2063,13 +2049,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-12
 - **View Job:** https://globalcaribbeans.com/#card-unit-turn-project-coordinator-sagan-recruitment
 
-### Internal Auditor
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-internal-auditor-canonical
-
 ## Recruiting (13 open roles)
 
 ### Associate GTM Recruiter
@@ -2165,7 +2144,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (55 open roles)
+## Sales (54 open roles)
 
 ### Account Executive
 - **Company:** Hire With Near
@@ -2545,13 +2524,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-workbetternow
-
-### Account Executive
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-10
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-toptal
 
 ## Software Development (99 open roles)
 
