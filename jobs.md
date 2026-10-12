@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-11T21:40:53Z
+last_updated: 2026-10-12T05:14:58Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**447 active remote jobs** as of 2026-10-11.
+**450 active remote jobs** as of 2026-10-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -86,7 +86,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-automation-integration-engineer-sagan-recruitment
 
-## Accounting/Bookkeeping (38 open roles)
+## Accounting/Bookkeeping (39 open roles)
+
+### Senior AP/AR Bookkeeper (QuickBooks Desktop)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-11
+- **View Job:** https://globalcaribbeans.com/#card-senior-ap-ar-bookkeeper-quickbooks-desktop-bruntwork
 
 ### Junior Accountant – QuickBooks Online and Dext
 - **Company:** BruntWork
@@ -988,7 +995,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (45 open roles)
+## Online Marketing (46 open roles)
+
+### Marketing Tracking Specialist
+- **Company:** Hire With Near
+- **Salary:** $2,000 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-11
+- **View Job:** https://globalcaribbeans.com/#card-marketing-tracking-specialist-hire-with-near
 
 ### Graphic Design & Social Media Specialist | Scale Army
 - **Company:** Scale Army
@@ -1305,7 +1319,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-product-marketing-associate-rewards-sezzle
 
-## Operations (38 open roles)
+## Operations (39 open roles)
+
+### Pricing & Margin Analyst
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-11
+- **View Job:** https://globalcaribbeans.com/#card-pricing-margin-analyst-hire-with-near
 
 ### Learning Operations Specialist
 - **Company:** Virtual Latinos
