@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-12T05:14:58Z
+last_updated: 2026-10-12T14:54:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**450 active remote jobs** as of 2026-10-12.
+**443 active remote jobs** as of 2026-10-12.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -361,7 +361,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-construction-accountant-somewhere
 
-## Admin (14 open roles)
+## Admin (17 open roles)
+
+### Administrative Assistant
+- **Company:** Somewhere
+- **Salary:** $1,000 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-somewhere-2
+
+### Office Coordinator
+- **Company:** Norma Wealth
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-office-coordinator-norma-wealth
+
+### Leasing Administrative Assistant (Buildium/AppFolio)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-leasing-administrative-assistant-buildium-appfolio-bruntwork
 
 ### Executive Assistant
 - **Company:** Somewhere
@@ -462,7 +483,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-somewhere
 
-## Customer support (31 open roles)
+## Customer support (30 open roles)
+
+### Customer Service Representative
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-somewhere-4
+
+### Client Support & Ads Specialist (GoHighLevel)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-client-support-ads-specialist-gohighlevel-bruntwork
 
 ### Customer Service Assistant
 - **Company:** Near
@@ -470,14 +505,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-customer-service-assistant-near
-
-### Bilingual Customer Service Representative (Home Improvement)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-customer-service-representative-home-improvement-bruntwork
 
 ### Customer Service Representative
 - **Company:** Virtual Latinos
@@ -571,13 +598,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-09-30
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-customer-service-representative-english-spanish-sagan-recruitment
-
-### Customer Support Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-28
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-sagan-recruitment
 
 ### Client Account Coordinators — Software, E-commerce and Agency Experience — Remote
 - **Company:** Sagan Recruitment
@@ -677,13 +697,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-customer-support-representative-hire-with-near
-
-### Client Support Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,300 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-12
-- **View Job:** https://globalcaribbeans.com/#card-client-support-specialist-sagan-recruitment
 
 ## Data/Analytics (25 open roles)
 
@@ -995,7 +1008,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (46 open roles)
+## Online Marketing (47 open roles)
+
+### Growth Marketer- Reception.ai
+- **Company:** ElevenLabs
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-growth-marketer-reception-ai-elevenlabs
 
 ### Marketing Tracking Specialist
 - **Company:** Hire With Near
@@ -1321,6 +1341,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Operations (39 open roles)
 
+### Bilingual Dispatch Agent (Spanish/English) - Amazon DSP
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-dispatch-agent-spanish-english-amazon-dsp-bruntwork-3
+
 ### Pricing & Margin Analyst
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -1441,13 +1469,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-28
 - **View Job:** https://globalcaribbeans.com/#card-construction-assistant-latino-legends
-
-### Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-28
-- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-sagan-recruitment
 
 ### Operations, Dispatch and Purchasing for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -1596,7 +1617,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-sales-qa-audit-associate-sagan-recruitment
 
-## Other (35 open roles)
+## Other (33 open roles)
+
+### Business Process Analyst - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-business-process-analyst-remote-work-bairesdev
+
+### Product Marketing - ElevenAPI
+- **Company:** ElevenLabs
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-product-marketing-elevenapi-elevenlabs
 
 ### English to Estonian Review Lead for UI, Marketing & Product Content
 - **Company:** Welo Data
@@ -1612,34 +1647,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-hyperledger-fabric-developer-remote-work-bairesdev-2
 
-### Bilingual E-Commerce Operations Representative (Spanish/English)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-e-commerce-operations-representative-spanish-english-bruntwork
-
-### Tenant Relations & Property Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-tenant-relations-property-coordinator-bruntwork
-
 ### Construction Project Administrator
 - **Company:** Remotely Talents (client confidential)
 - **Salary:** Not Disclosed
 - **Location:** Remote
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-construction-project-administrator-remotely-talents-client-confidential
-
-### Candidate Sourcing & Outreach Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-07
-- **View Job:** https://globalcaribbeans.com/#card-candidate-sourcing-outreach-specialist-bruntwork
 
 ### Electrical Substation Estimator
 - **Company:** Sagan Recruitment
@@ -1675,13 +1688,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-06
 - **View Job:** https://globalcaribbeans.com/#card-manager-engineering-identity-camunda
-
-### Cybersecurity Architect - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-06
-- **View Job:** https://globalcaribbeans.com/#card-cybersecurity-architect-remote-work-bairesdev
 
 ### Order Entry Specialist
 - **Company:** Near
@@ -1849,7 +1855,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-software-validation-specialist-somewhere
 
-## Project Management (27 open roles)
+## Project Management (25 open roles)
 
 ### Production Manager | Scale Army
 - **Company:** Scale Army
@@ -2028,21 +2034,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-64887132328-assistant-project-manager-project-assistant-commercial-painting-some
 
-### Maintenance Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,800 – $2,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-12
-- **View Job:** https://globalcaribbeans.com/#card-maintenance-coordinator-sagan-recruitment
-
-### Unit Turn Project Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 – $3,000 / month
-- **Location:** Remote
-- **Posted:** 2026-09-12
-- **View Job:** https://globalcaribbeans.com/#card-unit-turn-project-coordinator-sagan-recruitment
-
-## Recruiting (13 open roles)
+## Recruiting (12 open roles)
 
 ### Associate GTM Recruiter
 - **Company:** Constructor
@@ -2079,13 +2071,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiting-partner-classdojo
-
-### Recruiter
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-28
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-sagan-recruitment
 
 ### Recruiting and People Operations for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
@@ -2137,7 +2122,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (54 open roles)
+## Sales (51 open roles)
 
 ### Account Executive
 - **Company:** Hire With Near
@@ -2174,34 +2159,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-sales-consultant-tradetracker
 
-### B2B Outbound Appointment Setter - SEO
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-09
-- **View Job:** https://globalcaribbeans.com/#card-b2b-outbound-appointment-setter-seo-bruntwork
-
 ### Junior to Mid SDR
 - **Company:** Hire With Near
 - **Salary:** $1,500 – $2,500 / month
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-junior-to-mid-sdr-hire-with-near
-
-### Spanish Bilingual Outbound Appointment Setter – Home Improvement
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-outbound-appointment-setter-home-improvement-bruntwork
-
-### B2B Sales Development Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-07
-- **View Job:** https://globalcaribbeans.com/#card-b2b-sales-development-representative-bruntwork
 
 ### Corporate Account Executive III - NA
 - **Company:** Camunda
@@ -2518,7 +2481,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-account-executive-workbetternow
 
-## Software Development (99 open roles)
+## Software Development (97 open roles)
+
+### Staff Software Engineer
+- **Company:** B12
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-12
+- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-b12-2
 
 ### QA Engineer
 - **Company:** Forward%20Financing
@@ -2576,26 +2546,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-senior-fullstack-java-developer-near
 
-### QA Lead
-- **Company:** Trust Wallet
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-qa-lead-trust-wallet
-
 ### Full-stack Engineer - Creative Agents
 - **Company:** ElevenLabs
 - **Salary:** Not Disclosed
 - **Location:** Remote
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-creative-agents-elevenlabs
-
-### Computer Scientist - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-07
-- **View Job:** https://globalcaribbeans.com/#card-computer-scientist-remote-work-bairesdev-3
 
 ### Full-Stack Engineer (Backend Leaning) - Creative Agents
 - **Company:** ElevenLabs
@@ -3205,10 +3161,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-chief-technology-officer-toptal
-
-### Principal Infrastructure Engineer
-- **Company:** Sezzle
-- **Salary:** $12,500 – $20,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-12
-- **View Job:** https://globalcaribbeans.com/#card-principal-infrastructure-engineer-sezzle
