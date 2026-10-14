@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-14T04:15:49Z
+last_updated: 2026-10-14T11:30:05Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**481 active remote jobs** as of 2026-10-14.
+**485 active remote jobs** as of 2026-10-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -403,7 +403,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-construction-accountant-somewhere
 
-## Admin (21 open roles)
+## Admin (22 open roles)
+
+### Spanish Bilingual Personal Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-personal-assistant-bruntwork
 
 ### Remote Office Manager – Plumbing & Heating (Housecall Pro)
 - **Company:** Offshore Launch
@@ -747,7 +755,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-customer-support-representative-hire-with-near
 
-## Data/Analytics (27 open roles)
+## Data/Analytics (28 open roles)
+
+### Marketplace Operations & Experimentation Specialist
+- **Company:** Sezzle
+- **Salary:** $2,000 – $2,666 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-marketplace-operations-experimentation-specialist-sezzle
 
 ### Data Analyst
 - **Company:** Remote Leverage
@@ -1099,7 +1114,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (52 open roles)
+## Online Marketing (53 open roles)
+
+### Marketing Copywriter
+- **Company:** Codekeeper
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-marketing-copywriter-codekeeper
 
 ### Growth Specialist
 - **Company:** Codekeeper
@@ -1465,7 +1487,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-product-marketing-associate-rewards-sezzle
 
-## Operations (45 open roles)
+## Operations (44 open roles)
 
 ### Remote Office Manager / Dispatcher – Plumbing Company (FieldPulse, QuickBooks)
 - **Company:** Offshore Launch
@@ -1664,13 +1686,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-dispatch-coordinator-home-services-remote-talent-pool-sagan-recruitment
-
-### Head of SEO and AI Visibility
-- **Company:** Smallpdf
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-head-of-seo-and-ai-visibility-smallpdf
 
 ### Consumer Experience Lead, Retention Services
 - **Company:** New Era Technology
@@ -2049,7 +2064,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-software-validation-specialist-somewhere
 
-## Project Management (31 open roles)
+## Project Management (32 open roles)
+
+### Go-to-Market Project Manager | Marketing Strategy & Execution
+- **Company:** Codekeeper
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-go-to-market-project-manager-marketing-strategy-execution-codekeeper
 
 ### Program Manager
 - **Company:** Codekeeper
@@ -2731,7 +2753,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-sales-lead-generation-specialist-somewhere
 
-## Software Development (99 open roles)
+## Software Development (100 open roles)
+
+### Senior Software Engineer, Security Platform
+- **Company:** Sezzle
+- **Salary:** $5,000 – $9,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-security-platform-sezzle
 
 ### Staff Fullstack Engineer
 - **Company:** Alpaca
