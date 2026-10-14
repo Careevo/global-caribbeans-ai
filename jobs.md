@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-13T22:26:43Z
+last_updated: 2026-10-14T04:15:49Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**468 active remote jobs** as of 2026-10-13.
+**481 active remote jobs** as of 2026-10-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -403,7 +403,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-construction-accountant-somewhere
 
-## Admin (20 open roles)
+## Admin (21 open roles)
+
+### Remote Office Manager – Plumbing & Heating (Housecall Pro)
+- **Company:** Offshore Launch
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-remote-office-manager-plumbing-heating-housecall-pro-offshore-launch
 
 ### Courier/Office Assistant
 - **Company:** PricewaterhouseCoopers
@@ -931,7 +938,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-programmatic-media-buyer-kajae
 
-## Design and Creative (17 open roles)
+## Design and Creative (18 open roles)
+
+### Digital Product Designer
+- **Company:** Codekeeper
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-digital-product-designer-codekeeper
 
 ### Marketing Materials Designer
 - **Company:** GCNY Marketing
@@ -1085,7 +1099,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (51 open roles)
+## Online Marketing (52 open roles)
+
+### Growth Specialist
+- **Company:** Codekeeper
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-13
+- **View Job:** https://globalcaribbeans.com/#card-growth-specialist-codekeeper
 
 ### Head of Growth | Scale Army
 - **Company:** Scale Army
@@ -1444,7 +1465,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-product-marketing-associate-rewards-sezzle
 
-## Operations (44 open roles)
+## Operations (45 open roles)
+
+### Remote Office Manager / Dispatcher – Plumbing Company (FieldPulse, QuickBooks)
+- **Company:** Offshore Launch
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-remote-office-manager-dispatcher-plumbing-company-fieldpulse-quickbooks-offshore
+
+### HR Talent Coordinator
+- **Company:** Codekeeper
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-13
+- **View Job:** https://globalcaribbeans.com/#card-hr-talent-coordinator-codekeeper
 
 ### Construction Operations & JobTread Team Lead – US Market
 - **Company:** BruntWork
@@ -1510,14 +1545,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-learning-operations-specialist-virtual-latinos
-
-### Bilingual Spanish Property Management Coordinator - Rentvine
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-09
-- **View Job:** https://globalcaribbeans.com/#card-bilingual-spanish-property-management-coordinator-rentvine-bruntwork
 
 ### Pricing & Margin Analyst
 - **Company:** Near
@@ -1757,7 +1784,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-sales-qa-audit-associate-sagan-recruitment
 
-## Other (32 open roles)
+## Other (37 open roles)
+
+### Research Director, AI Economics
+- **Company:** Athyna
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-research-director-ai-economics-athyna
+
+### Boomi Integration Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-13
+- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-engineer-remote-work-bairesdev-6
+
+### Boomi Integration Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-13
+- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-engineer-remote-work-bairesdev-5
+
+### Boomi Integration Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-13
+- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-developer-remote-work-bairesdev
+
+### Boomi Integration Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-13
+- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-engineer-remote-work-bairesdev-4
 
 ### Bilingual Lease & Collections Administrator (AppFolio)
 - **Company:** BruntWork
@@ -1987,7 +2049,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-14
 - **View Job:** https://globalcaribbeans.com/#card-software-validation-specialist-somewhere
 
-## Project Management (30 open roles)
+## Project Management (31 open roles)
+
+### Program Manager
+- **Company:** Codekeeper
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-program-manager-codekeeper
 
 ### Video Production Project Manager
 - **Company:** Kajae
@@ -2275,7 +2344,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (54 open roles)
+## Sales (55 open roles)
+
+### Business Development Representative
+- **Company:** Codekeeper
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-codekeeper
 
 ### Appointment Setter | Scale Army
 - **Company:** Scale Army
@@ -2655,7 +2731,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-sales-lead-generation-specialist-somewhere
 
-## Software Development (97 open roles)
+## Software Development (99 open roles)
+
+### Staff Fullstack Engineer
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-staff-fullstack-engineer-alpaca
+
+### Senior Security Engineer, Detection & Response
+- **Company:** Sezzle
+- **Salary:** $5,000 – $9,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-security-engineer-detection-response-sezzle
 
 ### Platform Engineer - Compute
 - **Company:** Supabase
