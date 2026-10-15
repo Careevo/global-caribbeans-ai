@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-15T03:58:25Z
+last_updated: 2026-10-15T11:07:33Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**486 active remote jobs** as of 2026-10-15.
+**491 active remote jobs** as of 2026-10-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1145,6 +1145,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Online Marketing (49 open roles)
 
+### Content & Social Media Manager | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-content-social-media-manager-scale-army-scale-army
+
 ### Senior Performance & Growth Marketing Manager
 - **Company:** Near
 - **Salary:** Not Disclosed
@@ -1214,13 +1221,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-12
 - **View Job:** https://globalcaribbeans.com/#card-global-events-lead-elevenlabs
-
-### Growth Marketer- Reception.ai
-- **Company:** ElevenLabs
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-growth-marketer-reception-ai-elevenlabs
 
 ### Marketing Tracking Specialist
 - **Company:** Hire With Near
@@ -1488,7 +1488,23 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-15
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-and-copywriter-somewhere
 
-## Operations (41 open roles)
+## Operations (43 open roles)
+
+### Bilingual Property Management Assistant (English/Spanish)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-assistant-english-spanish-bruntwork
+
+### Bilingual Driver Recruitment & Onboarding Specialist (English/Spanish)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-driver-recruitment-onboarding-specialist-english-spanish-bruntwork
 
 ### Sales Operations Associate
 - **Company:** Hire With Near
@@ -2057,7 +2073,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-japanese-sports-localization-specialist-football-welo-data
 
-## Project Management (29 open roles)
+## Project Management (30 open roles)
+
+### Project Management Officer (PMO) - Web3
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-project-management-officer-pmo-web3-trust-wallet
 
 ### Go-to-Market Project Manager | Marketing Strategy & Execution
 - **Company:** Codekeeper
@@ -2264,7 +2287,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-64887132328-assistant-project-manager-project-assistant-commercial-painting-some
 
-## Recruiting (9 open roles)
+## Recruiting (10 open roles)
+
+### GTM Recruiter
+- **Company:** AssemblyAI
+- **Salary:** $120,000 – $140,000 / year
+- **Location:** Remote
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-gtm-recruiter-assemblyai
 
 ### Associate GTM Recruiter
 - **Company:** Constructor
@@ -2331,7 +2361,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (58 open roles)
+## Sales (59 open roles)
+
+### B2C Dental Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-b2c-dental-appointment-setter-bruntwork
 
 ### Meta Ads & Lead Generation Specialist (Video Editing & Landing Pages)
 - **Company:** BruntWork
