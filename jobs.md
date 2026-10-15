@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-15T16:38:30Z
+last_updated: 2026-10-15T21:07:43Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**487 active remote jobs** as of 2026-10-15.
+**492 active remote jobs** as of 2026-10-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -107,7 +107,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-automation-integration-engineer-sagan-recruitment
 
-## Accounting/Bookkeeping (40 open roles)
+## Accounting/Bookkeeping (41 open roles)
+
+### Accountant
+- **Company:** Near
+- **Salary:** $2,200 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-accountant-near
 
 ### Senior Accountant
 - **Company:** Hire With Near
@@ -389,7 +396,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
 
-## Admin (21 open roles)
+## Admin (23 open roles)
+
+### Virtual Assistant
+- **Company:** Somewhere
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-virtual-assistant-somewhere
+
+### Executive Administrative Assistant
+- **Company:** WorkBetterNow
+- **Salary:** $1,125 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-executive-administrative-assistant-workbetternow
 
 ### Administrative Assistant
 - **Company:** Virtual Latinos
@@ -541,7 +562,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-senior-executive-assistant-somewhere
 
-## Customer support (26 open roles)
+## Customer support (27 open roles)
+
+### (fluent English & Spanish) Customer Support Consultant, Night Shift
+- **Company:** SupportYourApp
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-fluent-english-spanish-customer-support-consultant-night-shift-supportyourapp
 
 ### Bilingual Customer Support Specialist
 - **Company:** BruntWork
@@ -939,7 +968,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-programmatic-media-buyer-kajae
 
-## Design and Creative (21 open roles)
+## Design and Creative (23 open roles)
+
+### Senior Graphic Designer | Part-time | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-senior-graphic-designer-part-time-scale-army-scale-army
+
+### Designer
+- **Company:** Near
+- **Salary:** $30,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-designer-near
 
 ### Web Designer
 - **Company:** Virtual Latinos
@@ -1122,6 +1165,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
 ## Online Marketing (48 open roles)
+
+### Growth Marketing Manager (CPG Industry) | Scale Army
+- **Company:** Scale Army
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-manager-cpg-industry-scale-army-scale-army
 
 ### Content & Social Media Manager | Scale Army
 - **Company:** Scale Army
@@ -1452,14 +1502,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-client-success-manager-sagan-recruitment
 
-### Social Media Manager and Copywriter
-- **Company:** Somewhere
+## Operations (43 open roles)
+
+### Property Management Assistant – Tenant Support & Scheduling
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-15
-- **View Job:** https://globalcaribbeans.com/#card-social-media-manager-and-copywriter-somewhere
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-property-management-assistant-tenant-support-scheduling-bruntwork
 
-## Operations (42 open roles)
+### Senior Engineering Operations Manager
+- **Company:** Camunda
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-senior-engineering-operations-manager-camunda
 
 ### Bilingual Property Management Assistant (English/Spanish)
 - **Company:** BruntWork
@@ -1497,13 +1555,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-hr-talent-coordinator-codekeeper
-
-### Construction Operations & JobTread Team Lead – US Market
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-construction-operations-jobtread-team-lead-us-market-bruntwork
 
 ### Automotive Sourcing & Auction Analyst
 - **Company:** BruntWork
@@ -1760,6 +1811,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (38 open roles)
 
+### Flutter Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-15
+- **View Job:** https://globalcaribbeans.com/#card-flutter-developer-remote-work-bairesdev
+
 ### HVAC Estimator
 - **Company:** Virtual Latinos
 - **Salary:** Not Disclosed
@@ -1994,13 +2052,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-account-development-representative-future-openings-talent-pool-camunda
 
-### Treasury Operations Senior Specialist
-- **Company:** Fresenius Medical Care
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-treasury-operations-senior-specialist-fresenius-medical-care
-
 ### Finance Expert
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -2030,7 +2081,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-japanese-sports-localization-specialist-football-welo-data
 
-## Project Management (31 open roles)
+## Project Management (30 open roles)
 
 ### Implementation Project Coordinator
 - **Company:** Near
@@ -2229,14 +2280,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-creative-operations-coordinator-scale-army-scale-army
 
-### Product Owner / Product Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-product-owner-product-manager-scale-army-scale-army
-
 ### Product Manager - Derivatives
 - **Company:** Alpaca
 - **Salary:** Not Disclosed
@@ -2325,7 +2368,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (60 open roles)
+## Sales (59 open roles)
 
 ### Enterprise Business Development Representative
 - **Company:** Superside
@@ -2620,13 +2663,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-sales-account-executive-zoho-scale-army-scale-army
-
-### Technical Account Manager | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-technical-account-manager-scale-army-scale-army
 
 ### Technical Sales Manager | Scale Army
 - **Company:** Scale Army
