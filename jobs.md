@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-16T03:55:05Z
+last_updated: 2026-10-16T11:02:32Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**490 active remote jobs** as of 2026-10-16.
+**492 active remote jobs** as of 2026-10-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (13 open roles)
+## AI and Automation (14 open roles)
+
+### Marketing Automation Engineer – Customer Data & Tag Management
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-marketing-automation-engineer-customer-data-tag-management-bruntwork
 
 ### Python AI Engineer - Remote Work
 - **Company:** BairesDev
@@ -107,7 +114,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-automation-integration-engineer-sagan-recruitment
 
-## Accounting/Bookkeeping (42 open roles)
+## Accounting/Bookkeeping (43 open roles)
+
+### Senior Accounts Payable Specialist (NetSuite | Coupa | Navan)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-accounts-payable-specialist-netsuite-coupa-navan-bruntwork
 
 ### Financial Analyst
 - **Company:** Hire With Near
@@ -403,7 +417,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
 
-## Admin (22 open roles)
+## Admin (23 open roles)
+
+### US Federal Civil Litigation Research & Legal Support Analyst
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-us-federal-civil-litigation-research-legal-support-analyst-bruntwork-2
 
 ### Executive Assistant (JobNimbus)
 - **Company:** BruntWork
@@ -561,7 +582,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-somewhere
 
-## Customer support (27 open roles)
+## Customer support (26 open roles)
 
 ### Manager, Customer Success Engineering
 - **Company:** GitLab
@@ -569,14 +590,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-manager-customer-success-engineering-gitlab
-
-### (fluent English & Spanish) Customer Support Consultant, Night Shift
-- **Company:** SupportYourApp
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-fluent-english-spanish-customer-support-consultant-night-shift-supportyourapp
 
 ### Bilingual Customer Support Specialist
 - **Company:** BruntWork
@@ -967,7 +980,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-senior-programmatic-media-buyer-kajae
 
-## Design and Creative (25 open roles)
+## Design and Creative (24 open roles)
 
 ### Short-Form Video Editor & Social Media Specialist
 - **Company:** BruntWork
@@ -1137,13 +1150,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-senior-graphic-designer-somewhere
 
-### UI/UX Designer
-- **Company:** Aurify
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-16
-- **View Job:** https://globalcaribbeans.com/#card-ui-ux-designer-aurify
-
 ## IT/Engineering (1 open roles)
 
 ### Tier 3 IT Engineer
@@ -1178,6 +1184,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
 ## Online Marketing (48 open roles)
+
+### Social Media Strategist - Wellness & Medical Spa
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-social-media-strategist-wellness-medical-spa-bruntwork
 
 ### Growth Marketing Manager (CPG Industry) | Scale Army
 - **Company:** Scale Army
@@ -1451,13 +1464,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-scale-army-scale-army-2
-
-### Marketing & Growth Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-marketing-growth-specialist-scale-army-scale-army
 
 ### Full-Cycle Marketing Generalist | Scale Army
 - **Company:** Scale Army
@@ -1807,7 +1813,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-drayage-operations-coordinator-somewhere
 
-## Other (39 open roles)
+## Other (40 open roles)
+
+### Legal Intake Specialist (Veterans)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-legal-intake-specialist-veterans-bruntwork
 
 ### Vice President Research, AI Strategy and Planning
 - **Company:** Athyna
