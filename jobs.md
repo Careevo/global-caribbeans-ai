@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-16T11:02:32Z
+last_updated: 2026-10-16T16:21:47Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**492 active remote jobs** as of 2026-10-16.
+**493 active remote jobs** as of 2026-10-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -114,7 +114,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-automation-integration-engineer-sagan-recruitment
 
-## Accounting/Bookkeeping (43 open roles)
+## Accounting/Bookkeeping (44 open roles)
+
+### Revenue Accountant
+- **Company:** Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-revenue-accountant-near
 
 ### Senior Accounts Payable Specialist (NetSuite | Coupa | Navan)
 - **Company:** BruntWork
@@ -1521,7 +1528,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-client-success-manager-sagan-recruitment
 
-## Operations (41 open roles)
+## Operations (42 open roles)
+
+### Sales Operations & Retail Support Coordinator (NetSuite)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-sales-operations-retail-support-coordinator-netsuite-bruntwork-2
 
 ### Property Management Assistant – Tenant Support & Scheduling
 - **Company:** BruntWork
@@ -1815,6 +1829,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Other (40 open roles)
 
+### Entry-Level Operations Engineer
+- **Company:** Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-entry-level-operations-engineer-near
+
 ### Legal Intake Specialist (Veterans)
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -2090,14 +2111,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-18
 - **View Job:** https://globalcaribbeans.com/#card-management-consulting-matcher-toptal
-
-### Japanese Sports Localization Specialist (Football)
-- **Company:** Welo Data
-- **Salary:** $25 – $31 / hour
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-16
-- **View Job:** https://globalcaribbeans.com/#card-japanese-sports-localization-specialist-football-welo-data
 
 ## Project Management (30 open roles)
 
@@ -2386,7 +2399,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-16
 - **View Job:** https://globalcaribbeans.com/#card-recruiting-intern-think-academy-us
 
-## Sales (58 open roles)
+## Sales (57 open roles)
 
 ### Account Executive - Enterprise - Sports Specialist
 - **Company:** ElevenLabs
@@ -2633,13 +2646,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-technical-account-management-tam-leader-supabase
 
-### Customer Success Manager - AMER
-- **Company:** Camunda
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-amer-camunda
-
 ### Director, Solutions and Product Marketing
 - **Company:** Camunda
 - **Salary:** Not Disclosed
@@ -2795,6 +2801,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-client-advisor-toptal
 
 ## Software Development (101 open roles)
+
+### Full-Stack Platform Engineer
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-10-16
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-platform-engineer-alpaca
 
 ### Principal Backend Architect
 - **Company:** Latino Legends
@@ -3495,10 +3508,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-core-trading-alpaca
-
-### Senior IoT Software Engineer - Remote Work | REF#302335
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-16
-- **View Job:** https://globalcaribbeans.com/#card-senior-iot-software-engineer-remote-work-ref-302335-bairesdev
