@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-17T10:23:17Z
+last_updated: 2026-10-17T15:16:22Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**486 active remote jobs** as of 2026-10-17.
+**483 active remote jobs** as of 2026-10-17.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -410,7 +410,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
 
-## Admin (22 open roles)
+## Admin (21 open roles)
 
 ### US Federal Civil Litigation Research & Legal Support Analyst
 - **Company:** BruntWork
@@ -560,13 +560,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-admin-assistant-junior-processor-somewhere
-
-### Administrative Assistant
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-somewhere
 
 ## Customer support (25 open roles)
 
@@ -1141,7 +1134,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (48 open roles)
+## Online Marketing (47 open roles)
 
 ### Marketing Assistant
 - **Company:** Remote Leverage
@@ -1471,13 +1464,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-digital-content-email-specialist-somewhere
-
-### Paid Media & Growth Marketing Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $2,300 / month
-- **Location:** Remote
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-paid-media-growth-marketing-specialist-sagan-recruitment
 
 ## Operations (44 open roles)
 
@@ -2341,7 +2327,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
 
-## Sales (54 open roles)
+## Sales (53 open roles)
 
 ### Integrated Campaign Manager
 - **Company:** Oyster HR
@@ -2713,13 +2699,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-business-development-specialist-virtual-latinos
-
-### Inside Sales Representative
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-hire-with-near-3
 
 ## Software Development (105 open roles)
 
