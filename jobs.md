@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-17T03:45:03Z
+last_updated: 2026-10-17T10:23:17Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**490 active remote jobs** as of 2026-10-17.
+**486 active remote jobs** as of 2026-10-17.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (15 open roles)
+## AI and Automation (14 open roles)
 
 ### Full-stack Python AI Engineer - Remote Work
 - **Company:** BairesDev
@@ -113,13 +113,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-engineer-tensorops-3
-
-### Automation & Integration Engineer
-- **Company:** Sagan Recruitment
-- **Salary:** $3,500 / month
-- **Location:** Remote
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-automation-integration-engineer-sagan-recruitment
 
 ## Accounting/Bookkeeping (42 open roles)
 
@@ -1148,7 +1141,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (49 open roles)
+## Online Marketing (48 open roles)
 
 ### Marketing Assistant
 - **Company:** Remote Leverage
@@ -1485,13 +1478,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-paid-media-growth-marketing-specialist-sagan-recruitment
-
-### Client Success Manager
-- **Company:** Sagan Recruitment
-- **Salary:** $2,500 / month
-- **Location:** Remote
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-client-success-manager-sagan-recruitment
 
 ## Operations (44 open roles)
 
@@ -2355,7 +2341,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
 
-## Sales (55 open roles)
+## Sales (54 open roles)
 
 ### Integrated Campaign Manager
 - **Company:** Oyster HR
@@ -2735,14 +2721,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-hire-with-near-3
 
-### Inside Sales & Quote Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,300 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-inside-sales-quote-specialist-sagan-recruitment
-
-## Software Development (106 open roles)
+## Software Development (105 open roles)
 
 ### DevOps Engineer (Vac DST)
 - **Company:** Logos
@@ -3478,10 +3457,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-17
 - **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-backend-customer-io
-
-### Software Engineer - Core Trading
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-core-trading-alpaca
