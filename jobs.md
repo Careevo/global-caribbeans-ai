@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-18T03:51:16Z
+last_updated: 2026-10-18T10:40:46Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**479 active remote jobs** as of 2026-10-18.
+**478 active remote jobs** as of 2026-10-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1762,7 +1762,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-implementation-medallion
 
-## Other (39 open roles)
+## Other (38 open roles)
 
 ### Entry-Level Operations Engineer
 - **Company:** Near
@@ -2031,13 +2031,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-project-auditor-documentation-coordinator-sagan-recruitment
-
-### Management Consulting Matcher
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-18
-- **View Job:** https://globalcaribbeans.com/#card-management-consulting-matcher-toptal
 
 ## Project Management (29 open roles)
 
