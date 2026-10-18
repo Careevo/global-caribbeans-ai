@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-17T20:21:03Z
+last_updated: 2026-10-18T03:51:16Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**481 active remote jobs** as of 2026-10-17.
+**479 active remote jobs** as of 2026-10-18.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1449,7 +1449,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (45 open roles)
+## Operations (44 open roles)
 
 ### Chief Operations Officer
 - **Company:** Somewhere
@@ -1761,13 +1761,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-manager-implementation-medallion
-
-### Drayage Operations Coordinator
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-18
-- **View Job:** https://globalcaribbeans.com/#card-drayage-operations-coordinator-somewhere
 
 ## Other (39 open roles)
 
@@ -2318,7 +2311,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
 
-## Sales (53 open roles)
+## Sales (52 open roles)
 
 ### Integrated Campaign Manager
 - **Company:** Oyster HR
@@ -2683,13 +2676,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-call-booker-sales-oriented-csr-sagan-recruitment
-
-### Business Development Specialist
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-17
-- **View Job:** https://globalcaribbeans.com/#card-business-development-specialist-virtual-latinos
 
 ## Software Development (104 open roles)
 
