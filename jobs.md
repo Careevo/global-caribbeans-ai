@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-18T20:21:05Z
+last_updated: 2026-10-19T04:00:15Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**478 active remote jobs** as of 2026-10-18.
+**472 active remote jobs** as of 2026-10-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (14 open roles)
+## AI and Automation (13 open roles)
 
 ### Full-stack Python AI Engineer - Remote Work
 - **Company:** BairesDev
@@ -106,13 +106,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-operations-automation-manager-scale-army-scale-army
-
-### Mid/Senior AI Engineer
-- **Company:** TensorOps
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-mid-senior-ai-engineer-tensorops-3
 
 ## Accounting/Bookkeeping (42 open roles)
 
@@ -410,7 +403,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
 
-## Admin (21 open roles)
+## Admin (19 open roles)
 
 ### US Federal Civil Litigation Research & Legal Support Analyst
 - **Company:** BruntWork
@@ -490,13 +483,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-12
 - **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-somewhere-2
 
-### Office Coordinator
-- **Company:** Norma Wealth
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-office-coordinator-norma-wealth
-
 ### Executive Assistant
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
@@ -552,14 +538,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-sales-operations-coordinator-sagan-recruitment
-
-### Admin Assistant / Junior Processor
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-admin-assistant-junior-processor-somewhere
 
 ## Customer support (25 open roles)
 
@@ -1449,7 +1427,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (44 open roles)
+## Operations (43 open roles)
 
 ### Chief Operations Officer
 - **Company:** Somewhere
@@ -1755,13 +1733,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-servicetitan-administrator-sagan-recruitment
 
-### Senior Manager, Implementation
-- **Company:** Medallion
-- **Salary:** $165,000 – $210,000 / year
-- **Location:** Remote
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-manager-implementation-medallion
-
 ## Other (38 open roles)
 
 ### Entry-Level Operations Engineer
@@ -2032,7 +2003,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-project-auditor-documentation-coordinator-sagan-recruitment
 
-## Project Management (29 open roles)
+## Project Management (28 open roles)
 
 ### Implementation Project Coordinator
 - **Company:** Near
@@ -2230,13 +2201,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-creative-operations-coordinator-scale-army-scale-army
-
-### Product Manager - Derivatives
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-derivatives-alpaca
 
 ## Recruiting (9 open roles)
 
@@ -2670,7 +2634,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-19
 - **View Job:** https://globalcaribbeans.com/#card-call-booker-sales-oriented-csr-sagan-recruitment
 
-## Software Development (104 open roles)
+## Software Development (103 open roles)
 
 ### DevOps Engineer (Vac DST)
 - **Company:** Logos
@@ -3392,10 +3356,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-senior-shopify-developer-sanctuary-computer
-
-### Full Stack Web Engineer
-- **Company:** Fueled
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-web-engineer-fueled
