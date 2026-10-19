@@ -2,25 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-19T12:39:31Z
+last_updated: 2026-10-19T22:09:11Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**465 active remote jobs** as of 2026-10-19.
+**433 active remote jobs** as of 2026-10-19.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (13 open roles)
-
-### Full-stack Python AI Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-python-ai-engineer-remote-work-bairesdev
+## AI and Automation (8 open roles)
 
 ### Marketing Automation Engineer – Customer Data & Tag Management
 - **Company:** BruntWork
@@ -28,34 +21,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-marketing-automation-engineer-customer-data-tag-management-bruntwork
-
-### Python AI Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-python-ai-engineer-remote-work-bairesdev
-
-### Playwright Automation Engineer (JavaScript) - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-playwright-automation-engineer-javascript-remote-work-bairesdev
-
-### Playwright Automation Engineer (TypeScript) - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-playwright-automation-engineer-typescript-remote-work-bairesdev-2
-
-### Playwright Automation Engineer (TypeScript) - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-playwright-automation-engineer-typescript-remote-work-bairesdev
 
 ### Business Systems Automation Specialist | Scale Army
 - **Company:** Scale Army
@@ -107,7 +72,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-operations-automation-manager-scale-army-scale-army
 
-## Accounting/Bookkeeping (42 open roles)
+## Accounting/Bookkeeping (38 open roles)
 
 ### Revenue Accountant
 - **Company:** Near
@@ -186,13 +151,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-financial-planning-analysis-associate-remote-leverage-2
 
-### NetSuite Administrator - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-netsuite-administrator-remote-work-bairesdev
-
 ### Bookkeeper
 - **Company:** Kajae
 - **Salary:** Not Disclosed
@@ -213,13 +171,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-head-of-accounting-classdojo
-
-### Accountant & Financial Analyst (Work From Home)
-- **Company:** Persona
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-accountant-financial-analyst-work-from-home-persona-2
 
 ### Senior Accountant
 - **Company:** Latino Legends
@@ -368,13 +319,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-controller-sagan-recruitment
 
-### Accounting Manager
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-accounting-manager-hire-with-near
-
 ### Accountant (Staff & Senior)
 - **Company:** Sagan Recruitment
 - **Salary:** $1,200 – $3,500 / month
@@ -396,14 +340,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-accounts-receivable-analyst-sagan-recruitment
 
-### Accountant
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-accountant-hire-with-near
+## Admin (15 open roles)
 
-## Admin (19 open roles)
+### Executive Personal Assistant
+- **Company:** Puffy
+- **Salary:** $66,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-executive-personal-assistant-puffy
 
 ### US Federal Civil Litigation Research & Legal Support Analyst
 - **Company:** BruntWork
@@ -411,13 +355,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-us-federal-civil-litigation-research-legal-support-analyst-bruntwork-2
-
-### Executive Assistant (JobNimbus)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-jobnimbus-bruntwork
 
 ### Performance Management Assistant
 - **Company:** Hired Remoteli
@@ -462,40 +399,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-courier-office-assistant-pricewaterhousecoopers
 
-### Junior Data Entry - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-junior-data-entry-remote-work-bairesdev
-
-### Data Entry Specialist - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-data-entry-specialist-remote-work-bairesdev
-
-### Administrative Assistant
-- **Company:** Somewhere
-- **Salary:** $1,000 – $1,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-somewhere-2
-
 ### Executive Assistant
 - **Company:** Somewhere
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-10
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-somewhere
-
-### Data Entry Specialist
-- **Company:** Somewhere
-- **Salary:** $1,000 – $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-data-entry-specialist-somewhere-2
 
 ### Data Entry Associate (For Licensing)
 - **Company:** Hired Remoteli
@@ -539,7 +448,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-sales-operations-coordinator-sagan-recruitment
 
-## Customer support (25 open roles)
+## Customer support (24 open roles)
 
 ### Manager, Customer Success Engineering
 - **Company:** GitLab
@@ -569,13 +478,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-5
-
-### Customer Service Representative
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-somewhere-4
 
 ### Customer Service Assistant
 - **Company:** Near
@@ -718,14 +620,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-2
 
-## Data/Analytics (27 open roles)
+## Data/Analytics (25 open roles)
 
-### Snowflake Engineer - Remote Work
-- **Company:** BairesDev
+### Senior Data Engineer (Generalist, AI-native)
+- **Company:** Mappa
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-snowflake-engineer-remote-work-bairesdev
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-generalist-ai-native-mappa
 
 ### FinOps Engineer (Data)
 - **Company:** Supabase
@@ -747,20 +649,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-data-analyst-remote-leverage-3
-
-### Data Analyst - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-data-analyst-remote-work-bairesdev
-
-### Commercial Support Analyst - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-commercial-support-analyst-remote-work-bairesdev
 
 ### Product Development Manager - AdTech
 - **Company:** TradeTracker
@@ -909,7 +797,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-salesforce-administrator-hire-with-near
 
-## Design and Creative (23 open roles)
+## Design and Creative (26 open roles)
+
+### AI Image Designer
+- **Company:** Puffy
+- **Salary:** $80,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-ai-image-designer-puffy
+
+### CRO-Focused Web Designer
+- **Company:** Fuelerate
+- **Salary:** $1,800 – $2,300 / month
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-cro-focused-web-designer-fuelerate
+
+### Email Marketing Designer → CRO Designer
+- **Company:** Fuelerate
+- **Salary:** $1,500 – $2,000 / month
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-email-marketing-designer-cro-designer-fuelerate
+
+### AI Designer
+- **Company:** Puffy
+- **Salary:** $80,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-ai-designer-puffy
 
 ### Senior Video Editor & Motion Designer
 - **Company:** Hire With Near
@@ -1065,13 +981,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-sr-product-designer-consumer-mobile-jumpspeak
 
-### Production Designer
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-19
-- **View Job:** https://globalcaribbeans.com/#card-production-designer-hire-with-near
-
 ## Legal (3 open roles)
 
 ### Immigration Paralegal
@@ -1096,7 +1005,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (46 open roles)
+## Online Marketing (49 open roles)
+
+### PPC Specialist
+- **Company:** Puffy
+- **Salary:** $85,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-ppc-specialist-puffy
+
+### CRO Strategist
+- **Company:** Fuelerate
+- **Salary:** $34,000 – $45,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-cro-strategist-fuelerate
+
+### Marketing Manager, AI-First
+- **Company:** Puffy
+- **Salary:** $130,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-marketing-manager-ai-first-puffy
+
+### Website & Lifecycle Marketing Lead
+- **Company:** THE/STUDIO
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-website-lifecycle-marketing-lead-the-studio
 
 ### Marketing Assistant
 - **Company:** Remote Leverage
@@ -1139,13 +1076,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-performance-growth-marketing-manager-near
-
-### Marketing Specialist - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev-3
 
 ### Marketing Copywriter
 - **Company:** Codekeeper
@@ -1420,7 +1350,29 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (40 open roles)
+## Operations (41 open roles)
+
+### Media Operations Manager 2
+- **Company:** Athyna
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-media-operations-manager-2-athyna
+
+### Operations Lead
+- **Company:** Athyna
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-operations-lead-athyna
+
+### Supply Chain Coordinator (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-supply-chain-coordinator-work-from-home-persona
 
 ### Chief Operations Officer
 - **Company:** Somewhere
@@ -1515,20 +1467,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-property-manager-remote-leverage
-
-### Epicor Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-epicor-developer-remote-work-bairesdev
-
-### CCaaS Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-ccaas-engineer-remote-work-bairesdev-2
 
 ### Pricing & Margin Analyst
 - **Company:** Hire With Near
@@ -1705,7 +1643,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
 
-## Other (37 open roles)
+## Other (29 open roles)
+
+### Senior Technical Writer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-senior-technical-writer-remote-work-bairesdev
+
+### (English C2/Native) Inbound Call Agent
+- **Company:** SupportYourApp
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-english-c2-native-inbound-call-agent-supportyourapp
+
+### Platform Business Partner
+- **Company:** SafetyWing
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-platform-business-partner-safetywing
 
 ### Entry-Level Operations Engineer
 - **Company:** Near
@@ -1714,33 +1673,12 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-entry-level-operations-engineer-near
 
-### Legal Intake Specialist (Veterans)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-legal-intake-specialist-veterans-bruntwork
-
 ### Vice President Research, AI Strategy and Planning
 - **Company:** Athyna
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-vice-president-research-ai-strategy-and-planning-athyna
-
-### Flutter Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-flutter-developer-remote-work-bairesdev
-
-### HVAC Estimator
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-hvac-estimator-virtual-latinos
 
 ### Field Operations Engineer
 - **Company:** Hire With Near
@@ -1763,34 +1701,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-research-director-ai-economics-athyna
 
-### Boomi Integration Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-engineer-remote-work-bairesdev-6
-
-### Boomi Integration Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-engineer-remote-work-bairesdev-5
-
-### Boomi Integration Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-developer-remote-work-bairesdev
-
-### Boomi Integration Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-engineer-remote-work-bairesdev-4
-
 ### Intake Specialist
 - **Company:** Remote Leverage
 - **Salary:** $1,400 – $2,500 / month
@@ -1804,27 +1714,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-service-coordinator-workbetternow
-
-### Hyperledger Fabric Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-hyperledger-fabric-developer-remote-work-bairesdev-3
-
-### Cybersecurity Architect - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-cybersecurity-architect-remote-work-bairesdev-2
-
-### Business Process Analyst - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-business-process-analyst-remote-work-bairesdev
 
 ### Product Marketing - ElevenAPI
 - **Company:** ElevenLabs
@@ -1881,14 +1770,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-06
 - **View Job:** https://globalcaribbeans.com/#card-order-entry-specialist-near
-
-### Senior Sales Engineer
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-06
-- **View Job:** https://globalcaribbeans.com/#card-senior-sales-engineer-alpaca
 
 ### Director of Professional Services, WordPress VIP
 - **Company:** Automattic Careers
@@ -1968,7 +1849,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-finance-expert-hire-with-near
 
-## Project Management (28 open roles)
+## Project Management (29 open roles)
+
+### Shopify Project Manager
+- **Company:** Fuelerate
+- **Salary:** $2,000 – $2,500 / month
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-shopify-project-manager-fuelerate
 
 ### Implementation Project Coordinator
 - **Company:** Near
@@ -2235,6 +2123,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Sales (50 open roles)
 
+### Appointment Setter
+- **Company:** Hire With Near
+- **Salary:** $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-hire-with-near-2
+
 ### Integrated Campaign Manager
 - **Company:** Oyster HR
 - **Salary:** Not Disclosed
@@ -2283,13 +2178,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-appointment-setter-hire-with-near
-
-### Technical Manager - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-technical-manager-remote-work-bairesdev-3
 
 ### Business Development Representative
 - **Company:** Codekeeper
@@ -2585,7 +2473,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-65124266909-enterprise-sales-executive-account-executive-somewhere
 
-## Software Development (103 open roles)
+## Software Development (87 open roles)
+
+### Shopify Developer
+- **Company:** Fuelerate
+- **Salary:** $1,300 – $1,500 / month
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-shopify-developer-fuelerate
+
+### Haskell Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-haskell-engineer-remote-work-bairesdev-4
+
+### Software Engineer, AI Coding Tasks
+- **Company:** Askable
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-19
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-coding-tasks-askable
 
 ### DevOps Engineer (Vac DST)
 - **Company:** Logos
@@ -2600,13 +2509,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-devops-engineer-vac-dst-ift
-
-### Staffing Solution Architect - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-staffing-solution-architect-remote-work-bairesdev-2
 
 ### Integration Engineer (AMER)
 - **Company:** Constructor
@@ -2649,41 +2551,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-security-engineer-network-zero-trust-sezzle
-
-### Software Engineer (Redis) - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-redis-remote-work-bairesdev-2
-
-### Software Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-remote-work-bairesdev-4
-
-### Software Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-remote-work-bairesdev-3
-
-### Software Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-remote-work-bairesdev-2
-
-### Software Engineer - Remote work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-remote-work-bairesdev
 
 ### Full-Stack Engineer (Backend Leaning) - Payments Engineering
 - **Company:** ElevenLabs
@@ -2740,90 +2607,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-remote-leverage
-
-### Nuxt.js Frontend Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-nuxt-js-frontend-developer-remote-work-bairesdev-4
-
-### Nuxt.js Frontend Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-nuxt-js-frontend-developer-remote-work-bairesdev-3
-
-### Oracle DBA - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-oracle-dba-remote-work-bairesdev
-
-### Lead Security Engineer (Kubernetes) - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-lead-security-engineer-kubernetes-remote-work-bairesdev
-
-### MuleSoft Architect - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-mulesoft-architect-remote-work-bairesdev
-
-### Elixir Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-elixir-developer-remote-work-bairesdev-3
-
-### Django Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-django-developer-remote-work-bairesdev-2
-
-### Delphi Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-delphi-developer-remote-work-bairesdev-2
-
-### Golang Developer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-golang-developer-remote-work-bairesdev-2
-
-### Haskell Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-haskell-engineer-remote-work-bairesdev-3
-
-### CI/CD Engineer (Kubernetes) - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-ci-cd-engineer-kubernetes-remote-work-bairesdev
-
-### Clojure Full Stack Engineer - Remote Work
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-clojure-full-stack-engineer-remote-work-bairesdev-2
 
 ### Staff Software Engineer
 - **Company:** B12
@@ -3300,10 +3083,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-team-lead-android-core-product-speechify-2
-
-### Senior Shopify Developer
-- **Company:** Sanctuary Computer
-- **Salary:** $80,000 – $150,000 / year
-- **Location:** Global
-- **Posted:** 2026-09-20
-- **View Job:** https://globalcaribbeans.com/#card-senior-shopify-developer-sanctuary-computer
