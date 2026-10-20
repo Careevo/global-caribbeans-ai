@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-20T16:36:25Z
+last_updated: 2026-10-20T21:24:51Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**424 active remote jobs** as of 2026-10-20.
+**429 active remote jobs** as of 2026-10-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -768,7 +768,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-salesforce-administrator-hire-with-near
 
-## Design and Creative (25 open roles)
+## Design and Creative (23 open roles)
 
 ### AI Image Designer
 - **Company:** Puffy
@@ -868,20 +868,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-marketing-materials-designer-gcny-marketing
 
-### Graphic Designer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-kajae-2
-
-### Graphic Designer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-13
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-kajae
-
 ### Content Designer
 - **Company:** Fueled
 - **Salary:** Not Disclosed
@@ -945,7 +931,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-sr-product-designer-consumer-mobile-jumpspeak
 
-## Legal (4 open roles)
+## Legal (5 open roles)
+
+### Legal Assistant
+- **Company:** Virtual Latinos
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-legal-assistant-virtual-latinos
 
 ### Head of Legal
 - **Company:** ClassDojo
@@ -976,7 +970,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (47 open roles)
+## Online Marketing (46 open roles)
 
 ### Marketing Content Manager
 - **Company:** Remote Leverage
@@ -1152,13 +1146,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-06
 - **View Job:** https://globalcaribbeans.com/#card-mid-junior-ppc-specialist-scale-army-scale-army
-
-### Programmatic Media Buyer
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-05
-- **View Job:** https://globalcaribbeans.com/#card-programmatic-media-buyer-kajae
 
 ### Senior Demand Generation Marketing Manager
 - **Company:** Netlify
@@ -1563,7 +1550,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
 
-## Other (30 open roles)
+## Other (31 open roles)
+
+### Patient Access Representative
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-patient-access-representative-bruntwork
 
 ### Financial Planning Analyst
 - **Company:** Hire With Near
@@ -2034,7 +2028,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
 
-## Sales (52 open roles)
+## Sales (54 open roles)
+
+### Sales Development Specialist
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-specialist-hire-with-near
+
+### Business Development Representative
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-kajae
 
 ### Senior Business Development Representative
 - **Company:** Kajae
@@ -2400,7 +2408,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-65124266909-enterprise-sales-executive-account-executive-somewhere
 
-## Software Development (88 open roles)
+## Software Development (92 open roles)
+
+### Full Stack Engineer (Django & React) - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-django-react-remote-work-bairesdev-2
+
+### Nuxt.js Frontend Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-nuxt-js-frontend-developer-remote-work-bairesdev-5
+
+### Django Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-django-developer-remote-work-bairesdev-3
+
+### Staff Software Engineer - Platform
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-platform-alpaca
 
 ### Spanish Bilingual Documentation QA Specialist
 - **Company:** BruntWork
