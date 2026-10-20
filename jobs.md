@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-20T11:11:21Z
+last_updated: 2026-10-20T16:36:25Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**422 active remote jobs** as of 2026-10-20.
+**424 active remote jobs** as of 2026-10-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -72,7 +72,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-operations-automation-manager-scale-army-scale-army
 
-## Accounting/Bookkeeping (37 open roles)
+## Accounting/Bookkeeping (35 open roles)
 
 ### Logistics Operations Controller
 - **Company:** BruntWork
@@ -143,20 +143,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-financial-analyst-near-2
-
-### Bookkeeper
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-kajae-2
-
-### Bookkeeper
-- **Company:** Kajae
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-kajae
 
 ### Head of Accounting
 - **Company:** ClassDojo
@@ -598,7 +584,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-2
 
-## Data/Analytics (25 open roles)
+## Data/Analytics (26 open roles)
+
+### Data Engineer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-data-engineer-remote-work-bairesdev
+
+### Senior Data Engineer (Generalist, AI-native)
+- **Company:** Mappa
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-generalist-ai-native-mappa-2
 
 ### Data Analyst
 - **Company:** Remote Leverage
@@ -606,13 +606,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-data-analyst-remote-leverage-4
-
-### Senior Data Engineer (Generalist, AI-native)
-- **Company:** Mappa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-19
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-generalist-ai-native-mappa
 
 ### FinOps Engineer (Data)
 - **Company:** Supabase
@@ -1314,7 +1307,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (37 open roles)
+## Operations (36 open roles)
 
 ### Spanish Bilingual Residential Construction AP Administrator
 - **Company:** BruntWork
@@ -1549,13 +1542,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-lead-employment-counsel-camunda
 
-### Revenue Operations Analyst | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-revenue-operations-analyst-scale-army-scale-army
-
 ### Executive Operations Coordinator | Scale Army
 - **Company:** Scale Army
 - **Salary:** Not Disclosed
@@ -1577,7 +1563,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
 
-## Other (28 open roles)
+## Other (30 open roles)
+
+### Financial Planning Analyst
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-financial-planning-analyst-hire-with-near
+
+### Boomi Integration Developer - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-boomi-integration-developer-remote-work-bairesdev-2
 
 ### HVAC Specialist
 - **Company:** Virtual Latinos
@@ -1776,7 +1776,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-finance-expert-hire-with-near
 
-## Project Management (28 open roles)
+## Project Management (27 open roles)
 
 ### Shopify Project Manager
 - **Company:** Fuelerate
@@ -1940,13 +1940,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-26
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-market-data-alpaca
 
-### Senior Product Manager - Merchant Intelligence and Analytics
-- **Company:** Constructor
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-merchant-intelligence-and-analytics-constructor
-
 ### Senior Product Manager - Core Platform
 - **Company:** Camunda
 - **Salary:** Not Disclosed
@@ -2041,7 +2034,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
 
-## Sales (49 open roles)
+## Sales (52 open roles)
+
+### Senior Business Development Representative
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-senior-business-development-representative-kajae-3
+
+### Senior Business Development Representative
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-senior-business-development-representative-kajae-2
+
+### Senior Business Development Representative
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-senior-business-development-representative-kajae
+
+### Business Development Coordinator
+- **Company:** Virtual Latinos
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-business-development-coordinator-virtual-latinos-2
 
 ### Sales Support
 - **Company:** BruntWork
@@ -2133,13 +2154,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-appointment-setter-scale-army-scale-army-2
-
-### Business Development Coordinator
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-12
-- **View Job:** https://globalcaribbeans.com/#card-business-development-coordinator-virtual-latinos
 
 ### Account Executive
 - **Company:** Hire With Near
