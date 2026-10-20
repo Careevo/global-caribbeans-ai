@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-20T04:13:24Z
+last_updated: 2026-10-20T11:11:21Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**418 active remote jobs** as of 2026-10-20.
+**422 active remote jobs** as of 2026-10-20.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1314,7 +1314,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (36 open roles)
+## Operations (37 open roles)
+
+### Spanish Bilingual Residential Construction AP Administrator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-residential-construction-ap-administrator-bruntwork
 
 ### Media Operations Manager 2
 - **Company:** Athyna
@@ -1569,7 +1577,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
 
-## Other (29 open roles)
+## Other (28 open roles)
 
 ### HVAC Specialist
 - **Company:** Virtual Latinos
@@ -1619,13 +1627,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-field-operations-engineer-hire-with-near
-
-### Licensed Clinical Auditor - Documentation & Coding Discrepancies
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-licensed-clinical-auditor-documentation-coding-discrepancies-bruntwork
 
 ### Research Director, AI Economics
 - **Company:** Athyna
@@ -2040,7 +2041,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-20
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-hire-with-near
 
-## Sales (48 open roles)
+## Sales (49 open roles)
+
+### Sales Support
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-sales-support-bruntwork
 
 ### Sales Development Representative
 - **Company:** Remote Leverage
@@ -2378,7 +2386,29 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-21
 - **View Job:** https://globalcaribbeans.com/#card-65124266909-enterprise-sales-executive-account-executive-somewhere
 
-## Software Development (85 open roles)
+## Software Development (88 open roles)
+
+### Spanish Bilingual Documentation QA Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-documentation-qa-specialist-bruntwork
+
+### Software Engineer, AI Data
+- **Company:** Speechify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-data-speechify-2
+
+### Software Engineer, AI Data
+- **Company:** Speechify
+- **Salary:** $140,000 – $200,000 / year
+- **Location:** Remote
+- **Posted:** 2026-10-20
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-data-speechify
 
 ### Shopify Developer
 - **Company:** Fuelerate
