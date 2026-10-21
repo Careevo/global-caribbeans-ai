@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-21T04:01:16Z
+last_updated: 2026-10-21T11:27:13Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**430 active remote jobs** as of 2026-10-21.
+**435 active remote jobs** as of 2026-10-21.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -740,7 +740,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-freelance-cro-specialist-conversion-experimentation-nam-dolead
 
-## Design and Creative (24 open roles)
+## Design and Creative (25 open roles)
+
+### Video Editor
+- **Company:** AI Case Leads
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-ai-case-leads
 
 ### Graphic Designer
 - **Company:** Hire With Near
@@ -942,7 +949,42 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (47 open roles)
+## Online Marketing (52 open roles)
+
+### Youtube Ads Media Buyer
+- **Company:** AI Case Leads
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-youtube-ads-media-buyer-ai-case-leads
+
+### Influencer Marketing Specialist/Growth Marketing Specialist
+- **Company:** UX Pilot
+- **Salary:** $42,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-influencer-marketing-specialist-growth-marketing-specialist-ux-pilot
+
+### Content Marketing Specialist
+- **Company:** UX Pilot
+- **Salary:** $45,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-content-marketing-specialist-ux-pilot
+
+### PPC Media Buyer (Google & Microsoft Search)
+- **Company:** AI Case Leads
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-ppc-media-buyer-google-microsoft-search-ai-case-leads
+
+### SEO Lead: Programmatic & Local Search
+- **Company:** AI Case Leads
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-seo-lead-programmatic-local-search-ai-case-leads
 
 ### Growth Marketer, Creators & Channels
 - **Company:** Supabase
@@ -1273,7 +1315,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (38 open roles)
+## Operations (40 open roles)
+
+### Sales & Operations Manager (Bilingual C1 English & Spanish)
+- **Company:** AI Case Leads
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-sales-operations-manager-bilingual-c1-english-spanish-ai-case-leads
+
+### Creator Coordinator
+- **Company:** TubeScience
+- **Salary:** $10 – $15 / hour
+- **Location:** Global
+- **Posted:** 2026-10-21
+- **View Job:** https://globalcaribbeans.com/#card-creator-coordinator-tubescience
 
 ### Performance Manager
 - **Company:** Hired Remoteli
@@ -1543,7 +1600,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
 
-## Other (34 open roles)
+## Other (33 open roles)
 
 ### Community Support Manager
 - **Company:** Raya
@@ -1601,13 +1658,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-senior-technical-writer-remote-work-bairesdev
-
-### (English C2/Native) Inbound Call Agent
-- **Company:** SupportYourApp
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-19
-- **View Job:** https://globalcaribbeans.com/#card-english-c2-native-inbound-call-agent-supportyourapp
 
 ### Platform Business Partner
 - **Company:** SafetyWing
@@ -1977,7 +2027,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-creative-operations-coordinator-scale-army-scale-army
 
-## Recruiting (7 open roles)
+## Recruiting (6 open roles)
 
 ### GTM Recruiter
 - **Company:** AssemblyAI
@@ -2022,14 +2072,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-talent-acquisition-specialist-sagan-recruitment
 
-### Field Recruiting Manager
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-21
-- **View Job:** https://globalcaribbeans.com/#card-field-recruiting-manager-hire-with-near
-
-## Sales (54 open roles)
+## Sales (53 open roles)
 
 ### Technical Manager - Remote Work
 - **Company:** BairesDev
@@ -2394,13 +2437,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-3
-
-### Enterprise Sales Executive, AI Solutions
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-21
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-sales-executive-ai-solutions-toptal
 
 ### 65124266909 - Enterprise Sales Executive / Account Executive
 - **Company:** Somewhere
