@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-22T04:02:23Z
+last_updated: 2026-10-22T11:27:23Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**455 active remote jobs** as of 2026-10-22.
+**449 active remote jobs** as of 2026-10-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -72,7 +72,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-transportation-logistics-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (33 open roles)
+## Accounting/Bookkeeping (31 open roles)
 
 ### Accounts Receivable Specialist
 - **Company:** Hire With Near
@@ -291,20 +291,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-sr-accountant-accounting-ap-manager-scale-army-scale-army
 
-### Accountant (Staff & Senior)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,200 – $3,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-accountant-staff-senior-sagan-recruitment
-
-### Bookkeeper (General)
-- **Company:** Sagan Recruitment
-- **Salary:** $1,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-general-sagan-recruitment
-
 ## Admin (14 open roles)
 
 ### Executive Assistant (CEO Office)
@@ -406,7 +392,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-25
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-for-home-services-remote-talent-pool-sagan-recruitment
 
-## Customer support (22 open roles)
+## Customer support (21 open roles)
 
 ### Customer Support Specialist
 - **Company:** Medallion
@@ -555,13 +541,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-tier-1-customer-service-representative-sagan-recruitment
-
-### Customer Service Representative
-- **Company:** Sagan Recruitment
-- **Salary:** $800 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-sagan-recruitment
 
 ## Data/Analytics (25 open roles)
 
@@ -740,7 +719,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-freelance-cro-specialist-conversion-experimentation-nam-dolead
 
-## Design and Creative (27 open roles)
+## Design and Creative (26 open roles)
 
 ### Senior Video Editor (Aviation Training | Adobe Premiere Pro)
 - **Company:** BruntWork
@@ -924,13 +903,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-cpg-brand-designer-scale-army-scale-army
 
-### Video Editor
-- **Company:** Sagan Recruitment
-- **Salary:** $1,400 – $3,000 / month
-- **Location:** Global
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-video-editor-sagan-recruitment
-
 ## Legal (4 open roles)
 
 ### Legal Assistant
@@ -938,8 +910,8 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-20
-- **View Job:** https://globalcaribbeans.com/#card-legal-assistant-virtual-latinos
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-legal-assistant-virtual-latinos-2
 
 ### Head of Legal
 - **Company:** ClassDojo
@@ -963,7 +935,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (62 open roles)
+## Online Marketing (63 open roles)
+
+### Lead Partner Marketing Manager
+- **Company:** Oyster HR
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-lead-partner-marketing-manager-oyster-hr
 
 ### Design Copywriter
 - **Company:** Recraft
@@ -1400,7 +1379,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (41 open roles)
+## Operations (39 open roles)
 
 ### Senior Manager, Revenue Operations
 - **Company:** Camunda
@@ -1678,21 +1657,15 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-executive-operations-coordinator-scale-army-scale-army
 
-### Maintenance / Property Operations Coordinator
-- **Company:** Sagan Recruitment
-- **Salary:** $1,600 – $2,900 / month
-- **Location:** Global
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-maintenance-property-operations-coordinator-sagan-recruitment
+## Other (33 open roles)
 
-### Senior Marketing Operations Manager
-- **Company:** Netlify
+### English to German Linguist for Life Sciences
+- **Company:** Welo Data
 - **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-senior-marketing-operations-manager-netlify
-
-## Other (32 open roles)
+- **Location:** Global
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-english-to-german-linguist-for-life-sciences-welo-data
 
 ### Product Security Engineer - Remote Work
 - **Company:** BairesDev
@@ -2140,7 +2113,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-creative-operations-coordinator-scale-army-scale-army
 
-## Recruiting (7 open roles)
+## Recruiting (6 open roles)
 
 ### Recruiter
 - **Company:** Rwazi
@@ -2184,13 +2157,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-skilled-trades-recruiter-home-services-remote-talent-pool-sagan-recruitment
-
-### Recruiter / Talent Acquisition Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,100 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-recruiter-talent-acquisition-specialist-sagan-recruitment
 
 ## Sales (54 open roles)
 
@@ -2572,7 +2538,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-3
 
-## Software Development (95 open roles)
+## Software Development (94 open roles)
 
 ### Software Engineer - Turso
 - **Company:** Supabase
@@ -3232,10 +3198,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-engineering-manager-app-stores-canonical
-
-### Staff Software Engineer - Margin & Risk
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-margin-risk-alpaca
