@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-22T16:54:28Z
+last_updated: 2026-10-22T21:21:12Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**451 active remote jobs** as of 2026-10-22.
+**450 active remote jobs** as of 2026-10-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (8 open roles)
+## AI and Automation (9 open roles)
+
+### Client Success Specialist
+- **Company:** Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-client-success-specialist-near
 
 ### AI Automation Engineer | Scale Army
 - **Company:** Scale Army
@@ -528,7 +535,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-tier-1-customer-service-representative-sagan-recruitment
 
-## Data/Analytics (25 open roles)
+## Data/Analytics (24 open roles)
 
 ### Data Analytics Lead
 - **Company:** Somewhere
@@ -698,21 +705,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-real-estate-valuation-analyst-underwriter-sagan-recruitment
 
-### Freelance CRO Specialist – Conversion & Experimentation NAM
-- **Company:** Dolead
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-freelance-cro-specialist-conversion-experimentation-nam-dolead
-
 ## Design and Creative (27 open roles)
 
-### Principal 3Cs Designer
-- **Company:** Escape Velocity Entertainment
+### Performance Video Editor & Designer | Scale Army
+- **Company:** Scale Army
 - **Salary:** Not Disclosed
-- **Location:** Global
+- **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-22
-- **View Job:** https://globalcaribbeans.com/#card-principal-3cs-designer-escape-velocity-entertainment
+- **View Job:** https://globalcaribbeans.com/#card-performance-video-editor-designer-scale-army-scale-army
 
 ### Senior Video Editor (Aviation Training | Adobe Premiere Pro)
 - **Company:** BruntWork
@@ -928,7 +928,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (63 open roles)
+## Online Marketing (66 open roles)
+
+### Performance Marketing Specialist, Paid Social & Media
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-paid-social-media-constructor
+
+### Performance Marketing Specialist, Paid Search & Media
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-performance-marketing-specialist-paid-search-media-constructor
+
+### Marketing Specialist - Remote Work
+- **Company:** BairesDev
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-remote-work-bairesdev-4
 
 ### Senior Amazon Specialist (PPC & Brand Management)
 - **Company:** Remotely Talents (client confidential)
@@ -1372,7 +1393,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (38 open roles)
+## Operations (39 open roles)
+
+### Licensing Specialist
+- **Company:** Medallion
+- **Salary:** $18 / hour
+- **Location:** Remote
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-licensing-specialist-medallion
 
 ### Senior Manager, Revenue Operations
 - **Company:** Camunda
@@ -1643,22 +1671,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-lead-employment-counsel-camunda
 
-## Other (35 open roles)
-
-### Travel & Visa Manager
-- **Company:** Eqvilent
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-22
-- **View Job:** https://globalcaribbeans.com/#card-travel-visa-manager-eqvilent
-
-### Lead Outsourcing VFX Artist
-- **Company:** Escape Velocity Entertainment
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-22
-- **View Job:** https://globalcaribbeans.com/#card-lead-outsourcing-vfx-artist-escape-velocity-entertainment
+## Other (33 open roles)
 
 ### ABA Therapy Case Coordinator – Scheduling & Client Services
 - **Company:** BruntWork
@@ -1894,7 +1907,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-account-development-representative-future-openings-talent-pool-camunda
 
-## Project Management (31 open roles)
+## Project Management (32 open roles)
+
+### Associate Product Manager, Graduate Leadership Program
+- **Company:** Trust Wallet
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-associate-product-manager-graduate-leadership-program-trust-wallet
 
 ### Onboarding Project Coordinator | Scale Army
 - **Company:** Scale Army
@@ -2539,21 +2559,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-3
 
-## Software Development (96 open roles)
-
-### Cloud Solutions Architect – Alliances
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-22
-- **View Job:** https://globalcaribbeans.com/#card-cloud-solutions-architect-alliances-canonical-2
-
-### Engineering Manager – MLOps & Analytics
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-22
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-mlops-analytics-canonical-2
+## Software Development (92 open roles)
 
 ### Software Engineer - Turso
 - **Company:** Supabase
@@ -2920,13 +2926,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-product-customer-io
 
-### FullStack Engineer - Prospect UI Solutions
-- **Company:** Constructor
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-09-24
-- **View Job:** https://globalcaribbeans.com/#card-fullstack-engineer-prospect-ui-solutions-constructor
-
 ### Engineering Manager - Customer Developer Experience
 - **Company:** Constructor
 - **Salary:** Not Disclosed
@@ -3206,10 +3205,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-senior-ai-software-engineer-agent-systems-scale-army-scale-army
-
-### Engineering Manager - App Stores
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-09-22
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-app-stores-canonical
