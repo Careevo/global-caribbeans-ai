@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-22T11:27:23Z
+last_updated: 2026-10-22T16:54:28Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**449 active remote jobs** as of 2026-10-22.
+**451 active remote jobs** as of 2026-10-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -74,6 +74,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Accounting/Bookkeeping (31 open roles)
 
+### Financial Analyst & Reporting Specialist
+- **Company:** Latino Legends
+- **Salary:** $2,800 – $3,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-financial-analyst-reporting-specialist-latino-legends
+
 ### Accounts Receivable Specialist
 - **Company:** Hire With Near
 - **Salary:** $1,500 – $2,500 / month
@@ -129,13 +136,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-hire-with-near-3
-
-### Accounts Payable Specialist
-- **Company:** Hire With Near
-- **Salary:** $2,000 – $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-specialist-hire-with-near
 
 ### AP Specialist
 - **Company:** Near
@@ -291,7 +291,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-sr-accountant-accounting-ap-manager-scale-army-scale-army
 
-## Admin (14 open roles)
+## Admin (13 open roles)
 
 ### Executive Assistant (CEO Office)
 - **Company:** Rwazi
@@ -378,13 +378,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-superside
 
-### Freelance Executive Assistant
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-05
-- **View Job:** https://globalcaribbeans.com/#card-freelance-executive-assistant-hire-with-near
-
 ### Executive Assistant for Home Services — Remote Talent Pool
 - **Company:** Sagan Recruitment
 - **Salary:** $1,000 – $1,500 / month
@@ -392,7 +385,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-25
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-for-home-services-remote-talent-pool-sagan-recruitment
 
-## Customer support (21 open roles)
+## Customer support (20 open roles)
 
 ### Customer Support Specialist
 - **Company:** Medallion
@@ -463,13 +456,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-hire-with-near-3
-
-### Technical Customer Support
-- **Company:** Trust Wallet
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-technical-customer-support-trust-wallet
 
 ### Technical Support Specialist
 - **Company:** Hire With Near
@@ -719,7 +705,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-freelance-cro-specialist-conversion-experimentation-nam-dolead
 
-## Design and Creative (26 open roles)
+## Design and Creative (27 open roles)
+
+### Principal 3Cs Designer
+- **Company:** Escape Velocity Entertainment
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-principal-3cs-designer-escape-velocity-entertainment
 
 ### Senior Video Editor (Aviation Training | Adobe Premiere Pro)
 - **Company:** BruntWork
@@ -936,6 +929,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
 ## Online Marketing (63 open roles)
+
+### Senior Amazon Specialist (PPC & Brand Management)
+- **Company:** Remotely Talents (client confidential)
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-senior-amazon-specialist-ppc-brand-management-remotely-talents-client-confidenti
 
 ### Lead Partner Marketing Manager
 - **Company:** Oyster HR
@@ -1337,13 +1337,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-growth-strategist-scale-army-scale-army
 
-### Email Marketing Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-email-marketing-specialist-scale-army-scale-army-2
-
 ### Full-Cycle Marketing Generalist | Scale Army
 - **Company:** Scale Army
 - **Salary:** Not Disclosed
@@ -1379,7 +1372,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-23
 - **View Job:** https://globalcaribbeans.com/#card-lifecycle-retention-marketing-manager-remotely-talents-client-confidential
 
-## Operations (39 open roles)
+## Operations (38 open roles)
 
 ### Senior Manager, Revenue Operations
 - **Company:** Camunda
@@ -1650,14 +1643,29 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-24
 - **View Job:** https://globalcaribbeans.com/#card-lead-employment-counsel-camunda
 
-### Executive Operations Coordinator | Scale Army
-- **Company:** Scale Army
+## Other (35 open roles)
+
+### Travel & Visa Manager
+- **Company:** Eqvilent
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-travel-visa-manager-eqvilent
+
+### Lead Outsourcing VFX Artist
+- **Company:** Escape Velocity Entertainment
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-lead-outsourcing-vfx-artist-escape-velocity-entertainment
+
+### ABA Therapy Case Coordinator – Scheduling & Client Services
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-23
-- **View Job:** https://globalcaribbeans.com/#card-executive-operations-coordinator-scale-army-scale-army
-
-## Other (33 open roles)
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-aba-therapy-case-coordinator-scheduling-client-services-bruntwork
 
 ### English to German Linguist for Life Sciences
 - **Company:** Welo Data
@@ -1779,13 +1787,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-english-to-estonian-review-lead-for-ui-marketing-product-content-welo-data
-
-### Construction Project Administrator
-- **Company:** Remotely Talents (client confidential)
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-construction-project-administrator-remotely-talents-client-confidential
 
 ### Electrical Substation Estimator
 - **Company:** Sagan Recruitment
@@ -2538,7 +2539,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-22
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-hire-with-near-3
 
-## Software Development (94 open roles)
+## Software Development (96 open roles)
+
+### Cloud Solutions Architect – Alliances
+- **Company:** Canonical
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-cloud-solutions-architect-alliances-canonical-2
+
+### Engineering Manager – MLOps & Analytics
+- **Company:** Canonical
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-22
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-mlops-analytics-canonical-2
 
 ### Software Engineer - Turso
 - **Company:** Supabase
