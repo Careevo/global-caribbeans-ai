@@ -2,18 +2,53 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-25T03:59:16Z
+last_updated: 2026-10-25T11:00:56Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**962 active remote jobs** as of 2026-10-25.
+**1037 active remote jobs** as of 2026-10-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (12 open roles)
+## AI and Automation (17 open roles)
+
+### GoHighLevel AI Automation Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-gohighlevel-ai-automation-specialist-bruntwork
+
+### Applied Machine Learning Engineer (Model Layer) | Senior LLM & AI Model Routing Engineer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-applied-machine-learning-engineer-model-layer-senior-llm-ai-model-routing-engine
+
+### AI Automation Engineer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-bruntwork
+
+### RevOps AI Systems Engineer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-revops-ai-systems-engineer-bruntwork
+
+### AI Agent Engineer (OpenAI, Anthropic)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-ai-agent-engineer-openai-anthropic-bruntwork
 
 ### AI Engineer – AI Agents, LLMs & Legal Technology
 - **Company:** BruntWork
@@ -99,14 +134,86 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-30
 - **View Job:** https://globalcaribbeans.com/#card-business-systems-automation-specialist-scale-army-scale-army
 
-## Accounting/Bookkeeping (98 open roles)
+## Accounting/Bookkeeping (106 open roles)
 
-### Senior Accounts Payable Specialist (NetSuite | Coupa | Navan)
+### Regional Accountant
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-25
-- **View Job:** https://globalcaribbeans.com/#card-senior-accounts-payable-specialist-netsuite-coupa-navan-bruntwork-2
+- **View Job:** https://globalcaribbeans.com/#card-regional-accountant-bruntwork
+
+### Client Onboarding Accountant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-client-onboarding-accountant-bruntwork
+
+### Bookkeeper / Office Admin (59388752478)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-office-admin-59388752478-bruntwork
+
+### Senior Accountant - Australian Accounting
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-australian-accounting-bruntwork
+
+### Accounting, Finance & Administrative Analyst (Travel Industry | Tramada)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-accounting-finance-administrative-analyst-travel-industry-tramada-bruntwork
+
+### Bilingual Property Management & Accounts Payable Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-property-management-accounts-payable-specialist-bruntwork-2
+
+### Bilingual Accounts Receivable & Collections Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-accounts-receivable-collections-specialist-bruntwork-2
+
+### Senior Canadian Accountant (ASPE & Tax)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-canadian-accountant-aspe-tax-bruntwork
+
+### Accounting Coordinator – Payroll
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-accounting-coordinator-payroll-bruntwork
+
+### Business Tax Accountant (Public Accounting)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-business-tax-accountant-public-accounting-bruntwork
+
+### AP/AR Specialist & Bookkeeper
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-ap-ar-specialist-bookkeeper-bruntwork
 
 ### Corporate Finance Analyst
 - **Company:** BruntWork
@@ -774,21 +881,58 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-25
 - **View Job:** https://globalcaribbeans.com/#card-accounts-receivable-collection-specialist-somewhere
 
-### Accounting Team Lead
-- **Company:** Sagan Recruitment
-- **Salary:** $3,000 / month
+## Admin (81 open roles)
+
+### Healthcare Receptionist & Patient Lead Conversion Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-25
-- **View Job:** https://globalcaribbeans.com/#card-accounting-team-lead-sagan-recruitment
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-healthcare-receptionist-patient-lead-conversion-specialist-bruntwork
 
-### Medical Billing & Denials Specialist
-- **Company:** Sagan Recruitment
-- **Salary:** $1,500 – $2,000 / month
-- **Location:** Global
-- **Posted:** 2026-09-25
-- **View Job:** https://globalcaribbeans.com/#card-medical-billing-denials-specialist-sagan-recruitment
+### Real Estate Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-real-estate-coordinator-bruntwork
 
-## Admin (75 open roles)
+### Bilingual Executive Assistant & Real Estate Operations Coordinator - QuickBooks
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-executive-assistant-real-estate-operations-coordinator-quickbooks-brun
+
+### Pilates Studio Executive Assistant - Mindbody
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-pilates-studio-executive-assistant-mindbody-bruntwork
+
+### Bilingual Administrative Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-administrative-assistant-bruntwork
+
+### Creative Admin Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-creative-admin-assistant-bruntwork
+
+### Pharmacy Data Entry & Inventory Specialist (Primerx)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-pharmacy-data-entry-inventory-specialist-primerx-bruntwork
 
 ### US Federal Civil Litigation Research & Legal Support Analyst
 - **Company:** BruntWork
@@ -868,13 +1012,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-admin-assistant-medical-spa-bruntwork
-
-### Administrative Assistant (Plumbing & HVAC)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-24
-- **View Job:** https://globalcaribbeans.com/#card-administrative-assistant-plumbing-hvac-bruntwork
 
 ### Payroll Data Entry Specialist
 - **Company:** BruntWork
@@ -1324,7 +1461,36 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-superside
 
-## Customer support (49 open roles)
+## Customer support (53 open roles)
+
+### Spanish Bilingual Level 2 Technical Support Specialist (SaaS & AI tools)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-level-2-technical-support-specialist-saas-ai-tools-bruntwork
+
+### Client Experience Specialist (Salesforce Service Cloud)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-client-experience-specialist-salesforce-service-cloud-bruntwork
+
+### Bicycle Warranty and Technical Support Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-bicycle-warranty-and-technical-support-specialist-bruntwork
+
+### Senior Service Desk Support Specialist (L2 SQL Support)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-service-desk-support-specialist-l2-sql-support-bruntwork
 
 ### Fitness Membership Sales & Client Retention Specialist
 - **Company:** BruntWork
@@ -1674,7 +1840,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-27
 - **View Job:** https://globalcaribbeans.com/#card-client-account-coordinators-software-e-commerce-and-agency-experience-remote-sag
 
-## Data/Analytics (21 open roles)
+## Data/Analytics (22 open roles)
+
+### Senior FP&A Financial & Data Analyst (SQL | VBA)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-fp-a-financial-data-analyst-sql-vba-bruntwork
 
 ### CAD Administrator
 - **Company:** BruntWork
@@ -1823,7 +1996,49 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-26
 - **View Job:** https://globalcaribbeans.com/#card-staff-data-scientist-growth-alpaca
 
-## Design and Creative (69 open roles)
+## Design and Creative (75 open roles)
+
+### Jewellery CAD Designer - 3D (Rhino & MatrixGold)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-jewellery-cad-designer-3d-rhino-matrixgold-bruntwork
+
+### Post Production Editor
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-post-production-editor-bruntwork
+
+### Graphic & Apparel Print Designer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-graphic-apparel-print-designer-bruntwork
+
+### Kitchen CAD Designer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-kitchen-cad-designer-bruntwork
+
+### 3D Product & Visual Designer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-3d-product-visual-designer-bruntwork
+
+### Short-Form Video Editor & Colorist (DaVinci Resolve)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-short-form-video-editor-colorist-davinci-resolve-bruntwork
 
 ### Senior Digital Marketing (Web & Content Specialist)
 - **Company:** BruntWork
@@ -2324,7 +2539,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-technician-halopsa-hudu-bruntwork
 
-## Legal (9 open roles)
+## Legal (11 open roles)
+
+### Legal Manager(Paralegal)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-legal-manager-paralegal-bruntwork
+
+### Legal Lead (Paralegal)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-legal-lead-paralegal-bruntwork
 
 ### Spanish Bilingual Paralegal (Post-Conviction)
 - **Company:** BruntWork
@@ -2391,7 +2620,91 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (165 open roles)
+## Online Marketing (176 open roles)
+
+### Senior Multi-Channel Paid Media & Ad Operations Manager
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-multi-channel-paid-media-ad-operations-manager-bruntwork
+
+### Legal Sales & Marketing Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-legal-sales-marketing-specialist-bruntwork
+
+### Creator & Affiliate Marketing Manager
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-creator-affiliate-marketing-manager-bruntwork
+
+### Creator & Affiliate Marketing Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-creator-affiliate-marketing-specialist-bruntwork
+
+### Content & Social Media Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-content-social-media-specialist-bruntwork
+
+### Influencer Marketing Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-influencer-marketing-assistant-bruntwork
+
+### Digital Marketing Lead - Shopify
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-digital-marketing-lead-shopify-bruntwork
+
+### Shopify Store Operations & Social Media Specialist (E-Commerce)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-shopify-store-operations-social-media-specialist-e-commerce-bruntwork-2
+
+### E-Commerce & Market Research Specialist (Shopify & Marketplaces)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-e-commerce-market-research-specialist-shopify-marketplaces-bruntwork
+
+### B2B Social Media Marketing Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-b2b-social-media-marketing-specialist-bruntwork
+
+### Media Buyer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-media-buyer-bruntwork
+
+### Social Media Video Specialist (Fashion)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-social-media-video-specialist-fashion-bruntwork
 
 ### D2C Ad Copywriter
 - **Company:** BruntWork
@@ -2567,13 +2880,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-paid-media-specialist-meta-tiktok-google-ads-bruntwork
-
-### Senior Social Media Marketing Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-24
-- **View Job:** https://globalcaribbeans.com/#card-senior-social-media-marketing-specialist-bruntwork
 
 ### DTC Paid Media & Social Strategy Specialist (Jewelry & E-commerce)
 - **Company:** BruntWork
@@ -3551,7 +3857,56 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-30
 - **View Job:** https://globalcaribbeans.com/#card-senior-ppc-manager-shopping-youtube-remotely-talents-client-confidential
 
-## Operations (87 open roles)
+## Operations (94 open roles)
+
+### Medical Record Retrieval Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-medical-record-retrieval-specialist-bruntwork
+
+### Property Management Assistant (Rent Manager)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-property-management-assistant-rent-manager-bruntwork
+
+### Residential Estimator & Contracts Administrator (SketchUp / Design Support)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-residential-estimator-contracts-administrator-sketchup-design-support-bruntwork
+
+### B2B Sales & Dispatch Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-b2b-sales-dispatch-coordinator-bruntwork
+
+### Construction Operations & JobTread Team Lead – US Market
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-construction-operations-jobtread-team-lead-us-market-bruntwork-2
+
+### Airbnb Operations Manager & Overnight Guest Communication Assistant (Airbnb)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-airbnb-operations-manager-overnight-guest-communication-assistant-airbnb-bruntwo
+
+### IT Procurement & Vendor Management Manager – MSP
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-it-procurement-vendor-management-manager-msp-bruntwork
 
 ### Senior Underwriter – Lending & Credit Operations (SME Lending)
 - **Company:** BruntWork
@@ -4170,7 +4525,79 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-28
 - **View Job:** https://globalcaribbeans.com/#card-construction-assistant-latino-legends
 
-## Other (101 open roles)
+## Other (111 open roles)
+
+### AAPC - Certified Medical Coder - eClinicalWorks
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-aapc-certified-medical-coder-eclinicalworks-bruntwork
+
+### Candidate Sourcing & Outreach Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-candidate-sourcing-outreach-specialist-bruntwork-2
+
+### US Healthcare Billing & RCM Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-us-healthcare-billing-rcm-specialist-bruntwork
+
+### Spanish-Bilingual Patient Intake Coordinator
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-patient-intake-coordinator-bruntwork
+
+### Bilingual Spanish Dental Billing & Claims Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-spanish-dental-billing-claims-specialist-bruntwork
+
+### Medical Coder – Urgent Care
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-medical-coder-urgent-care-bruntwork
+
+### Highway Tolls & Violations Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-highway-tolls-violations-specialist-bruntwork
+
+### Document Manager Specialist (Vehicle Titles)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-document-manager-specialist-vehicle-titles-bruntwork
+
+### AU Commercial Credit & Asset Finance Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-au-commercial-credit-asset-finance-specialist-bruntwork
+
+### Residential Construction Estimator - Jack App
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-residential-construction-estimator-jack-app-bruntwork
 
 ### Senior Electrical Engineer
 - **Company:** BruntWork
@@ -4885,7 +5312,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-27
 - **View Job:** https://globalcaribbeans.com/#card-home-services-booking-customer-care-and-operations-remote-sagan-recruitment
 
-## Project Management (39 open roles)
+## Project Management (40 open roles)
+
+### Construction Project Coordinator (Wunderbuild)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-construction-project-coordinator-wunderbuild-bruntwork
 
 ### Marketing Project Manager (HubSpot)
 - **Company:** BruntWork
@@ -5273,7 +5707,78 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-recruiting-partner-classdojo
 
-## Sales (144 open roles)
+## Sales (154 open roles)
+
+### Sales Consultant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-sales-consultant-bruntwork
+
+### Senior B2B Sales Account Executive
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-b2b-sales-account-executive-bruntwork
+
+### Outbound Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-outbound-appointment-setter-bruntwork
+
+### B2C Dental Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-b2c-dental-appointment-setter-bruntwork-2
+
+### Sales & Partnerships Associate
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-sales-partnerships-associate-bruntwork
+
+### Spanish Bilingual Sales Account Executive (Outbound | Retention)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-sales-account-executive-outbound-retention-bruntwork-2
+
+### Inside Sales Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-inside-sales-appointment-setter-bruntwork
+
+### Sales Development Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-specialist-bruntwork
+
+### Sales Agent (for USA Market)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-sales-agent-for-usa-market-bruntwork
+
+### Appointment Setter (Healthcare)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-healthcare-bruntwork
 
 ### Appointment Setter / Lead Generation Specialist
 - **Company:** BruntWork
@@ -6288,7 +6793,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-27
 - **View Job:** https://globalcaribbeans.com/#card-home-services-growth-roles-business-development-sales-and-recruiting-remote-saga
 
-## Software Development (76 open roles)
+## Software Development (80 open roles)
+
+### Mechanical Design Engineer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-mechanical-design-engineer-bruntwork
+
+### Machine Learning Infrastructure Engineer (Python, AWS)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-machine-learning-infrastructure-engineer-python-aws-bruntwork
+
+### Solutions Engineer
+- **Company:** Onebrief
+- **Salary:** $180,000 – $220,000 / year
+- **Location:** Remote
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-solutions-engineer-onebrief
+
+### Senior Backend Engineer - JavaScript, Node.js, PostgreSQL
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-javascript-node-js-postgresql-bruntwork
 
 ### Senior QA Engineer (AI & Automation Testing)
 - **Company:** BruntWork
