@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-25T15:49:51Z
+last_updated: 2026-10-25T20:37:16Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1053 active remote jobs** as of 2026-10-25.
+**1054 active remote jobs** as of 2026-10-25.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -134,7 +134,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-30
 - **View Job:** https://globalcaribbeans.com/#card-business-systems-automation-specialist-scale-army-scale-army
 
-## Accounting/Bookkeeping (108 open roles)
+## Accounting/Bookkeeping (107 open roles)
 
 ### Accountant (Part-Time/Contract)
 - **Company:** BruntWork
@@ -887,13 +887,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-09-27
 - **View Job:** https://globalcaribbeans.com/#card-construction-back-office-accounting-bookkeeping-and-dispatch-remote-sagan-recrui
-
-### Accounts Receivable Collection Specialist
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-09-25
-- **View Job:** https://globalcaribbeans.com/#card-accounts-receivable-collection-specialist-somewhere
 
 ## Admin (82 open roles)
 
@@ -4560,7 +4553,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-09-28
 - **View Job:** https://globalcaribbeans.com/#card-construction-assistant-latino-legends
 
-## Other (118 open roles)
+## Other (120 open roles)
+
+### Product Design Builder
+- **Company:** Contrast UX
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-product-design-builder-contrast-ux
+
+### Patient Intake & Appointment Specialist (Healthcare)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-25
+- **View Job:** https://globalcaribbeans.com/#card-patient-intake-appointment-specialist-healthcare-bruntwork
 
 ### Quantity Surveyor
 - **Company:** BruntWork
