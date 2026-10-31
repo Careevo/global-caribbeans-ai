@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-31T11:56:16Z
+last_updated: 2026-10-31T17:09:23Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1217 active remote jobs** as of 2026-10-31.
+**1214 active remote jobs** as of 2026-10-31.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1051,7 +1051,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-02
 - **View Job:** https://globalcaribbeans.com/#card-senior-bookkeeper-near-2
 
-## Admin (77 open roles)
+## Admin (78 open roles)
+
+### Social Media & Administrative Assistant (Real Estate)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-social-media-administrative-assistant-real-estate-bruntwork
 
 ### Medical Administrative Assistant
 - **Company:** BruntWork
@@ -1602,7 +1609,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-superside
 
-## Customer support (54 open roles)
+## Customer support (53 open roles)
 
 ### Childcare Customer Support & Scheduling Coordinator
 - **Company:** BruntWork
@@ -1984,13 +1991,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-02
 - **View Job:** https://globalcaribbeans.com/#card-customer-success-community-specialist-1
-
-### Technical Support Specialist
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-technical-support-specialist-hire-with-near
 
 ## Data/Analytics (40 open roles)
 
@@ -3063,7 +3063,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-technician-halopsa-hudu-bruntwork
 
-## Legal (14 open roles)
+## Legal (13 open roles)
 
 ### Paralegal (MyCase)
 - **Company:** BruntWork
@@ -3159,14 +3159,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-personal-injury-somewhere
 
-### Senior Corporate Paralegal
-- **Company:** Near
+## Online Marketing (175 open roles)
+
+### Social Media Engagement Specialist (Facebook)
+- **Company:** BruntWork
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
-
-## Online Marketing (174 open roles)
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-social-media-engagement-specialist-facebook-bruntwork
 
 ### Marketing Executive (Telecommunications)
 - **Company:** BruntWork
@@ -4390,7 +4390,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-02
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-specialist-hire-with-near
 
-## Operations (105 open roles)
+## Operations (104 open roles)
 
 ### Shipping & Delivery Coordinator (Shopify)
 - **Company:** BruntWork
@@ -5125,28 +5125,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-ai-workflow-specialist-scale-army-scale-army
 
-### Due Diligence Analyst
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-due-diligence-analyst-alpaca
-
-## Other (166 open roles)
-
-### Online Campaign Manager
-- **Company:** Lever Foundation
-- **Salary:** $15,000 / year
-- **Location:** Global
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-online-campaign-manager-lever-foundation-2
-
-### DL Researcher
-- **Company:** Eqvilent
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-dl-researcher-eqvilent
+## Other (164 open roles)
 
 ### Rostering & Scheduling Specialist (Aged Care)
 - **Company:** BruntWork
@@ -6311,7 +6290,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-02
 - **View Job:** https://globalcaribbeans.com/#card-director-of-professional-services-wordpress-vip-automattic-careers
 
-## Project Management (39 open roles)
+## Project Management (41 open roles)
+
+### Product Manager - Spark
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-spark-supabase
+
+### Product Manager - Administration & Governance
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-administration-governance-supabase
 
 ### Project Manager
 - **Company:** Somewhere
@@ -7810,7 +7803,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-iii-na-camunda-2
 
-## Software Development (117 open roles)
+## Software Development (115 open roles)
+
+### Full-Stack Developer
+- **Company:** Fluence International
+- **Salary:** $3,500 – $5,000 / month
+- **Location:** Remote - Worldwide
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-fluence-international
 
 ### Software Engineer - AI Tooling Infrastructure
 - **Company:** Supabase
@@ -7818,27 +7818,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-31
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-tooling-infrastructure-supabase
-
-### Senior Privacy Engineer
-- **Company:** DuckDuckGo
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-senior-privacy-engineer-duckduckgo
-
-### Engineering Manager, MLOps & Analytics
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-mlops-analytics-canonical-3
-
-### Full-Stack Engineer
-- **Company:** Smarter.Codes
-- **Salary:** INR 480,000 – INR 1,200,000 / year
-- **Location:** Global
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-smarter-codes
 
 ### Backend Engineer – Node.js / PostgreSQL / AWS
 - **Company:** Mappa
