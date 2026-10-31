@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-31T04:52:04Z
+last_updated: 2026-10-31T11:56:16Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1213 active remote jobs** as of 2026-10-31.
+**1217 active remote jobs** as of 2026-10-31.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -234,7 +234,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (115 open roles)
+## Accounting/Bookkeeping (116 open roles)
+
+### Operations Administrator (Manufacturing)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-operations-administrator-manufacturing-bruntwork
 
 ### Revenue Cycle Management Specialist (Elation)
 - **Company:** BruntWork
@@ -3159,7 +3166,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-corporate-paralegal-near
 
-## Online Marketing (175 open roles)
+## Online Marketing (174 open roles)
 
 ### Marketing Executive (Telecommunications)
 - **Company:** BruntWork
@@ -3877,13 +3884,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-social-media-manager-digital-content-creator-e-commerce-bruntwork
 
-### Social Media Specialist (Health & Wellness)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-social-media-specialist-health-wellness-bruntwork
-
 ### Luxury Watch Social Media Manager
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -4390,7 +4390,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-02
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-specialist-hire-with-near
 
-## Operations (104 open roles)
+## Operations (105 open roles)
+
+### Shipping & Delivery Coordinator (Shopify)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-shipping-delivery-coordinator-shopify-bruntwork
 
 ### Account & Operations Lead
 - **Company:** Mappa
@@ -5125,7 +5132,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-due-diligence-analyst-alpaca
 
-## Other (164 open roles)
+## Other (166 open roles)
+
+### Online Campaign Manager
+- **Company:** Lever Foundation
+- **Salary:** $15,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-online-campaign-manager-lever-foundation-2
+
+### DL Researcher
+- **Company:** Eqvilent
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-dl-researcher-eqvilent
 
 ### Rostering & Scheduling Specialist (Aged Care)
 - **Company:** BruntWork
@@ -6684,7 +6705,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-payroll-hr-coordinator-somewhere
 
-## Sales (157 open roles)
+## Sales (156 open roles)
 
 ### Account Manager
 - **Company:** Virtual Latinos
@@ -7705,13 +7726,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-integrated-campaign-manager-oyster-hr
 
-### Account Executive - Enterprise - Sports Specialist
-- **Company:** ElevenLabs
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-enterprise-sports-specialist-elevenlabs
-
 ### Enterprise Business Development Representative
 - **Company:** Superside
 - **Salary:** Not Disclosed
@@ -7796,7 +7810,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-iii-na-camunda-2
 
-## Software Development (115 open roles)
+## Software Development (117 open roles)
+
+### Software Engineer - AI Tooling Infrastructure
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-tooling-infrastructure-supabase
+
+### Senior Privacy Engineer
+- **Company:** DuckDuckGo
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-senior-privacy-engineer-duckduckgo
+
+### Engineering Manager, MLOps & Analytics
+- **Company:** Canonical
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-mlops-analytics-canonical-3
+
+### Full-Stack Engineer
+- **Company:** Smarter.Codes
+- **Salary:** INR 480,000 – INR 1,200,000 / year
+- **Location:** Global
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-engineer-smarter-codes
 
 ### Backend Engineer – Node.js / PostgreSQL / AWS
 - **Company:** Mappa
@@ -8457,13 +8499,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-full-stack-platform-engineer-alpaca
 
-### Principal Backend Architect
-- **Company:** Latino Legends
-- **Salary:** $45 – $52 / hour
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-principal-backend-architect-latino-legends
-
 ### Senior Security Engineer, Network & Zero Trust
 - **Company:** Sezzle
 - **Salary:** $5,000 – $9,500 / month
@@ -8596,10 +8631,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-01
 - **View Job:** https://globalcaribbeans.com/#card-senior-elixir-engineer-remote-work-ref-295359-bairesdev
-
-### Engineering Manager - Distributed Systems, Python / Go
-- **Company:** Canonical
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-engineering-manager-distributed-systems-python-go-canonical
