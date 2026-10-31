@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-10-31T17:09:23Z
+last_updated: 2026-10-31T21:13:55Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1214 active remote jobs** as of 2026-10-31.
+**1212 active remote jobs** as of 2026-10-31.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -4390,7 +4390,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-02
 - **View Job:** https://globalcaribbeans.com/#card-content-marketing-specialist-hire-with-near
 
-## Operations (104 open roles)
+## Operations (102 open roles)
 
 ### Shipping & Delivery Coordinator (Shopify)
 - **Company:** BruntWork
@@ -5110,20 +5110,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Americas
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-head-of-financial-planning-analysis-canonical
-
-### Compliance Quality Analyst (Agricultural Lending)
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-compliance-quality-analyst-agricultural-lending-somewhere
-
-### AI Workflow Specialist | Scale Army
-- **Company:** Scale Army
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-ai-workflow-specialist-scale-army-scale-army
 
 ## Other (164 open roles)
 
@@ -6580,7 +6566,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-06
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-agent-customer-io
 
-## Recruiting (16 open roles)
+## Recruiting (15 open roles)
 
 ### IT Recruiter - Remote Work
 - **Company:** BairesDev
@@ -6690,15 +6676,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-gtm-recruiter-assemblyai
 
-### Payroll & HR Coordinator
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-payroll-hr-coordinator-somewhere
-
-## Sales (156 open roles)
+## Sales (155 open roles)
 
 ### Account Manager
 - **Company:** Virtual Latinos
@@ -7796,14 +7774,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-03
 - **View Job:** https://globalcaribbeans.com/#card-beauty-business-development-representative-scale-army-scale-army
 
-### Enterprise Account Executive III - NA
-- **Company:** Camunda
+## Software Development (117 open roles)
+
+### Senior Full-Stack Growth Engineer - Marketing & Analytics
+- **Company:** Truelogic
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-growth-engineer-marketing-analytics-truelogic
+
+### Adobe Multi-Solutions Architect (AEP/CDP) - Marketing
+- **Company:** Truelogic
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-adobe-multi-solutions-architect-aep-cdp-marketing-truelogic
+
+### AWS Cloud Solutions Architect
+- **Company:** Cloudary
 - **Salary:** Not Disclosed
 - **Location:** Remote
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-enterprise-account-executive-iii-na-camunda-2
-
-## Software Development (115 open roles)
+- **Posted:** 2026-10-31
+- **View Job:** https://globalcaribbeans.com/#card-aws-cloud-solutions-architect-cloudary
 
 ### Full-Stack Developer
 - **Company:** Fluence International
@@ -8603,10 +8595,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Anywhere
 - **Posted:** 2026-10-03
 - **View Job:** https://globalcaribbeans.com/#card-staff-software-engineer-b12
-
-### Senior Elixir Engineer - Remote Work | REF#295359
-- **Company:** BairesDev
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-01
-- **View Job:** https://globalcaribbeans.com/#card-senior-elixir-engineer-remote-work-ref-295359-bairesdev
