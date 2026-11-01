@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-01T05:17:37Z
+last_updated: 2026-11-01T12:56:08Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1216 active remote jobs** as of 2026-11-01.
+**1212 active remote jobs** as of 2026-11-01.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -234,7 +234,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (117 open roles)
+## Accounting/Bookkeeping (116 open roles)
 
 ### Accounts Payable Analyst
 - **Company:** Sagan Recruitment
@@ -1051,13 +1051,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-accounting-manager-near-2
 
-### Senior Bookkeeper
-- **Company:** Near
-- **Salary:** $3,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-02
-- **View Job:** https://globalcaribbeans.com/#card-senior-bookkeeper-near-2
-
 ## Admin (77 open roles)
 
 ### Social Media & Administrative Assistant (Real Estate)
@@ -1609,7 +1602,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-executive-assistant-superside
 
-## Customer support (54 open roles)
+## Customer support (52 open roles)
 
 ### Client Support Specialist
 - **Company:** Sagan Recruitment
@@ -1984,20 +1977,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-manager-customer-success-engineering-gitlab
-
-### Customer Success Specialist
-- **Company:** 1%
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-10-02
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-specialist-1
-
-### Customer Success & Community Specialist
-- **Company:** 1%
-- **Salary:** $2,000 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-10-02
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-community-specialist-1
 
 ## Data/Analytics (38 open roles)
 
@@ -3159,7 +3138,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-legal-assistant-personal-injury-somewhere
 
-## Online Marketing (175 open roles)
+## Online Marketing (174 open roles)
 
 ### Social Media Engagement Specialist (Facebook)
 - **Company:** BruntWork
@@ -4312,13 +4291,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-website-lifecycle-marketing-lead-the-studio
-
-### GTM Enablement - Product
-- **Company:** ElevenLabs
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-gtm-enablement-product-elevenlabs
 
 ### Growth Marketing Manager (CPG Industry) | Scale Army
 - **Company:** Scale Army
