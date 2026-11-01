@@ -2,7 +2,7 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-01T12:56:08Z
+last_updated: 2026-11-01T21:51:39Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
@@ -5090,7 +5090,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-05
 - **View Job:** https://globalcaribbeans.com/#card-head-of-financial-planning-analysis-canonical
 
-## Other (164 open roles)
+## Other (163 open roles)
 
 ### Rostering & Scheduling Specialist (Aged Care)
 - **Company:** BruntWork
@@ -6248,14 +6248,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-06
 - **View Job:** https://globalcaribbeans.com/#card-manager-engineering-identity-camunda
 
-### Director of Professional Services, WordPress VIP
-- **Company:** Automattic Careers
-- **Salary:** $130,000 – $190,000 / year
-- **Location:** Global
-- **Posted:** 2026-10-02
-- **View Job:** https://globalcaribbeans.com/#card-director-of-professional-services-wordpress-vip-automattic-careers
+## Project Management (43 open roles)
 
-## Project Management (42 open roles)
+### Forward Deployed Engineer (AI & Business Transformation) – Technology & Creative Network
+- **Company:** Truelogic
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-01
+- **View Job:** https://globalcaribbeans.com/#card-forward-deployed-engineer-ai-business-transformation-technology-creative-network
 
 ### Project Manager
 - **Company:** Sagan Recruitment
@@ -7776,6 +7776,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Software Development (117 open roles)
 
+### Senior Backend Engineer – Live Events & Ticketing SaaS
+- **Company:** Truelogic
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-01
+- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-live-events-ticketing-saas-truelogic
+
 ### Full Stack Software Engineer (.NET / C# & React)
 - **Company:** Latino Legends
 - **Salary:** $23 – $26 / hour
@@ -8245,13 +8252,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-data-api-engineer-supabase
-
-### Full Stack Developer (Rust & Python)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-24
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-rust-python-bruntwork
 
 ### Senior Software Engineer - Payments
 - **Company:** Alpaca
