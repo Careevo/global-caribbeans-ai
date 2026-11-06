@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-05T23:27:52Z
+last_updated: 2026-11-06T05:51:57Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1263 active remote jobs** as of 2026-11-05.
+**1270 active remote jobs** as of 2026-11-06.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
 ## AI and Automation (36 open roles)
+
+### Automation Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,750 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-automation-specialist-sagan-recruitment
 
 ### AI Automation Specialist (Business Process)
 - **Company:** BruntWork
@@ -84,13 +91,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-11-02
 - **View Job:** https://globalcaribbeans.com/#card-playwright-automation-engineer-typescript-remote-work-bairesdev-3
-
-### AI Solutions Engineer – Copilot Studio, LangChain & Legal Workflows
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-11-02
-- **View Job:** https://globalcaribbeans.com/#card-ai-solutions-engineer-copilot-studio-langchain-legal-workflows-bruntwork
 
 ### AI Engineer I
 - **Company:** Lupa
@@ -269,7 +269,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (107 open roles)
+## Accounting/Bookkeeping (108 open roles)
+
+### Senior Bookkeeper
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-senior-bookkeeper-sagan-recruitment
+
+### Staff Accountant
+- **Company:** Sagan Recruitment
+- **Salary:** $1,450 – $2,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-staff-accountant-sagan-recruitment
+
+### QuickBooks Property Management Bookkeeper (AppFolio & Buildium)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-quickbooks-property-management-bookkeeper-appfolio-buildium-bruntwork
+
+### QuickBooks Bookkeeper
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-05
+- **View Job:** https://globalcaribbeans.com/#card-quickbooks-bookkeeper-bruntwork
 
 ### Staff Accountant & Tax Associate (QuickBooks Online)
 - **Company:** BruntWork
@@ -340,13 +368,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-11-04
 - **View Job:** https://globalcaribbeans.com/#card-fractional-cfo-kittyspout
-
-### Junior Accountant (QuickBooks Online & Dext)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-11-03
-- **View Job:** https://globalcaribbeans.com/#card-junior-accountant-quickbooks-online-dext-bruntwork
 
 ### Billing Specialist (QuickBooks, Medicaid & Medicare)
 - **Company:** BruntWork
@@ -558,13 +579,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-27
 - **View Job:** https://globalcaribbeans.com/#card-tax-preparer-somewhere
-
-### Bookkeeper (QuickBooks)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-27
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-quickbooks-bruntwork-2
 
 ### Staff Accountant
 - **Company:** Hire With Near
@@ -966,13 +980,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-accounts-receivable-specialist-hire-with-near
 
-### Revenue Accountant
-- **Company:** Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-revenue-accountant-near
-
 ### Financial Analyst
 - **Company:** Hire With Near
 - **Salary:** Not Disclosed
@@ -1022,7 +1029,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-bookkeeper-hire-with-near
 
-## Admin (72 open roles)
+## Admin (73 open roles)
+
+### Commercial Real Estate Administrative Assistant
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-commercial-real-estate-administrative-assistant-bruntwork
 
 ### Admin Assistant
 - **Company:** BruntWork
@@ -1537,7 +1551,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-courier-office-assistant-pricewaterhousecoopers
 
-## Customer support (62 open roles)
+## Customer support (64 open roles)
+
+### Customer Success Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $1,750 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-sagan-recruitment
+
+### Customer Service Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-sagan-recruitment-2
+
+### Administrative Support Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,050 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-administrative-support-specialist-sagan-recruitment
 
 ### Technical Support Engineer
 - **Company:** Clipboard Health
@@ -1652,13 +1687,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-11-02
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-customer-service-representative-bruntwork-2
-
-### Customer Support Agent (Plumbing Services - ServiceTitan)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-11-02
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-agent-plumbing-services-servicetitan-bruntwork
 
 ### Event & Customer Experience Manager
 - **Company:** BruntWork
@@ -2294,7 +2322,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-developer-marketer-sales-posthog
 
-## Design and Creative (121 open roles)
+## Design and Creative (120 open roles)
+
+### Video Editor (Real Estate)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-real-estate-bruntwork
 
 ### Senior Video Editor (Adobe Premiere Pro)
 - **Company:** BruntWork
@@ -2814,13 +2849,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-video-graphic-designer-adobe-creative-suite-bruntwork
 
-### Short-Form Video Editor & Social Media Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-short-form-video-editor-social-media-specialist-bruntwork-2
-
 ### Graphic Designer & Video Editor (Luxury Watches)
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -2939,13 +2967,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-product-packaging-designer-outdoor-games-hired-remoteli
-
-### Cinematic Video Editor (DaVinci Resolve)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-cinematic-video-editor-davinci-resolve-bruntwork
 
 ### Junior Graphic & Packaging Designer
 - **Company:** Hired Remoteli
@@ -3143,14 +3164,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-marketing-materials-designer-gcny-marketing
 
-## IT/Engineering (5 open roles)
-
-### IT Support Technician
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-28
-- **View Job:** https://globalcaribbeans.com/#card-it-support-technician-bruntwork
+## IT/Engineering (4 open roles)
 
 ### IT Systems Administrator (Microsoft 365)
 - **Company:** BruntWork
@@ -3180,7 +3194,30 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-technician-halopsa-hudu-bruntwork
 
-## Legal (13 open roles)
+## Legal (14 open roles)
+
+### Corporate Paralegal
+- **Company:** Sagan Recruitment
+- **Salary:** $1,750 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-corporate-paralegal-sagan-recruitment-2
+
+### Spanish Bilingual Immigration Legal Assistant (MyCase, Docketwise)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-immigration-legal-assistant-mycase-docketwise-bruntwork
+
+### Bilingual Immigration Legal Assistant (MyCase, Docketwise)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-bilingual-immigration-legal-assistant-mycase-docketwise-bruntwork
 
 ### Junior to Mid-Level Lawyer
 - **Company:** BruntWork
@@ -3196,13 +3233,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-11-02
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-personal-injury-litigation-paralegal-legal-assistant-spanish-bruntwork
-
-### Corporate Paralegal
-- **Company:** Sagan Recruitment
-- **Salary:** $1,750 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-corporate-paralegal-sagan-recruitment
 
 ### Paralegal (MyCase)
 - **Company:** BruntWork
@@ -3268,15 +3298,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-head-of-legal-classdojo
 
-### Legal Assistant, Personal Injury
-- **Company:** Somewhere
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-07
-- **View Job:** https://globalcaribbeans.com/#card-legal-assistant-personal-injury-somewhere
-
 ## Online Marketing (187 open roles)
+
+### Search Engine Optimization Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $2,750 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-search-engine-optimization-specialist-sagan-recruitment
+
+### Social Media Marketing Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $1,550 – $2,300 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-social-media-marketing-manager-sagan-recruitment
+
+### Media Buyer
+- **Company:** Sagan Recruitment
+- **Salary:** $2,750 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-media-buyer-sagan-recruitment
 
 ### Social Media Coordinator (E-commerce Menswear)
 - **Company:** BruntWork
@@ -3631,13 +3674,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-11-02
 - **View Job:** https://globalcaribbeans.com/#card-digital-marketing-manager-gohighlevel-bruntwork
 
-### Marketing Executive (Telecommunications)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-marketing-executive-telecommunications-bruntwork
-
 ### Digital Marketing Specialist (Google Ads, SEO)
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -3798,13 +3834,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-28
 - **View Job:** https://globalcaribbeans.com/#card-integrated-digital-marketing-manager-meta-ads-bruntwork-2
-
-### SEO Specialist (SEMrush)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-28
-- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-semrush-bruntwork
 
 ### Social Media & Technology Support Specialist
 - **Company:** BruntWork
@@ -4523,13 +4552,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-seo-lead-programmatic-local-search-ai-case-leads
 
-### Growth Marketer, Creators & Channels
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-10-20
-- **View Job:** https://globalcaribbeans.com/#card-growth-marketer-creators-channels-supabase
-
 ### Digital Marketing Specialist | Scale Army
 - **Company:** Scale Army
 - **Salary:** Not Disclosed
@@ -4593,7 +4615,43 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-head-of-product-marketing-growth-defuse-labs
 
-## Operations (107 open roles)
+## Operations (110 open roles)
+
+### Assistant Property Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,150 – $2,900 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-assistant-property-manager-sagan-recruitment-2
+
+### Operations Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $2,000 – $2,700 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-sagan-recruitment-2
+
+### Senior Property Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $2,450 – $3,200 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-senior-property-manager-sagan-recruitment
+
+### Remote Financial and Operations Analyst
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-remote-financial-and-operations-analyst-sagan-recruitment
+
+### Regional Sourcing Manager
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-regional-sourcing-manager-sagan-recruitment
 
 ### Assistant Property Manager (Buildium)
 - **Company:** BruntWork
@@ -4842,13 +4900,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-29
 - **View Job:** https://globalcaribbeans.com/#card-marketplace-operations-manager-near
 
-### Senior Logistics Manager
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-29
-- **View Job:** https://globalcaribbeans.com/#card-senior-logistics-manager-hire-with-near
-
 ### IT Operations Manager
 - **Company:** Near
 - **Salary:** Not Disclosed
@@ -5087,13 +5138,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-project-finance-coordinator-scale-army-scale-army
-
-### AppFolio Maintenance Coordinator (Florida Property Management)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-appfolio-maintenance-coordinator-florida-property-management-bruntwork
 
 ### E-Commerce Operations Coordinator
 - **Company:** BruntWork
@@ -5350,7 +5394,63 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-65718080326-client-sales-assistant-somewhere
 
-## Other (167 open roles)
+## Other (171 open roles)
+
+### Order Processing Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-order-processing-specialist-sagan-recruitment
+
+### Project Support Coordinator
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-project-support-coordinator-sagan-recruitment
+
+### Escalation Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-escalation-specialist-sagan-recruitment
+
+### Financial Planning Analyst
+- **Company:** Sagan Recruitment
+- **Salary:** $4,250 – $5,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-financial-planning-analyst-sagan-recruitment
+
+### Draftsman (Tekla)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-draftsman-tekla-bruntwork
+
+### Case Manager (Social Security Disability)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-case-manager-social-security-disability-bruntwork
+
+### AI Content Reviewer Video Annotation
+- **Company:** iMerit
+- **Salary:** $80,000 – $90,000 / year
+- **Location:** Remote
+- **Posted:** 2026-11-05
+- **View Job:** https://globalcaribbeans.com/#card-ai-content-reviewer-video-annotation-imerit
+
+### Social Security Disability Case Manager (SSA/SSD Claims)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-05
+- **View Job:** https://globalcaribbeans.com/#card-social-security-disability-case-manager-ssa-ssd-claims-bruntwork
 
 ### Global B2B Insurance Partner
 - **Company:** SafetyWing
@@ -5365,13 +5465,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-11-05
 - **View Job:** https://globalcaribbeans.com/#card-siding-estimator-planswift-bruntwork
-
-### Service Coordinator (Sage 100 Contractor)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-11-05
-- **View Job:** https://globalcaribbeans.com/#card-service-coordinator-sage-100-contractor-bruntwork
 
 ### Revenue Engine Lead (AI)
 - **Company:** Somewhere
@@ -6165,13 +6258,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-25
 - **View Job:** https://globalcaribbeans.com/#card-product-design-builder-contrast-ux
 
-### Patient Intake & Appointment Specialist (Healthcare)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-25
-- **View Job:** https://globalcaribbeans.com/#card-patient-intake-appointment-specialist-healthcare-bruntwork
-
 ### Quantity Surveyor
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -6236,13 +6322,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-25
 - **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-patient-intake-coordinator-bruntwork
 
-### Document Manager Specialist (Vehicle Titles)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-25
-- **View Job:** https://globalcaribbeans.com/#card-document-manager-specialist-vehicle-titles-bruntwork
-
 ### Senior Electrical Engineer
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -6284,14 +6363,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-cad-drafter-electrical-substation-design-bruntwork
-
-### Legal Intake Specialist (Spanish Bilingual)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-24
-- **View Job:** https://globalcaribbeans.com/#card-legal-intake-specialist-spanish-bilingual-bruntwork
 
 ### Drafting Technician (SketchUp)
 - **Company:** BruntWork
@@ -6533,7 +6604,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-english-to-estonian-review-lead-for-ui-marketing-product-content-welo-data
 
-## Project Management (47 open roles)
+## Project Management (46 open roles)
+
+### Senior Product Manager, Workflows
+- **Company:** Customer.io
+- **Salary:** $170,000 – $200,000 / year
+- **Location:** Global
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-workflows-customer-io
 
 ### Project Coordinator
 - **Company:** New Era Technology
@@ -6816,13 +6894,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-project-delivery-manager-life-sciences-arcadia
 
-### Implementation Project Coordinator
-- **Company:** Near
-- **Salary:** $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-implementation-project-coordinator-near
-
 ### Director of Product Marketing
 - **Company:** Vumedi
 - **Salary:** Not Disclosed
@@ -6858,14 +6929,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-product-manager-trading-api-alpaca
 
-### Product Manager - Auth
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-07
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-auth-supabase
-
-## Recruiting (15 open roles)
+## Recruiting (14 open roles)
 
 ### Senior Full-Cycle Recruiter
 - **Company:** Near
@@ -6895,13 +6959,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Bilingual:** English/Spanish required
 - **Posted:** 2026-11-01
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-talent-acquisition-specialist-bruntwork
-
-### Skilled Trades Recruiter
-- **Company:** Sagan Recruitment
-- **Salary:** $1,750 – $2,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-31
-- **View Job:** https://globalcaribbeans.com/#card-skilled-trades-recruiter-sagan-recruitment
 
 ### Recruiter
 - **Company:** BruntWork
@@ -6975,6 +7032,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-gtm-recruiter-assemblyai
 
 ## Sales (153 open roles)
+
+### Sales Development Representative (Healthcare)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-healthcare-bruntwork
+
+### Sales Development Representative
+- **Company:** Constructor
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-constructor
 
 ### Appointment Setter (GoHighLevel)
 - **Company:** BruntWork
@@ -7995,13 +8067,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-senior-business-development-representative-kajae
 
-### Business Development Coordinator
-- **Company:** Virtual Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-20
-- **View Job:** https://globalcaribbeans.com/#card-business-development-coordinator-virtual-latinos-2
-
 ### Integrated Campaign Manager
 - **Company:** Oyster HR
 - **Salary:** Not Disclosed
@@ -8051,14 +8116,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-07
 - **View Job:** https://globalcaribbeans.com/#card-business-development-representative-hire-with-near
 
-### Business Development Representative (Appointment Setter)
-- **Company:** Near
-- **Salary:** $1,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-06
-- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-appointment-setter-near
+## Software Development (126 open roles)
 
-## Software Development (127 open roles)
+### Ruby on Rails Developer
+- **Company:** Sagan Recruitment
+- **Salary:** $1,050 – $1,800 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-ruby-on-rails-developer-sagan-recruitment
+
+### Senior Engineering Manager, Recommender Systems
+- **Company:** Raya
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-11-06
+- **View Job:** https://globalcaribbeans.com/#card-senior-engineering-manager-recommender-systems-raya
 
 ### Lead Security Engineer
 - **Company:** Buffer
@@ -8129,13 +8201,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-11-04
 - **View Job:** https://globalcaribbeans.com/#card-growth-hacker-remote-work-bairesdev
-
-### Senior Front-End Engineer (Next.js/React) - Real Estate
-- **Company:** Truelogic
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-11-04
-- **View Job:** https://globalcaribbeans.com/#card-senior-front-end-engineer-next-js-react-real-estate-truelogic
 
 ### Tech lead
 - **Company:** Ringbook
@@ -8880,13 +8945,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-sdk-engineer-python-supabase
 
-### Full-Stack Platform Engineer
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-full-stack-platform-engineer-alpaca
-
 ### Senior Security Engineer, Network & Zero Trust
 - **Company:** Sezzle
 - **Salary:** $5,000 – $9,500 / month
@@ -8900,13 +8958,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-security-platform-sezzle
-
-### Staff Fullstack Engineer
-- **Company:** Alpaca
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-staff-fullstack-engineer-alpaca
 
 ### Senior Security Engineer, Detection & Response
 - **Company:** Sezzle
