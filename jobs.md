@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-07T12:42:58Z
+last_updated: 2026-11-07T21:37:47Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1305 active remote jobs** as of 2026-11-07.
+**1297 active remote jobs** as of 2026-11-07.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -290,14 +290,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (113 open roles)
-
-### Financial Controller
-- **Company:** Xapo Bank
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-11-07
-- **View Job:** https://globalcaribbeans.com/#card-financial-controller-xapo-bank
+## Accounting/Bookkeeping (110 open roles)
 
 ### Senior Strategic Finance Manager
 - **Company:** Netlify
@@ -1070,20 +1063,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-ap-specialist-near
-
-### Head of Accounting
-- **Company:** ClassDojo
-- **Salary:** $220,000 – $300,000 / year
-- **Location:** Global
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-head-of-accounting-classdojo
-
-### Senior Accountant
-- **Company:** Latino Legends
-- **Salary:** $25,000 – $35,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-senior-accountant-latino-legends
 
 ## Admin (72 open roles)
 
@@ -2066,7 +2045,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-manager-customer-success-engineering-gitlab
 
-## Data/Analytics (45 open roles)
+## Data/Analytics (44 open roles)
 
 ### GTM, Strategic Planning
 - **Company:** Supabase
@@ -2377,21 +2356,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-product-development-manager-adtech-tradetracker
 
-### Marketing Analyst, New Business and M&A
-- **Company:** Toptal
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-marketing-analyst-new-business-and-m-a-toptal
-
-## Design and Creative (121 open roles)
-
-### AI Filmmaker
-- **Company:** Tether
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-11-07
-- **View Job:** https://globalcaribbeans.com/#card-ai-filmmaker-tether
+## Design and Creative (120 open roles)
 
 ### Video Editor (Short-Form Ads)
 - **Company:** BruntWork
@@ -3381,7 +3346,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-head-of-legal-classdojo
 
-## Online Marketing (189 open roles)
+## Online Marketing (190 open roles)
+
+### Direct Response Creative Strategist (Long-Form Video Ads – Scaling 7-Figure Ecom Brand)
+- **Company:** Tegnorim
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-direct-response-creative-strategist-long-form-video-ads-scaling-7-figure-ecom-br
 
 ### SEO Specialist (AI & Search Visibility)
 - **Company:** BruntWork
@@ -4711,7 +4683,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-head-of-product-marketing-growth-defuse-labs
 
-## Operations (115 open roles)
+## Operations (114 open roles)
 
 ### Due Diligence Analyst
 - **Company:** Alpaca
@@ -5520,14 +5492,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-11
 - **View Job:** https://globalcaribbeans.com/#card-pricing-margin-analyst-hire-with-near
 
-### Pricing & Margin Analyst
-- **Company:** Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-pricing-margin-analyst-near
-
 ## Other (174 open roles)
+
+### Junior Market Analyst
+- **Company:** MEYA HOLDINGS
+- **Salary:** $60,000 – $80,000 / year
+- **Location:** Global
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-junior-market-analyst-meya-holdings
 
 ### Bilingual Medical Intake Coordinator (English & Mandarin)
 - **Company:** BruntWork
@@ -6748,21 +6720,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-field-operations-engineer-hire-with-near
 
-### English to Estonian Review Lead for UI, Marketing & Product Content
-- **Company:** Welo Data
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-english-to-estonian-review-lead-for-ui-marketing-product-content-welo-data
-
-## Project Management (47 open roles)
-
-### Product Manager, Realtime
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-11-07
-- **View Job:** https://globalcaribbeans.com/#card-product-manager-realtime-supabase-2
+## Project Management (46 open roles)
 
 ### Agile Program Manager
 - **Company:** Toptal
@@ -8309,14 +8267,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-sales-consultant-tradetracker
 
-## Software Development (133 open roles)
-
-### Lead Engineer, Member Growth
-- **Company:** Circle.so
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-11-07
-- **View Job:** https://globalcaribbeans.com/#card-lead-engineer-member-growth-circle-so
+## Software Development (131 open roles)
 
 ### Senior Vue Developer
 - **Company:** Lemon.io
@@ -9235,10 +9186,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-cloud-platform-engineer-supabase
-
-### Staff Backend Engineer - Search Features & APIs (SABR)
-- **Company:** Constructor
-- **Salary:** $110,000 – $130,000 / year
-- **Location:** Remote
-- **Posted:** 2026-10-08
-- **View Job:** https://globalcaribbeans.com/#card-staff-backend-engineer-search-features-apis-sabr-constructor
