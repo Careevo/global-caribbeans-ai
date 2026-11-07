@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-07T05:23:34Z
+last_updated: 2026-11-07T12:42:58Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1298 active remote jobs** as of 2026-11-07.
+**1305 active remote jobs** as of 2026-11-07.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -290,7 +290,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (111 open roles)
+## Accounting/Bookkeeping (113 open roles)
+
+### Financial Controller
+- **Company:** Xapo Bank
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-financial-controller-xapo-bank
+
+### Senior Strategic Finance Manager
+- **Company:** Netlify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-senior-strategic-finance-manager-netlify
 
 ### Project Administrator (CMiC)
 - **Company:** BruntWork
@@ -1586,7 +1600,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-courier-office-assistant-pricewaterhousecoopers
 
-## Customer support (64 open roles)
+## Customer support (65 open roles)
+
+### Customer Success Manager
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-customer-success-manager-alpaca-2
 
 ### Customer Support Specialist (Shopify)
 - **Company:** BruntWork
@@ -2363,7 +2384,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-marketing-analyst-new-business-and-m-a-toptal
 
-## Design and Creative (120 open roles)
+## Design and Creative (121 open roles)
+
+### AI Filmmaker
+- **Company:** Tether
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-ai-filmmaker-tether
 
 ### Video Editor (Short-Form Ads)
 - **Company:** BruntWork
@@ -4683,7 +4711,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-head-of-product-marketing-growth-defuse-labs
 
-## Operations (114 open roles)
+## Operations (115 open roles)
+
+### Due Diligence Analyst
+- **Company:** Alpaca
+- **Salary:** Not Disclosed
+- **Location:** Americas
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-due-diligence-analyst-alpaca-2
 
 ### Bilingual Operations Coordinator
 - **Company:** BruntWork
@@ -5492,7 +5527,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-pricing-margin-analyst-near
 
-## Other (175 open roles)
+## Other (174 open roles)
 
 ### Bilingual Medical Intake Coordinator (English & Mandarin)
 - **Company:** BruntWork
@@ -6333,14 +6368,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-26
 - **View Job:** https://globalcaribbeans.com/#card-senior-lifecycle-specialist-employee-relations-transitions-amer-remote
 
-### Spanish Bilingual Medicaid Outreach Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-26
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-medicaid-outreach-specialist-bruntwork
-
 ### Business Manager
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -6728,7 +6755,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-08
 - **View Job:** https://globalcaribbeans.com/#card-english-to-estonian-review-lead-for-ui-marketing-product-content-welo-data
 
-## Project Management (46 open roles)
+## Project Management (47 open roles)
+
+### Product Manager, Realtime
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-product-manager-realtime-supabase-2
 
 ### Agile Program Manager
 - **Company:** Toptal
@@ -8275,7 +8309,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-sales-consultant-tradetracker
 
-## Software Development (131 open roles)
+## Software Development (133 open roles)
+
+### Lead Engineer, Member Growth
+- **Company:** Circle.so
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-lead-engineer-member-growth-circle-so
+
+### Senior Vue Developer
+- **Company:** Lemon.io
+- **Salary:** $50,000 – $180,000 / year
+- **Location:** Remote
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-senior-vue-developer-lemon-io-2
 
 ### iOS Engineer - Creative App
 - **Company:** ElevenLabs
