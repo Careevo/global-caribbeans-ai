@@ -2,18 +2,25 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-08T05:21:53Z
+last_updated: 2026-11-08T13:00:01Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1295 active remote jobs** as of 2026-11-08.
+**1296 active remote jobs** as of 2026-11-08.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (39 open roles)
+## AI and Automation (40 open roles)
+
+### AI Developer
+- **Company:** Salvo Software
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-11-08
+- **View Job:** https://globalcaribbeans.com/#card-ai-developer-salvo-software
 
 ### ML Inference Engineer – Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)
 - **Company:** Toptal
@@ -2045,7 +2052,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-manager-customer-success-engineering-gitlab
 
-## Data/Analytics (43 open roles)
+## Data/Analytics (44 open roles)
+
+### Data Engineer
+- **Company:** ElevenLabs
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-08
+- **View Job:** https://globalcaribbeans.com/#card-data-engineer-elevenlabs
 
 ### GTM, Strategic Planning
 - **Company:** Supabase
@@ -8253,7 +8267,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-the-studio
 
-## Software Development (131 open roles)
+## Software Development (130 open roles)
 
 ### Senior Vue Developer
 - **Company:** Lemon.io
@@ -9165,10 +9179,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-platform-engineer-managed-postgres-supabase
-
-### Cloud Platform Engineer
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-09
-- **View Job:** https://globalcaribbeans.com/#card-cloud-platform-engineer-supabase
