@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-07T21:37:47Z
+last_updated: 2026-11-08T05:21:53Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1297 active remote jobs** as of 2026-11-07.
+**1295 active remote jobs** as of 2026-11-08.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2045,7 +2045,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-manager-customer-success-engineering-gitlab
 
-## Data/Analytics (44 open roles)
+## Data/Analytics (43 open roles)
 
 ### GTM, Strategic Planning
 - **Company:** Supabase
@@ -2348,13 +2348,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-marketplace-operations-experimentation-specialist-sezzle
-
-### Product Development Manager - AdTech
-- **Company:** TradeTracker
-- **Salary:** $30,000 – $50,000 / year
-- **Location:** Global
-- **Posted:** 2026-10-09
-- **View Job:** https://globalcaribbeans.com/#card-product-development-manager-adtech-tradetracker
 
 ## Design and Creative (120 open roles)
 
@@ -3346,7 +3339,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-head-of-legal-classdojo
 
-## Online Marketing (190 open roles)
+## Online Marketing (189 open roles)
 
 ### Direct Response Creative Strategist (Long-Form Video Ads – Scaling 7-Figure Ecom Brand)
 - **Company:** Tegnorim
@@ -4675,13 +4668,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-13
 - **View Job:** https://globalcaribbeans.com/#card-head-of-growth-scale-army-scale-army
-
-### Head of Product Marketing & Growth
-- **Company:** Defuse Labs
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-09
-- **View Job:** https://globalcaribbeans.com/#card-head-of-product-marketing-growth-defuse-labs
 
 ## Operations (114 open roles)
 
@@ -7149,6 +7135,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Sales (158 open roles)
 
+### Outbound Sales Development Representative (Financial Services)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-07
+- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-development-representative-financial-services-bruntwork
+
 ### CRM Specialist (HubSpot)
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -8259,13 +8252,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-09
 - **View Job:** https://globalcaribbeans.com/#card-inside-sales-representative-the-studio
-
-### Sales Consultant
-- **Company:** TradeTracker
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-09
-- **View Job:** https://globalcaribbeans.com/#card-sales-consultant-tradetracker
 
 ## Software Development (131 open roles)
 
