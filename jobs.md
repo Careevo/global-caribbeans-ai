@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-12T23:22:30Z
+last_updated: 2026-11-13T05:53:36Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1616 active remote jobs** as of 2026-11-12.
+**1631 active remote jobs** as of 2026-11-13.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -2009,7 +2009,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-executive-personal-assistant-puffy
 
-## Customer support (87 open roles)
+## Customer support (88 open roles)
+
+### Technical Customer Success Specialist (Work From Home)
+- **Company:** Persona
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-12
+- **View Job:** https://globalcaribbeans.com/#card-technical-customer-success-specialist-work-from-home-persona
 
 ### Outbound Customer Success & Appointment Specialist (ServiceTitan)
 - **Company:** BruntWork
@@ -2988,7 +2995,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-marketplace-operations-experimentation-specialist-sezzle
 
-## Design and Creative (136 open roles)
+## Design and Creative (138 open roles)
+
+### Video Editor
+- **Company:** Remote Leverage
+- **Salary:** $1,400 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-remote-leverage-3
+
+### Senior Product Designer - Travel & Hospitality
+- **Company:** Truelogic
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-12
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-designer-travel-hospitality-truelogic
 
 ### Licensed Accesories Designer
 - **Company:** Hired Remoteli
@@ -3942,7 +3963,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-animator-motion-graphics-designer-posthog
 
-## IT/Engineering (9 open roles)
+## IT/Engineering (10 open roles)
+
+### System Administrator
+- **Company:** Kajae
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-system-administrator-kajae
 
 ### Information Security Engineer – Application Security
 - **Company:** Camunda
@@ -4146,7 +4174,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-head-of-legal-classdojo
 
-## Online Marketing (234 open roles)
+## Online Marketing (236 open roles)
+
+### Digital Marketing Coordinator (Adobe Illustrator, Excel)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-digital-marketing-coordinator-adobe-illustrator-excel-bruntwork
+
+### Senior Digital Marketing Specialist (Email & SMS)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-senior-digital-marketing-specialist-email-sms-bruntwork
 
 ### Social Media Specialist
 - **Company:** BruntWork
@@ -6919,7 +6961,28 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-hire-with-near-2
 
-## Other (214 open roles)
+## Other (217 open roles)
+
+### Addiction Medicine Specialist
+- **Company:** Remote Leverage
+- **Salary:** $1,800 – $2,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-addiction-medicine-specialist-remote-leverage
+
+### Insurance Assistant (HawkSoft)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-insurance-assistant-hawksoft-bruntwork
+
+### Territory Business Manager - Southeast Puerto Rico
+- **Company:** DexCom
+- **Salary:** $87,000 – $145,000 / year
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-territory-business-manager-southeast-puerto-rico-dexcom
 
 ### SAP Technical Consultant - Remote Work
 - **Company:** BairesDev
@@ -8432,7 +8495,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-entry-level-operations-engineer-near
 
-## Project Management (60 open roles)
+## Project Management (62 open roles)
+
+### Staff Product Manager
+- **Company:** Medallion
+- **Salary:** $200,000 – $250,000 / year
+- **Location:** Remote
+- **Posted:** 2026-11-12
+- **View Job:** https://globalcaribbeans.com/#card-staff-product-manager-medallion
+
+### Senior Product Manager - Technology
+- **Company:** Truelogic
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-12
+- **View Job:** https://globalcaribbeans.com/#card-senior-product-manager-technology-truelogic
 
 ### District Onboarding Manager
 - **Company:** ClassDojo
@@ -9063,7 +9140,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-gtm-recruiter-assemblyai
 
-## Sales (198 open roles)
+## Sales (202 open roles)
+
+### Sales Representative
+- **Company:** Remote Leverage
+- **Salary:** $1,200 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-sales-representative-remote-leverage
+
+### Outbound Cold Caller and Lead Generation (Legal Services)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-12
+- **View Job:** https://globalcaribbeans.com/#card-outbound-cold-caller-and-lead-generation-legal-services-bruntwork
+
+### Outbound Telemarketer (Vending Machine Sales)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-12
+- **View Job:** https://globalcaribbeans.com/#card-outbound-telemarketer-vending-machine-sales-bruntwork
+
+### Sales Development Representative
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-12
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-hire-with-near-4
 
 ### Appointment Setter (Restaurant Payment Technology)
 - **Company:** BruntWork
@@ -10469,6 +10574,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ## Software Development (139 open roles)
 
+### AI Product Engineer
+- **Company:** Athyna
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-ai-product-engineer-athyna
+
 ### QA Engineer (Manual & Automation)
 - **Company:** BruntWork
 - **Salary:** Not Disclosed
@@ -11435,10 +11547,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-10-14
 - **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-security-platform-sezzle
-
-### Senior Security Engineer, Detection & Response
-- **Company:** Sezzle
-- **Salary:** $5,000 – $9,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-14
-- **View Job:** https://globalcaribbeans.com/#card-senior-security-engineer-detection-response-sezzle
