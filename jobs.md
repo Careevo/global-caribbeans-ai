@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-14T05:42:28Z
+last_updated: 2026-11-14T13:14:21Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1676 active remote jobs** as of 2026-11-14.
+**1678 active remote jobs** as of 2026-11-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -4294,7 +4294,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-head-of-legal-classdojo
 
-## Online Marketing (244 open roles)
+## Online Marketing (245 open roles)
+
+### Growth & Marketing Specialist
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-specialist-hired-remoteli-4
 
 ### Marketing Specialist (Google Ads, Vacation Rentals)
 - **Company:** BruntWork
@@ -9165,7 +9172,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-project-delivery-manager-life-sciences-arcadia
 
-## Recruiting (30 open roles)
+## Recruiting (29 open roles)
 
 ### HR Specialist – Employment Law & Compliance
 - **Company:** BruntWork
@@ -9372,13 +9379,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-rwazi
-
-### GTM Recruiter
-- **Company:** AssemblyAI
-- **Salary:** $120,000 – $140,000 / year
-- **Location:** Remote
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-gtm-recruiter-assemblyai
 
 ## Sales (209 open roles)
 
@@ -10861,7 +10861,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-enterprise-business-development-representative-superside
 
-## Software Development (143 open roles)
+## Software Development (145 open roles)
+
+### Senior Software Engineer
+- **Company:** Netlify
+- **Salary:** Not Disclosed
+- **Location:** Remote
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-software-engineer-netlify
+
+### Software Engineer AI Tooling
+- **Company:** Supabase
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-tooling-supabase-3
 
 ### Full Stack Developer
 - **Company:** Remote Leverage
