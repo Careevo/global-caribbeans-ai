@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-13T23:23:55Z
+last_updated: 2026-11-14T05:42:28Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1665 active remote jobs** as of 2026-11-13.
+**1676 active remote jobs** as of 2026-11-14.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -1406,7 +1406,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-senior-accountant-hire-with-near-3
 
-## Admin (87 open roles)
+## Admin (89 open roles)
+
+### Admin Assistant (Wealth Management)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-admin-assistant-wealth-management-bruntwork
+
+### Property Management Administrative Assistant (AppFolio)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-property-management-administrative-assistant-appfolio-bruntwork
 
 ### Executive Assistant
 - **Company:** Hire With Near
@@ -2678,7 +2692,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-phone-order-taker-customer-service-representative-talent-bridging
 
-## Data/Analytics (50 open roles)
+## Data/Analytics (51 open roles)
+
+### Senior Data Engineer
+- **Company:** Hire With Near
+- **Salary:** $7,000 – $10,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-hire-with-near
 
 ### Senior Data Engineer
 - **Company:** Lemon.io
@@ -3031,7 +3052,35 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-data-analytics-lead-somewhere
 
-## Design and Creative (142 open roles)
+## Design and Creative (146 open roles)
+
+### Graphic Designer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-hired-remoteli-2
+
+### Technical Graphic Designer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-technical-graphic-designer-hired-remoteli
+
+### Tech Pack Designer
+- **Company:** Hired Remoteli
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-tech-pack-designer-hired-remoteli-5
+
+### Video Editor (Social Media & YouTube)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-video-editor-social-media-youtube-bruntwork
 
 ### Brand & Marketing Designer
 - **Company:** Waveguard USA
@@ -4246,6 +4295,13 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **View Job:** https://globalcaribbeans.com/#card-head-of-legal-classdojo
 
 ## Online Marketing (244 open roles)
+
+### Marketing Specialist (Google Ads, Vacation Rentals)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-marketing-specialist-google-ads-vacation-rentals-bruntwork
 
 ### Paid Ads Specialist | Scale Army
 - **Company:** Scale Army
@@ -5954,14 +6010,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-marketing-manager-ai-first-puffy
 
-### Content & Social Media Manager | Scale Army
-- **Company:** Scale Army
+## Operations (163 open roles)
+
+### Advertising Analyst
+- **Company:** Hire With Near
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-15
-- **View Job:** https://globalcaribbeans.com/#card-content-social-media-manager-scale-army-scale-army
-
-## Operations (162 open roles)
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-advertising-analyst-hire-with-near
 
 ### Insurance Claims Analyst
 - **Company:** BruntWork
@@ -7109,7 +7165,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-16
 - **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-hire-with-near-2
 
-## Other (219 open roles)
+## Other (220 open roles)
+
+### Insurance Verification Specialist
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-insurance-verification-specialist-bruntwork
 
 ### Influencer & Affiliate Outreach Specialist - US Market
 - **Company:** BruntWork
@@ -9317,7 +9380,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-gtm-recruiter-assemblyai
 
-## Sales (208 open roles)
+## Sales (209 open roles)
+
+### Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-13
+- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-bruntwork-6
 
 ### Outbound Business Development Representative (HubSpot)
 - **Company:** BruntWork
@@ -10791,7 +10861,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-15
 - **View Job:** https://globalcaribbeans.com/#card-enterprise-business-development-representative-superside
 
-## Software Development (142 open roles)
+## Software Development (143 open roles)
+
+### Full Stack Developer
+- **Company:** Remote Leverage
+- **Salary:** $2,000 – $3,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-14
+- **View Job:** https://globalcaribbeans.com/#card-full-stack-developer-remote-leverage-5
 
 ### Senior Data QA Engineer - Remote Work
 - **Company:** BairesDev
