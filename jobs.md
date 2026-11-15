@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-15T13:42:42Z
+last_updated: 2026-11-15T22:38:30Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1674 active remote jobs** as of 2026-11-15.
+**1669 active remote jobs** as of 2026-11-15.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -290,7 +290,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (157 open roles)
+## Accounting/Bookkeeping (158 open roles)
+
+### Lead Accountant
+- **Company:** Hire With Near
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-15
+- **View Job:** https://globalcaribbeans.com/#card-lead-accountant-hire-with-near-2
 
 ### Medical Billing and Credentialing Virtual Assistant (Healthcare Revenue Cycle)
 - **Company:** BruntWork
@@ -5982,7 +5989,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-marketing-manager-ai-first-puffy
 
-## Operations (163 open roles)
+## Operations (162 open roles)
 
 ### Advertising Analyst
 - **Company:** Hire With Near
@@ -7130,14 +7137,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-17
 - **View Job:** https://globalcaribbeans.com/#card-chief-operations-officer-somewhere
 
-### Operations Coordinator
-- **Company:** Hire With Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-operations-coordinator-hire-with-near-2
-
-## Other (220 open roles)
+## Other (219 open roles)
 
 ### Insurance Verification Specialist
 - **Company:** BruntWork
@@ -8685,13 +8685,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-platform-business-partner-safetywing
-
-### Entry-Level Operations Engineer
-- **Company:** Near
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-entry-level-operations-engineer-near
 
 ## Project Management (64 open roles)
 
@@ -10833,7 +10826,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-senior-business-development-representative-kajae
 
-## Software Development (145 open roles)
+## Software Development (141 open roles)
+
+### Web3 Core Engineer
+- **Company:** Brave
+- **Salary:** Not Disclosed
+- **Location:** Global
+- **Posted:** 2026-11-15
+- **View Job:** https://globalcaribbeans.com/#card-web3-core-engineer-brave
 
 ### Senior Software Engineer
 - **Company:** Netlify
@@ -11815,38 +11815,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Global
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-coding-tasks-askable
-
-### DevOps Engineer (Vac DST)
-- **Company:** Logos
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-devops-engineer-vac-dst-logos
-
-### DevOps Engineer (Vac DST)
-- **Company:** IFT
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-devops-engineer-vac-dst-ift
-
-### Integration Engineer (AMER)
-- **Company:** Constructor
-- **Salary:** $70,000 – $90,000 / year
-- **Location:** Americas
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-integration-engineer-amer-constructor
-
-### Technical Integration Specialist (AMER)
-- **Company:** Constructor
-- **Salary:** $70,000 – $90,000 / year
-- **Location:** Americas
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-technical-integration-specialist-amer-constructor
-
-### SDK Engineer - Python
-- **Company:** Supabase
-- **Salary:** Not Disclosed
-- **Location:** Global
-- **Posted:** 2026-10-16
-- **View Job:** https://globalcaribbeans.com/#card-sdk-engineer-python-supabase
