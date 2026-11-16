@@ -2,12 +2,12 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-15T22:38:30Z
+last_updated: 2026-11-16T05:41:46Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1669 active remote jobs** as of 2026-11-15.
+**1676 active remote jobs** as of 2026-11-16.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
@@ -290,7 +290,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-ai-automation-engineer-scale-army-scale-army
 
-## Accounting/Bookkeeping (158 open roles)
+## Accounting/Bookkeeping (159 open roles)
+
+### Accounts Payable Analyst
+- **Company:** Sagan Recruitment
+- **Salary:** $1,500 – $1,600 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-16
+- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-analyst-sagan-recruitment-2
 
 ### Lead Accountant
 - **Company:** Hire With Near
@@ -2038,7 +2045,22 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-19
 - **View Job:** https://globalcaribbeans.com/#card-executive-personal-assistant-puffy
 
-## Customer support (90 open roles)
+## Customer support (92 open roles)
+
+### Customer Service Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $1,500 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-16
+- **View Job:** https://globalcaribbeans.com/#card-customer-service-representative-sagan-recruitment-3
+
+### Customer Support Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $800 – $1,000 / month
+- **Location:** LATAM / Caribbean
+- **Bilingual:** English/Spanish required
+- **Posted:** 2026-11-16
+- **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-sagan-recruitment-2
 
 ### Service Desk Technician
 - **Company:** Hire With Near
@@ -4266,7 +4288,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-head-of-legal-classdojo
 
-## Online Marketing (245 open roles)
+## Online Marketing (246 open roles)
+
+### Digital Marketing Specialist
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-16
+- **View Job:** https://globalcaribbeans.com/#card-digital-marketing-specialist-sagan-recruitment
 
 ### Growth & Marketing Specialist
 - **Company:** Hired Remoteli
@@ -9345,7 +9374,21 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-21
 - **View Job:** https://globalcaribbeans.com/#card-recruiter-rwazi
 
-## Sales (209 open roles)
+## Sales (211 open roles)
+
+### Sales Development Representative
+- **Company:** Sagan Recruitment
+- **Salary:** $1,250 – $2,000 / month
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-16
+- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sagan-recruitment-2
+
+### B2B Cold Calling & Appointment Setter
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-16
+- **View Job:** https://globalcaribbeans.com/#card-b2b-cold-calling-appointment-setter-bruntwork-2
 
 ### Account Manager
 - **Company:** Ergeon
@@ -10826,7 +10869,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-20
 - **View Job:** https://globalcaribbeans.com/#card-senior-business-development-representative-kajae
 
-## Software Development (141 open roles)
+## Software Development (142 open roles)
+
+### Senior QA Engineer
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-16
+- **View Job:** https://globalcaribbeans.com/#card-senior-qa-engineer-bruntwork
 
 ### Web3 Core Engineer
 - **Company:** Brave
