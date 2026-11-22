@@ -2,18 +2,18 @@
 title: Global Caribbeans — Current Remote Job Listings
 description: Live remote job listings curated for Caribbean professionals. Sourced from the Global Caribbeans job board and updated every 6 hours.
 url: https://globalcaribbeans.com/
-last_updated: 2026-11-21T18:54:23Z
+last_updated: 2026-11-22T05:55:24Z
 ---
 
 # Current Remote Job Listings — Global Caribbeans
 
-**1548 active remote jobs** as of 2026-11-21.
+**1459 active remote jobs** as of 2026-11-22.
 All listings are curated for Caribbean professionals and sourced from companies hiring Worldwide, across the Americas, and in Latin America/Caribbean.
 Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 
 ---
 
-## AI and Automation (39 open roles)
+## AI and Automation (38 open roles)
 
 ### AI Automation Specialist | Scale Army
 - **Company:** Scale Army
@@ -283,14 +283,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-video-data-annotator-imerit-technology
 
-### Remote Account Management Job
-- **Company:** Remote Latinos
-- **Salary:** $800 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-remote-account-management-job-remote-latinos
-
-## Accounting/Bookkeeping (154 open roles)
+## Accounting/Bookkeeping (150 open roles)
 
 ### Financial Analyst
 - **Company:** BruntWork
@@ -1344,35 +1337,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-quickbooks-senior-bookkeeper-us-accounting-payroll-tax-bruntwork
 
-### US Tax Preparation Staff (ProConnect)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-us-tax-preparation-staff-proconnect-bruntwork
-
-### Accounts Payable Specialist
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-accounts-payable-specialist-work-better-now
-
-### Bookkeeper
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-work-better-now
-
-### Bookkeeper
-- **Company:** Lupa
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-bookkeeper-lupa
-
-## Admin (95 open roles)
+## Admin (90 open roles)
 
 ### Administrative Assistant
 - **Company:** Remote Leverage
@@ -2016,43 +1981,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-bilingual-administrative-personal-assistant-bruntwork
 
-### Spanish Bilingual Administrative Assistant (Home Services)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-spanish-bilingual-administrative-assistant-home-services-bruntwork
-
-### Executive Assistant
-- **Company:** Talent Bridging
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-talent-bridging
-
-### Insurance Operations Virtual Assistant (Workers’ Compensation)
-- **Company:** Talent Bridging
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-insurance-operations-virtual-assistant-workers-compensation-talent-bridging
-
-### Customer Relationship & Client Retention Virtual Assistant
-- **Company:** Talent Bridging
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-relationship-client-retention-virtual-assistant-talent-bridging
-
-### Executive Assistant
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-executive-assistant-work-better-now
-
-## Customer support (80 open roles)
+## Customer support (76 open roles)
 
 ### IT Support Specialist (Microsoft)
 - **Company:** BruntWork
@@ -2600,35 +2529,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-customer-support-specialist-ultimate-marketing
 
-### ISP Technical and Customer Support Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-isp-technical-and-customer-support-specialist-bruntwork
-
-### Customer Success Associate
-- **Company:** Voltus
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-success-associate-voltus
-
-### Head of Customer Success
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-head-of-customer-success-founder-os
-
-### Customer Support Consultant hospitality
-- **Company:** SupportYourApp
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-customer-support-consultant-hospitality-supportyourapp
-
-## Data/Analytics (43 open roles)
+## Data/Analytics (39 open roles)
 
 ### Data Analyst
 - **Company:** Remote Leverage
@@ -2903,35 +2804,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-cad-administrator-bruntwork
 
-### Project and Quality Administrator Work From Home Dayshift
-- **Company:** Twoconnect
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-project-and-quality-administrator-work-from-home-dayshift-twoconnect
-
-### Risk Analyst
-- **Company:** Pavago
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-risk-analyst-pavago
-
-### Senior Data Engineer (Google Cloud / DBT)
-- **Company:** Lupa
-- **Salary:** $100,000 – $140,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-data-engineer-google-cloud-dbt-lupa
-
-### General Manager
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-general-manager-founder-os
-
-## Design and Creative (120 open roles)
+## Design and Creative (98 open roles)
 
 ### Submission & Revision Coordinator
 - **Company:** Hired Remoteli
@@ -3619,160 +3492,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-graphic-designer-video-editor-bluetuskr
 
-### Product Designer - Kitchen ware
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-product-designer-kitchen-ware-hired-remoteli
-
-### Kitchen Textile Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-kitchen-textile-designer-hired-remoteli
-
-### Product Designer – Kitchenware (Soft Goods)
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-product-designer-kitchenware-soft-goods-hired-remoteli
-
-### Textile CAD & Print Designer – Bedding & Soft Home
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-textile-cad-print-designer-bedding-soft-home-hired-remoteli
-
-### Textile Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-textile-designer-hired-remoteli
-
-### Product Designer (Hardlines - lighting, wall art, home decor, and storage & organization)
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-product-designer-hardlines-lighting-wall-art-home-decor-and-storage-organization
-
-### Accessories Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-accessories-designer-hired-remoteli
-
-### Packaging Designer – Consumer Products & Outdoor Games
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-packaging-designer-consumer-products-outdoor-games-hired-remoteli
-
-### Product & Packaging Designer (Outdoor Games)
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-product-packaging-designer-outdoor-games-hired-remoteli
-
-### Junior Graphic & Packaging Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-junior-graphic-packaging-designer-hired-remoteli
-
-### Techpack Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-techpack-designer-hired-remoteli-2
-
-### Packaging & Licensed Accessories Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-packaging-licensed-accessories-designer-hired-remoteli
-
-### Textile & Soft Goods Designer (Home & Bedding)
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-textile-soft-goods-designer-home-bedding-hired-remoteli
-
-### Tech Pack Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-tech-pack-designer-hired-remoteli
-
-### Graphic Designer
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-graphic-designer-work-better-now
-
-### Digital Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-digital-designer-hired-remoteli
-
-### Short-Form Video Editor
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-short-form-video-editor-founder-os
-
-### Licensed Accessories Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-licensed-accessories-designer-hired-remoteli
-
-### E-Commerce & AI Visual Designer
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-e-commerce-ai-visual-designer-hired-remoteli
-
-### Packaging Designer (Utility Bedding)
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-packaging-designer-utility-bedding-hired-remoteli
-
-### Video Ad Editor
-- **Company:** Remote Latinos
-- **Salary:** $800 – $1,280 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-video-ad-editor-remote-latinos
-
-### Remote Graphic Designer Job
-- **Company:** Remote Latinos
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-remote-graphic-designer-job-remote-latinos
-
 ## IT/Engineering (8 open roles)
 
 ### IT Support & Network Technician
@@ -3831,7 +3550,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-technical-support-technician-halopsa-hudu-bruntwork
 
-## Legal (13 open roles)
+## Legal (12 open roles)
 
 ### Spanish Bilingual Legal Assistant
 - **Company:** BruntWork
@@ -3920,14 +3639,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-24
 - **View Job:** https://globalcaribbeans.com/#card-legal-counsel-contract-management-canonical
 
-### Contracts Manager Federal
-- **Company:** Akicita Federal
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-contracts-manager-federal-akicita-federal
+## Online Marketing (190 open roles)
 
-## Online Marketing (195 open roles)
+### Social Media & Marketing Specialist (Real Estate)
+- **Company:** BruntWork
+- **Salary:** Not Disclosed
+- **Location:** LATAM / Caribbean
+- **Posted:** 2026-11-21
+- **View Job:** https://globalcaribbeans.com/#card-social-media-marketing-specialist-real-estate-bruntwork-2
 
 ### Senior Paid Media Strategist (PPC | Home Services)
 - **Company:** Mappa
@@ -5258,49 +4977,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-social-media-marketing-manager-bruntwork
 
-### Paid Media Manager
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-paid-media-manager-founder-os
-
-### Senior Marketing Manager
-- **Company:** Lupa
-- **Salary:** $3,500 – $4,500 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-marketing-manager-lupa
-
-### Paid Social Consultant - Contract - South America based 2026
-- **Company:** Dolead
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-paid-social-consultant-contract-south-america-based-2026-dolead
-
-### Growth & Marketing Specialist
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-growth-marketing-specialist-hired-remoteli
-
-### SEO Strategist
-- **Company:** Remote Latinos
-- **Salary:** $1,000 – $1,800 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-seo-strategist-remote-latinos
-
-### SEO Specialist
-- **Company:** Remote Latinos
-- **Salary:** $1,500 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-seo-specialist-remote-latinos
-
-## Operations (145 open roles)
+## Operations (136 open roles)
 
 ### Vice President, Public Sector
 - **Company:** Bitwarden
@@ -6264,70 +5941,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-head-of-operations-leverage-live-local
 
-### SAP RE FX Consultant
-- **Company:** Yopeso Romania
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sap-re-fx-consultant-yopeso-romania
+## Other (222 open roles)
 
-### Creative Production Coordinator
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-creative-production-coordinator-bruntwork
-
-### Service Coordinator/Dispatcher
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-service-coordinator-dispatcher-work-better-now
-
-### Logistics Coordinator
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-logistics-coordinator-work-better-now
-
-### Head of Product, AI
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-head-of-product-ai-founder-os
-
-### Dispositions Manager
-- **Company:** Remote Latinos
-- **Salary:** $900 – $1,000 / month
-- **Location:** Worldwide
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-dispositions-manager-remote-latinos
-
-### GoHighLevel Job: Remote Specialist
-- **Company:** Remote Latinos
-- **Salary:** $40 – $45 / hour
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-gohighlevel-job-remote-specialist-remote-latinos
-
-### Latin America Sourcer
-- **Company:** Remote Latinos
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-latin-america-sourcer-remote-latinos
-
-### Founder Success Advisor (FSA)
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-founder-success-advisor-fsa-founder-os
-
-## Other (227 open roles)
+### Physical Therapist & Performance Trainer
+- **Company:** Billion Body
+- **Salary:** $25 – $45 / hour
+- **Location:** Global
+- **Posted:** 2026-11-22
+- **View Job:** https://globalcaribbeans.com/#card-physical-therapist-performance-trainer-billion-body
 
 ### Postdoc PhD PhD cand. Physics Computer Science
 - **Company:** NIKI Digital Engineering
@@ -7286,13 +6907,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-11-05
 - **View Job:** https://globalcaribbeans.com/#card-global-b2b-insurance-partner-safetywing
 
-### Siding Estimator (Planswift)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-11-05
-- **View Job:** https://globalcaribbeans.com/#card-siding-estimator-planswift-bruntwork
-
 ### Revenue Engine Lead (AI)
 - **Company:** Somewhere
 - **Salary:** $6,000 – $8,000 / month
@@ -7899,42 +7513,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-external-data-specialist-eclinical-solutions
 
-### Graduate Transport Planner
-- **Company:** Curtins
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-graduate-transport-planner-curtins
-
-### Roofing & Siding Estimator
-- **Company:** Talent Bridging
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-roofing-siding-estimator-talent-bridging
-
-### Estimator Assistant
-- **Company:** Work Better Now
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-estimator-assistant-work-better-now
-
-### Videographer & Long-Form Editor
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-videographer-long-form-editor-founder-os
-
-### Real Estate Lead Qualifier
-- **Company:** Remote Latinos
-- **Salary:** $500 – $1,000 / month
-- **Location:** Worldwide
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-real-estate-lead-qualifier-remote-latinos
-
-## Project Management (65 open roles)
+## Project Management (61 open roles)
 
 ### Client Performance Lead – Design & Creative Services
 - **Company:** Hired Remoteli
@@ -8364,35 +7943,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-principal-product-manager-strategic-initiatives-thyme-care
 
-### Director of Product Management and IT Operations
-- **Company:** Self Bill Pro
-- **Salary:** $130,000 – $160,000 / year
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-director-of-product-management-and-it-operations-self-bill-pro
-
-### Operations & Project Coordinator – Zendesk & Asana Workflows
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-operations-project-coordinator-zendesk-asana-workflows-bruntwork
-
-### Project Coordinator
-- **Company:** Work Better Now
-- **Salary:** $1,200 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-project-coordinator-work-better-now
-
-### Technical Project Manager (AMER)
-- **Company:** Constructor
-- **Salary:** Not Disclosed
-- **Location:** Americas
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-technical-project-manager-amer-constructor
-
-## Recruiting (30 open roles)
+## Recruiting (29 open roles)
 
 ### Full-Cycle Recruiter – Trades, Manufacturing & Business Operations
 - **Company:** BruntWork
@@ -8600,14 +8151,7 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-people-operations-coordinator-ashby
 
-### HR Generalist (ERP Solutions)
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-hr-generalist-erp-solutions-bruntwork
-
-## Sales (192 open roles)
+## Sales (174 open roles)
 
 ### Sales Development Representative (Financial Services)
 - **Company:** BruntWork
@@ -9082,13 +8626,6 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** LATAM / Caribbean
 - **Posted:** 2026-11-12
 - **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-future-opportunities-sagan-recruitment
-
-### Senior Living Business Development Specialist
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-11-12
-- **View Job:** https://globalcaribbeans.com/#card-senior-living-business-development-specialist-bruntwork
 
 ### Lead Generation Specialist – Tech / IT Services — Future Opportunities
 - **Company:** Sagan Recruitment
@@ -9849,127 +9386,14 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-federal-account-manager-client-relationships-akicita-federal
 
-### Sales Ops
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sales-ops-founder-os
+## Software Development (136 open roles)
 
-### Commercial Account Manager LATAM
-- **Company:** Apryse
+### Senior Full-stack Engineer (Python/React) - Advertising
+- **Company:** Truelogic
 - **Salary:** Not Disclosed
 - **Location:** LATAM / Caribbean
-- **Bilingual:** English/Spanish required
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-commercial-account-manager-latam-apryse
-
-### Cybersecurity & AI Sales Executive
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-cybersecurity-ai-sales-executive-bruntwork
-
-### Sales Development Representative
-- **Company:** BruntWork
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-bruntwork
-
-### Sales Appointment Setter
-- **Company:** Hired Remoteli
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sales-appointment-setter-hired-remoteli
-
-### Outbound Sales Representative
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-outbound-sales-representative-work-better-now
-
-### Sales Specialist
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sales-specialist-work-better-now
-
-### Account Executive
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-account-executive-work-better-now
-
-### Business Development Representative
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-business-development-representative-work-better-now
-
-### Sales Development Representative (SDR)
-- **Company:** Founder OS
-- **Salary:** $88,200 / year
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-sdr-founder-os
-
-### Sales Account Executive
-- **Company:** Founder OS
-- **Salary:** $17,500 – $36,000 / month
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sales-account-executive-founder-os
-
-### Head of Sales
-- **Company:** Founder OS
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-head-of-sales-founder-os
-
-### Salesforce Sales Cloud Consultant
-- **Company:** Lupa
-- **Salary:** $5,000 – $6,000 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-salesforce-sales-cloud-consultant-lupa
-
-### Remote Sales Closer
-- **Company:** Remote Latinos
-- **Salary:** $1,000 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-remote-sales-closer-remote-latinos
-
-### Music Channel Manager
-- **Company:** Lupa
-- **Salary:** $1,500 – $1,700 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-music-channel-manager-lupa
-
-### Appointment Setter Job
-- **Company:** Remote Latinos
-- **Salary:** $800 – $2,500 / month
-- **Location:** Global
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-appointment-setter-job-remote-latinos
-
-### Sales Development Representative
-- **Company:** Work Better Now
-- **Salary:** $1,340 / month
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-sales-development-representative-work-better-now
-
-## Software Development (142 open roles)
+- **Posted:** 2026-11-21
+- **View Job:** https://globalcaribbeans.com/#card-senior-full-stack-engineer-python-react-advertising-truelogic
 
 ### Senior Product Architect
 - **Company:** Storyblok
@@ -10916,52 +10340,3 @@ Listings auto-expire after 30 days. This file is regenerated every 6 hours.
 - **Location:** Remote
 - **Posted:** 2026-10-23
 - **View Job:** https://globalcaribbeans.com/#card-product-engineering-lead-tether-operations
-
-### Head of Technology
-- **Company:** Sanctuary Computer
-- **Salary:** $140,000 – $250,000 / year
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-head-of-technology-sanctuary-computer
-
-### Software Engineer AI Coding Tasks
-- **Company:** Askable
-- **Salary:** $10,000 / year
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-ai-coding-tasks-askable-2
-
-### Senior Backend Engineer
-- **Company:** Rain
-- **Salary:** Not Disclosed
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-rain
-
-### Founding AI & Product Engineer
-- **Company:** Lupa
-- **Salary:** $100,000 – $119,997 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-founding-ai-product-engineer-lupa
-
-### Senior Backend Engineer
-- **Company:** DuckDuckGo
-- **Salary:** $190,000 / year
-- **Location:** Remote
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-duckduckgo
-
-### Senior Backend Engineer – Platform & Logistics
-- **Company:** Lupa
-- **Salary:** $80,000 – $110,000 / year
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-23
-- **View Job:** https://globalcaribbeans.com/#card-senior-backend-engineer-platform-logistics-lupa
-
-### Software Engineer (TB4 tasks)
-- **Company:** Athyna
-- **Salary:** Not Disclosed
-- **Location:** LATAM / Caribbean
-- **Posted:** 2026-10-22
-- **View Job:** https://globalcaribbeans.com/#card-software-engineer-tb4-tasks-athyna
